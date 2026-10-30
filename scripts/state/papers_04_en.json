@@ -1,0 +1,1102 @@
+{
+  "D04-001": {
+    "sid": "D04-001",
+    "status": "ok",
+    "detail": "通过：%PDF；pypdf 19 页、52247 字符；标题匹配 1.00",
+    "path": "papers/2025_Xing_ReAlignAligningVisionLanguageModelsRetrievalAugmented_en.pdf",
+    "sha256": "cf887bc2c8ccb876ea79bb8c05400c81a2507d863f0e6861020efcea488252f4",
+    "source_kind": "新下载",
+    "reused_lib": "",
+    "bytes": 5076773
+  },
+  "D04-002": {
+    "sid": "D04-002",
+    "status": "ok",
+    "detail": "通过：%PDF；pypdf 12 页、63582 字符；标题匹配 1.00",
+    "path": "papers/2025_Liu_AligningVisionLanguageAnnotationFreeMultimodalKnowledgeGraph_en.pdf",
+    "sha256": "2ccb4bf7c3666387cf22b4d9216406496e388b26362e3b338e1698665d2d3d5d",
+    "source_kind": "新下载",
+    "reused_lib": "",
+    "bytes": 6504128
+  },
+  "D04-003": {
+    "sid": "D04-003",
+    "status": "ok",
+    "detail": "通过：%PDF；pypdf 22 页、57126 字符；标题匹配 1.00",
+    "path": "papers/2025_Yang_ReRankingReasoningContextTreeSearchMakesLarge_en.pdf",
+    "sha256": "7b8e727cd2f2607eb1d4d442cb01416449c1afc9def53b3ba71a84f6e2b20957",
+    "source_kind": "新下载",
+    "reused_lib": "",
+    "bytes": 12267772
+  },
+  "D04-004": {
+    "sid": "D04-004",
+    "status": "ok",
+    "detail": "通过：%PDF；pypdf 10 页、53838 字符；标题匹配 1.00",
+    "path": "papers/2026_Sun_MarioMultimodalGraphReasoningLargeLanguageModels_en.pdf",
+    "sha256": "36e0a36d4083518dfbab7f6e89e8bf4c78bd11abc754d9f67e6997c4931855d1",
+    "source_kind": "新下载",
+    "reused_lib": "",
+    "bytes": 6213289
+  },
+  "D04-005": {
+    "sid": "D04-005",
+    "status": "ok",
+    "detail": "通过：%PDF；pypdf 22 页、43677 字符；标题匹配 1.00",
+    "path": "papers/2026_Wu_VtoolR1VlmsLearnThinkImagesReinforcementLearning_en.pdf",
+    "sha256": "afb5dba4ab582d267476a31541f42afe5674cf2ff598c6a804257500f00b1bc2",
+    "source_kind": "新下载",
+    "reused_lib": "",
+    "bytes": 2725250
+  },
+  "D04-006": {
+    "sid": "D04-006",
+    "status": "ok",
+    "detail": "通过：%PDF；pypdf 12 页、56020 字符；标题匹配 1.00",
+    "path": "papers/2026_Chen_CausalMarriageVlmIrmUnderstandingReasoning_en.pdf",
+    "sha256": "5f45fddf2204a51eafb47b2f58676a0c03965cad89605ab7aace483e06301562",
+    "source_kind": "新下载",
+    "reused_lib": "",
+    "bytes": 2422366
+  },
+  "D04-007": {
+    "sid": "D04-007",
+    "status": "ok",
+    "detail": "通过：%PDF；pypdf 11 页、53340 字符；标题匹配 1.00",
+    "path": "papers/2025_Zhou_MultimodalLlmsCustomizedRewardModelsTextImageGeneration_en.pdf",
+    "sha256": "ced3575134b57353b300608d250489ee04552ad019ace08598877260b45d9eb6",
+    "source_kind": "新下载",
+    "reused_lib": "",
+    "bytes": 971453
+  },
+  "D04-008": {
+    "sid": "D04-008",
+    "status": "ok",
+    "detail": "通过：%PDF；pypdf 11 页、52051 字符；标题匹配 1.00",
+    "path": "papers/2025_Hao_RapRetrievalAugmentedPersonalizationMultimodalLargeLanguageModels_en.pdf",
+    "sha256": "4f309ec2e32b1f2aaeea12e028f350fd9506b050e73fd06cd34cc91e74f28655",
+    "source_kind": "新下载",
+    "reused_lib": "",
+    "bytes": 2060672
+  },
+  "D04-009": {
+    "sid": "D04-009",
+    "status": "ok",
+    "detail": "通过：%PDF；pypdf 22 页、33281 字符；标题匹配 1.00",
+    "path": "papers/2024_McKinzie_Mm1MethodsAnalysisInsightsMultimodalLlmPreTraining_en.pdf",
+    "sha256": "213f38d31f54c7426e09451228e4ff599abdb9348129e52b5a99102ad5b259a2",
+    "source_kind": "新下载",
+    "reused_lib": "",
+    "bytes": 4350974
+  },
+  "D04-010": {
+    "sid": "D04-010",
+    "status": "ok",
+    "detail": "通过：%PDF；pypdf 12 页、52700 字符；标题匹配 1.00",
+    "path": "papers/2026_Anugraha_M4RagMassiveScaleMultilingualMultiCulturalMultimodal_en.pdf",
+    "sha256": "9c935fa4acceac1a859b1c3c9d80ae27ddde508c5c0e599d485377e07856d7df",
+    "source_kind": "新下载",
+    "reused_lib": "",
+    "bytes": 6075236
+  },
+  "D04-011": {
+    "sid": "D04-011",
+    "status": "ok",
+    "detail": "通过：%PDF；pypdf 11 页、54301 字符；标题匹配 1.00",
+    "path": "papers/2025_Feng_AlignKdDistillingCrossModalAlignmentKnowledgeMobile_en.pdf",
+    "sha256": "51c7ab82ccb9e56163cc4a7b5113abaf901f18f0525d7219fc171dc6e41a6e98",
+    "source_kind": "新下载",
+    "reused_lib": "",
+    "bytes": 867772
+  },
+  "D04-012": {
+    "sid": "D04-012",
+    "status": "ok",
+    "detail": "通过：%PDF；pypdf 10 页、51206 字符；标题匹配 1.00",
+    "path": "papers/2025_Huang_DecipheringCrossModalAlignmentLargeVisionLanguageModels_en.pdf",
+    "sha256": "3a8409f176b8c92fbbcf1f2ee2e4cf691c0685585c1f2e372d535ef8794d39ef",
+    "source_kind": "新下载",
+    "reused_lib": "",
+    "bytes": 1140649
+  },
+  "D04-013": {
+    "sid": "D04-013",
+    "status": "ok",
+    "detail": "通过：%PDF；pypdf 11 页、48370 字符；标题匹配 1.00",
+    "path": "papers/2025_Jia_SymdpoBoostingContextLearningLargeMultimodalModelsSymbol_en.pdf",
+    "sha256": "b8db4c2f385f8936b95ad650e50c855d28d1f5f37103af8a3da5b3e356ec1e56",
+    "source_kind": "新下载",
+    "reused_lib": "",
+    "bytes": 2817389
+  },
+  "D04-014": {
+    "sid": "D04-014",
+    "status": "ok",
+    "detail": "通过：%PDF；pypdf 30 页、46586 字符；标题匹配 1.00",
+    "path": "papers/2026_Qiu_UnifiedVisionLanguageModelingConceptSpaceAlignment_en.pdf",
+    "sha256": "56805edc063b0db46a1094ac1e3b1945be21d66e94faac1df9fdc8275a77fedb",
+    "source_kind": "新下载",
+    "reused_lib": "",
+    "bytes": 12250104
+  },
+  "D04-015": {
+    "sid": "D04-015",
+    "status": "ok",
+    "detail": "通过：%PDF；pypdf 10 页、47296 字符；标题匹配 1.00",
+    "path": "papers/2026_Liu_GraphvlmBenchmarkingVisionLanguageModelsMultimodalGraphLearning_en.pdf",
+    "sha256": "ceb6da7a9b8017573da81fe61d8b9771129ceac4c869ad94d8cd0ecaa01cd86a",
+    "source_kind": "新下载",
+    "reused_lib": "",
+    "bytes": 855727
+  },
+  "D04-016": {
+    "sid": "D04-016",
+    "status": "pending",
+    "detail": "第一作者姓氏未在首页检出（Abdullah）",
+    "path": "papers/2026_Abdullah_TurDpoTopologyUncertaintyAwareDirectPreferenceOptimization_en.pdf",
+    "sha256": "6629cf70dc582270e57913d19f834ba3df2959acd55d72f1aaf1e63a9cdc2b54",
+    "source_kind": "新下载",
+    "reused_lib": "",
+    "bytes": 1446590
+  },
+  "D04-017": {
+    "sid": "D04-017",
+    "status": "ok",
+    "detail": "通过：%PDF；pypdf 16 页、54071 字符；标题匹配 1.00",
+    "path": "papers/2025_Zhu_MmedpoAligningMedicalVisionLanguageModelsClinicalAware_en.pdf",
+    "sha256": "ba5c3a6839ca56dec0ef86ecb08b2416f5e2a1d10ced3c3de307d56555547e90",
+    "source_kind": "新下载",
+    "reused_lib": "",
+    "bytes": 11696984
+  },
+  "D04-018": {
+    "sid": "D04-018",
+    "status": "ok",
+    "detail": "通过：%PDF；pypdf 11 页、49061 字符；标题匹配 1.00",
+    "path": "papers/2026_Su_FusionYourWayAligningImageFusionHeterogeneousDemands_en.pdf",
+    "sha256": "9be02d9519fcf43dceb8446149611dabacc37a272e570158948ff71e0bb9ac18",
+    "source_kind": "新下载",
+    "reused_lib": "",
+    "bytes": 4303064
+  },
+  "D04-019": {
+    "sid": "D04-019",
+    "status": "ok",
+    "detail": "通过：%PDF；pypdf 19 页、27908 字符；标题匹配 1.00",
+    "path": "papers/2024_Chatterjee_RevisionRenderingToolsEnableSpatialFidelityVisionLanguage_en.pdf",
+    "sha256": "76527440c45d3e43a6fc1d52168a61638f3eac01b9e232428077fb4a39785315",
+    "source_kind": "新下载",
+    "reused_lib": "",
+    "bytes": 3830172
+  },
+  "D04-020": {
+    "sid": "D04-020",
+    "status": "ok",
+    "detail": "通过：%PDF；pypdf 11 页、51847 字符；标题匹配 1.00",
+    "path": "papers/2026_Cui_AgftAlignmentGuidedFineTuningZeroShotAdversarial_en.pdf",
+    "sha256": "48b44ed06d3973316b533cc2e4ba9207dce51f4fde823b724bd089bccd9500c7",
+    "source_kind": "新下载",
+    "reused_lib": "",
+    "bytes": 1160631
+  },
+  "D04-021": {
+    "sid": "D04-021",
+    "status": "ok",
+    "detail": "通过：%PDF；pypdf 10 页、45256 字符；标题匹配 1.00",
+    "path": "papers/2026_Lin_AdaptvisionEfficientVisionLanguageModelsAdaptiveVisualAcquisition_en.pdf",
+    "sha256": "ea97606d36adba00ace4af4acdb321dce178f5f80e246be8feb0844c23d4fb64",
+    "source_kind": "新下载",
+    "reused_lib": "",
+    "bytes": 5022638
+  },
+  "D04-022": {
+    "sid": "D04-022",
+    "status": "ok",
+    "detail": "通过：%PDF；pypdf 26 页、52452 字符；标题匹配 1.00",
+    "path": "papers/2025_Zhang_VisionLanguageModelsRepresentSpaceEvaluatingSpatialFrame_en.pdf",
+    "sha256": "e47eb505524df116ea404179efff0406ed701851854826732897d5adc328a8e5",
+    "source_kind": "新下载",
+    "reused_lib": "",
+    "bytes": 5689661
+  },
+  "D04-023": {
+    "sid": "D04-023",
+    "status": "ok",
+    "detail": "通过：%PDF；pypdf 12 页、64795 字符；标题匹配 1.00",
+    "path": "papers/2025_Yang_ImaginefslSelfSupervisedPretrainingMattersImaginedBaseSet_en.pdf",
+    "sha256": "11b9baf806bd281a8bdd1667ac5e9d2c31d23156d04605b8967dce891a63e2bd",
+    "source_kind": "新下载",
+    "reused_lib": "",
+    "bytes": 2407112
+  },
+  "D04-024": {
+    "sid": "D04-024",
+    "status": "ok",
+    "detail": "通过：%PDF；pypdf 19 页、37167 字符；标题匹配 1.00",
+    "path": "papers/2024_Ouali_ClipDpoVisionLanguageModelsSourcePreferenceFixing_en.pdf",
+    "sha256": "49e9558e8d984f351cd1ef7626bf1761006fd95028b83e2eb53fbcb456fee44a",
+    "source_kind": "新下载",
+    "reused_lib": "",
+    "bytes": 3365506
+  },
+  "D04-025": {
+    "sid": "D04-025",
+    "status": "ok",
+    "detail": "通过：%PDF；pypdf 25 页、56026 字符；标题匹配 1.00",
+    "path": "papers/2026_Liu_AttackingGrayBoxLargeVisionLanguageModelsAdaptive_en.pdf",
+    "sha256": "0cbff77fc61711300e1f53c9167830f37e5354863c58f769ec5c5d0715d47ac2",
+    "source_kind": "新下载",
+    "reused_lib": "",
+    "bytes": 1658585
+  },
+  "D04-026": {
+    "sid": "D04-026",
+    "status": "ok",
+    "detail": "通过：%PDF；pypdf 20 页、56447 字符；标题匹配 1.00",
+    "path": "papers/2025_Gong_KernelUnsupervisedEmbeddingAlignmentEnhancedVisualRepresentationVision_en.pdf",
+    "sha256": "92a199d00144643288eb5ca7565f0febda715c1d31b7cc970586b89248b8f3fe",
+    "source_kind": "新下载",
+    "reused_lib": "",
+    "bytes": 991717
+  },
+  "D04-027": {
+    "sid": "D04-027",
+    "status": "ok",
+    "detail": "通过：%PDF；pypdf 22 页、55909 字符；标题匹配 1.00",
+    "path": "papers/2024_Li_VisualTextCrossAlignmentRefiningSimilarityScoreVision_en.pdf",
+    "sha256": "55eaa9f0ebd2916bc1febde923a9abad281398e9805415b326d2723750219b2c",
+    "source_kind": "新下载",
+    "reused_lib": "",
+    "bytes": 7781942
+  },
+  "D04-028": {
+    "sid": "D04-028",
+    "status": "ok",
+    "detail": "通过：%PDF；pypdf 25 页、54389 字符；标题匹配 1.00",
+    "path": "papers/2025_Zhao_LookingBeyondTextReducingLanguageBiasLargeVision_en.pdf",
+    "sha256": "edbf7ac5848a1f49d0de49fb5a57749d0bca96474de74be923f8342416d24ddf",
+    "source_kind": "新下载",
+    "reused_lib": "",
+    "bytes": 9795566
+  },
+  "D04-029": {
+    "sid": "D04-029",
+    "status": "ok",
+    "detail": "通过：%PDF；pypdf 10 页、47945 字符；标题匹配 1.00",
+    "path": "papers/2026_Qiu_UnifiedGenerationSelfVerificationVisionLanguageModelsAdvantage_en.pdf",
+    "sha256": "d3503e9b6de9cf7ccf95a5d8b17328ac462fe42ab3497fd438b6af91157bec54",
+    "source_kind": "新下载",
+    "reused_lib": "",
+    "bytes": 1057436
+  },
+  "D04-030": {
+    "sid": "D04-030",
+    "status": "ok",
+    "detail": "通过：%PDF；pypdf 31 页、44637 字符；标题匹配 1.00",
+    "path": "papers/2026_Fang_ToolweaverWeavingCollaborativeSemanticsScalableToolUseLarge_en.pdf",
+    "sha256": "adf8302009f6147bc4770933712dbe65bd4007711d66db452b59826ac4807346",
+    "source_kind": "新下载",
+    "reused_lib": "",
+    "bytes": 948106
+  },
+  "D04-031": {
+    "sid": "D04-031",
+    "status": "ok",
+    "detail": "通过：%PDF；pypdf 18 页、35092 字符；标题匹配 1.00",
+    "path": "papers/2024_Huang_MakingLargeLanguageModelsBetterPlannersReasoningDecision_en.pdf",
+    "sha256": "c1f849c80e1760e83b2d6c68f6732c28bad38a7326b0edda2b4b3e854d6e9c5e",
+    "source_kind": "新下载",
+    "reused_lib": "",
+    "bytes": 1320470
+  },
+  "D04-032": {
+    "sid": "D04-032",
+    "status": "ok",
+    "detail": "通过：%PDF；pypdf 23 页、52223 字符；标题匹配 0.89",
+    "path": "papers/2024_Prasad_RephraseAugmentReasonVisualGroundingQuestionsVisionLanguage_en.pdf",
+    "sha256": "76bbf3d930ce0dcfdbba16c97bc1863c9f014e2a3d79168f7f28f5ffe4428c15",
+    "source_kind": "新下载",
+    "reused_lib": "",
+    "bytes": 2815662
+  },
+  "D04-033": {
+    "sid": "D04-033",
+    "status": "ok",
+    "detail": "通过：%PDF；pypdf 24 页、53116 字符；标题匹配 1.00",
+    "path": "papers/2026_Zhan_3viewsenseSpatialMentalPerspectiveReasoningOrthographicViewsVision_en.pdf",
+    "sha256": "eb722d66682523e7aa3e9d50e833686b29eee36b164410ac3c29b42f94d7fffd",
+    "source_kind": "新下载",
+    "reused_lib": "",
+    "bytes": 4884683
+  },
+  "D04-034": {
+    "sid": "D04-034",
+    "status": "ok",
+    "detail": "通过：%PDF；pypdf 18 页、52812 字符；标题匹配 1.00",
+    "path": "papers/2024_Yang_MasteringTextImageDiffusionRecaptioningPlanningGeneratingMultimodal_en.pdf",
+    "sha256": "44eec2a1907dba3c542e4f63de4151472ef4a63eed0ef32ea2470eac1b2d4e2c",
+    "source_kind": "新下载",
+    "reused_lib": "",
+    "bytes": 9080374
+  },
+  "D04-035": {
+    "sid": "D04-035",
+    "status": "ok",
+    "detail": "通过：%PDF；pypdf 49 页、48194 字符；标题匹配 1.00",
+    "path": "papers/2026_Peng_UniDpoUnifiedParadigmDynamicPreferenceOptimizationLlms_en.pdf",
+    "sha256": "219ef57bf84ed10d5e95b53d78be05a7bdcd45824c1ec0e05b73ae9e6e8e1793",
+    "source_kind": "新下载",
+    "reused_lib": "",
+    "bytes": 9531400
+  },
+  "D04-036": {
+    "sid": "D04-036",
+    "status": "ok",
+    "detail": "通过：%PDF；pypdf 22 页、58293 字符；标题匹配 1.00",
+    "path": "papers/2025_Fu_ChipCrossModalHierarchicalDirectPreferenceOptimizationMultimodal_en.pdf",
+    "sha256": "ef1d760ebc4f5351aec0cf4969e759702670566a3efea9875b7e46e219e7a801",
+    "source_kind": "新下载",
+    "reused_lib": "",
+    "bytes": 8070875
+  },
+  "D04-037": {
+    "sid": "D04-037",
+    "status": "ok",
+    "detail": "通过：%PDF；pypdf 11 页、52108 字符；标题匹配 1.00",
+    "path": "papers/2025_Peng_RoviVlmLlmReCaptionedDatasetOpenVocabulary_en.pdf",
+    "sha256": "dd71ba77d39bece2bf3cfa62b71ff605c66c92ae8030191f5b9cad97b347df94",
+    "source_kind": "新下载",
+    "reused_lib": "",
+    "bytes": 6397626
+  },
+  "D04-038": {
+    "sid": "D04-038",
+    "status": "ok",
+    "detail": "通过：%PDF；pypdf 10 页、54900 字符；标题匹配 1.00",
+    "path": "papers/2025_Fan_TestTimeRetrievalAugmentedAdaptationVisionLanguageModels_en.pdf",
+    "sha256": "07aaa86599c5f6e93cbb871b3ea6a2b3224f2d6be107635b2574ab2b73249eaa",
+    "source_kind": "新下载",
+    "reused_lib": "",
+    "bytes": 608277
+  },
+  "D04-039": {
+    "sid": "D04-039",
+    "status": "ok",
+    "detail": "通过：%PDF；pypdf 29 页、33305 字符；标题匹配 1.00",
+    "path": "papers/2024_Cheng_UnveilingTypographicDeceptionsInsightsTypographicVulnerabilityLargeVision_en.pdf",
+    "sha256": "b08793248098af5fb511a16c1d6fd38a3f335aceb077e65533e43a28fd901f8e",
+    "source_kind": "新下载",
+    "reused_lib": "",
+    "bytes": 7767258
+  },
+  "D04-040": {
+    "sid": "D04-040",
+    "status": "ok",
+    "detail": "通过：%PDF；pypdf 35 页、34472 字符；标题匹配 1.00",
+    "path": "papers/2026_Sammani_TestTimeScalingVisionLanguageModels_en.pdf",
+    "sha256": "cd1e3d2875676a4835c644e35ecd7774731ff1507a110ea1e59ed5540368db1c",
+    "source_kind": "新下载",
+    "reused_lib": "",
+    "bytes": 6110135
+  },
+  "D04-041": {
+    "sid": "D04-041",
+    "status": "ok",
+    "detail": "通过：%PDF；pypdf 20 页、43876 字符；标题匹配 1.00",
+    "path": "papers/2025_Luo_MixtureExpertsMadePersonalizedFederatedPromptLearningVision_en.pdf",
+    "sha256": "73e7092d6e63d2b2ab70a5b0a033c5d7e967e346fd62563be38aff4779a66753",
+    "source_kind": "新下载",
+    "reused_lib": "",
+    "bytes": 5440753
+  },
+  "D04-042": {
+    "sid": "D04-042",
+    "status": "ok",
+    "detail": "通过：%PDF；pypdf 21 页、41756 字符；标题匹配 1.00",
+    "path": "papers/2025_Li_VlmaterialProceduralMaterialGenerationLargeVisionLanguageModels_en.pdf",
+    "sha256": "10a2e7cd11dd1ce307a8a6d61d8043b7d12e524874f9b4725fca83c355082c88",
+    "source_kind": "新下载",
+    "reused_lib": "",
+    "bytes": 44765849
+  },
+  "D04-043": {
+    "sid": "D04-043",
+    "status": "ok",
+    "detail": "通过：%PDF；pypdf 29 页、47666 字符；标题匹配 1.00",
+    "path": "papers/2024_Ging_OpenEndedVqaBenchmarkingVisionLanguageModelsExploiting_en.pdf",
+    "sha256": "31a630cee6e92f6fcfba25e5756a9d0def48adfbddaa095397939297acaa0afe",
+    "source_kind": "新下载",
+    "reused_lib": "",
+    "bytes": 10430289
+  },
+  "D04-044": {
+    "sid": "D04-044",
+    "status": "ok",
+    "detail": "通过：%PDF；pypdf 25 页、49198 字符；标题匹配 1.00",
+    "path": "papers/2024_Lin_RaDitRetrievalAugmentedDualInstructionTuning_en.pdf",
+    "sha256": "009c13de0d006a0bcd45347f0261b426e4f08919a7e8e851ce69644b82d1681b",
+    "source_kind": "新下载",
+    "reused_lib": "",
+    "bytes": 2754418
+  },
+  "D04-045": {
+    "sid": "D04-045",
+    "status": "ok",
+    "detail": "通过：%PDF；pypdf 17 页、32951 字符；标题匹配 1.00",
+    "path": "papers/2024_Lyu_TrojvlmBackdoorAttackAgainstVisionLanguageModels_en.pdf",
+    "sha256": "a70937a847825e34dd573ca9dd7825fd818190833cfa8ac04441f612ef7eb7a1",
+    "source_kind": "新下载",
+    "reused_lib": "",
+    "bytes": 2895341
+  },
+  "D04-046": {
+    "sid": "D04-046",
+    "status": "ok",
+    "detail": "通过：%PDF；pypdf 20 页、58331 字符；标题匹配 1.00",
+    "path": "papers/2026_Zhu_DecouplingSkeletonFleshEfficientMultimodalTableReasoningDisentangled_en.pdf",
+    "sha256": "f50c6ffa58a73760080e005eba5fe333b660bae03dc0eb5739f04453aceb4bf8",
+    "source_kind": "新下载",
+    "reused_lib": "",
+    "bytes": 1367651
+  },
+  "D04-047": {
+    "sid": "D04-047",
+    "status": "ok",
+    "detail": "通过：%PDF；pypdf 50 页、56402 字符；标题匹配 1.00",
+    "path": "papers/2026_Zhou_MeerkatVlImplicitRiskSafetyAlignmentMultimodalLlms_en.pdf",
+    "sha256": "a58ba88ed184a949b52736a9be52a46713c7f7fa08ece0928f2a473d9c4c1ef3",
+    "source_kind": "新下载",
+    "reused_lib": "",
+    "bytes": 5400889
+  },
+  "D04-048": {
+    "sid": "D04-048",
+    "status": "ok",
+    "detail": "通过：%PDF；pypdf 49 页、46393 字符；标题匹配 1.00",
+    "path": "papers/2024_Cheng_EmotionLlamaMultimodalEmotionRecognitionReasoningInstructionTuning_en.pdf",
+    "sha256": "5c12db08d021656b1e825b8cd6d56ed34fe9ba48ecac3b3788d5bd6d90c9bef5",
+    "source_kind": "新下载",
+    "reused_lib": "",
+    "bytes": 16282476
+  },
+  "D04-049": {
+    "sid": "D04-049",
+    "status": "ok",
+    "detail": "通过：%PDF；pypdf 29 页、44188 字符；标题匹配 1.00",
+    "path": "papers/2024_Park_LlamoLargeLanguageModelMolecularGraphAssistant_en.pdf",
+    "sha256": "e0de5dcb734392cc23af84076dc8470782c304cb416e9df23669b94d68b0749e",
+    "source_kind": "新下载",
+    "reused_lib": "",
+    "bytes": 1479460
+  },
+  "D04-050": {
+    "sid": "D04-050",
+    "status": "ok",
+    "detail": "通过：%PDF；pypdf 20 页、53887 字符；标题匹配 1.00",
+    "path": "papers/2026_Zhao_EvaluatingRobustnessLargeLanguageModelsAgainstMultilingualTypographical_en.pdf",
+    "sha256": "77071b903b465fa5c3d8df3ea6c64b6a512cebfbd5b14ee9de7a179b9a6154a7",
+    "source_kind": "新下载",
+    "reused_lib": "",
+    "bytes": 1979714
+  },
+  "D04-051": {
+    "sid": "D04-051",
+    "status": "ok",
+    "detail": "通过：%PDF；pypdf 25 页、45468 字符；标题匹配 1.00",
+    "path": "papers/2026_Luo_SharpnessAwareMinimizationLogitSpaceEfficientlyEnhancesDirect_en.pdf",
+    "sha256": "0dbdaf5217505045290fb9384ba599e2b2044cb33b7f195821952056605270da",
+    "source_kind": "新下载",
+    "reused_lib": "",
+    "bytes": 542773
+  },
+  "D04-052": {
+    "sid": "D04-052",
+    "status": "ok",
+    "detail": "通过：%PDF；pypdf 23 页、46549 字符；标题匹配 1.00",
+    "path": "papers/2025_Shao_EarlierTokensContributeMoreLearningDirectPreferenceOptimization_en.pdf",
+    "sha256": "08a0bb53911b8d732b423c326ac8677e4f544a1c0600da8c68f9d05256bdf31f",
+    "source_kind": "新下载",
+    "reused_lib": "",
+    "bytes": 979224
+  },
+  "D04-053": {
+    "sid": "D04-053",
+    "status": "ok",
+    "detail": "通过：%PDF；pypdf 15 页、50469 字符；标题匹配 1.00",
+    "path": "papers/2025_Guo_HideLlavaHierarchicalDecouplingContinualInstructionTuningMultimodal_en.pdf",
+    "sha256": "8ca4203ba729955cf9657ce349d8175974182b01d4f9ef37648038a622c9ba53",
+    "source_kind": "新下载",
+    "reused_lib": "",
+    "bytes": 1832705
+  },
+  "D04-054": {
+    "sid": "D04-054",
+    "status": "ok",
+    "detail": "通过：%PDF；pypdf 52 页、55319 字符；标题匹配 1.00",
+    "path": "papers/2025_Guo_MammothVlElicitingMultimodalReasoningInstructionTuningScale_en.pdf",
+    "sha256": "925091bc843a1b6ff1f4facaffe73d3154df1a63a0de45a2438658a54b77d824",
+    "source_kind": "新下载",
+    "reused_lib": "",
+    "bytes": 20024557
+  },
+  "D04-055": {
+    "sid": "D04-055",
+    "status": "ok",
+    "detail": "通过：%PDF；pypdf 30 页、49410 字符；标题匹配 1.00",
+    "path": "papers/2025_Xia_MmedRagVersatileMultimodalRagSystemMedicalVision_en.pdf",
+    "sha256": "12cf899bfe38e8c28c9b958d965ef76528e932fea8cfe3388d2017d646e1efd4",
+    "source_kind": "新下载",
+    "reused_lib": "",
+    "bytes": 3898703
+  },
+  "D04-056": {
+    "sid": "D04-056",
+    "status": "ok",
+    "detail": "通过：%PDF；pypdf 10 页、50168 字符；标题匹配 1.00",
+    "path": "papers/2025_Molahasani_PrismReducingSpuriousImplicitBiasesVisionLanguageModels_en.pdf",
+    "sha256": "945ffd35775140db829bd52baf05cd1b702287cf168da9887f62aeba00077c96",
+    "source_kind": "新下载",
+    "reused_lib": "",
+    "bytes": 863451
+  },
+  "D04-057": {
+    "sid": "D04-057",
+    "status": "ok",
+    "detail": "通过：%PDF；pypdf 24 页、55836 字符；标题匹配 1.00",
+    "path": "papers/2024_Sun_FuxitranyuMultilingualLargeLanguageModelTrainedBalancedData_en.pdf",
+    "sha256": "a0c0cd0cf325a2d27b8a7e1784bb24b86176de08968d3d5377af22269746119e",
+    "source_kind": "新下载",
+    "reused_lib": "",
+    "bytes": 1174489
+  },
+  "D04-058": {
+    "sid": "D04-058",
+    "status": "ok",
+    "detail": "通过：%PDF；pypdf 27 页、51072 字符；标题匹配 1.00",
+    "path": "papers/2024_Weber_InvestigatingMultilingualInstructionTuningPolyglotModelsDemandMultilingual_en.pdf",
+    "sha256": "0f30870f58614d2c62f1991835194b85a1c9840dea5ea68166a35bc3f1ddbda4",
+    "source_kind": "新下载",
+    "reused_lib": "",
+    "bytes": 863849
+  },
+  "D04-059": {
+    "sid": "D04-059",
+    "status": "ok",
+    "detail": "通过：%PDF；pypdf 12 页、53286 字符；标题匹配 1.00",
+    "path": "papers/2024_Shen_MultimodalInstructionTuningConditionalMixtureLora_en.pdf",
+    "sha256": "07188fd075bf7bb83757d0920f65a0e537fbd3fdedfbd8cfd3e6747c679d600d",
+    "source_kind": "新下载",
+    "reused_lib": "",
+    "bytes": 2994759
+  },
+  "D04-060": {
+    "sid": "D04-060",
+    "status": "ok",
+    "detail": "通过：%PDF；pypdf 20 页、50463 字符；标题匹配 1.00",
+    "path": "papers/2024_Huang_Tag2textGuidingVisionLanguageModelImageTagging_en.pdf",
+    "sha256": "3940bea8ff66f01cd8025379a5470b8c7ebc5b3ad976e5555e1a4bac770ce6d9",
+    "source_kind": "新下载",
+    "reused_lib": "",
+    "bytes": 2775107
+  },
+  "D04-061": {
+    "sid": "D04-061",
+    "status": "ok",
+    "detail": "通过：%PDF；pypdf 25 页、46987 字符；标题匹配 1.00",
+    "path": "papers/2026_Nakamura_OptimalSparsityMixtureExpertsLanguageModelsReasoningTasks_en.pdf",
+    "sha256": "4e70ccc8b5f57f76a176b83e0dac2c2a330e6d72ee1c202f9f7069b082e99e3a",
+    "source_kind": "新下载",
+    "reused_lib": "",
+    "bytes": 1649087
+  },
+  "D04-062": {
+    "sid": "D04-062",
+    "status": "ok",
+    "detail": "通过：%PDF；pypdf 10 页、49969 字符；标题匹配 1.00",
+    "path": "papers/2025_Xu_AutomatedRedTeamingTextImageModelsFeedbackGuided_en.pdf",
+    "sha256": "922a79685c20e459a6e3ee0ab1de8a218e12184b72ed078bdbd49bddce3def32",
+    "source_kind": "新下载",
+    "reused_lib": "",
+    "bytes": 5237980
+  },
+  "D04-063": {
+    "sid": "D04-063",
+    "status": "ok",
+    "detail": "通过：%PDF；pypdf 10 页、47147 字符；标题匹配 1.00",
+    "path": "papers/2025_Wan_OnlyOneLayerInterventionSufficientlyMitigatesHallucinationsLarge_en.pdf",
+    "sha256": "1b7d41f1d627de2e73bdc94f2873baa57642737a779a5f9f45a9b2dc3ec34c78",
+    "source_kind": "新下载",
+    "reused_lib": "",
+    "bytes": 4163481
+  },
+  "D04-064": {
+    "sid": "D04-064",
+    "status": "ok",
+    "detail": "通过：%PDF；pypdf 18 页、35739 字符；标题匹配 1.00",
+    "path": "papers/2024_Zhang_ReflectiveInstructionTuningMitigatingHallucinationsLargeVisionLanguage_en.pdf",
+    "sha256": "ae655f33ea5fbc67ad2ad6aa48c3da6b454065b84e17be68c99b93309e28df7c",
+    "source_kind": "新下载",
+    "reused_lib": "",
+    "bytes": 922200
+  },
+  "D04-065": {
+    "sid": "D04-065",
+    "status": "ok",
+    "detail": "通过：%PDF；pypdf 18 页、28285 字符；标题匹配 1.00",
+    "path": "papers/2024_Pi_StrengtheningMultimodalLargeLanguageModelBootstrappedPreferenceOptimization_en.pdf",
+    "sha256": "3e398789cff73b250904d360f03af194ce6d38d97303b97c4abbda76e50afdb7",
+    "source_kind": "新下载",
+    "reused_lib": "",
+    "bytes": 8520010
+  },
+  "D04-066": {
+    "sid": "D04-066",
+    "status": "ok",
+    "detail": "通过：%PDF；pypdf 23 页、61399 字符；标题匹配 1.00",
+    "path": "papers/2026_Zheng_ContextAwareReasonerEnhancingContextualReasoningMultimodalLarge_en.pdf",
+    "sha256": "af4a2a1718f5db219219f60c977fe1938decdc3643e8f618dbb90bcdfccd5a32",
+    "source_kind": "新下载",
+    "reused_lib": "",
+    "bytes": 2043576
+  },
+  "D04-067": {
+    "sid": "D04-067",
+    "status": "ok",
+    "detail": "通过：%PDF；pypdf 19 页、51332 字符；标题匹配 1.00",
+    "path": "papers/2026_Yu_PromptsTokensInternalizingCausalSupervisionVisionLanguageModel_en.pdf",
+    "sha256": "a78ff1789a6832486fc6446b5c84b92f453adc222c7c28fa7ccc3fcd93578e5b",
+    "source_kind": "新下载",
+    "reused_lib": "",
+    "bytes": 939868
+  },
+  "D04-068": {
+    "sid": "D04-068",
+    "status": "ok",
+    "detail": "通过：%PDF；pypdf 28 页、53756 字符；标题匹配 1.00",
+    "path": "papers/2026_Kou_MechvqaBenchmarkingEnhancingMultimodalLlmsComprehensiveMechanicalDrawing_en.pdf",
+    "sha256": "3f40f35e7308514035bd1d4d8e94f4beb224323802bf5d30187ec1c2f8294a61",
+    "source_kind": "新下载",
+    "reused_lib": "",
+    "bytes": 3571211
+  },
+  "D04-069": {
+    "sid": "D04-069",
+    "status": "ok",
+    "detail": "通过：%PDF；pypdf 15 页、52061 字符；标题匹配 1.00",
+    "path": "papers/2026_Kou_ThinkThenGenerateReasoningAwareTextImageDiffusion_en.pdf",
+    "sha256": "239d1e9ba01b0dd08dd219c84e79c2063f79274fae0c85cfa610ef24ca2109d5",
+    "source_kind": "新下载",
+    "reused_lib": "",
+    "bytes": 13141114
+  },
+  "D04-070": {
+    "sid": "D04-070",
+    "status": "ok",
+    "detail": "通过：%PDF；pypdf 18 页、55540 字符；标题匹配 1.00",
+    "path": "papers/2024_Wang_InstructretroInstructionTuningPostRetrievalAugmentedPretraining_en.pdf",
+    "sha256": "e0f2e953d8e25e6f8eab5a8b6054eccd8f53ac713134fe35cdaa1f131681711f",
+    "source_kind": "新下载",
+    "reused_lib": "",
+    "bytes": 631148
+  },
+  "D04-071": {
+    "sid": "D04-071",
+    "status": "ok",
+    "detail": "通过：%PDF；pypdf 83 页、59753 字符；标题匹配 1.00",
+    "path": "papers/2024_Ying_MmtBenchComprehensiveMultimodalBenchmarkEvaluatingLargeVision_en.pdf",
+    "sha256": "3a37929a93929022bf67000b02c89ccbd5cf67a6f9e75f742fddd2d85c4ab042",
+    "source_kind": "新下载",
+    "reused_lib": "",
+    "bytes": 9775285
+  },
+  "D04-072": {
+    "sid": "D04-072",
+    "status": "ok",
+    "detail": "通过：%PDF；pypdf 29 页、48800 字符；标题匹配 1.00",
+    "path": "papers/2025_Yan_CoidoEfficientDataSelectionVisualInstructionTuningCoupled_en.pdf",
+    "sha256": "75f8816f4dab0bc81446cef72ed2e4a00474cb4a1aad7f091b9531f7d74e02c8",
+    "source_kind": "新下载",
+    "reused_lib": "",
+    "bytes": 2856746
+  },
+  "D04-073": {
+    "sid": "D04-073",
+    "status": "ok",
+    "detail": "通过：%PDF；pypdf 20 页、33044 字符；标题匹配 1.00",
+    "path": "papers/2024_Zhou_Navgpt2UnleashingNavigationalReasoningCapabilityLargeVision_en.pdf",
+    "sha256": "1a12e6f9d419a5383a4bf78945e2de2c65bf851a2e4db35aa036b04bb1e6d5aa",
+    "source_kind": "新下载",
+    "reused_lib": "",
+    "bytes": 2676821
+  },
+  "D04-074": {
+    "sid": "D04-074",
+    "status": "ok",
+    "detail": "通过：%PDF；pypdf 23 页、55971 字符；标题匹配 1.00",
+    "path": "papers/2024_Anon_RlhfSpeakManyLanguagesUnlockingMultilingualPreferenceOptimization_en.pdf",
+    "sha256": "14d5d567bb5942bfac234084b040fadd93137bada984719c90031e91eff610cf",
+    "source_kind": "新下载",
+    "reused_lib": "",
+    "bytes": 420645
+  },
+  "D04-075": {
+    "sid": "D04-075",
+    "status": "ok",
+    "detail": "通过：%PDF；pypdf 18 页、52851 字符；标题匹配 1.00",
+    "path": "papers/2024_Zhao_UnifashionUnifiedVisionLanguageModelMultimodalFashionRetrieval_en.pdf",
+    "sha256": "ffff09171b21dab8e48ffde18b0888c01f8007e0de21aea0fc854aae4c155831",
+    "source_kind": "新下载",
+    "reused_lib": "",
+    "bytes": 3225237
+  },
+  "D04-076": {
+    "sid": "D04-076",
+    "status": "ok",
+    "detail": "通过：%PDF；pypdf 11 页、43645 字符；标题匹配 1.00",
+    "path": "papers/2024_Wang_MdpoConditionalPreferenceOptimizationMultimodalLargeLanguageModels_en.pdf",
+    "sha256": "d9345c414a7b0c28a95d9cdc5b6ee568cbe6a2bcf1e2e6323b008b488706cbb1",
+    "source_kind": "新下载",
+    "reused_lib": "",
+    "bytes": 3120827
+  },
+  "D04-077": {
+    "sid": "D04-077",
+    "status": "ok",
+    "detail": "通过：%PDF；pypdf 12 页、52240 字符；标题匹配 1.00",
+    "path": "papers/2025_Demidov_VocabularyFreeFineGrainedVisualRecognitionEnrichedContextually_en.pdf",
+    "sha256": "42965d1740177f77482bd96c55561f0aed2729d425941aaace4d452a7faa834a",
+    "source_kind": "新下载",
+    "reused_lib": "",
+    "bytes": 6336371
+  },
+  "D04-078": {
+    "sid": "D04-078",
+    "status": "ok",
+    "detail": "通过：%PDF；pypdf 28 页、51416 字符；标题匹配 1.00",
+    "path": "papers/2025_Zhou_LearningInstructVisualInstructionTuning_en.pdf",
+    "sha256": "940732a05090ae94191c93c15edf1985c81f54f0f825586b1599b590a8cc0336",
+    "source_kind": "新下载",
+    "reused_lib": "",
+    "bytes": 8635493
+  },
+  "D04-079": {
+    "sid": "D04-079",
+    "status": "ok",
+    "detail": "通过：%PDF；pypdf 20 页、51912 字符；标题匹配 1.00",
+    "path": "papers/2024_Rao_CommonitCommonalityAwareInstructionTuningLargeLanguageModels_en.pdf",
+    "sha256": "1c1a21fd3fc3e999a594b37ca3449d76bda2be4cd27ee431ba69d142c6a1de71",
+    "source_kind": "新下载",
+    "reused_lib": "",
+    "bytes": 1775821
+  },
+  "D04-080": {
+    "sid": "D04-080",
+    "status": "ok",
+    "detail": "通过：%PDF；pypdf 15 页、49556 字符；标题匹配 1.00",
+    "path": "papers/2024_Chen_FortifyShortestStaveAttentionEnhancingContextAwarenessLarge_en.pdf",
+    "sha256": "886874b90f77c6bb65f158c6c5d50ae4e7e427eac3928c5509befb1c9a2e15f9",
+    "source_kind": "新下载",
+    "reused_lib": "",
+    "bytes": 1627001
+  },
+  "D04-081": {
+    "sid": "D04-081",
+    "status": "ok",
+    "detail": "通过：%PDF；pypdf 13 页、50937 字符；标题匹配 1.00",
+    "path": "papers/2024_Xia_RuleReliableMultimodalRagFactualityMedicalVisionLanguage_en.pdf",
+    "sha256": "a9fa476dd4ad89212869fa58133633102cf9b6e15b5eda7c038b788f3ae5de45",
+    "source_kind": "新下载",
+    "reused_lib": "",
+    "bytes": 3779511
+  },
+  "D04-082": {
+    "sid": "D04-082",
+    "status": "ok",
+    "detail": "通过：%PDF；pypdf 11 页、45047 字符；标题匹配 1.00",
+    "path": "papers/2022_Ling_VisionLanguagePreTrainingMultimodalAspectSentimentAnalysis_en.pdf",
+    "sha256": "06b10de950707bfd675efa7b5bfcf0c57a69143f4a5450ddf1f90e8d9065e108",
+    "source_kind": "新下载",
+    "reused_lib": "",
+    "bytes": 1084479
+  },
+  "D04-083": {
+    "sid": "D04-083",
+    "status": "ok",
+    "detail": "通过：%PDF；pypdf 30 页、50014 字符；标题匹配 1.00",
+    "path": "papers/2025_Bu_AlignxAdvancingMultilingualLargeLanguageModelsMultilingualRepresentation_en.pdf",
+    "sha256": "f336799a681bc9f8b0fd6ac8db84b464307a40da2eefd1ebf77c6e42ffe8ebe3",
+    "source_kind": "新下载",
+    "reused_lib": "",
+    "bytes": 9011718
+  },
+  "D04-084": {
+    "sid": "D04-084",
+    "status": "ok",
+    "detail": "通过：%PDF；pypdf 19 页、52330 字符；标题匹配 1.00",
+    "path": "papers/2026_Luo_LostExecutionMultilingualRobustnessToolCallingLargeLanguage_en.pdf",
+    "sha256": "39d43c3a949c7f710f23754d2d4751281a8ff2248e96ec58a5d9cbac92cab93a",
+    "source_kind": "新下载",
+    "reused_lib": "",
+    "bytes": 5672611
+  },
+  "D04-085": {
+    "sid": "D04-085",
+    "status": "ok",
+    "detail": "通过：%PDF；pypdf 30 页、56356 字符；标题匹配 1.00",
+    "path": "papers/2026_Peng_MultifinbenBenchmarkingLargeLanguageModelsMultilingualMultimodalFinancial_en.pdf",
+    "sha256": "4e23d73c38d374ab3b1fda5741cf67469912629b968135f1629bf8eb4dec6add",
+    "source_kind": "新下载",
+    "reused_lib": "",
+    "bytes": 7582459
+  },
+  "D04-086": {
+    "sid": "D04-086",
+    "status": "ok",
+    "detail": "通过：%PDF；pypdf 33 页、57385 字符；标题匹配 1.00",
+    "path": "papers/2026_Xu_PolychartqaBenchmarkingLargeVisionLanguageModelsMultilingualChart_en.pdf",
+    "sha256": "0fb0faeed434dc87b7d1db6d9bfc0ee530ec94948cb1143c00d85c22c2eb477e",
+    "source_kind": "新下载",
+    "reused_lib": "",
+    "bytes": 10497507
+  },
+  "D04-087": {
+    "sid": "D04-087",
+    "status": "ok",
+    "detail": "通过：%PDF；pypdf 10 页、46949 字符；标题匹配 1.00",
+    "path": "papers/2025_Pothiraj_CaptureEvaluatingSpatialReasoningVisionLanguageModelsOccluded_en.pdf",
+    "sha256": "1ee3e3cad08ed231fbc710643218afddf8d0fa6c2288f7958108c2cffb1786ff",
+    "source_kind": "新下载",
+    "reused_lib": "",
+    "bytes": 1493713
+  },
+  "D04-088": {
+    "sid": "D04-088",
+    "status": "ok",
+    "detail": "通过：%PDF；pypdf 23 页、55020 字符；标题匹配 1.00",
+    "path": "papers/2024_Husain_RomansetuEfficientlyUnlockingMultilingualCapabilitiesLargeLanguageModels_en.pdf",
+    "sha256": "810ec2dd35e14381b95d0a7698604b41e972c103205353322597c869d2b21f45",
+    "source_kind": "新下载",
+    "reused_lib": "",
+    "bytes": 490865
+  },
+  "D04-089": {
+    "sid": "D04-089",
+    "status": "ok",
+    "detail": "通过：%PDF；pypdf 23 页、44693 字符；标题匹配 1.00",
+    "path": "papers/2024_Wu_DpoDirectPreferenceOptimizationDynamic_en.pdf",
+    "sha256": "62fd33f3084bf5bfcca54cea82a5c256f859be98a63ed57332be2b09ca1b10b3",
+    "source_kind": "新下载",
+    "reused_lib": "",
+    "bytes": 745455
+  },
+  "D04-090": {
+    "sid": "D04-090",
+    "status": "ok",
+    "detail": "通过：%PDF；pypdf 56 页、51815 字符；标题匹配 1.00",
+    "path": "papers/2025_Huang_MmOperaBenchmarkingOpenEndedAssociationReasoningLarge_en.pdf",
+    "sha256": "e71e6b29443ae97867fc7eee615c96d7b013a1f0d6f3b5edc1ed8c07979398de",
+    "source_kind": "新下载",
+    "reused_lib": "",
+    "bytes": 7274064
+  },
+  "D04-091": {
+    "sid": "D04-091",
+    "status": "ok",
+    "detail": "通过：%PDF；pypdf 29 页、46475 字符；标题匹配 1.00",
+    "path": "papers/2025_Luo_OpenomniAdvancingOpenSourceOmnimodalLargeLanguageModels_en.pdf",
+    "sha256": "757473041cf86ffd159cc3f7accfdae7558b0d37c5aad544cf8564f0996ac286",
+    "source_kind": "新下载",
+    "reused_lib": "",
+    "bytes": 1119085
+  },
+  "D04-092": {
+    "sid": "D04-092",
+    "status": "ok",
+    "detail": "通过：%PDF；pypdf 17 页、54228 字符；标题匹配 1.00",
+    "path": "papers/2023_Kung_ActiveInstructionTuningImprovingCrossTaskGeneralizationTraining_en.pdf",
+    "sha256": "17f0d6ceea357dcc1e21e0a55b2327b38ffb45b83059e4ce51f2f2bfbbd633e6",
+    "source_kind": "新下载",
+    "reused_lib": "",
+    "bytes": 650904
+  },
+  "D04-093": {
+    "sid": "D04-093",
+    "status": "ok",
+    "detail": "通过：%PDF；pypdf 9 页、37685 字符；标题匹配 1.00",
+    "path": "papers/2023_Chan_ClairEvaluatingImageCaptionsLargeLanguageModels_en.pdf",
+    "sha256": "53ad5e1f3289bff9a1af119bdf5d3edeba05138255028c320d63e6a9082423db",
+    "source_kind": "新下载",
+    "reused_lib": "",
+    "bytes": 2493424
+  },
+  "D04-094": {
+    "sid": "D04-094",
+    "status": "ok",
+    "detail": "通过：%PDF；pypdf 23 页、46317 字符；标题匹配 1.00",
+    "path": "papers/2023_Wang_FarCamelsGoExploringStateInstructionTuningOpen_en.pdf",
+    "sha256": "62e60999fdc60d332e4cf17a437c27946e9cbbbad58fb8b80a5962395641dbdc",
+    "source_kind": "新下载",
+    "reused_lib": "",
+    "bytes": 1583165
+  },
+  "D04-095": {
+    "sid": "D04-095",
+    "status": "ok",
+    "detail": "通过：%PDF；pypdf 21 页、54037 字符；标题匹配 1.00",
+    "path": "papers/2023_Xu_MultiinstructImprovingMultiModalZeroShotLearningInstruction_en.pdf",
+    "sha256": "4c7514de41a569370c57ce533dd321ee46fe04aa2244ff36649f39f7acb505e2",
+    "source_kind": "新下载",
+    "reused_lib": "",
+    "bytes": 1123613
+  },
+  "D04-096": {
+    "sid": "D04-096",
+    "status": "ok",
+    "detail": "通过：%PDF；pypdf 16 页、49250 字符；标题匹配 1.00",
+    "path": "papers/2023_Tanwar_MultilingualLlmsBetterCrossLingualContextLearnersAlignment_en.pdf",
+    "sha256": "d84e4c3c24d9ef1d8a830d0517ab9910d01504e08ea43c2d9b7f45b835580674",
+    "source_kind": "新下载",
+    "reused_lib": "",
+    "bytes": 416196
+  },
+  "D04-097": {
+    "sid": "D04-097",
+    "status": "ok",
+    "detail": "通过：%PDF；pypdf 10 页、40520 字符；标题匹配 1.00",
+    "path": "papers/2022_Li_MultiLevelDistillationSemanticKnowledgePreTrainingMultilingual_en.pdf",
+    "sha256": "9acd211ee58d4b4f7441368f7164fb1e6e3c2754e44d0c38bb671610a89b2c92",
+    "source_kind": "新下载",
+    "reused_lib": "",
+    "bytes": 373078
+  },
+  "D04-098": {
+    "sid": "D04-098",
+    "status": "ok",
+    "detail": "通过：%PDF；pypdf 39 页、41470 字符；标题匹配 1.00",
+    "path": "papers/2024_Shukor_ImplicitMultimodalAlignmentGeneralizationFrozenLlmsMultimodalInputs_en.pdf",
+    "sha256": "d73d4c4ee3b34a6e4e3dbdd94cdceefc70fefa7663bc682360bc5a422551e555",
+    "source_kind": "新下载",
+    "reused_lib": "",
+    "bytes": 35838916
+  },
+  "D04-099": {
+    "sid": "D04-099",
+    "status": "ok",
+    "detail": "通过：%PDF；pypdf 22 页、50219 字符；标题匹配 1.00",
+    "path": "papers/2023_Si_EmpiricalStudyInstructionTuningLargeLanguageModelsChinese_en.pdf",
+    "sha256": "ba98b7e22c1d653368fb65c7b54d69e5e53e042e467453d694bb05ca6533f588",
+    "source_kind": "新下载",
+    "reused_lib": "",
+    "bytes": 1565784
+  },
+  "D04-100": {
+    "sid": "D04-100",
+    "status": "ok",
+    "detail": "通过：%PDF；pypdf 19 页、42386 字符；标题匹配 1.00",
+    "path": "papers/2023_Cheng_BatchPromptingEfficientInferenceLargeLanguageModelApis_en.pdf",
+    "sha256": "388864dfa6944a41e2207a1c76a574aa6e7bb29f1073ba0e4e94c9caa1c5e0be",
+    "source_kind": "新下载",
+    "reused_lib": "",
+    "bytes": 531831
+  },
+  "D04-101": {
+    "sid": "D04-101",
+    "status": "ok",
+    "detail": "通过：%PDF；pypdf 36 页、55552 字符；标题匹配 1.00",
+    "path": "papers/2023_Imani_Glot500ScalingMultilingualCorporaLanguageModels500Languages_en.pdf",
+    "sha256": "23ede407a9380662b9dc312e12df0c717c875d36fce43e65c021b047eee4aa74",
+    "source_kind": "新下载",
+    "reused_lib": "",
+    "bytes": 624942
+  },
+  "D04-102": {
+    "sid": "D04-102",
+    "status": "ok",
+    "detail": "通过：%PDF；pypdf 13 页、47309 字符；标题匹配 1.00",
+    "path": "papers/2023_Shi_SpecialistOrGeneralistInstructionTuningSpecificNlpTasks_en.pdf",
+    "sha256": "f040e94978aae00765ffaf0ae5670d2d3964e06a7d5245b14ab593f2da7a931e",
+    "source_kind": "新下载",
+    "reused_lib": "",
+    "bytes": 4972000
+  },
+  "D04-103": {
+    "sid": "D04-103",
+    "status": "ok",
+    "detail": "通过：%PDF；pypdf 21 页、49073 字符；标题匹配 1.00",
+    "path": "papers/2023_Shu_ExploitabilityInstructionTuning_en.pdf",
+    "sha256": "09af10c5055fae0d862f27e2bdc7b0953f453a6f7deae08732e1efaa65908a1c",
+    "source_kind": "新下载",
+    "reused_lib": "",
+    "bytes": 815907
+  },
+  "D04-104": {
+    "sid": "D04-104",
+    "status": "ok",
+    "detail": "通过：%PDF；pypdf 20 页、50014 字符；标题匹配 1.00",
+    "path": "papers/2023_Li_UnifyingCrossLingualCrossModalModelingWeaklySupervised_en.pdf",
+    "sha256": "8ecf08bcf96c1fc1404a8a5d127ee4a435bfa69ec2d022fb2c999c991a1a43d7",
+    "source_kind": "新下载",
+    "reused_lib": "",
+    "bytes": 941733
+  },
+  "D04-105": {
+    "sid": "D04-105",
+    "status": "ok",
+    "detail": "通过：%PDF；pypdf 15 页、50187 字符；标题匹配 1.00",
+    "path": "papers/2024_Lai_McotMultilingualInstructionTuningReasoningConsistencyLanguageModels_en.pdf",
+    "sha256": "f5e9d5f9f6b6fdb064a48d3a68b0876bd90cf5be6e4074decd54c6ef9e499f2c",
+    "source_kind": "新下载",
+    "reused_lib": "",
+    "bytes": 3477176
+  },
+  "D04-106": {
+    "sid": "D04-106",
+    "status": "ok",
+    "detail": "通过：%PDF；pypdf 21 页、46051 字符；标题匹配 1.00",
+    "path": "papers/2025_Wang_Affordbot3dFineGrainedEmbodiedReasoningMultimodalLarge_en.pdf",
+    "sha256": "96a216b4acfe3a08e1f2a490c5c0b9d46bc4973bdcb6a67393b0fb0fe9eb727d",
+    "source_kind": "新下载",
+    "reused_lib": "",
+    "bytes": 5893898
+  },
+  "D04-107": {
+    "sid": "D04-107",
+    "status": "ok",
+    "detail": "通过：%PDF；pypdf 16 页、53866 字符；标题匹配 1.00",
+    "path": "papers/2025_Guo_LargeLanguageModelsHaveEnglishAccentEvaluatingImproving_en.pdf",
+    "sha256": "83b345d03ca985e7d43b0b1d0835b76e44693a7393e7c76e9fc54a5648519522",
+    "source_kind": "新下载",
+    "reused_lib": "",
+    "bytes": 563452
+  },
+  "D04-108": {
+    "sid": "D04-108",
+    "status": "ok",
+    "detail": "通过：%PDF；pypdf 30 页、50732 字符；标题匹配 1.00",
+    "path": "papers/2025_Cheng_AnomalycotMultiScenarioChainThoughtDatasetMultimodalLarge_en.pdf",
+    "sha256": "c034668d15cdecc1d845f31d23f90748f0bf63b6532b0f06269dec888d48f392",
+    "source_kind": "新下载",
+    "reused_lib": "",
+    "bytes": 3391012
+  },
+  "D04-109": {
+    "sid": "D04-109",
+    "status": "ok",
+    "detail": "通过：%PDF；pypdf 28 页、42287 字符；标题匹配 1.00",
+    "path": "papers/2025_Fallahpour_BioreasonIncentivizingMultimodalBiologicalReasoningDnaLlmModel_en.pdf",
+    "sha256": "134cf25af3954083c0bb6dfd039d0b34836c5fb352f92b875d907730f6876035",
+    "source_kind": "新下载",
+    "reused_lib": "",
+    "bytes": 5323116
+  },
+  "D04-110": {
+    "sid": "D04-110",
+    "status": "ok",
+    "detail": "通过：%PDF；pypdf 49 页、46806 字符；标题匹配 1.00",
+    "path": "papers/2025_Tang_ChartmuseumTestingVisualReasoningCapabilitiesLargeVisionLanguage_en.pdf",
+    "sha256": "a8240edee2e92a102fa53f29b24684cd97e5b59f6b6d65ee44999046b8aa4df0",
+    "source_kind": "新下载",
+    "reused_lib": "",
+    "bytes": 29043048
+  }
+}

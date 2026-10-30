@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="zh-CN"><head><meta charset="utf-8"><title>03 工业过程监控</title>
+<style>body{font-family:"Microsoft YaHei","PingFang SC","Noto Sans CJK SC",sans-serif;max-width:1200px;margin:2em auto;
+padding:0 1em;line-height:1.6;color:#222}table{border-collapse:collapse;margin:1em 0;font-size:14px}th,td{border:1px solid #ccc;
+padding:4px 8px;vertical-align:top}th{background:#f3f3f3}code{background:#f5f5f5;padding:0 3px}pre{background:#f5f5f5;padding:8px;
+overflow:auto}a{color:#0645ad}.muted{color:#888}.warn{color:#a15c00}.nav{font-size:14px;margin-bottom:1em}</style>
+</head><body>
+<div class="nav"><a href="../../index_cn.html">← 离线首页 index_cn.html</a></div>
+<h1>03 工业过程监控</h1>
+<p>检索日 2026-10-30。窗口 2021-10-30 至 2026-10-30，按正式会议发表日期判断。
+本方向只收主会研究论文；AISTATS/UAI 等补充会议单独标注，不与 ICML/NeurIPS/ICLR/COLT 混称同一排名。</p>
+<ul><li>已下载并核验全文：<strong>39</strong> 篇（目标约 100，参考 90–120）</li><li>新下载 39，已有复用 0</li><li>有可获取代码（A/B/C）14 篇（35.9%）；官方完整实现（A）6 篇</li><li>本轮代码核验最高到 L1，<strong>不</strong>声称运行验证通过或已复现</li></ul>
+<h2>年份</h2>
+<table><thead><tr><th>年份</th><th>篇数</th></tr></thead><tbody><tr><td>2022</td><td>4</td></tr><tr><td>2023</td><td>4</td></tr><tr><td>2024</td><td>4</td></tr><tr><td>2025</td><td>18</td></tr><tr><td>2026</td><td>9</td></tr></tbody></table>
+<h2>会议与轨道</h2>
+<table><thead><tr><th>会议</th><th>年份</th><th>轨道计数</th></tr></thead><tbody><tr><td>AAAI</td><td>2025</td><td>2</td></tr><tr><td>AAAI</td><td>2026</td><td>2</td></tr><tr><td>ICLR</td><td>2025</td><td>2</td></tr><tr><td>ICML</td><td>2022</td><td>3</td></tr><tr><td>ICML</td><td>2025</td><td>1</td></tr><tr><td>ICML</td><td>2026</td><td>4</td></tr><tr><td>IJCAI</td><td>2022</td><td>1</td></tr><tr><td>IJCAI</td><td>2024</td><td>3</td></tr><tr><td>IJCAI</td><td>2025</td><td>3</td></tr><tr><td>IJCAI</td><td>2026</td><td>2</td></tr><tr><td>KDD</td><td>2023</td><td>1</td></tr><tr><td>KDD</td><td>2024</td><td>1</td></tr><tr><td>KDD</td><td>2026</td><td>1</td></tr><tr><td>NeurIPS</td><td>2023</td><td>3</td></tr><tr><td>NeurIPS</td><td>2025</td><td>10</td></tr></tbody></table>
+<p>轨道合计：</p>
+<ul><li>datasets_and_benchmarks: 3</li><li>main: 36</li></ul>
+<h2>代码可用性</h2>
+<table><thead><tr><th>类别</th><th>含义</th><th>篇数</th></tr></thead><tbody><tr><td>A</td><td>作者官方完整实现（静态）</td><td>6</td></tr><tr><td>B</td><td>作者官方部分实现</td><td>2</td></tr><tr><td>C</td><td>仅第三方复现</td><td>6</td></tr><tr><td>D</td><td>无代码、空仓或未找到</td><td>25</td></tr></tbody></table>
+<p>筛选目标是每方向至少 70% 已下载论文有官方可获取代码。本方向实际 A+B 比例 20.5%（不把第三方算进官方代码，也不把目标写成已达成）。</p>
+<h2>优先阅读与复现（10 篇）</h2>
+<p>只根据与本方向的直接相关性和代码完整度排序，不是对方法优劣的判断。前置条件见代码列。</p>
+<h3>1. Harnessing Vision-Language Models for Time Series Anomaly Detection（<a href="../../papers/2026_He_HarnessingVisionLanguageModelsTimeSeriesAnomalyDetection_en.pdf">全文 PDF</a> · <a href="../../code/D03-012_ZLHe0_VLM4TS_en/">本地代码</a>）</h3>
+<ul><li>会议：AAAI 2026（main）</li><li>关系：可迁移的基础方法；异常检测；状态监控</li><li>代码：类别 A，级别 L1；许可证 未发现许可证（不标为可自由复用）</li><li>理由：可迁移的基础方法。命中：异常检测、状态监控。会议 AAAI 2026 main 轨道。</li><li>前置条件：配置（可能用 argparse）; 测试。大型数据、权重未下载；本轮未运行。</li></ul>
+<h3>2. ADPretrain: Advancing Industrial Anomaly Detection via Anomaly Representation Pretraining（<a href="../../papers/2025_Yao_AdpretrainAdvancingIndustrialAnomalyDetectionAnomalyRepresentationPretraining_en.pdf">全文 PDF</a> · <a href="../../code/D03-007_xcyao00_ADPretrain_en/">本地代码</a>）</h3>
+<ul><li>会议：NeurIPS 2025（main）</li><li>关系：直接研究目标任务；异常检测</li><li>代码：类别 A，级别 L1；许可证 mit license</li><li>理由：直接研究目标任务。命中：异常检测。会议 NeurIPS 2025 main 轨道。</li><li>前置条件：测试。大型数据、权重未下载；本轮未运行。</li></ul>
+<h3>3. Nominality Score Conditioned Time Series Anomaly Detection by Point/Sequential Reconstruction（<a href="../../papers/2023_Lai_NominalityScoreConditionedTimeSeriesAnomalyDetectionPoint_en.pdf">全文 PDF</a> · <a href="../../code/D03-024_andrewlai61616_NPSR_en/">本地代码</a>）</h3>
+<ul><li>会议：NeurIPS 2023（main）</li><li>关系：可迁移的基础方法；异常检测</li><li>代码：类别 A，级别 L1；许可证 未发现许可证（不标为可自由复用）</li><li>理由：可迁移的基础方法。命中：异常检测。会议 NeurIPS 2023 main 轨道。</li><li>前置条件：配置（可能用 argparse）; 测试。大型数据、权重未下载；本轮未运行。</li></ul>
+<h3>4. CrossAD: Time Series Anomaly Detection with Cross-scale Associations and Cross-window Modeling（<a href="../../papers/2025_Li_CrossadTimeSeriesAnomalyDetectionCrossScaleAssociations_en.pdf">全文 PDF</a> · <a href="../../code/D03-028_decisionintelligence_CrossAD_en/">本地代码</a>）</h3>
+<ul><li>会议：NeurIPS 2025（main）</li><li>关系：可迁移的基础方法；异常检测</li><li>代码：类别 A，级别 L1；许可证 未发现许可证（不标为可自由复用）</li><li>理由：可迁移的基础方法。命中：异常检测。会议 NeurIPS 2025 main 轨道。</li><li>前置条件：静态已见入口/配置/依赖，未运行。大型数据、权重未下载；本轮未运行。</li></ul>
+<h3>5. CATCH: Channel-Aware multivariate Time Series Anomaly Detection via Frequency Patching（<a href="../../papers/2025_Wu_CatchChannelAwareMultivariateTimeSeriesAnomalyDetection_en.pdf">全文 PDF</a> · <a href="../../code/D03-039_decisionintelligence_CATCH_en/">本地代码</a>）</h3>
+<ul><li>会议：ICLR 2025（main）</li><li>关系：可迁移的基础方法；异常检测</li><li>代码：类别 A，级别 L1；许可证 未发现许可证（不标为可自由复用）</li><li>理由：可迁移的基础方法。命中：异常检测。会议 ICLR 2025 main 轨道。</li><li>前置条件：静态已见入口/配置/依赖，未运行。大型数据、权重未下载；本轮未运行。</li></ul>
+<h3>6. CausalTrace: A Neurosymbolic Causal Analysis Agent for Smart Manufacturing（<a href="../../papers/2026_Shyalika_CausaltraceNeurosymbolicCausalAnalysisAgentSmartManufacturing_en.pdf">全文 PDF</a> · <a href="../../code/D03-003_ChathurangiShyalika_SmartPilot_en/">本地代码</a>）</h3>
+<ul><li>会议：AAAI 2026（main）</li><li>关系：直接研究目标任务；根因</li><li>代码：类别 A，级别 L1；许可证 mit license</li><li>理由：直接研究目标任务。命中：根因。会议 AAAI 2026 main 轨道。</li><li>前置条件：静态已见入口/配置/依赖，未运行。大型数据、权重未下载；本轮未运行。</li></ul>
+<h3>7. NoBOOM: Chemical Process Datasets for Industrial Anomaly Detection（<a href="../../papers/2025_Wagner_NoboomChemicalProcessDatasetsIndustrialAnomalyDetection_en.pdf">全文 PDF</a> · <a href="../../code/D03-001_wagner-d_noboom_en/">本地代码</a>）</h3>
+<ul><li>会议：NeurIPS 2025（datasets_and_benchmarks）</li><li>关系：直接研究目标任务；异常检测；过程工业</li><li>代码：类别 B，级别 L0；许可证 mit license</li><li>理由：直接研究目标任务。命中：异常检测、过程工业。会议 NeurIPS 2025 datasets_and_benchmarks 轨道。</li><li>前置条件：仅部分实现可见。大型数据、权重未下载；本轮未运行。</li></ul>
+<h3>8. Fault Diagnosis in REDNet Model Space（<a href="../../papers/2025_Zhou_FaultDiagnosisRednetModelSpace_en.pdf">全文 PDF</a>）</h3>
+<ul><li>会议：IJCAI 2025（main）</li><li>关系：直接研究目标任务；故障检测诊断</li><li>代码：类别 D，级别 无；许可证 未发现许可证（不标为可自由复用）</li><li>理由：直接研究目标任务。命中：故障检测诊断。会议 IJCAI 2025 main 轨道。</li><li>前置条件：未在摘要/评论/PDF 首页发现代码链接；未声称已检索穷尽第三方复现。大型数据、权重未下载；本轮未运行。</li></ul>
+<h3>9. POND: Multi-Source Time Series Domain Adaptation with Information-Aware Prompt Tuning（<a href="../../papers/2024_Wang_PondMultiSourceTimeSeriesDomainAdaptationInformation_en.pdf">全文 PDF</a>）</h3>
+<ul><li>会议：KDD 2024（main）</li><li>关系：直接研究目标任务；故障检测诊断</li><li>代码：类别 D，级别 无；许可证 未发现许可证（不标为可自由复用）</li><li>理由：直接研究目标任务。命中：故障检测诊断。会议 KDD 2024 main 轨道。</li><li>前置条件：未在摘要/评论/PDF 首页发现代码链接；未声称已检索穷尽第三方复现。大型数据、权重未下载；本轮未运行。</li></ul>
+<h3>10. DSPR: Dual-Stream Physics-Residual Networks for Trustworthy Industrial Time Series Forecasting（<a href="../../papers/2026_Zhang_DsprDualStreamPhysicsResidualNetworksTrustworthyIndustrial_en.pdf">全文 PDF</a>）</h3>
+<ul><li>会议：KDD 2026（main）</li><li>关系：直接研究目标任务；工业过程</li><li>代码：类别 D，级别 无；许可证 未发现许可证（不标为可自由复用）</li><li>理由：直接研究目标任务。命中：工业过程。会议 KDD 2026 main 轨道。</li><li>前置条件：未在摘要/评论/PDF 首页发现代码链接；未声称已检索穷尽第三方复现。大型数据、权重未下载；本轮未运行。</li></ul>
+<h2>对本任务的用途</h2>
+<p>工业过程监控主会论文稀缺。本方向保留化学过程/智能制造/软测量相关主会工作，并以多变量时序异常检测与因果根因作为可迁移方法，不把视觉巡检或 IT 运维论文充数。</p>
+<h2>缺口</h2>
+<ul><li>近五年 ICML/NeurIPS/ICLR/KDD/AAAI/IJCAI 主会中，直接面向化工过程监控、软测量、TE 过程的论文很少；该方向文献主要在 IEEE 过程控制/仪表期刊，本轮不把期刊算进主集合。</li><li>已核验 39 篇（直接工业/制造相关 11 篇，可迁移的多变量时序异常检测与因果根因 28 篇），低于 90–120 目标。<strong>未</strong>用 3D/图/视频/通用视觉异常检测或微服务根因论文凑数。</li><li>官方代码 A+B 约两成；部分 NeurIPS 2025 工业基准尚未放出完整仓库。</li><li>未运行训练或评测；缺数据、权重和硬件验证。</li><li>FlowFuse 仓库 clone 需登录，按 D 登记。</li></ul>
+<p>续跑：<code>python3 -I scripts/run_en.py domain 03</code>（已完成项会跳过）。</p>
+<p>生成时间 2026-10-30 01:41 UTC</p>
+</body></html>

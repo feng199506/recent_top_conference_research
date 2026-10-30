@@ -1,0 +1,3461 @@
+{
+  "D04-001": {
+    "license_file": "LICENSE",
+    "license_name": "apache license",
+    "readme": [
+      "readme.md"
+    ],
+    "entries": [
+      "llava/train/train.py"
+    ],
+    "configs": [],
+    "deps": [],
+    "tests": [
+      "llava/serve/test_message.py"
+    ],
+    "notebooks": [],
+    "n_files": 88,
+    "truncated_listing": false,
+    "has_gitmodules": false,
+    "has_lfs_pointers": false,
+    "code_kind": "C",
+    "missing": [
+      "依赖声明",
+      "配置（可能用 argparse）"
+    ],
+    "level": "L0",
+    "l1_ok": false,
+    "sid": "D04-001",
+    "url": "https://github.com/taco-group/Re-Align",
+    "owner": "taco-group",
+    "repo": "Re-Align",
+    "commit": "a82ce56b33937a67cce54e22b27158993cf2a477",
+    "path": "code/D04-001_taco-group_Re-Align_en",
+    "official_evidence": "未核实官方归属（仅仓库存在）"
+  },
+  "D04-002": {
+    "license_file": "",
+    "license_name": "未发现许可证（不标为可自由复用）",
+    "readme": [
+      "readme.md",
+      "src/image_to_text/readme.md",
+      "src/lightrag/lightrag/tools/lightrag_visualizer/readme.md",
+      "src/lightrag/lightrag/tools/lightrag_visualizer/readme-zh.md",
+      "src/lightrag/lightrag/api/readme.md"
+    ],
+    "entries": [],
+    "configs": [],
+    "deps": [
+      "requirements.txt",
+      "environment.yml",
+      "src/lightrag/lightrag/tools/lightrag_visualizer/requirements.txt",
+      "src/lightrag/lightrag/api/requirements.txt"
+    ],
+    "tests": [],
+    "notebooks": [],
+    "n_files": 96,
+    "truncated_listing": false,
+    "has_gitmodules": false,
+    "has_lfs_pointers": false,
+    "code_kind": "C",
+    "missing": [
+      "仅部分实现可见"
+    ],
+    "level": "L0",
+    "l1_ok": false,
+    "sid": "D04-002",
+    "url": "https://github.com/Wings-Of-Disaster/VaLiK",
+    "owner": "Wings-Of-Disaster",
+    "repo": "VaLiK",
+    "commit": "649a6b3a13941be31a65102ea9d49fa184fe5663",
+    "path": "code/D04-002_Wings-Of-Disaster_VaLiK_en",
+    "official_evidence": "未核实官方归属（仅仓库存在）"
+  },
+  "D04-003": {
+    "license_file": "LICENSE",
+    "license_name": "apache license",
+    "readme": [
+      "readme.md"
+    ],
+    "entries": [],
+    "configs": [
+      "configs/dataset_path.yaml",
+      "configs/dataset_path_original.yaml",
+      "configs/task_config.yaml",
+      "configs/extract_img_feats/base_config.yaml",
+      "configs/main/mathv_hybridquery.yaml",
+      "configs/main/mmmu_hybridquery_random.yaml",
+      "configs/main/vizwiz_mctsquery.yaml",
+      "configs/main/vizwiz_hybridquery.yaml",
+      "configs/main/mathv_hybridquery_random.yaml",
+      "configs/main/scienceqa_textquery.yaml",
+      "configs/main/scienceqa_hybridquery.yaml",
+      "configs/main/mathv_mctsquery.yaml"
+    ],
+    "deps": [
+      "requirements.txt"
+    ],
+    "tests": [],
+    "notebooks": [],
+    "n_files": 126,
+    "truncated_listing": false,
+    "has_gitmodules": false,
+    "has_lfs_pointers": false,
+    "code_kind": "C",
+    "missing": [
+      "仅部分实现可见"
+    ],
+    "level": "L0",
+    "l1_ok": false,
+    "sid": "D04-003",
+    "url": "https://github.com/yannqi/RCTS-RAG",
+    "owner": "yannqi",
+    "repo": "RCTS-RAG",
+    "commit": "166d541a1b5e4cd28b342055969338a054f119ad",
+    "path": "code/D04-003_yannqi_RCTS-RAG_en",
+    "official_evidence": "未核实官方归属（仅仓库存在）"
+  },
+  "D04-004": {
+    "license_file": "LICENSE",
+    "license_name": "mit license",
+    "readme": [
+      "readme.md"
+    ],
+    "entries": [
+      "stage1/main.py",
+      "stage1/src/run.py"
+    ],
+    "configs": [
+      "stage1/config.json",
+      "stage1/configs/defaults.yaml",
+      "stage1/configs/optuna.yaml"
+    ],
+    "deps": [
+      "requirements.txt"
+    ],
+    "tests": [],
+    "notebooks": [],
+    "n_files": 40,
+    "truncated_listing": false,
+    "has_gitmodules": false,
+    "has_lfs_pointers": false,
+    "code_kind": "A",
+    "missing": [
+      "测试"
+    ],
+    "level": "L1",
+    "l1_ok": true,
+    "sid": "D04-004",
+    "url": "https://github.com/sunyuanfu/Mario",
+    "owner": "sunyuanfu",
+    "repo": "Mario",
+    "commit": "b07993c83a868969b72a9f1eaea823beea0d9500",
+    "path": "code/D04-004_sunyuanfu_Mario_en",
+    "official_evidence": "疑似作者（仓库名含作者姓氏）"
+  },
+  "D04-005": {
+    "license_file": "LICENSE",
+    "license_name": "apache license",
+    "readme": [
+      "readme.md"
+    ],
+    "entries": [
+      "verl/trainer/main.py",
+      "eval/test.py",
+      "judge/test.py"
+    ],
+    "configs": [
+      "examples/config.yaml",
+      "examples/tooluse_config_bak.yaml",
+      "examples/tooluse_config_llm.yaml",
+      "examples/tooluse_config_memsafe.yaml",
+      "examples/tooluse_config.yaml"
+    ],
+    "deps": [
+      "requirements.txt",
+      "pyproject.toml",
+      "setup.py"
+    ],
+    "tests": [
+      "eval/test.py",
+      "judge/test.py"
+    ],
+    "notebooks": [
+      "eval/try_eval.ipynb"
+    ],
+    "n_files": 149,
+    "truncated_listing": false,
+    "has_gitmodules": false,
+    "has_lfs_pointers": false,
+    "code_kind": "C",
+    "missing": [],
+    "level": "L1",
+    "l1_ok": true,
+    "sid": "D04-005",
+    "url": "https://github.com/VTOOL-R1/vtool-r1",
+    "owner": "VTOOL-R1",
+    "repo": "vtool-r1",
+    "commit": "ae93c5457f7b5a397e3e70dda967a51b91a9a361",
+    "path": "code/D04-005_VTOOL-R1_vtool-r1_en",
+    "official_evidence": "未核实官方归属（仅仓库存在）"
+  },
+  "D04-006": {
+    "sid": "D04-006",
+    "code_kind": "D",
+    "level": "",
+    "urls": [],
+    "note": "未在摘要/评论/PDF 首页发现代码链接；未声称已检索穷尽第三方复现"
+  },
+  "D04-007": {
+    "sid": "D04-007",
+    "code_kind": "D",
+    "level": "",
+    "urls": [
+      "https://github.com/sjz5202/LLaV"
+    ],
+    "note": "clone 失败 Cloning into '/root/recent_top_conference_research/code/D04-007_sjz5202_LLaV_en'...\nfatal: could not read Username for 'https://github.com': terminal prompts disabled\n",
+    "tried": "https://github.com/sjz5202/LLaV"
+  },
+  "D04-008": {
+    "sid": "D04-008",
+    "code_kind": "D",
+    "level": "",
+    "urls": [],
+    "note": "未在摘要/评论/PDF 首页发现代码链接；未声称已检索穷尽第三方复现"
+  },
+  "D04-009": {
+    "sid": "D04-009",
+    "code_kind": "D",
+    "level": "",
+    "urls": [],
+    "note": "未在摘要/评论/PDF 首页发现代码链接；未声称已检索穷尽第三方复现"
+  },
+  "D04-010": {
+    "license_file": "LICENSE",
+    "license_name": "apache license",
+    "readme": [
+      "readme.md"
+    ],
+    "entries": [
+      "src/inference/inference.py"
+    ],
+    "configs": [],
+    "deps": [
+      "requirements.txt"
+    ],
+    "tests": [],
+    "notebooks": [],
+    "n_files": 36,
+    "truncated_listing": false,
+    "has_gitmodules": false,
+    "has_lfs_pointers": false,
+    "code_kind": "A",
+    "missing": [
+      "配置（可能用 argparse）",
+      "测试"
+    ],
+    "level": "L1",
+    "l1_ok": true,
+    "sid": "D04-010",
+    "url": "https://github.com/davidanugraha/M4-RAG",
+    "owner": "davidanugraha",
+    "repo": "M4-RAG",
+    "commit": "039cd1201b5cab20e0b2d0ea67975372af0a0cdb",
+    "path": "code/D04-010_davidanugraha_M4-RAG_en",
+    "official_evidence": "疑似作者（仓库名含作者姓氏）"
+  },
+  "D04-011": {
+    "license_file": "",
+    "license_name": "未发现许可证（不标为可自由复用）",
+    "readme": [
+      "readme.md",
+      "figures/readme.md"
+    ],
+    "entries": [
+      "run.sh",
+      "mobilevlm/train/train.py"
+    ],
+    "configs": [],
+    "deps": [
+      "requirements.txt"
+    ],
+    "tests": [],
+    "notebooks": [],
+    "n_files": 14,
+    "truncated_listing": false,
+    "has_gitmodules": false,
+    "has_lfs_pointers": false,
+    "code_kind": "C",
+    "missing": [
+      "配置（可能用 argparse）",
+      "测试"
+    ],
+    "level": "L1",
+    "l1_ok": true,
+    "sid": "D04-011",
+    "url": "https://github.com/fqhank/Align-KD",
+    "owner": "fqhank",
+    "repo": "Align-KD",
+    "commit": "7dc7f69d6624c09f2b2326babe2606283aad4a12",
+    "path": "code/D04-011_fqhank_Align-KD_en",
+    "official_evidence": "未核实官方归属（仅仓库存在）"
+  },
+  "D04-012": {
+    "license_file": "LICENSE",
+    "license_name": "mit license",
+    "readme": [
+      "readme.md",
+      "transformers-4.37.2/readme_zh-hans.md",
+      "transformers-4.37.2/readme_ru.md",
+      "transformers-4.37.2/readme_es.md",
+      "transformers-4.37.2/readme_te.md"
+    ],
+    "entries": [
+      "predict.py",
+      "scripts/convert_gqa_for_eval.py",
+      "scripts/convert_mmvet_for_eval.py",
+      "transformers-4.37.2/src/transformers/commands/run.py",
+      "transformers-4.37.2/src/transformers/commands/train.py",
+      "transformers-4.37.2/examples/pytorch/token-classification/run.sh",
+      "transformers-4.37.2/examples/legacy/seq2seq/run_eval.py",
+      "transformers-4.37.2/examples/legacy/seq2seq/run_distributed_eval.py",
+      "transformers-4.37.2/examples/legacy/token-classification/run.sh",
+      "transformers-4.37.2/examples/research_projects/distillation/train.py",
+      "transformers-4.37.2/examples/research_projects/seq2seq-distillation/run_eval.py",
+      "transformers-4.37.2/examples/research_projects/jax-projects/big_bird/evaluate.py"
+    ],
+    "configs": [
+      "transformers-4.37.2/.github/issue_template/config.yml",
+      "transformers-4.37.2/.circleci/config.yml",
+      "transformers-4.37.2/templates/adding_a_new_model/cookiecutter-template-{{cookiecutter.modelname}}/configuration.json",
+      "transformers-4.37.2/examples/research_projects/distillation/training_configs/distilbert-base-uncased.json",
+      "transformers-4.37.2/examples/research_projects/distillation/training_configs/distilgpt2.json",
+      "transformers-4.37.2/examples/research_projects/distillation/training_configs/distilbert-base-multilingual-cased.json",
+      "transformers-4.37.2/examples/research_projects/distillation/training_configs/distilbert-base-cased.json",
+      "transformers-4.37.2/examples/research_projects/distillation/training_configs/distilroberta-base.json",
+      "transformers-4.37.2/examples/research_projects/wav2vec2/ds_config_wav2vec2_zero3.json",
+      "transformers-4.37.2/examples/research_projects/wav2vec2/ds_config_wav2vec2_zero2.json",
+      "transformers-4.37.2/tests/deepspeed/ds_config_zero3.json",
+      "transformers-4.37.2/tests/deepspeed/ds_config_zero2.json"
+    ],
+    "deps": [
+      "pyproject.toml",
+      "transformers-4.37.2/pyproject.toml",
+      "transformers-4.37.2/setup.py",
+      "transformers-4.37.2/examples/flax/question-answering/requirements.txt",
+      "transformers-4.37.2/examples/flax/token-classification/requirements.txt",
+      "transformers-4.37.2/examples/flax/speech-recognition/requirements.txt",
+      "transformers-4.37.2/examples/flax/text-classification/requirements.txt",
+      "transformers-4.37.2/examples/flax/language-modeling/requirements.txt"
+    ],
+    "tests": [
+      "transformers-4.37.2/utils/tests_fetcher.py",
+      "transformers-4.37.2/utils/test_module/custom_tokenization.py",
+      "transformers-4.37.2/utils/test_module/custom_configuration.py",
+      "transformers-4.37.2/utils/test_module/custom_pipeline.py",
+      "transformers-4.37.2/utils/test_module/custom_modeling.py",
+      "transformers-4.37.2/utils/test_module/custom_feature_extraction.py",
+      "transformers-4.37.2/utils/test_module/custom_image_processing.py",
+      "transformers-4.37.2/utils/test_module/custom_processing.py"
+    ],
+    "notebooks": [
+      "transformers-4.37.2/examples/research_projects/movement-pruning/saving_prunebert.ipynb",
+      "transformers-4.37.2/examples/research_projects/lxmert/demo.ipynb",
+      "transformers-4.37.2/examples/research_projects/visual_bert/demo.ipynb"
+    ],
+    "n_files": 4140,
+    "truncated_listing": false,
+    "has_gitmodules": false,
+    "has_lfs_pointers": false,
+    "code_kind": "C",
+    "missing": [],
+    "level": "L1",
+    "l1_ok": true,
+    "sid": "D04-012",
+    "url": "https://github.com/shikiw/Modality-Integration-Rate",
+    "owner": "shikiw",
+    "repo": "Modality-Integration-Rate",
+    "commit": "07070b9a477a5b904c7b88a424c8f979cdd2a702",
+    "path": "code/D04-012_shikiw_Modality-Integration-Rate_en",
+    "official_evidence": "未核实官方归属（仅仓库存在）"
+  },
+  "D04-013": {
+    "license_file": "",
+    "license_name": "未发现许可证（不标为可自由复用）",
+    "readme": [
+      "readme.md",
+      "open_flamingo/eval/readme.md",
+      "open_flamingo/train/readme.md"
+    ],
+    "entries": [
+      "open_flamingo/scripts/inference.py",
+      "open_flamingo/eval/evaluate.py",
+      "open_flamingo/train/train.py"
+    ],
+    "configs": [
+      ".pre-commit-config.yaml"
+    ],
+    "deps": [
+      "requirements.txt",
+      "environment.yml",
+      "setup.py"
+    ],
+    "tests": [],
+    "notebooks": [],
+    "n_files": 89,
+    "truncated_listing": false,
+    "has_gitmodules": false,
+    "has_lfs_pointers": false,
+    "code_kind": "C",
+    "missing": [
+      "测试"
+    ],
+    "level": "L1",
+    "l1_ok": true,
+    "sid": "D04-013",
+    "url": "https://github.com/APiaoG/SymDPO",
+    "owner": "APiaoG",
+    "repo": "SymDPO",
+    "commit": "31b672a74be6272c65e14ae7542b8dc1687a5087",
+    "path": "code/D04-013_APiaoG_SymDPO_en",
+    "official_evidence": "未核实官方归属（仅仓库存在）"
+  },
+  "D04-014": {
+    "sid": "D04-014",
+    "code_kind": "D",
+    "level": "",
+    "urls": [],
+    "note": "未在摘要/评论/PDF 首页发现代码链接；未声称已检索穷尽第三方复现"
+  },
+  "D04-015": {
+    "license_file": "Aligner/LLaGA/LICENSE",
+    "license_name": "apache license",
+    "readme": [
+      "readme.md",
+      "aligner/llaga/readme.md",
+      "aligner/graphprompter/readme.md",
+      "predictors/llava/readme.md",
+      "predictors/qwen-vl/readme.md"
+    ],
+    "entries": [
+      "aligner/llaga/train.sh",
+      "aligner/llaga/train/train.py",
+      "aligner/graphprompter/eval.py",
+      "aligner/graphprompter/inference.py",
+      "aligner/graphprompter/run.sh",
+      "aligner/graphprompter/train.sh",
+      "aligner/graphprompter/train.py",
+      "aligner/graphprompter/src/utils/evaluate.py",
+      "encoder/main.py",
+      "predictors/llava/predict.py",
+      "predictors/llava/scripts/convert_gqa_for_eval.py",
+      "predictors/llava/scripts/convert_mmvet_for_eval.py"
+    ],
+    "configs": [
+      "encoder/configs/defaults.yaml",
+      "predictors/qwen-vl/finetune/ds_config_zero3.json",
+      "predictors/qwen-vl/finetune/ds_config_zero2.json"
+    ],
+    "deps": [
+      "predictors/llava/pyproject.toml",
+      "predictors/qwen-vl/requirements.txt"
+    ],
+    "tests": [
+      "predictors/llava/llava/eval/table/results/test_sqa_llava_13b_v0.json",
+      "predictors/llava/llava/eval/table/results/test_sqa_llava_lcs_558k_sqa_12e_vicuna_v1_3_13b.json",
+      "predictors/llava/llava/serve/test_message.py"
+    ],
+    "notebooks": [
+      "predictors/qwen-vl/assets/mm_tutorial/tutorial.ipynb"
+    ],
+    "n_files": 375,
+    "truncated_listing": false,
+    "has_gitmodules": false,
+    "has_lfs_pointers": false,
+    "code_kind": "A",
+    "missing": [],
+    "level": "L1",
+    "l1_ok": true,
+    "sid": "D04-015",
+    "url": "https://github.com/oamyjin/GraphVLM",
+    "owner": "oamyjin",
+    "repo": "GraphVLM",
+    "commit": "4e6c0f55b9d149b3abc354c4a62c43c2fa6d4274",
+    "path": "code/D04-015_oamyjin_GraphVLM_en",
+    "official_evidence": "疑似作者（仓库名含作者姓氏）"
+  },
+  "D04-016": {
+    "sid": "D04-016",
+    "code_kind": "D",
+    "level": "",
+    "urls": [],
+    "note": "未在摘要/评论/PDF 首页发现代码链接；未声称已检索穷尽第三方复现"
+  },
+  "D04-017": {
+    "license_file": "LICENSE",
+    "license_name": "apache license",
+    "readme": [
+      "readme.md"
+    ],
+    "entries": [
+      "train/dpo/predict.py",
+      "train/dpo/scripts/convert_gqa_for_eval.py",
+      "train/dpo/scripts/convert_mmvet_for_eval.py",
+      "train/dpo/llava/train/train.py"
+    ],
+    "configs": [
+      "curation/sample_zero-shot_grounding_rsna/medklip_config.yaml"
+    ],
+    "deps": [
+      "requirements.txt",
+      "train/dpo/pyproject.toml"
+    ],
+    "tests": [
+      "train/dpo/llava/eval/table/results/test_sqa_llava_13b_v0.json",
+      "train/dpo/llava/eval/table/results/test_sqa_llava_lcs_558k_sqa_12e_vicuna_v1_3_13b.json",
+      "train/dpo/llava/serve/test_message.py"
+    ],
+    "notebooks": [],
+    "n_files": 145,
+    "truncated_listing": false,
+    "has_gitmodules": false,
+    "has_lfs_pointers": false,
+    "code_kind": "C",
+    "missing": [],
+    "level": "L1",
+    "l1_ok": true,
+    "sid": "D04-017",
+    "url": "https://github.com/aiming-lab/MMedPO",
+    "owner": "aiming-lab",
+    "repo": "MMedPO",
+    "commit": "ec5ea4418579e6c469ee68e165f7ad8c1d2f02b2",
+    "path": "code/D04-017_aiming-lab_MMedPO_en",
+    "official_evidence": "未核实官方归属（仅仓库存在）"
+  },
+  "D04-018": {
+    "license_file": "LICENSE",
+    "license_name": "有 LICENSE 文件但未识别 SPDX/常用名称",
+    "readme": [
+      "readme.md"
+    ],
+    "entries": [
+      "main.py"
+    ],
+    "configs": [
+      "configs/autoencoder/autoencoder_kl_64x64x3.yaml",
+      "configs/autoencoder/autoencoder_kl_16x16x16.yaml",
+      "configs/autoencoder/autoencoder_kl_32x32x4.yaml",
+      "configs/autoencoder/autoencoder_kl_8x8x64.yaml",
+      "configs/fusion_anything/fusionlayer-llvip-fa-kl-4-train.yaml",
+      "configs/fusion_anything/ldm-txt2fusion.yaml",
+      "configs/fusion_anything/controlnet-llvip.yaml",
+      "configs/fusion_anything/controlnet-llvip-test.yaml",
+      "configs/fusion_anything/ldm-llvip-fa-f4-test.yaml",
+      "configs/fusion_anything/ldm-llvip-fa-f4.yaml",
+      "configs/stable-diffusion/base_train.yaml",
+      "configs/stable-diffusion/v1-inference.yaml"
+    ],
+    "deps": [
+      "environment.yaml",
+      "setup.py"
+    ],
+    "tests": [
+      "scripts/image_fusion/test_image_fusion.py",
+      "scripts/tests/test_watermark.py",
+      "ldm/modules/image_degradation/utils/test.png"
+    ],
+    "notebooks": [
+      "scripts/latent_imagenet_diffusion.ipynb"
+    ],
+    "n_files": 109,
+    "truncated_listing": false,
+    "has_gitmodules": false,
+    "has_lfs_pointers": false,
+    "code_kind": "A",
+    "missing": [],
+    "level": "L1",
+    "l1_ok": true,
+    "sid": "D04-018",
+    "url": "https://github.com/suweijian1996/DPOFusion",
+    "owner": "suweijian1996",
+    "repo": "DPOFusion",
+    "commit": "3ce599b9025e14d1fdbeffe241fd458c04737f0b",
+    "path": "code/D04-018_suweijian1996_DPOFusion_en",
+    "official_evidence": "疑似作者（仓库名含作者姓氏）"
+  },
+  "D04-019": {
+    "license_file": "LICENSE",
+    "license_name": "apache license",
+    "readme": [
+      "readme.md"
+    ],
+    "entries": [
+      "inference.py"
+    ],
+    "configs": [],
+    "deps": [],
+    "tests": [],
+    "notebooks": [],
+    "n_files": 8,
+    "truncated_listing": false,
+    "has_gitmodules": false,
+    "has_lfs_pointers": false,
+    "code_kind": "C",
+    "missing": [
+      "依赖声明",
+      "配置（可能用 argparse）",
+      "测试"
+    ],
+    "level": "L0",
+    "l1_ok": false,
+    "sid": "D04-019",
+    "url": "https://github.com/agneet42/revision",
+    "owner": "agneet42",
+    "repo": "revision",
+    "commit": "c6335e92aea81653cc465cc3dd4e6a9c2789d2da",
+    "path": "code/D04-019_agneet42_revision_en",
+    "official_evidence": "未核实官方归属（仅仓库存在）"
+  },
+  "D04-020": {
+    "license_file": "",
+    "license_name": "未发现许可证（不标为可自由复用）",
+    "readme": [
+      "readme.md"
+    ],
+    "entries": [
+      "main.py",
+      "train.py"
+    ],
+    "configs": [],
+    "deps": [
+      "requirements.txt"
+    ],
+    "tests": [],
+    "notebooks": [],
+    "n_files": 16,
+    "truncated_listing": false,
+    "has_gitmodules": false,
+    "has_lfs_pointers": false,
+    "code_kind": "A",
+    "missing": [
+      "配置（可能用 argparse）",
+      "测试"
+    ],
+    "level": "L1",
+    "l1_ok": true,
+    "sid": "D04-020",
+    "url": "https://github.com/YuboCui/AGFT",
+    "owner": "YuboCui",
+    "repo": "AGFT",
+    "commit": "0031a8fb105fbf6496d92c7e2db2ab4fa669b191",
+    "path": "code/D04-020_YuboCui_AGFT_en",
+    "official_evidence": "疑似作者（仓库名含作者姓氏）"
+  },
+  "D04-021": {
+    "license_file": "LICENSE",
+    "license_name": "apache license",
+    "readme": [
+      "readme.md",
+      "verl/utils/dataset/readme.md",
+      "verl/models/readme.md"
+    ],
+    "entries": [
+      "verl/trainer/main_eval.py"
+    ],
+    "configs": [
+      "verl/trainer/config/ppo_megatron_trainer.yaml",
+      "verl/trainer/config/ppo_trainer.yaml",
+      "verl/trainer/config/evaluation.yaml",
+      "verl/trainer/config/generation.yaml",
+      "verl/trainer/config/sft_trainer.yaml"
+    ],
+    "deps": [
+      "requirements.txt",
+      "pyproject.toml",
+      "setup.py"
+    ],
+    "tests": [
+      "assets/test_img2.png",
+      "assets/test_img.png",
+      "verl/utils/reward_score/prime_code/testing_util.py"
+    ],
+    "notebooks": [
+      "cookbooks/adaptvision.ipynb"
+    ],
+    "n_files": 233,
+    "truncated_listing": false,
+    "has_gitmodules": false,
+    "has_lfs_pointers": false,
+    "code_kind": "C",
+    "missing": [],
+    "level": "L1",
+    "l1_ok": true,
+    "sid": "D04-021",
+    "url": "https://github.com/AdaptVision/AdaptVision",
+    "owner": "AdaptVision",
+    "repo": "AdaptVision",
+    "commit": "1b53728f745396693903fde5a6e4b98c149448ea",
+    "path": "code/D04-021_AdaptVision_AdaptVision_en",
+    "official_evidence": "未核实官方归属（仅仓库存在）"
+  },
+  "D04-022": {
+    "sid": "D04-022",
+    "code_kind": "D",
+    "level": "",
+    "urls": [],
+    "note": "未在摘要/评论/PDF 首页发现代码链接；未声称已检索穷尽第三方复现"
+  },
+  "D04-023": {
+    "sid": "D04-023",
+    "code_kind": "D",
+    "level": "",
+    "urls": [],
+    "note": "未在摘要/评论/PDF 首页发现代码链接；未声称已检索穷尽第三方复现"
+  },
+  "D04-024": {
+    "sid": "D04-024",
+    "code_kind": "D",
+    "level": "",
+    "urls": [],
+    "note": "未在摘要/评论/PDF 首页发现代码链接；未声称已检索穷尽第三方复现"
+  },
+  "D04-025": {
+    "sid": "D04-025",
+    "code_kind": "D",
+    "level": "",
+    "urls": [],
+    "note": "未在摘要/评论/PDF 首页发现代码链接；未声称已检索穷尽第三方复现"
+  },
+  "D04-026": {
+    "license_file": "open_flamingo/LICENSE",
+    "license_name": "mit license",
+    "readme": [
+      "readme.md",
+      "open_flamingo/readme.md"
+    ],
+    "entries": [
+      "llava/scripts/convert_gqa_for_eval.py",
+      "llava/scripts/convert_mmvet_for_eval.py",
+      "llava/llava/train/train.py"
+    ],
+    "configs": [],
+    "deps": [
+      "requirements.txt"
+    ],
+    "tests": [
+      "llava/llava/eval/table/results/test_sqa_llava_13b_v0.json",
+      "llava/llava/eval/table/results/test_sqa_llava_lcs_558k_sqa_12e_vicuna_v1_3_13b.json",
+      "llava/llava/serve/test_message.py"
+    ],
+    "notebooks": [],
+    "n_files": 181,
+    "truncated_listing": false,
+    "has_gitmodules": false,
+    "has_lfs_pointers": false,
+    "code_kind": "C",
+    "missing": [
+      "配置（可能用 argparse）"
+    ],
+    "level": "L1",
+    "l1_ok": true,
+    "sid": "D04-026",
+    "url": "https://github.com/peterant330/KUEA",
+    "owner": "peterant330",
+    "repo": "KUEA",
+    "commit": "277499e4918a4c4a7b0261e6b51255b0b9a138ca",
+    "path": "code/D04-026_peterant330_KUEA_en",
+    "official_evidence": "未核实官方归属（仅仓库存在）"
+  },
+  "D04-027": {
+    "sid": "D04-027",
+    "code_kind": "D",
+    "level": "",
+    "urls": [],
+    "note": "未在摘要/评论/PDF 首页发现代码链接；未声称已检索穷尽第三方复现"
+  },
+  "D04-029": {
+    "license_file": "LICENSE",
+    "license_name": "apache license",
+    "readme": [
+      "readme.md"
+    ],
+    "entries": [
+      "train.sh",
+      "src/open-r1-multimodal/src/open_r1/evaluate.py"
+    ],
+    "configs": [
+      "src/open-r1-multimodal/local_scripts/zero_stage2_config.json",
+      "src/open-r1-multimodal/configs/qwen2vl_sft_config.yaml",
+      "src/open-r1-multimodal/configs/ddp.yaml",
+      "src/open-r1-multimodal/configs/zero2.yaml",
+      "src/open-r1-multimodal/configs/zero3.yaml",
+      "src/open-r1-multimodal/data_config/rec_internvl.yaml",
+      "src/open-r1-multimodal/data_config/rec.yaml"
+    ],
+    "deps": [
+      "src/open-r1-multimodal/setup.py",
+      "src/open-r1-multimodal/setup.cfg"
+    ],
+    "tests": [
+      "src/eval/test_rec_r1_internvl.py",
+      "src/eval/test_od_r1.py",
+      "src/eval/test_rec_baseline.py",
+      "src/eval/test_rec_r1.py"
+    ],
+    "notebooks": [],
+    "n_files": 69,
+    "truncated_listing": false,
+    "has_gitmodules": false,
+    "has_lfs_pointers": false,
+    "code_kind": "C",
+    "missing": [],
+    "level": "L1",
+    "l1_ok": true,
+    "sid": "D04-029",
+    "url": "https://github.com/ZJUSCL/ADPO",
+    "owner": "ZJUSCL",
+    "repo": "ADPO",
+    "commit": "d828669ff22d6578c8805cea1de8ad5a0b0fac3c",
+    "path": "code/D04-029_ZJUSCL_ADPO_en",
+    "official_evidence": "未核实官方归属（仅仓库存在）"
+  },
+  "D04-030": {
+    "license_file": "",
+    "license_name": "未发现许可证（不标为可自由复用）",
+    "readme": [
+      "readme.md",
+      "training/readme.md"
+    ],
+    "entries": [
+      "index/main.py",
+      "training/train.py"
+    ],
+    "configs": [
+      "training/src/configs/ds_z2_config.json",
+      "training/src/configs/ds_z3_offload_config.json",
+      "training/src/configs/ds_z3_config.json",
+      "training/src/configs/project_config.json"
+    ],
+    "deps": [
+      "requirements.txt"
+    ],
+    "tests": [],
+    "notebooks": [],
+    "n_files": 41,
+    "truncated_listing": false,
+    "has_gitmodules": false,
+    "has_lfs_pointers": false,
+    "code_kind": "C",
+    "missing": [
+      "测试"
+    ],
+    "level": "L1",
+    "l1_ok": true,
+    "sid": "D04-030",
+    "url": "https://github.com/Fwibo/ToolWeaver",
+    "owner": "Fwibo",
+    "repo": "ToolWeaver",
+    "commit": "2e12a31757a45c0e3d47fd6724162d7bfc22712e",
+    "path": "code/D04-030_Fwibo_ToolWeaver_en",
+    "official_evidence": "未核实官方归属（仅仓库存在）"
+  },
+  "D04-031": {
+    "sid": "D04-031",
+    "code_kind": "D",
+    "level": "",
+    "urls": [],
+    "note": "未在摘要/评论/PDF 首页发现代码链接；未声称已检索穷尽第三方复现"
+  },
+  "D04-032": {
+    "license_file": "LICENSE",
+    "license_name": "mit license",
+    "readme": [
+      "readme.md",
+      "assets/readme.md"
+    ],
+    "entries": [
+      "lavis/evaluate.py",
+      "lavis/train.py",
+      "lavis/lavis/common/vqa_tools/vqa_eval.py",
+      "minigpt-4/demo.py",
+      "minigpt-4/evaluate.py",
+      "minigpt-4/train.py",
+      "minigpt-4/minigpt4/common/vqa_tools/vqa_eval.py"
+    ],
+    "configs": [
+      "lavis/lavis/configs/default.yaml",
+      "lavis/lavis/configs/models/clip_vit_base16.yaml",
+      "lavis/lavis/configs/models/med_large_config.json",
+      "lavis/lavis/configs/models/clip_vit_large14.yaml",
+      "lavis/lavis/configs/models/albef_vqav2.yaml",
+      "lavis/lavis/configs/models/gpt_dialogue_base.yaml",
+      "lavis/lavis/configs/models/bert_config_alpro.json",
+      "lavis/lavis/configs/models/med_config_albef.json",
+      "lavis/lavis/configs/models/blip_itm_large.yaml",
+      "lavis/lavis/configs/models/blip_itm_base.yaml",
+      "lavis/lavis/configs/models/blip_caption_large_coco.yaml",
+      "lavis/lavis/configs/models/albef_pretrain_base.yaml"
+    ],
+    "deps": [
+      "lavis/requirements.txt",
+      "lavis/setup.py",
+      "minigpt-4/environment.yml"
+    ],
+    "tests": [],
+    "notebooks": [],
+    "n_files": 234,
+    "truncated_listing": false,
+    "has_gitmodules": false,
+    "has_lfs_pointers": false,
+    "code_kind": "C",
+    "missing": [
+      "测试"
+    ],
+    "level": "L1",
+    "l1_ok": true,
+    "sid": "D04-032",
+    "url": "https://github.com/archiki/RepARe",
+    "owner": "archiki",
+    "repo": "RepARe",
+    "commit": "d45028cebda5b9102dcfba3ff26d94eda1d083b6",
+    "path": "code/D04-032_archiki_RepARe_en",
+    "official_evidence": "未核实官方归属（仅仓库存在）"
+  },
+  "D04-033": {
+    "license_file": "LICENSE",
+    "license_name": "apache license",
+    "readme": [
+      "readme.md",
+      "evaluation/readme.md",
+      "rl-stage/readme.md",
+      "rl-stage/verl/readme.md",
+      "rl-stage/verl/verl/utils/reward_score/prime_code/readme.md"
+    ],
+    "entries": [
+      "rl-stage/verl/verl/trainer/main_eval.py",
+      "sft-stage/llama-factory/src/train.py",
+      "sft-stage/llama-factory/src/llamafactory/webui/components/eval.py",
+      "sft-stage/llama-factory/src/llamafactory/webui/components/train.py",
+      "sft-stage/llama-factory/examples/extras/fsdp_qlora/train.sh",
+      "orthomind-3d-synthetic/block-count-synthetic/run.sh"
+    ],
+    "configs": [
+      "rl-stage/verl/.pre-commit-config.yaml",
+      "rl-stage/verl/verl/experimental/vla/config/rob_ppo_trainer.yaml",
+      "rl-stage/verl/verl/experimental/fully_async_policy/config/fully_async_ppo_megatron_trainer.yaml",
+      "rl-stage/verl/verl/experimental/fully_async_policy/config/fully_async_ppo_trainer.yaml",
+      "rl-stage/verl/verl/experimental/transfer_queue/config/transfer_queue_ppo_megatron_trainer.yaml",
+      "rl-stage/verl/verl/experimental/transfer_queue/config/transfer_queue_ppo_trainer.yaml",
+      "rl-stage/verl/verl/experimental/one_step_off_policy/config/one_step_off_ppo_trainer.yaml",
+      "rl-stage/verl/verl/experimental/one_step_off_policy/config/one_step_off_ppo_megatron_trainer.yaml",
+      "rl-stage/verl/verl/trainer/config/ppo_megatron_trainer.yaml",
+      "rl-stage/verl/verl/trainer/config/reward_manager.yaml",
+      "rl-stage/verl/verl/trainer/config/ppo_trainer.yaml",
+      "rl-stage/verl/verl/trainer/config/sft_trainer_engine.yaml"
+    ],
+    "deps": [
+      "requirements.txt",
+      "rl-stage/verl/requirements.txt",
+      "rl-stage/verl/pyproject.toml",
+      "rl-stage/verl/setup.py",
+      "sft-stage/llama-factory/requirements.txt",
+      "sft-stage/llama-factory/pyproject.toml",
+      "sft-stage/llama-factory/setup.py"
+    ],
+    "tests": [
+      "rl-stage/verl/verl/utils/reward_score/prime_code/testing_util.py",
+      "rl-stage/verl/examples/gspo_trainer/test_gspo_3b_math.sh",
+      "rl-stage/verl/examples/gspo_trainer/test_gspo_3b_math_slurm.sh",
+      "rl-stage/verl/examples/gspo_trainer/test_gspo_qwen30b_a3b_ep.sh",
+      "rl-stage/verl/examples/gmpo_trainer/test_dapo_7b_math.sh",
+      "rl-stage/verl/examples/gmpo_trainer/test_dapo_qwen3_30b_math.sh",
+      "sft-stage/llama-factory/src/llamafactory/train/test_utils.py",
+      "sft-stage/llama-factory/scripts/api_example/test_toolcall.py"
+    ],
+    "notebooks": [
+      "rl-stage/verl/examples/ray/tutorial.ipynb",
+      "rl-stage/verl/examples/tutorial/agent_loop_get_started/agent_loop_tutorial.ipynb"
+    ],
+    "n_files": 1015,
+    "truncated_listing": false,
+    "has_gitmodules": false,
+    "has_lfs_pointers": false,
+    "code_kind": "C",
+    "missing": [],
+    "level": "L1",
+    "l1_ok": true,
+    "sid": "D04-033",
+    "url": "https://github.com/Jasaxion/3ViewSense",
+    "owner": "Jasaxion",
+    "repo": "3ViewSense",
+    "commit": "9439d901829923d0541007e24d9d718320ee1e15",
+    "path": "code/D04-033_Jasaxion_3ViewSense_en",
+    "official_evidence": "未核实官方归属（仅仓库存在）"
+  },
+  "D04-034": {
+    "license_file": "LICENSE",
+    "license_name": "mit license",
+    "readme": [
+      "readme.md"
+    ],
+    "entries": [],
+    "configs": [],
+    "deps": [
+      "requirements.txt"
+    ],
+    "tests": [],
+    "notebooks": [
+      "regionaldiffusion_playground.ipynb"
+    ],
+    "n_files": 50,
+    "truncated_listing": false,
+    "has_gitmodules": false,
+    "has_lfs_pointers": false,
+    "code_kind": "B",
+    "missing": [
+      "仅部分实现可见"
+    ],
+    "level": "L0",
+    "l1_ok": false,
+    "sid": "D04-034",
+    "url": "https://github.com/YangLing0818/RPG-DiffusionMaster",
+    "owner": "YangLing0818",
+    "repo": "RPG-DiffusionMaster",
+    "commit": "c92a8d1a7495e641196d16c2203bd6af427a28ea",
+    "path": "code/D04-034_YangLing0818_RPG-DiffusionMaster_en",
+    "official_evidence": "疑似作者（仓库名含作者姓氏）"
+  },
+  "D04-035": {
+    "license_file": "Math/evaluation/latex2sympy/LICENSE.txt",
+    "license_name": "mit license",
+    "readme": [
+      "readme.md",
+      "math/readme.md",
+      "math/readme_zh.md",
+      "math/evaluation/latex2sympy/readme.md",
+      "multimodal/readme.md"
+    ],
+    "entries": [
+      "math/train/run.sh",
+      "math/evaluation/scripts/math_eval.py",
+      "math/evaluation/scripts/evaluate.py",
+      "math/data_generation/scripts/utils/evaluate.py",
+      "textual/train/run.sh"
+    ],
+    "configs": [
+      "math/train/configs/qwen2.5-math-7b-uni-dpo.yaml",
+      "math/train/accelerate_configs/zero0.yaml",
+      "math/train/accelerate_configs/zero2.yaml",
+      "math/train/accelerate_configs/zero3_offload.yaml",
+      "math/train/accelerate_configs/zero3.yaml",
+      "multimodal/vlmevalkit/config.json",
+      "textual/train/configs/qwen2.5-3b.yaml",
+      "textual/train/configs/llama-3-8b-base-sft.yaml",
+      "textual/train/configs/qwen2.5-7b.yaml",
+      "textual/train/configs/qwen2.5-0.5b.yaml",
+      "textual/train/configs/llama-3-8b-instruct-v2-gpt-4o.yaml",
+      "textual/train/configs/llama-3-8b-base-sft-v2-qwen.yaml"
+    ],
+    "deps": [
+      "math/evaluation/requirements.txt",
+      "math/evaluation/latex2sympy/requirements.txt",
+      "math/evaluation/latex2sympy/setup.py",
+      "math/evaluation/latex2sympy/setup.cfg"
+    ],
+    "tests": [
+      "math/evaluation/latex2sympy/tests/variable_test.py",
+      "math/evaluation/latex2sympy/tests/binomial_test.py",
+      "math/evaluation/latex2sympy/tests/complex_test.py",
+      "math/evaluation/latex2sympy/tests/grouping_test.py",
+      "math/evaluation/latex2sympy/tests/exp_test.py",
+      "math/evaluation/latex2sympy/tests/greek_test.py",
+      "math/evaluation/latex2sympy/tests/mod_test.py",
+      "math/evaluation/latex2sympy/tests/atom_expr_test.py"
+    ],
+    "notebooks": [],
+    "n_files": 154,
+    "truncated_listing": false,
+    "has_gitmodules": false,
+    "has_lfs_pointers": false,
+    "code_kind": "C",
+    "missing": [],
+    "level": "L1",
+    "l1_ok": true,
+    "sid": "D04-035",
+    "url": "https://github.com/pspdada/Uni-DPO",
+    "owner": "pspdada",
+    "repo": "Uni-DPO",
+    "commit": "c29535e09de2acc236aa9fc18f02b10ad93c2fe4",
+    "path": "code/D04-035_pspdada_Uni-DPO_en",
+    "official_evidence": "未核实官方归属（仅仓库存在）"
+  },
+  "D04-036": {
+    "license_file": "LICENSE",
+    "license_name": "apache license",
+    "readme": [
+      "readme.md"
+    ],
+    "entries": [
+      "muffin/muffin/eval/inference.py",
+      "llava/train/train.py"
+    ],
+    "configs": [],
+    "deps": [
+      "pyproject.toml",
+      "muffin/pyproject.toml"
+    ],
+    "tests": [],
+    "notebooks": [],
+    "n_files": 68,
+    "truncated_listing": false,
+    "has_gitmodules": false,
+    "has_lfs_pointers": false,
+    "code_kind": "C",
+    "missing": [
+      "配置（可能用 argparse）",
+      "测试"
+    ],
+    "level": "L1",
+    "l1_ok": true,
+    "sid": "D04-036",
+    "url": "https://github.com/LVUGAI/CHiP",
+    "owner": "LVUGAI",
+    "repo": "CHiP",
+    "commit": "e7f5193236e12bd565b99a6bf940e3ddc027a02f",
+    "path": "code/D04-036_LVUGAI_CHiP_en",
+    "official_evidence": "未核实官方归属（仅仓库存在）"
+  },
+  "D04-037": {
+    "license_file": "",
+    "license_name": "未发现许可证（不标为可自由复用）",
+    "readme": [
+      "readme.md",
+      "vlm_description/readme.md",
+      "vlm_cross_checking/readme.md",
+      "llm_summarization/readme.md",
+      "resampling/readme.md"
+    ],
+    "entries": [],
+    "configs": [],
+    "deps": [],
+    "tests": [],
+    "notebooks": [],
+    "n_files": 27,
+    "truncated_listing": false,
+    "has_gitmodules": false,
+    "has_lfs_pointers": false,
+    "code_kind": "B",
+    "missing": [
+      "仅部分实现可见"
+    ],
+    "level": "L0",
+    "l1_ok": false,
+    "sid": "D04-037",
+    "url": "https://github.com/CihangPeng/ROVI",
+    "owner": "CihangPeng",
+    "repo": "ROVI",
+    "commit": "c311b328686ac4e4bc11e66715790507ec52ec38",
+    "path": "code/D04-037_CihangPeng_ROVI_en",
+    "official_evidence": "疑似作者（仓库名含作者姓氏）"
+  },
+  "D04-038": {
+    "license_file": "LICENSE",
+    "license_name": "mit license",
+    "readme": [
+      "readme.md"
+    ],
+    "entries": [],
+    "configs": [
+      "configs/imagenet_r.yaml",
+      "configs/imagenet_a.yaml",
+      "configs/ucf101.yaml",
+      "configs/fgvc.yaml",
+      "configs/stanford_cars.yaml",
+      "configs/oxford_pets.yaml",
+      "configs/dtd.yaml",
+      "configs/oxford_flowers.yaml",
+      "configs/imagenet_s.yaml",
+      "configs/imagenet_v.yaml",
+      "configs/food101.yaml",
+      "configs/sun397.yaml"
+    ],
+    "deps": [
+      "requirements.txt"
+    ],
+    "tests": [],
+    "notebooks": [],
+    "n_files": 30,
+    "truncated_listing": false,
+    "has_gitmodules": false,
+    "has_lfs_pointers": false,
+    "code_kind": "B",
+    "missing": [
+      "仅部分实现可见"
+    ],
+    "level": "L0",
+    "l1_ok": false,
+    "sid": "D04-038",
+    "url": "https://github.com/xinqi-fan/TT-RAA",
+    "owner": "xinqi-fan",
+    "repo": "TT-RAA",
+    "commit": "21e0b5bbf1daa0bee1f9e549d9c4e6c86d3e6f00",
+    "path": "code/D04-038_xinqi-fan_TT-RAA_en",
+    "official_evidence": "疑似作者（仓库名含作者姓氏）"
+  },
+  "D04-039": {
+    "license_file": "",
+    "license_name": "未发现许可证（不标为可自由复用）",
+    "readme": [
+      "readme.md"
+    ],
+    "entries": [
+      "inference/minigpt4/inference_1phase/evaluate.py",
+      "inference/llava/inference_1phase/evaluate.py"
+    ],
+    "configs": [],
+    "deps": [],
+    "tests": [],
+    "notebooks": [],
+    "n_files": 37,
+    "truncated_listing": false,
+    "has_gitmodules": false,
+    "has_lfs_pointers": false,
+    "code_kind": "A",
+    "missing": [
+      "依赖声明",
+      "配置（可能用 argparse）",
+      "测试"
+    ],
+    "level": "L0",
+    "l1_ok": false,
+    "sid": "D04-039",
+    "url": "https://github.com/ChaduCheng/TypoDeceptions",
+    "owner": "ChaduCheng",
+    "repo": "TypoDeceptions",
+    "commit": "016a790a79aa78795d6f235a182a67ce2cc4d1ab",
+    "path": "code/D04-039_ChaduCheng_TypoDeceptions_en",
+    "official_evidence": "疑似作者（仓库名含作者姓氏）"
+  },
+  "D04-040": {
+    "sid": "D04-040",
+    "code_kind": "D",
+    "level": "",
+    "urls": [],
+    "note": "未在摘要/评论/PDF 首页发现代码链接；未声称已检索穷尽第三方复现"
+  },
+  "D04-041": {
+    "license_file": "LICENSE",
+    "license_name": "mit license",
+    "readme": [
+      "readme.md"
+    ],
+    "entries": [
+      "train.sh",
+      "dassl/tools/train.py"
+    ],
+    "configs": [
+      "configs/trainers/promptfl/vit_b16.yaml",
+      "configs/trainers/promptfl/vit_b16_ep50.yaml",
+      "configs/trainers/promptfl/rn50_ep50.yaml",
+      "configs/trainers/promptfl/rn50.yaml",
+      "configs/trainers/promptfl/local.yaml",
+      "configs/trainers/pfedmoap/vit_b16.yaml",
+      "configs/trainers/pfedmoap/vit_b16_backup.yaml",
+      "configs/trainers/pfedmoap/vit_b16_ep50.yaml",
+      "configs/trainers/pfedmoap/rn50.yaml",
+      "configs/trainers/pfedmoap/local.yaml"
+    ],
+    "deps": [
+      "requirements.txt"
+    ],
+    "tests": [],
+    "notebooks": [],
+    "n_files": 90,
+    "truncated_listing": false,
+    "has_gitmodules": false,
+    "has_lfs_pointers": false,
+    "code_kind": "C",
+    "missing": [
+      "测试"
+    ],
+    "level": "L1",
+    "l1_ok": true,
+    "sid": "D04-041",
+    "url": "https://github.com/ljaiverson/pFedMoAP",
+    "owner": "ljaiverson",
+    "repo": "pFedMoAP",
+    "commit": "a481de35edc7c83244709f540f5fe573df4455dc",
+    "path": "code/D04-041_ljaiverson_pFedMoAP_en",
+    "official_evidence": "未核实官方归属（仅仓库存在）"
+  },
+  "D04-042": {
+    "license_file": "LICENSE",
+    "license_name": "mit license",
+    "readme": [
+      "readme.md",
+      "infinigen/readme.md",
+      "infinigen/process_mesh/dependencies/scharstein_flow_viz/readme.txt",
+      "infinigen/worldgen/tools/export/readme.md",
+      "infinigen/worldgen/tools/dev/palette/readme.md"
+    ],
+    "entries": [
+      "llava_hf/inference.py",
+      "llava_hf/train.py"
+    ],
+    "configs": [
+      "infinigen/worldgen/config/palette/desert.json",
+      "infinigen/worldgen/config/palette/water.json",
+      "infinigen/worldgen/config/palette/sandstone.json",
+      "infinigen/worldgen/config/palette/mountain soil.json"
+    ],
+    "deps": [
+      "environment.yml",
+      "infinigen/requirements.txt",
+      "infinigen/worldgen/terrain/setup.py"
+    ],
+    "tests": [
+      "infinigen/worldgen/tools/testing/test_infinigen.py",
+      "infinigen/worldgen/tools/testing/conftest.py",
+      "infinigen/worldgen/tools/testing/run_tests.sh"
+    ],
+    "notebooks": [],
+    "n_files": 768,
+    "truncated_listing": false,
+    "has_gitmodules": false,
+    "has_lfs_pointers": false,
+    "code_kind": "A",
+    "missing": [],
+    "level": "L1",
+    "l1_ok": true,
+    "sid": "D04-042",
+    "url": "https://github.com/mit-gfx/VLMaterial",
+    "owner": "mit-gfx",
+    "repo": "VLMaterial",
+    "commit": "5193dadfdd3d2e9e08f8ad8d970bc7538b2ee3f0",
+    "path": "code/D04-042_mit-gfx_VLMaterial_en",
+    "official_evidence": "疑似官方机构/实验室组织"
+  },
+  "D04-043": {
+    "license_file": "LICENSE",
+    "license_name": "apache license",
+    "readme": [
+      "readme.md",
+      "ovqa/annotations/imagenet1k/external/readme.md",
+      "ovqa/common/ovad/readme.md"
+    ],
+    "entries": [
+      "ovqa/common/lavis/vqa_tools/vqa_eval.py"
+    ],
+    "configs": [
+      "ovqa/configs/lavis_datasets/coco/defaults_cap.yaml",
+      "ovqa/configs/lavis_datasets/coco/defaults_ret.yaml",
+      "ovqa/configs/lavis_datasets/gqa/balanced_testdev.yaml",
+      "ovqa/configs/lavis_datasets/gqa/eval.yaml",
+      "ovqa/configs/lavis_datasets/gqa/balanced_val.yaml",
+      "ovqa/configs/lavis_datasets/vqav2/eval.yaml",
+      "ovqa/configs/retrieval_projects/retrieval~imagenet1k~val/openclip-eva01~zs.yaml",
+      "ovqa/configs/retrieval_projects/retrieval~imagenet1k~val/blip2-nolm~coco~zs.yaml",
+      "ovqa/configs/retrieval_projects/retrieval~imagenet1k~val/clip-openai~zs.yaml",
+      "ovqa/configs/retrieval_projects/retrieval~imagenet1k~val/blip2-nolm~pt~zs.yaml",
+      "ovqa/configs/retrieval_projects/retrieval~imagenet1k-square~val/openclip-eva01~zs.yaml",
+      "ovqa/configs/retrieval_projects/retrieval~imagenet1k-square~val/blip2-nolm~coco~zs.yaml"
+    ],
+    "deps": [
+      "requirements.txt",
+      "pyproject.toml"
+    ],
+    "tests": [
+      "tests/ovqa/test_imports_ovqa.py",
+      "tests/ovqa/textutils/test_embedder.py"
+    ],
+    "notebooks": [],
+    "n_files": 517,
+    "truncated_listing": false,
+    "has_gitmodules": false,
+    "has_lfs_pointers": false,
+    "code_kind": "C",
+    "missing": [],
+    "level": "L1",
+    "l1_ok": true,
+    "sid": "D04-043",
+    "url": "https://github.com/lmb-freiburg/ovqa",
+    "owner": "lmb-freiburg",
+    "repo": "ovqa",
+    "commit": "84989fe1136cf9761174cd4e8c87dba5a921bb28",
+    "path": "code/D04-043_lmb-freiburg_ovqa_en",
+    "official_evidence": "未核实官方归属（仅仓库存在）"
+  },
+  "D04-044": {
+    "license_file": "LICENSE",
+    "license_name": "有 LICENSE 文件但未识别 SPDX/常用名称",
+    "readme": [
+      "readme.md"
+    ],
+    "entries": [],
+    "configs": [],
+    "deps": [
+      "requirements.txt"
+    ],
+    "tests": [],
+    "notebooks": [],
+    "n_files": 14,
+    "truncated_listing": false,
+    "has_gitmodules": false,
+    "has_lfs_pointers": false,
+    "code_kind": "B",
+    "missing": [
+      "仅部分实现可见"
+    ],
+    "level": "L0",
+    "l1_ok": false,
+    "sid": "D04-044",
+    "url": "https://github.com/facebookresearch/RA-DIT",
+    "owner": "facebookresearch",
+    "repo": "RA-DIT",
+    "commit": "754c76e159c3bc3c2134de355f113ee96c931a9a",
+    "path": "code/D04-044_facebookresearch_RA-DIT_en",
+    "official_evidence": "疑似官方机构/实验室组织"
+  },
+  "D04-045": {
+    "sid": "D04-045",
+    "code_kind": "D",
+    "level": "",
+    "urls": [],
+    "note": "未在摘要/评论/PDF 首页发现代码链接；未声称已检索穷尽第三方复现"
+  },
+  "D04-046": {
+    "license_file": "",
+    "license_name": "未发现许可证（不标为可自由复用）",
+    "readme": [
+      "readme.md"
+    ],
+    "entries": [],
+    "configs": [],
+    "deps": [],
+    "tests": [
+      "tablegls/test_data/mmtab-eval_test_data_22k.json",
+      "disco/test_data/mmtab-eval_understanding_test_data_6k.json"
+    ],
+    "notebooks": [],
+    "n_files": 20,
+    "truncated_listing": false,
+    "has_gitmodules": false,
+    "has_lfs_pointers": true,
+    "code_kind": "B",
+    "missing": [
+      "仅部分实现可见"
+    ],
+    "level": "L0",
+    "l1_ok": false,
+    "sid": "D04-046",
+    "url": "https://github.com/AAAndy-Zhu/TableVLM",
+    "owner": "AAAndy-Zhu",
+    "repo": "TableVLM",
+    "commit": "9140cb91205f56fd1de4e5ff4716f6d3ab45cf80",
+    "path": "code/D04-046_AAAndy-Zhu_TableVLM_en",
+    "official_evidence": "疑似作者（仓库名含作者姓氏）"
+  },
+  "D04-047": {
+    "license_file": "LICENSE",
+    "license_name": "apache license",
+    "readme": [
+      "readme.md",
+      ".github/workflows/readme.md",
+      "recipe/readme.md",
+      "recipe/fapo/readme.md",
+      "recipe/vla/readme.md"
+    ],
+    "entries": [
+      "recipe/r1/main_eval.py",
+      "verl/trainer/main_eval.py",
+      "train_script/train.sh",
+      "tests/single_controller/check_worker_alive/main.py",
+      "tests/single_controller/detached_worker/run.sh"
+    ],
+    "configs": [
+      ".pre-commit-config.yaml",
+      ".github/issue_template/config.yml",
+      "recipe/fapo/config/rm_config.yaml",
+      "recipe/prime/config/prime_trainer.yaml",
+      "recipe/vla/config/rob_ppo_trainer.yaml",
+      "recipe/gkd/config/runtime_env.yaml",
+      "recipe/gkd/config/on_policy_distill_trainer.yaml",
+      "recipe/collabllm/config/agent.yaml",
+      "recipe/collabllm/config/collabllm_interaction_config.yaml",
+      "recipe/fully_async_policy/config/fully_async_ppo_megatron_trainer.yaml",
+      "recipe/fully_async_policy/config/fully_async_ppo_trainer.yaml",
+      "recipe/spin/config/spin_trainer.yaml"
+    ],
+    "deps": [
+      "requirements.txt",
+      "pyproject.toml",
+      "setup.py"
+    ],
+    "tests": [
+      "recipe/gkd/test_qwen_sglang.sh",
+      "recipe/gkd/test_teacher_server.py",
+      "recipe/gkd/test_qwen.sh",
+      "recipe/dapo/test_dapo_qwen3_30b_math_single_node.sh",
+      "recipe/dapo/test_dapo_glm_air_megatron.sh",
+      "recipe/dapo/test_dapo_8b_megatron_fp16.sh",
+      "recipe/dapo/test_dapo_gptoss_20b_megatron.sh",
+      "recipe/dapo/test_dapo_dspk_671b_megatron_96gb.sh"
+    ],
+    "notebooks": [
+      "examples/ray/tutorial.ipynb",
+      "examples/tutorial/agent_loop_get_started/agent_loop_tutorial.ipynb"
+    ],
+    "n_files": 1176,
+    "truncated_listing": false,
+    "has_gitmodules": false,
+    "has_lfs_pointers": false,
+    "code_kind": "C",
+    "missing": [],
+    "level": "L1",
+    "l1_ok": true,
+    "sid": "D04-047",
+    "url": "https://github.com/Tunanzzz/Meerkat-VL",
+    "owner": "Tunanzzz",
+    "repo": "Meerkat-VL",
+    "commit": "9ecb79281492bd491ef65f72647bcef893cba4fa",
+    "path": "code/D04-047_Tunanzzz_Meerkat-VL_en",
+    "official_evidence": "未核实官方归属（仅仓库存在）"
+  },
+  "D04-048": {
+    "license_file": "minigpt4/common/vqa_tools/VQA/license.txt",
+    "license_name": "有 LICENSE 文件但未识别 SPDX/常用名称",
+    "readme": [
+      "readme.md",
+      "minigpt4/common/vqa_tools/vqa/readme.md",
+      "docs/readme.md"
+    ],
+    "entries": [
+      "train.py",
+      "minigpt4/common/vqa_tools/vqa_eval.py"
+    ],
+    "configs": [
+      "eval_configs/eval_emotion_emer.yaml",
+      "eval_configs/demo.yaml",
+      "eval_configs/eval_emotion.yaml",
+      "minigpt4/configs/default.yaml",
+      "minigpt4/configs/models/minigpt_v2.yaml",
+      "minigpt4/configs/models/minigpt4_llama2.yaml",
+      "minigpt4/configs/models/minigpt4_vicuna0.yaml",
+      "train_configs/minigptv2_tuning_stage_2.yaml",
+      "train_configs/emotion-llama_finetune.yaml",
+      "docs/_config.yml"
+    ],
+    "deps": [
+      "requirements.txt",
+      "environment.yaml"
+    ],
+    "tests": [
+      "tests/test_evaluation.py",
+      "tests/test_first_face_dataset.py",
+      "tests/test_inference_runtime.py",
+      "tests/test_mer2024_dataset.py",
+      "tests/test_batch_infer.py",
+      "tests/test_training_validation.py",
+      "tests/test_conversation_audio.py"
+    ],
+    "notebooks": [],
+    "n_files": 142,
+    "truncated_listing": false,
+    "has_gitmodules": false,
+    "has_lfs_pointers": false,
+    "code_kind": "A",
+    "missing": [],
+    "level": "L1",
+    "l1_ok": true,
+    "sid": "D04-048",
+    "url": "https://github.com/ZebangCheng/Emotion-LLaMA",
+    "owner": "ZebangCheng",
+    "repo": "Emotion-LLaMA",
+    "commit": "6f8d05087b2a91e445ad986545977fda7eb1b6a4",
+    "path": "code/D04-048_ZebangCheng_Emotion-LLaMA_en",
+    "official_evidence": "疑似作者（仓库名含作者姓氏）"
+  },
+  "D04-049": {
+    "license_file": "",
+    "license_name": "未发现许可证（不标为可自由复用）",
+    "readme": [
+      "readme.md"
+    ],
+    "entries": [
+      "evaluate.py",
+      "train.py"
+    ],
+    "configs": [
+      "config_file/stage2.yaml",
+      "config_file/eval.yaml",
+      "config_file/stage1.yaml"
+    ],
+    "deps": [
+      "requirements.txt"
+    ],
+    "tests": [],
+    "notebooks": [],
+    "n_files": 27,
+    "truncated_listing": false,
+    "has_gitmodules": false,
+    "has_lfs_pointers": false,
+    "code_kind": "C",
+    "missing": [
+      "测试"
+    ],
+    "level": "L1",
+    "l1_ok": true,
+    "sid": "D04-049",
+    "url": "https://github.com/mlvlab/LLaMo",
+    "owner": "mlvlab",
+    "repo": "LLaMo",
+    "commit": "a48b3dae2e49534ac2211ba56d04c2bad76c3220",
+    "path": "code/D04-049_mlvlab_LLaMo_en",
+    "official_evidence": "未核实官方归属（仅仓库存在）"
+  },
+  "D04-050": {
+    "license_file": "",
+    "license_name": "未发现许可证（不标为可自由复用）",
+    "readme": [
+      "readme.md"
+    ],
+    "entries": [],
+    "configs": [],
+    "deps": [],
+    "tests": [],
+    "notebooks": [],
+    "n_files": 7,
+    "truncated_listing": false,
+    "has_gitmodules": false,
+    "has_lfs_pointers": false,
+    "code_kind": "C",
+    "missing": [
+      "仅部分实现可见"
+    ],
+    "level": "L0",
+    "l1_ok": false,
+    "sid": "D04-050",
+    "url": "https://github.com/cisnlp/multypo",
+    "owner": "cisnlp",
+    "repo": "multypo",
+    "commit": "ecd72d1927bec8e4bb3b3d09dcccc04dadeef28d",
+    "path": "code/D04-050_cisnlp_multypo_en",
+    "official_evidence": "未核实官方归属（仅仓库存在）"
+  },
+  "D04-051": {
+    "license_file": "LICENSE",
+    "license_name": "apache license",
+    "readme": [
+      "readme.md",
+      "recipes/constitutional-ai/readme.md",
+      "recipes/pref_align_scan/readme.md",
+      "recipes/zephyr-7b-beta/readme.md",
+      "recipes/smollm/readme.md"
+    ],
+    "entries": [],
+    "configs": [
+      "recipes/constitutional-ai/sft/config_grok.yaml",
+      "recipes/constitutional-ai/sft/config_anthropic.yaml",
+      "recipes/constitutional-ai/dpo/config_anthropic.yaml",
+      "recipes/pref_align_scan/dpo/config_openhermes.yaml",
+      "recipes/pref_align_scan/dpo/config_zephyr.yaml",
+      "recipes/zephyr-7b-beta/sft/config_qlora.yaml",
+      "recipes/zephyr-7b-beta/sft/config_full.yaml",
+      "recipes/zephyr-7b-beta/dpo/config_qlora.yaml",
+      "recipes/zephyr-7b-beta/dpo/config_full.yaml",
+      "recipes/smollm/sft/config.yaml",
+      "recipes/zephyr-7b-gemma/sft/config_full.yaml",
+      "recipes/zephyr-7b-gemma/dpo/config_full.yaml"
+    ],
+    "deps": [
+      "setup.py",
+      "setup.cfg"
+    ],
+    "tests": [
+      ".github/workflows/tests.yml",
+      "tests/test_data.py",
+      "tests/__init__.py",
+      "tests/fixtures/config_sft_full.yaml",
+      "tests/fixtures/config_dpo_full.yaml"
+    ],
+    "notebooks": [],
+    "n_files": 61,
+    "truncated_listing": false,
+    "has_gitmodules": false,
+    "has_lfs_pointers": false,
+    "code_kind": "B",
+    "missing": [
+      "仅部分实现可见"
+    ],
+    "level": "L0",
+    "l1_ok": false,
+    "sid": "D04-051",
+    "url": "https://github.com/RitianLuo/logits-sam-dpo",
+    "owner": "RitianLuo",
+    "repo": "logits-sam-dpo",
+    "commit": "b0d47d7314a1f4560d59653c92c65b9f0a7045cc",
+    "path": "code/D04-051_RitianLuo_logits-sam-dpo_en",
+    "official_evidence": "疑似作者（仓库名含作者姓氏）"
+  },
+  "D04-052": {
+    "license_file": "LICENSE",
+    "license_name": "apache license",
+    "readme": [
+      "readme.md",
+      "examples/readme.md",
+      "examples/readme_zh.md"
+    ],
+    "entries": [
+      "src/train.py",
+      "src/llamafactory/webui/components/eval.py",
+      "src/llamafactory/webui/components/train.py",
+      "examples/extras/fsdp_qlora/train.sh",
+      "tests/e2e/test_train.py"
+    ],
+    "configs": [
+      ".pre-commit-config.yaml",
+      ".github/issue_template/config.yml",
+      "examples/accelerate/fsdp_config_offload.yaml",
+      "examples/accelerate/fsdp_config.yaml",
+      "examples/deepspeed/ds_z2_config.json",
+      "examples/deepspeed/ds_z0_config.json",
+      "examples/deepspeed/ds_z3_offload_config.json",
+      "examples/deepspeed/ds_z3_config.json",
+      "examples/deepspeed/ds_z2_offload_config.json"
+    ],
+    "deps": [
+      "requirements.txt",
+      "pyproject.toml",
+      "setup.py"
+    ],
+    "tests": [
+      ".github/workflows/tests.yml",
+      "src/llamafactory/train/test_utils.py",
+      "scripts/api_example/test_toolcall.py",
+      "scripts/api_example/test_image.py",
+      "tests/version.txt",
+      "tests/check_license.py",
+      "tests/e2e/test_sglang.py",
+      "tests/e2e/test_chat.py"
+    ],
+    "notebooks": [],
+    "n_files": 231,
+    "truncated_listing": false,
+    "has_gitmodules": false,
+    "has_lfs_pointers": false,
+    "code_kind": "C",
+    "missing": [],
+    "level": "L1",
+    "l1_ok": true,
+    "sid": "D04-052",
+    "url": "https://github.com/LotuSrc/D2PO",
+    "owner": "LotuSrc",
+    "repo": "D2PO",
+    "commit": "ec6c9dbbad04e9f4ee27ee6d1dcc1448edaecabc",
+    "path": "code/D04-052_LotuSrc_D2PO_en",
+    "official_evidence": "未核实官方归属（仅仓库存在）"
+  },
+  "D04-053": {
+    "license_file": "",
+    "license_name": "未发现许可证（不标为可自由复用）",
+    "readme": [
+      "readme.md"
+    ],
+    "entries": [
+      "eval.py",
+      "scripts/convert_gqa_for_eval.py",
+      "llava/train/train.py"
+    ],
+    "configs": [
+      "config.json"
+    ],
+    "deps": [
+      "requirements.txt"
+    ],
+    "tests": [
+      "test_cka_sim.py",
+      "llava/serve/test_message.py"
+    ],
+    "notebooks": [],
+    "n_files": 134,
+    "truncated_listing": false,
+    "has_gitmodules": false,
+    "has_lfs_pointers": false,
+    "code_kind": "C",
+    "missing": [],
+    "level": "L1",
+    "l1_ok": true,
+    "sid": "D04-053",
+    "url": "https://github.com/Ghy0501/HiDe-LLaVA",
+    "owner": "Ghy0501",
+    "repo": "HiDe-LLaVA",
+    "commit": "9d4597570b09c687aeadf3c34db1ff32a2b9ab62",
+    "path": "code/D04-053_Ghy0501_HiDe-LLaVA_en",
+    "official_evidence": "未核实官方归属（仅仓库存在）"
+  },
+  "D04-055": {
+    "license_file": "LICENSE",
+    "license_name": "mit license",
+    "readme": [
+      "readme.md"
+    ],
+    "entries": [
+      "train/open_clip/src/training/main.py",
+      "train/open_clip/src/training/train.py",
+      "train/dpo/predict.py",
+      "train/dpo/scripts/convert_gqa_for_eval.py",
+      "train/dpo/scripts/convert_mmvet_for_eval.py",
+      "train/dpo/llava/train/train.py"
+    ],
+    "configs": [
+      "train/open_clip/src/open_clip/model_configs/convnext_base_w_320.json",
+      "train/open_clip/src/open_clip/model_configs/convnext_large_d_320.json",
+      "train/open_clip/src/open_clip/model_configs/mt5-xl-vit-h-14.json",
+      "train/open_clip/src/open_clip/model_configs/eva02-b-16.json",
+      "train/open_clip/src/open_clip/model_configs/vit-l-14-336.json",
+      "train/open_clip/src/open_clip/model_configs/vit-b-32-plus-256.json",
+      "train/open_clip/src/open_clip/model_configs/convnext_xxlarge_320.json",
+      "train/open_clip/src/open_clip/model_configs/rn50x64.json",
+      "train/open_clip/src/open_clip/model_configs/swin_base_patch4_window7_224.json",
+      "train/open_clip/src/open_clip/model_configs/coca_vit-l-14.json",
+      "train/open_clip/src/open_clip/model_configs/convnext_large.json",
+      "train/open_clip/src/open_clip/model_configs/vit-h-16.json"
+    ],
+    "deps": [
+      "requirements.txt",
+      "train/open_clip/setup.py",
+      "train/dpo/pyproject.toml"
+    ],
+    "tests": [
+      "train/dpo/llava/eval/table/results/test_sqa_llava_13b_v0.json",
+      "train/dpo/llava/eval/table/results/test_sqa_llava_lcs_558k_sqa_12e_vicuna_v1_3_13b.json",
+      "train/dpo/llava/serve/test_message.py"
+    ],
+    "notebooks": [],
+    "n_files": 264,
+    "truncated_listing": false,
+    "has_gitmodules": false,
+    "has_lfs_pointers": false,
+    "code_kind": "A",
+    "missing": [],
+    "level": "L1",
+    "l1_ok": true,
+    "sid": "D04-055",
+    "url": "https://github.com/richard-peng-xia/MMed-RAG",
+    "owner": "richard-peng-xia",
+    "repo": "MMed-RAG",
+    "commit": "45ceed33eef4c443e5af3313da391f5edf6c16db",
+    "path": "code/D04-055_richard-peng-xia_MMed-RAG_en",
+    "official_evidence": "疑似作者（仓库名含作者姓氏）"
+  },
+  "D04-056": {
+    "license_file": "",
+    "license_name": "未发现许可证（不标为可自由复用）",
+    "readme": [
+      "readme.md"
+    ],
+    "entries": [
+      "main.py",
+      "run.sh"
+    ],
+    "configs": [],
+    "deps": [],
+    "tests": [],
+    "notebooks": [],
+    "n_files": 6,
+    "truncated_listing": false,
+    "has_gitmodules": false,
+    "has_lfs_pointers": false,
+    "code_kind": "C",
+    "missing": [
+      "依赖声明",
+      "配置（可能用 argparse）",
+      "测试"
+    ],
+    "level": "L0",
+    "l1_ok": false,
+    "sid": "D04-056",
+    "url": "https://github.com/MahdiyarMM/PRISM",
+    "owner": "MahdiyarMM",
+    "repo": "PRISM",
+    "commit": "52b9f664881ff174a05a94cb0318871ed3df3ecb",
+    "path": "code/D04-056_MahdiyarMM_PRISM_en",
+    "official_evidence": "未核实官方归属（仅仓库存在）"
+  },
+  "D04-057": {
+    "license_file": "",
+    "license_name": "未发现许可证（不标为可自由复用）",
+    "readme": [
+      "readme.md"
+    ],
+    "entries": [],
+    "configs": [],
+    "deps": [],
+    "tests": [],
+    "notebooks": [],
+    "n_files": 2,
+    "truncated_listing": false,
+    "has_gitmodules": false,
+    "has_lfs_pointers": false,
+    "code_kind": "C",
+    "missing": [
+      "仅部分实现可见"
+    ],
+    "level": "L0",
+    "l1_ok": false,
+    "sid": "D04-057",
+    "url": "https://github.com/tjunlp-lab/FuxiTranyu",
+    "owner": "tjunlp-lab",
+    "repo": "FuxiTranyu",
+    "commit": "73fac84eae98de17a1fbbde849dd0348000f4fee",
+    "path": "code/D04-057_tjunlp-lab_FuxiTranyu_en",
+    "official_evidence": "未核实官方归属（仅仓库存在）"
+  },
+  "D04-060": {
+    "license_file": "LICENSE",
+    "license_name": "apache license",
+    "readme": [
+      "readme.md"
+    ],
+    "entries": [
+      "ram/inference.py"
+    ],
+    "configs": [
+      "ram/configs/pretrain.yaml",
+      "ram/configs/q2l_config.json",
+      "ram/configs/finetune_tag2text.yaml",
+      "ram/configs/med_config.json",
+      "ram/configs/pretrain_tag2text.yaml",
+      "ram/configs/finetune.yaml",
+      "ram/configs/swin/config_swinb_224.json",
+      "ram/configs/swin/config_swinb_384.json",
+      "ram/configs/swin/config_swinl_224.json",
+      "ram/configs/swin/config_swinl_384.json"
+    ],
+    "deps": [
+      "requirements.txt",
+      "setup.py",
+      "setup.cfg"
+    ],
+    "tests": [],
+    "notebooks": [
+      "gui_demo.ipynb",
+      "recognize_anything_demo.ipynb"
+    ],
+    "n_files": 62,
+    "truncated_listing": false,
+    "has_gitmodules": false,
+    "has_lfs_pointers": false,
+    "code_kind": "C",
+    "missing": [
+      "测试"
+    ],
+    "level": "L1",
+    "l1_ok": true,
+    "sid": "D04-060",
+    "url": "https://github.com/xinyu1205/recognize-anything",
+    "owner": "xinyu1205",
+    "repo": "recognize-anything",
+    "commit": "7cb804a8609e9f4b1a50b7f31436d2df40bb9481",
+    "path": "code/D04-060_xinyu1205_recognize-anything_en",
+    "official_evidence": "未核实官方归属（仅仓库存在）"
+  },
+  "D04-061": {
+    "license_file": "LICENSE",
+    "license_name": "apache license",
+    "readme": [
+      "readme.md",
+      "pre-training/readme.md",
+      "pre-training/tools/openwebtext/readme.md",
+      "pre-training/tools/retro/readme.md",
+      "pre-training/tools/retro/sft/readme.md"
+    ],
+    "entries": [
+      "pre-training/tools/retro/text_generation/evaluate.py",
+      "pre-training/tasks/main.py",
+      "pre-training/tasks/zeroshot_gpt/evaluate.py",
+      "pre-training/tasks/msdp/main.py",
+      "pre-training/tasks/msdp/evaluate.py",
+      "pre-training/tasks/vision/main.py",
+      "pre-training/examples/mamba/train.sh",
+      "pre-training/examples/multimodal/train.py",
+      "pre-training/megatron/training/training.py",
+      "test-time-compute/llmonk/evaluate/rewarding/gsm8k_grpo_eval.py",
+      "post-training/verl/trainer/main_eval.py",
+      "post-training/tests/ray/check_worker_alive/main.py"
+    ],
+    "configs": [
+      "pre-training/.gitlab/labeler-config.yml",
+      "pre-training/examples/gpt3/gpt_config.yaml",
+      "pre-training/tests/functional_tests/test_cases/multimodal-llava/multimodal_llava_mr_mcore_te_tp4_pp1_resume_torch_etp3_dgx_a100_1n7g/model_config.yaml",
+      "pre-training/tests/functional_tests/test_cases/multimodal-llava/multimodal_llava_mr_mcore_te_tp4_pp1_etp3_dgx_a100_1n7g/model_config.yaml",
+      "pre-training/tests/functional_tests/test_cases/multimodal-llava/multimodal_llava_mr_mcore_te_tp1_pp1_dgx_a100_1n8g/model_config.yaml",
+      "pre-training/tests/functional_tests/test_cases/multimodal-llava/multimodal_llava_mr_mcore_te_tp2_pp3_dgx_a100_1n8g/model_config.yaml",
+      "pre-training/tests/functional_tests/test_cases/gpt/gpt3_mr_mcore_te_tp2_pp2_no_mmap_bin_files_dgx_a100_1n8g/model_config.yaml",
+      "pre-training/tests/functional_tests/test_cases/gpt/gpt3_345m_nightly_dgx_a100_1n8g_tp2_pp2_resume_torch_4experts/model_config.yaml",
+      "pre-training/tests/functional_tests/test_cases/gpt/gpt3_345m_nightly_dgx_a100_1n8g_tp4_pp1_overlap_grad_reduce/model_config.yaml",
+      "pre-training/tests/functional_tests/test_cases/gpt/gpt3_mr_mcore_te_tp4_pp1_dist_optimizer_overlap_grad_reduce_param_gather_dgx_a100_1n8g/model_config.yaml",
+      "pre-training/tests/functional_tests/test_cases/gpt/gpt3_mr_mcore_te_tp2_pp1_te_8experts2parallel_groupedgemm_dgx_a100_1n8g/model_config.yaml",
+      "pre-training/tests/functional_tests/test_cases/gpt/gpt3_mr_mcore_te_tp1_pp4_vp1_dist_optimizer_overlap_grad_reduce_dgx_a100_1n8g/model_config.yaml"
+    ],
+    "deps": [
+      "pre-training/requirements.txt",
+      "pre-training/pyproject.toml",
+      "pre-training/setup.py",
+      "pre-training/megatron/core/requirements.txt",
+      "test-time-compute/requirements.txt",
+      "test-time-compute/setup.py",
+      "post-training/requirements.txt",
+      "post-training/pyproject.toml"
+    ],
+    "tests": [
+      "pre-training/megatron/legacy/mpu/tests/test_random.py",
+      "pre-training/megatron/legacy/mpu/tests/test_initialize.py",
+      "pre-training/megatron/legacy/mpu/tests/test_cross_entropy.py",
+      "pre-training/megatron/legacy/mpu/tests/test_data.py",
+      "pre-training/megatron/legacy/mpu/tests/__init__.py",
+      "pre-training/megatron/legacy/mpu/tests/test_layers.py",
+      "pre-training/megatron/legacy/mpu/tests/commons.py",
+      "pre-training/megatron/legacy/fused_kernels/tests/test_fused_kernels.py"
+    ],
+    "notebooks": [
+      "post-training/examples/ray/tutorial.ipynb",
+      "post-training/examples/ppo_trainer/verl_getting_started.ipynb"
+    ],
+    "n_files": 1538,
+    "truncated_listing": false,
+    "has_gitmodules": false,
+    "has_lfs_pointers": false,
+    "code_kind": "A",
+    "missing": [],
+    "level": "L1",
+    "l1_ok": true,
+    "sid": "D04-061",
+    "url": "https://github.com/rioyokotalab/optimal-sparsity",
+    "owner": "rioyokotalab",
+    "repo": "optimal-sparsity",
+    "commit": "a39f45056e1e5be20fb407d9e4076a8b4bcded43",
+    "path": "code/D04-061_rioyokotalab_optimal-sparsity_en",
+    "official_evidence": "疑似作者（仓库名含作者姓氏）"
+  },
+  "D04-062": {
+    "license_file": "",
+    "license_name": "未发现许可证（不标为可自由复用）",
+    "readme": [
+      "readme.md"
+    ],
+    "entries": [],
+    "configs": [],
+    "deps": [],
+    "tests": [],
+    "notebooks": [],
+    "n_files": 1,
+    "truncated_listing": false,
+    "has_gitmodules": false,
+    "has_lfs_pointers": false,
+    "code_kind": "B",
+    "missing": [
+      "仅部分实现可见"
+    ],
+    "level": "L0",
+    "l1_ok": false,
+    "sid": "D04-062",
+    "url": "https://github.com/Weiww-Xu/FGPI",
+    "owner": "Weiww-Xu",
+    "repo": "FGPI",
+    "commit": "2186e2ca1b7215d035a4d0df7f09f1af15904175",
+    "path": "code/D04-062_Weiww-Xu_FGPI_en",
+    "official_evidence": "疑似作者（仓库名含作者姓氏）"
+  },
+  "D04-063": {
+    "license_file": "LICENSE",
+    "license_name": "mit license",
+    "readme": [
+      "readme.md",
+      "transformers/readme.md"
+    ],
+    "entries": [
+      "experiments/lavis/common/vqa_tools/vqa_eval.py",
+      "experiments/lavis/common/annotator/uniformer/exp/upernet_global_small/run.sh",
+      "experiments/lavis/common/annotator/uniformer/mmcv/engine/test.py",
+      "experiments/lavis/common/annotator/uniformer/mmseg/apis/inference.py",
+      "experiments/lavis/common/annotator/uniformer/mmseg/apis/train.py",
+      "experiments/lavis/common/annotator/uniformer/mmseg/apis/test.py",
+      "transformers/src/transformers/commands/run.py",
+      "transformers/src/transformers/commands/train.py",
+      "transformers/build/lib/transformers/commands/run.py",
+      "transformers/build/lib/transformers/commands/train.py"
+    ],
+    "configs": [
+      "experiments/lavis/configs/default.yaml",
+      "experiments/lavis/configs/models/clip_vit_base16.yaml",
+      "experiments/lavis/configs/models/med_large_config.json",
+      "experiments/lavis/configs/models/clip_vit_large14.yaml",
+      "experiments/lavis/configs/models/albef_vqav2.yaml",
+      "experiments/lavis/configs/models/gpt_dialogue_base.yaml",
+      "experiments/lavis/configs/models/bert_config_alpro.json",
+      "experiments/lavis/configs/models/med_config_albef.json",
+      "experiments/lavis/configs/models/blip_itm_large.yaml",
+      "experiments/lavis/configs/models/blip_itm_base.yaml",
+      "experiments/lavis/configs/models/blip_caption_large_coco.yaml",
+      "experiments/lavis/configs/models/albef_pretrain_base.yaml"
+    ],
+    "deps": [
+      "requirements.txt",
+      "transformers/pyproject.toml",
+      "transformers/setup.py",
+      "transformers/setup.cfg"
+    ],
+    "tests": [
+      "experiments/lavis/common/annotator/uniformer/exp/upernet_global_small/test_config_w32.py",
+      "experiments/lavis/common/annotator/uniformer/exp/upernet_global_small/test_config_h32.py",
+      "experiments/lavis/common/annotator/uniformer/exp/upernet_global_small/test.sh",
+      "experiments/lavis/common/annotator/uniformer/exp/upernet_global_small/test_config_g.py",
+      "experiments/lavis/common/annotator/uniformer/mmcv/utils/testing.py",
+      "experiments/lavis/common/annotator/uniformer/mmcv/engine/test.py",
+      "experiments/lavis/common/annotator/uniformer/mmseg/apis/test.py",
+      "transformers/src/transformers/testing_utils.py"
+    ],
+    "notebooks": [],
+    "n_files": 3414,
+    "truncated_listing": false,
+    "has_gitmodules": false,
+    "has_lfs_pointers": false,
+    "code_kind": "A",
+    "missing": [],
+    "level": "L1",
+    "l1_ok": true,
+    "sid": "D04-063",
+    "url": "https://github.com/zifuwan/ONLY",
+    "owner": "zifuwan",
+    "repo": "ONLY",
+    "commit": "109bffeafddf761ded65806b6707d3c124f6473c",
+    "path": "code/D04-063_zifuwan_ONLY_en",
+    "official_evidence": "疑似作者（仓库名含作者姓氏）"
+  },
+  "D04-064": {
+    "sid": "D04-064",
+    "code_kind": "D",
+    "level": "",
+    "urls": [],
+    "note": "未在摘要/评论/PDF 首页发现代码链接；未声称已检索穷尽第三方复现"
+  },
+  "D04-065": {
+    "sid": "D04-065",
+    "code_kind": "D",
+    "level": "",
+    "urls": [],
+    "note": "未在摘要/评论/PDF 首页发现代码链接；未声称已检索穷尽第三方复现"
+  },
+  "D04-066": {
+    "sid": "D04-066",
+    "code_kind": "D",
+    "level": "",
+    "urls": [],
+    "note": "未在摘要/评论/PDF 首页发现代码链接；未声称已检索穷尽第三方复现"
+  },
+  "D04-067": {
+    "sid": "D04-067",
+    "code_kind": "D",
+    "level": "",
+    "urls": [],
+    "note": "未在摘要/评论/PDF 首页发现代码链接；未声称已检索穷尽第三方复现"
+  },
+  "D04-068": {
+    "sid": "D04-068",
+    "code_kind": "D",
+    "level": "",
+    "urls": [],
+    "note": "未在摘要/评论/PDF 首页发现代码链接；未声称已检索穷尽第三方复现"
+  },
+  "D04-069": {
+    "sid": "D04-069",
+    "code_kind": "D",
+    "level": "",
+    "urls": [],
+    "note": "未在摘要/评论/PDF 首页发现代码链接；未声称已检索穷尽第三方复现"
+  },
+  "D04-070": {
+    "sid": "D04-070",
+    "code_kind": "D",
+    "level": "",
+    "urls": [],
+    "note": "未在摘要/评论/PDF 首页发现代码链接；未声称已检索穷尽第三方复现"
+  },
+  "D04-071": {
+    "sid": "D04-071",
+    "code_kind": "D",
+    "level": "",
+    "urls": [],
+    "note": "未在摘要/评论/PDF 首页发现代码链接；未声称已检索穷尽第三方复现"
+  },
+  "D04-072": {
+    "license_file": "LICENSE",
+    "license_name": "有 LICENSE 文件但未识别 SPDX/常用名称",
+    "readme": [
+      "readme.md"
+    ],
+    "entries": [
+      "llava/predict.py",
+      "llava/scripts/convert_gqa_for_eval.py",
+      "llava/scripts/convert_mmvet_for_eval.py",
+      "llava/llava/train/train.py"
+    ],
+    "configs": [],
+    "deps": [],
+    "tests": [
+      "llava/llava/serve/test_message.py"
+    ],
+    "notebooks": [],
+    "n_files": 100,
+    "truncated_listing": false,
+    "has_gitmodules": false,
+    "has_lfs_pointers": false,
+    "code_kind": "C",
+    "missing": [
+      "依赖声明",
+      "配置（可能用 argparse）"
+    ],
+    "level": "L0",
+    "l1_ok": false,
+    "sid": "D04-072",
+    "url": "https://github.com/SuDIS-ZJU/CoIDO",
+    "owner": "SuDIS-ZJU",
+    "repo": "CoIDO",
+    "commit": "a91906703267741e73532b5b560593d899ffa252",
+    "path": "code/D04-072_SuDIS-ZJU_CoIDO_en",
+    "official_evidence": "未核实官方归属（仅仓库存在）"
+  },
+  "D04-073": {
+    "license_file": "LICENSE",
+    "license_name": "mit license",
+    "readme": [
+      "readme.md"
+    ],
+    "entries": [
+      "map_nav_src/models/train.py",
+      "map_nav_src/models/lavis/common/vqa_tools/vqa_eval.py",
+      "map_nav_src/models/lavis/common/annotator/uniformer/exp/upernet_global_small/run.sh",
+      "map_nav_src/models/lavis/common/annotator/uniformer/mmcv/engine/test.py",
+      "map_nav_src/models/lavis/common/annotator/uniformer/mmseg/apis/inference.py",
+      "map_nav_src/models/lavis/common/annotator/uniformer/mmseg/apis/train.py",
+      "map_nav_src/models/lavis/common/annotator/uniformer/mmseg/apis/test.py"
+    ],
+    "configs": [
+      "map_nav_src/models/lavis/configs/default.yaml",
+      "map_nav_src/models/lavis/configs/models/blip2/blip2_instruct_flant5xxl.yaml",
+      "map_nav_src/models/lavis/configs/models/blip2/blip2_instruct_flant5xl.yaml",
+      "map_nav_src/models/lavis/configs/models/blip2/blip2_instruct_vicuna7b.yaml",
+      "map_nav_src/models/lavis/configs/models/blip2/blip2_instruct_nav_vicuna7b.yaml",
+      "map_nav_src/models/lavis/configs/models/blip2/blip2_instruct_vicuna13b.yaml",
+      "map_nav_src/models/lavis/configs/models/blip2/blip2_instruct_nav_flant5xl.yaml",
+      "map_nav_src/models/lavis/configs/models/blip2/blip2_instruct_nav_flant5xxl.yaml",
+      "map_nav_src/models/lavis/configs/models/blip2/blip2_instruct_nav_vicuna13b.yaml",
+      "map_nav_src/models/lavis/configs/models/clip/timm-efficientnetv2_rw_s.json",
+      "map_nav_src/models/lavis/configs/models/clip/vit-l-14-336.json",
+      "map_nav_src/models/lavis/configs/models/clip/vit-b-32-plus-256.json"
+    ],
+    "deps": [
+      "requirements.txt"
+    ],
+    "tests": [
+      "map_nav_src/models/lavis/common/annotator/uniformer/exp/upernet_global_small/test_config_w32.py",
+      "map_nav_src/models/lavis/common/annotator/uniformer/exp/upernet_global_small/test_config_h32.py",
+      "map_nav_src/models/lavis/common/annotator/uniformer/exp/upernet_global_small/test.sh",
+      "map_nav_src/models/lavis/common/annotator/uniformer/exp/upernet_global_small/test_config_g.py",
+      "map_nav_src/models/lavis/common/annotator/uniformer/mmcv/utils/testing.py",
+      "map_nav_src/models/lavis/common/annotator/uniformer/mmcv/engine/test.py",
+      "map_nav_src/models/lavis/common/annotator/uniformer/mmseg/apis/test.py"
+    ],
+    "notebooks": [],
+    "n_files": 468,
+    "truncated_listing": false,
+    "has_gitmodules": false,
+    "has_lfs_pointers": false,
+    "code_kind": "A",
+    "missing": [],
+    "level": "L1",
+    "l1_ok": true,
+    "sid": "D04-073",
+    "url": "https://github.com/GengzeZhou/NavGPT-2",
+    "owner": "GengzeZhou",
+    "repo": "NavGPT-2",
+    "commit": "1f535cbeedfe2aad0a94925a0f9a613fe857f211",
+    "path": "code/D04-073_GengzeZhou_NavGPT-2_en",
+    "official_evidence": "疑似作者（仓库名含作者姓氏）"
+  },
+  "D04-075": {
+    "license_file": "src/llava/LLaVA/LICENSE",
+    "license_name": "apache license",
+    "readme": [
+      "readme.md"
+    ],
+    "entries": [
+      "run.sh",
+      "src/train.sh",
+      "src/predict.py",
+      "src/train.py",
+      "src/lavis/common/vqa_tools/vqa_eval.py",
+      "src/unistableviton/inference.py",
+      "src/unistableviton/train.sh",
+      "src/unistableviton/train.py",
+      "src/llava/llava/inference.py",
+      "src/llava/llava/predict.py",
+      "src/llava/llava/train.py",
+      "src/llava/llava/lavis/common/vqa_tools/vqa_eval.py"
+    ],
+    "configs": [
+      "src/lavis/configs/default.yaml",
+      "src/lavis/configs/models/clip_vit_base16.yaml",
+      "src/lavis/configs/models/med_large_config.json",
+      "src/lavis/configs/models/clip_vit_large14.yaml",
+      "src/lavis/configs/models/albef_vqav2.yaml",
+      "src/lavis/configs/models/gpt_dialogue_base.yaml",
+      "src/lavis/configs/models/bert_config_alpro.json",
+      "src/lavis/configs/models/med_config_albef.json",
+      "src/lavis/configs/models/blip_itm_large.yaml",
+      "src/lavis/configs/models/blip_itm_base.yaml",
+      "src/lavis/configs/models/blip_caption_large_coco.yaml",
+      "src/lavis/configs/models/albef_pretrain_base.yaml"
+    ],
+    "deps": [
+      "requirements.txt",
+      "src/llava/llava/pyproject.toml"
+    ],
+    "tests": [
+      "src/unistableviton/ldm/modules/image_degradation/utils/test.png",
+      "src/llava/llava/llava/eval/table/results/test_sqa_llava_13b_v0.json",
+      "src/llava/llava/llava/eval/table/results/test_sqa_llava_lcs_558k_sqa_12e_vicuna_v1_3_13b.json",
+      "src/llava/llava/llava/serve/test_message.py"
+    ],
+    "notebooks": [],
+    "n_files": 817,
+    "truncated_listing": false,
+    "has_gitmodules": false,
+    "has_lfs_pointers": false,
+    "code_kind": "C",
+    "missing": [],
+    "level": "L1",
+    "l1_ok": true,
+    "sid": "D04-075",
+    "url": "https://github.com/xiangyu-mm/UniFashion",
+    "owner": "xiangyu-mm",
+    "repo": "UniFashion",
+    "commit": "f01a46fb7ed08255fcb52a943d9bcefde03c8eaf",
+    "path": "code/D04-075_xiangyu-mm_UniFashion_en",
+    "official_evidence": "未核实官方归属（仅仓库存在）"
+  },
+  "D04-077": {
+    "license_file": "LICENSE",
+    "license_name": "mit license",
+    "readme": [
+      "readme.md"
+    ],
+    "entries": [
+      "eval.py"
+    ],
+    "configs": [
+      "configs/env_machine.yml",
+      "configs/expts/car196_all.yml",
+      "configs/expts/bird200_all.yml",
+      "configs/expts/pet37_all.yml",
+      "configs/expts/dog120_all.yml",
+      "configs/expts/flower102_all.yml",
+      "configs/expts_l14/car196_all.yml",
+      "configs/expts_l14/bird200_all.yml",
+      "configs/expts_l14/pet37_all.yml",
+      "configs/expts_l14/dog120_all.yml",
+      "configs/expts_l14/flower102_all.yml"
+    ],
+    "deps": [],
+    "tests": [],
+    "notebooks": [],
+    "n_files": 30,
+    "truncated_listing": false,
+    "has_gitmodules": false,
+    "has_lfs_pointers": false,
+    "code_kind": "A",
+    "missing": [
+      "依赖声明",
+      "测试"
+    ],
+    "level": "L0",
+    "l1_ok": false,
+    "sid": "D04-077",
+    "url": "https://github.com/demidovd98/e-finer",
+    "owner": "demidovd98",
+    "repo": "e-finer",
+    "commit": "341559586366d4cde59dc4b7331b92e1208675aa",
+    "path": "code/D04-077_demidovd98_e-finer_en",
+    "official_evidence": "疑似作者（仓库名含作者姓氏）"
+  },
+  "D04-078": {
+    "license_file": "LICENSE",
+    "license_name": "apache license",
+    "readme": [
+      "readme.md"
+    ],
+    "entries": [],
+    "configs": [],
+    "deps": [],
+    "tests": [],
+    "notebooks": [],
+    "n_files": 3,
+    "truncated_listing": false,
+    "has_gitmodules": false,
+    "has_lfs_pointers": false,
+    "code_kind": "B",
+    "missing": [
+      "仅部分实现可见"
+    ],
+    "level": "L0",
+    "l1_ok": false,
+    "sid": "D04-078",
+    "url": "https://github.com/Feng-Hong/L2T",
+    "owner": "Feng-Hong",
+    "repo": "L2T",
+    "commit": "4edc29195d417f347042d5b6ced53da7b05a2c2c",
+    "path": "code/D04-078_Feng-Hong_L2T_en",
+    "official_evidence": "疑似作者（仓库名含作者姓氏）"
+  },
+  "D04-079": {
+    "license_file": "",
+    "license_name": "未发现许可证（不标为可自由复用）",
+    "readme": [
+      "readme.md",
+      "llmzoo/eval/readme.md"
+    ],
+    "entries": [
+      "train.py",
+      "llmzoo/deploy/webapp/inference.py"
+    ],
+    "configs": [],
+    "deps": [
+      "requirements.txt"
+    ],
+    "tests": [],
+    "notebooks": [],
+    "n_files": 132,
+    "truncated_listing": false,
+    "has_gitmodules": false,
+    "has_lfs_pointers": false,
+    "code_kind": "A",
+    "missing": [
+      "配置（可能用 argparse）",
+      "测试"
+    ],
+    "level": "L1",
+    "l1_ok": true,
+    "sid": "D04-079",
+    "url": "https://github.com/raojay7/CommonIT",
+    "owner": "raojay7",
+    "repo": "CommonIT",
+    "commit": "c2b2c20d6cf0583e3063f175a4881186e7ed3897",
+    "path": "code/D04-079_raojay7_CommonIT_en",
+    "official_evidence": "疑似作者（仓库名含作者姓氏）"
+  },
+  "D04-081": {
+    "license_file": "LICENSE",
+    "license_name": "mit license",
+    "readme": [
+      "readme.md"
+    ],
+    "entries": [
+      "predict.py",
+      "scripts/povid/convert_gqa_for_eval.py",
+      "scripts/povid/convert_mmvet_for_eval.py",
+      "retrieve/src/training/main.py",
+      "retrieve/src/training/train.py",
+      "llava/train/train.py"
+    ],
+    "configs": [
+      "retrieve/src/open_clip/model_configs/convnext_base_w_320.json",
+      "retrieve/src/open_clip/model_configs/convnext_large_d_320.json",
+      "retrieve/src/open_clip/model_configs/mt5-xl-vit-h-14.json",
+      "retrieve/src/open_clip/model_configs/eva02-b-16.json",
+      "retrieve/src/open_clip/model_configs/vit-l-14-336.json",
+      "retrieve/src/open_clip/model_configs/vit-b-32-plus-256.json",
+      "retrieve/src/open_clip/model_configs/convnext_xxlarge_320.json",
+      "retrieve/src/open_clip/model_configs/rn50x64.json",
+      "retrieve/src/open_clip/model_configs/swin_base_patch4_window7_224.json",
+      "retrieve/src/open_clip/model_configs/coca_vit-l-14.json",
+      "retrieve/src/open_clip/model_configs/convnext_large.json",
+      "retrieve/src/open_clip/model_configs/vit-h-16.json"
+    ],
+    "deps": [
+      "pyproject.toml",
+      "retrieve/setup.py"
+    ],
+    "tests": [
+      "llava/eval/table/results/test_sqa_llava_13b_v0.json",
+      "llava/eval/table/results/test_sqa_llava_lcs_558k_sqa_12e_vicuna_v1_3_13b.json",
+      "llava/serve/test_message.py"
+    ],
+    "notebooks": [],
+    "n_files": 266,
+    "truncated_listing": false,
+    "has_gitmodules": false,
+    "has_lfs_pointers": false,
+    "code_kind": "A",
+    "missing": [],
+    "level": "L1",
+    "l1_ok": true,
+    "sid": "D04-081",
+    "url": "https://github.com/richard-peng-xia/RULE",
+    "owner": "richard-peng-xia",
+    "repo": "RULE",
+    "commit": "f1bf7f7020918faab49e2dff12e01e7de41821bb",
+    "path": "code/D04-081_richard-peng-xia_RULE_en",
+    "official_evidence": "疑似作者（仓库名含作者姓氏）"
+  },
+  "D04-082": {
+    "license_file": "",
+    "license_name": "未发现许可证（不标为可自由复用）",
+    "readme": [
+      "readme.md"
+    ],
+    "entries": [
+      "src/training.py"
+    ],
+    "configs": [
+      "config/pretrain_base.json",
+      "config/extract_config.yaml",
+      "config/environment.yaml"
+    ],
+    "deps": [
+      "requirements.txt",
+      "config/environment.yaml"
+    ],
+    "tests": [],
+    "notebooks": [],
+    "n_files": 31,
+    "truncated_listing": false,
+    "has_gitmodules": false,
+    "has_lfs_pointers": false,
+    "code_kind": "C",
+    "missing": [
+      "测试"
+    ],
+    "level": "L1",
+    "l1_ok": true,
+    "sid": "D04-082",
+    "url": "https://github.com/NUSTM/VLP-MABSA",
+    "owner": "NUSTM",
+    "repo": "VLP-MABSA",
+    "commit": "04fba6c4e6f537c519c174c0c605ce5059f092a8",
+    "path": "code/D04-082_NUSTM_VLP-MABSA_en",
+    "official_evidence": "未核实官方归属（仅仓库存在）"
+  },
+  "D04-083": {
+    "license_file": "",
+    "license_name": "未发现许可证（不标为可自由复用）",
+    "readme": [
+      "readme.md",
+      "utils/readme.md"
+    ],
+    "entries": [],
+    "configs": [],
+    "deps": [
+      "requirements.txt"
+    ],
+    "tests": [],
+    "notebooks": [],
+    "n_files": 13,
+    "truncated_listing": false,
+    "has_gitmodules": false,
+    "has_lfs_pointers": false,
+    "code_kind": "C",
+    "missing": [
+      "仅部分实现可见"
+    ],
+    "level": "L0",
+    "l1_ok": false,
+    "sid": "D04-083",
+    "url": "https://github.com/ictnlp/AlignX",
+    "owner": "ictnlp",
+    "repo": "AlignX",
+    "commit": "73753e87b66b104fa8e6a7af722f6419e5c1b958",
+    "path": "code/D04-083_ictnlp_AlignX_en",
+    "official_evidence": "未核实官方归属（仅仓库存在）"
+  },
+  "D04-087": {
+    "license_file": "LICENSE",
+    "license_name": "mit license",
+    "readme": [
+      "readme.md"
+    ],
+    "entries": [
+      "eval.py"
+    ],
+    "configs": [],
+    "deps": [
+      "requirements.txt"
+    ],
+    "tests": [],
+    "notebooks": [],
+    "n_files": 19,
+    "truncated_listing": false,
+    "has_gitmodules": false,
+    "has_lfs_pointers": false,
+    "code_kind": "A",
+    "missing": [
+      "配置（可能用 argparse）",
+      "测试"
+    ],
+    "level": "L1",
+    "l1_ok": true,
+    "sid": "D04-087",
+    "url": "https://github.com/atinpothiraj/CAPTURe",
+    "owner": "atinpothiraj",
+    "repo": "CAPTURe",
+    "commit": "0effae3d91fee4bcdd359bbc54cc098c95f63f7b",
+    "path": "code/D04-087_atinpothiraj_CAPTURe_en",
+    "official_evidence": "疑似作者（仓库名含作者姓氏）"
+  },
+  "D04-088": {
+    "license_file": "",
+    "license_name": "未发现许可证（不标为可自由复用）",
+    "readme": [
+      "readme.md"
+    ],
+    "entries": [],
+    "configs": [],
+    "deps": [],
+    "tests": [],
+    "notebooks": [],
+    "n_files": 2,
+    "truncated_listing": false,
+    "has_gitmodules": true,
+    "has_lfs_pointers": false,
+    "code_kind": "C",
+    "missing": [
+      "仅部分实现可见"
+    ],
+    "level": "L0",
+    "l1_ok": false,
+    "sid": "D04-088",
+    "url": "https://github.com/AI4Bharat/romansetu",
+    "owner": "AI4Bharat",
+    "repo": "romansetu",
+    "commit": "9144e051188fb26846e4bda30e5a158471a286ee",
+    "path": "code/D04-088_AI4Bharat_romansetu_en",
+    "official_evidence": "未核实官方归属（仅仓库存在）"
+  },
+  "D04-089": {
+    "license_file": "",
+    "license_name": "未发现许可证（不标为可自由复用）",
+    "readme": [
+      "readme.md"
+    ],
+    "entries": [
+      "train.py"
+    ],
+    "configs": [
+      "config/config.yaml",
+      "config/loss/sft.yaml",
+      "config/loss/dpo.yaml",
+      "config/model/gpt2-large.yaml",
+      "config/model/blank_model.yaml",
+      "config/model/gptj.yaml",
+      "config/model/gpt2-xl.yaml",
+      "config/model/llama7b.yaml",
+      "config/model/pythia69.yaml",
+      "config/model/pythia28.yaml"
+    ],
+    "deps": [
+      "requirements.txt"
+    ],
+    "tests": [],
+    "notebooks": [],
+    "n_files": 16,
+    "truncated_listing": false,
+    "has_gitmodules": false,
+    "has_lfs_pointers": false,
+    "code_kind": "A",
+    "missing": [
+      "测试"
+    ],
+    "level": "L1",
+    "l1_ok": true,
+    "sid": "D04-089",
+    "url": "https://github.com/junkangwu/beta-DPO",
+    "owner": "junkangwu",
+    "repo": "beta-DPO",
+    "commit": "1629047374915ba319477caa4f6c6b2d1f172e5d",
+    "path": "code/D04-089_junkangwu_beta-DPO_en",
+    "official_evidence": "疑似作者（仓库名含作者姓氏）"
+  },
+  "D04-090": {
+    "license_file": "LICENSE",
+    "license_name": "mit license",
+    "readme": [
+      "readme.md",
+      "dataset/readme.md",
+      "logs/readme.md",
+      "results/readme.md"
+    ],
+    "entries": [],
+    "configs": [
+      "evaluation/model_config.yaml"
+    ],
+    "deps": [
+      "requirements.txt"
+    ],
+    "tests": [],
+    "notebooks": [],
+    "n_files": 24,
+    "truncated_listing": false,
+    "has_gitmodules": false,
+    "has_lfs_pointers": false,
+    "code_kind": "C",
+    "missing": [
+      "仅部分实现可见"
+    ],
+    "level": "L0",
+    "l1_ok": false,
+    "sid": "D04-090",
+    "url": "https://github.com/MM-OPERA-Bench/MM-OPERA",
+    "owner": "MM-OPERA-Bench",
+    "repo": "MM-OPERA",
+    "commit": "3e55c7ccdd55654d327de7feb82df0d00f6fa8af",
+    "path": "code/D04-090_MM-OPERA-Bench_MM-OPERA_en",
+    "official_evidence": "未核实官方归属（仅仓库存在）"
+  },
+  "D04-091": {
+    "license_file": "",
+    "license_name": "未发现许可证（不标为可自由复用）",
+    "readme": [
+      "readme.md"
+    ],
+    "entries": [
+      "demo.py",
+      "inference.py",
+      "vlmevalkit/run.py",
+      "vlmevalkit/vlmeval/inference.py",
+      "vlmevalkit/vlmeval/evaluate/mathvista_eval.py",
+      "vlmevalkit/vlmeval/evaluate/coco_eval.py",
+      "vlmevalkit/vlmeval/evaluate/vqa_eval.py",
+      "vlmevalkit/vlmeval/evaluate/mmvet_eval.py",
+      "scripts/convert_gqa_for_eval.py",
+      "scripts/convert_mmvet_for_eval.py",
+      "cosyvoice/bin/inference.py",
+      "cosyvoice/bin/train.py"
+    ],
+    "configs": [],
+    "deps": [
+      "requirements.txt",
+      "pyproject.toml"
+    ],
+    "tests": [
+      "openomni/serve/test_message.py"
+    ],
+    "notebooks": [],
+    "n_files": 231,
+    "truncated_listing": false,
+    "has_gitmodules": false,
+    "has_lfs_pointers": false,
+    "code_kind": "A",
+    "missing": [
+      "配置（可能用 argparse）"
+    ],
+    "level": "L1",
+    "l1_ok": true,
+    "sid": "D04-091",
+    "url": "https://github.com/RainBowLuoCS/OpenOmni",
+    "owner": "RainBowLuoCS",
+    "repo": "OpenOmni",
+    "commit": "50ae7f5e4829e6ac027d83aeed47f4c3d0ed4742",
+    "path": "code/D04-091_RainBowLuoCS_OpenOmni_en",
+    "official_evidence": "疑似作者（仓库名含作者姓氏）"
+  },
+  "D04-094": {
+    "license_file": "LICENSE",
+    "license_name": "apache license",
+    "readme": [
+      "readme.md",
+      "open_instruct/environments/tools/servers/weather_mcp_server/readme.md",
+      "configs/miles/readme.md",
+      "configs/miles/examples/readme.md",
+      "human_eval/readme.md"
+    ],
+    "entries": [
+      "open_instruct/reward_modeling_eval.py",
+      "open_instruct/test_grpo_fast_eval.py",
+      "open_instruct/miles/distillation/opd_train.py",
+      "scripts/miles/development_eval.py",
+      "tests/miles_eval/test_development_eval.py"
+    ],
+    "configs": [
+      ".pre-commit-config.yaml",
+      "open_instruct/test_data/tokenizer/config.json",
+      "open_instruct/test_data/tokenizer/tokenizer_config.json",
+      "open_instruct/miles/configuration/options.json",
+      "configs/ds_configs/deepspeed_zero2.yaml",
+      "configs/ds_configs/deepspeed_zero3.yaml",
+      "configs/beaker_configs/default_dpo_multinode.yaml",
+      "configs/beaker_configs/default_finetune.yaml",
+      "configs/beaker_configs/default_finetune_lora_multinode.yaml",
+      "configs/beaker_configs/alpaca_7b_lora.yaml",
+      "configs/beaker_configs/default_finetune_qlora_multinode.yaml",
+      "configs/beaker_configs/alpaca_7b.yaml"
+    ],
+    "deps": [
+      "requirements.txt",
+      "pyproject.toml",
+      "open_instruct/environments/tools/servers/weather_mcp_server/requirements.txt",
+      "open_instruct/environments/tools/servers/python_server/requirements.txt",
+      "human_eval/requirements.txt",
+      "scripts/synth_pref/requirements.txt",
+      "scripts/persona_driven_data_gen/requirements.txt"
+    ],
+    "tests": [
+      "test_rl_utils_gpu.py",
+      "test_mason.py",
+      "open_instruct/test_grpo_fast_gpu.py",
+      "open_instruct/test_dpo_utils_gpu.py",
+      "open_instruct/test_miles_options.py",
+      "open_instruct/test_seed_embedding_rows.py",
+      "open_instruct/test_grpo_fast_eval.py",
+      "open_instruct/test_reserved_slot_tokens.py"
+    ],
+    "notebooks": [],
+    "n_files": 970,
+    "truncated_listing": false,
+    "has_gitmodules": false,
+    "has_lfs_pointers": true,
+    "code_kind": "C",
+    "missing": [],
+    "level": "L1",
+    "l1_ok": true,
+    "sid": "D04-094",
+    "url": "https://github.com/allenai/open-instruct",
+    "owner": "allenai",
+    "repo": "open-instruct",
+    "commit": "d66b2760b5c636e2411cadd17d34119ab9f8ad8a",
+    "path": "code/D04-094_allenai_open-instruct_en",
+    "official_evidence": "未核实官方归属（仅仓库存在）"
+  },
+  "D04-095": {
+    "license_file": "LICENSE",
+    "license_name": "apache license",
+    "readme": [
+      "readme.md",
+      "download_scripts/readme.md"
+    ],
+    "entries": [],
+    "configs": [],
+    "deps": [],
+    "tests": [
+      "test.jsonl"
+    ],
+    "notebooks": [],
+    "n_files": 70,
+    "truncated_listing": false,
+    "has_gitmodules": false,
+    "has_lfs_pointers": false,
+    "code_kind": "C",
+    "missing": [
+      "仅部分实现可见"
+    ],
+    "level": "L0",
+    "l1_ok": false,
+    "sid": "D04-095",
+    "url": "https://github.com/VT-NLP/MultiInstruct",
+    "owner": "VT-NLP",
+    "repo": "MultiInstruct",
+    "commit": "772af249d82f2c2f100621ee71df9b63d0d310a2",
+    "path": "code/D04-095_VT-NLP_MultiInstruct_en",
+    "official_evidence": "未核实官方归属（仅仓库存在）"
+  },
+  "D04-098": {
+    "license_file": "DePALM/TimeSformer/LICENSE",
+    "license_name": "有 LICENSE 文件但未识别 SPDX/常用名称",
+    "readme": [
+      "readme.md",
+      "depalm/timesformer/readme.md",
+      "depalm/timesformer/timesformer/utils/ava_evaluation/readme.md",
+      "depalm/reftools/evaluation/readme.txt"
+    ],
+    "entries": [
+      "depalm/accelerate_training/train.py",
+      "depalm/dataset/vqa_eval.py"
+    ],
+    "configs": [
+      "depalm/configs/image/gqa/depalm_l_gqa.yaml",
+      "depalm/configs/image/caption/epalm_caption_qformerl10_opt350m.yaml",
+      "depalm/configs/image/caption/depalm_l_caption.yaml",
+      "depalm/configs/image/okvqa/depalm_l_okvqa.yaml",
+      "depalm/configs/image/vqa/epalm_vqa_qformerl10_opt350m.yaml",
+      "depalm/configs/image/vqa/epalm_l_vqa_ablation.yaml",
+      "depalm/configs/image/vqa/depalm_l_vqa.yaml",
+      "depalm/configs/audio/depalm_l_audio_caption_audiomae.yaml",
+      "depalm/configs/audio/depalm_l_clotho_audio_caption_ast.yaml",
+      "depalm/configs/audio/depalm_l_clotho_audio_caption_audiomae.yaml",
+      "depalm/configs/audio/depalm_l_audio_caption_ast.yaml",
+      "depalm/configs/audio/depalm_l_clothoaqa_audio_qa_audiomae.yaml"
+    ],
+    "deps": [
+      "depalm/timesformer/environment.yml",
+      "depalm/timesformer/setup.py",
+      "depalm/timesformer/setup.cfg"
+    ],
+    "tests": [
+      "depalm/timesformer/tools/test_net.py"
+    ],
+    "notebooks": [
+      "depalm/timesformer/example.ipynb"
+    ],
+    "n_files": 236,
+    "truncated_listing": false,
+    "has_gitmodules": false,
+    "has_lfs_pointers": false,
+    "code_kind": "A",
+    "missing": [],
+    "level": "L1",
+    "l1_ok": true,
+    "sid": "D04-098",
+    "url": "https://github.com/mshukor/ima-lmms",
+    "owner": "mshukor",
+    "repo": "ima-lmms",
+    "commit": "8933b07887c3b6b7a08d43efa25f5b587403b8c4",
+    "path": "code/D04-098_mshukor_ima-lmms_en",
+    "official_evidence": "疑似作者（仓库名含作者姓氏）"
+  },
+  "D04-099": {
+    "license_file": "LICENSE.txt",
+    "license_name": "apache license",
+    "readme": [
+      "readme.md",
+      "eval/raw/belle/readme.md",
+      "eval/raw/mmcu/readme.md",
+      "peft/readme.md",
+      "peft/examples/image_classification/readme.md"
+    ],
+    "entries": [
+      "predict.py"
+    ],
+    "configs": [
+      "peft/examples/conditional_generation/accelerate_ds_zero3_cpu_offload_config.yaml",
+      "peft/examples/causal_language_modeling/accelerate_ds_zero3_cpu_offload_config.yaml"
+    ],
+    "deps": [
+      "requirements.txt",
+      "peft/pyproject.toml",
+      "peft/setup.py",
+      "peft/examples/token_classification/requirements.txt",
+      "peft/examples/lora_dreambooth/requirements.txt",
+      "peft/examples/conditional_generation/requirements.txt",
+      "peft/examples/causal_language_modeling/requirements.txt",
+      "peft/examples/sequence_classification/requirements.txt"
+    ],
+    "tests": [
+      "eval/raw/mmcu/test.json",
+      "peft/.github/workflows/tests.yml",
+      "peft/tests/test_encoder_decoder_models.py",
+      "peft/tests/test_config.py",
+      "peft/tests/testing_common.py",
+      "peft/tests/test_decoder_models.py",
+      "peft/tests/test_common_gpu.py",
+      "peft/tests/test_gpu_examples.py"
+    ],
+    "notebooks": [
+      "lengths.ipynb",
+      "peft/examples/token_classification/peft_lora_token_cls.ipynb",
+      "peft/examples/lora_dreambooth/colab_notebook.ipynb",
+      "peft/examples/lora_dreambooth/lora_dreambooth_inference.ipynb",
+      "peft/examples/image_classification/image_classification_peft_lora.ipynb",
+      "peft/examples/conditional_generation/peft_lora_seq2seq_accelerate_big_model_inference.ipynb",
+      "peft/examples/conditional_generation/peft_lora_seq2seq.ipynb",
+      "peft/examples/conditional_generation/peft_prefix_tuning_seq2seq.ipynb"
+    ],
+    "n_files": 163,
+    "truncated_listing": false,
+    "has_gitmodules": false,
+    "has_lfs_pointers": false,
+    "code_kind": "A",
+    "missing": [],
+    "level": "L1",
+    "l1_ok": true,
+    "sid": "D04-099",
+    "url": "https://github.com/PhoebusSi/Alpaca-CoT",
+    "owner": "PhoebusSi",
+    "repo": "Alpaca-CoT",
+    "commit": "bd46c44e0d0d88522b6d817f9610e3eb1050784d",
+    "path": "code/D04-099_PhoebusSi_Alpaca-CoT_en",
+    "official_evidence": "疑似作者（仓库名含作者姓氏）"
+  },
+  "D04-100": {
+    "license_file": "",
+    "license_name": "未发现许可证（不标为可自由复用）",
+    "readme": [
+      "readme.md"
+    ],
+    "entries": [],
+    "configs": [
+      ".pre-commit-config.yaml",
+      "scripts/configs/batch_inference-add_sub-batch=3-standard.yaml",
+      "scripts/configs/batch_inference-svamp-batch=3.yaml",
+      "scripts/configs/batch_inference-strategy_qa-batch=4.yaml",
+      "scripts/configs/batch_inference-gsm8k-batch=2.yaml",
+      "scripts/configs/batch_inference-svamp-batch=4-standard.yaml",
+      "scripts/configs/batch_inference-add_sub-batch=3.yaml",
+      "scripts/configs/batch_inference-sst5-batch=3.yaml",
+      "scripts/configs/cot-commonsense_qa-chat.yaml",
+      "scripts/configs/batch_inference-commonsense_qa-batch=4-standard.yaml",
+      "scripts/configs/batch_inference-mnli-batch=2.yaml",
+      "scripts/configs/batch_inference-rte-batch=4.yaml"
+    ],
+    "deps": [
+      "pyproject.toml",
+      "setup.py"
+    ],
+    "tests": [],
+    "notebooks": [],
+    "n_files": 633,
+    "truncated_listing": false,
+    "has_gitmodules": true,
+    "has_lfs_pointers": false,
+    "code_kind": "C",
+    "missing": [
+      "仅部分实现可见"
+    ],
+    "level": "L0",
+    "l1_ok": false,
+    "sid": "D04-100",
+    "url": "https://github.com/xlang-ai/batch-prompting",
+    "owner": "xlang-ai",
+    "repo": "batch-prompting",
+    "commit": "5e7d55c5781953ad72e0faeb0146fe15628cf9e0",
+    "path": "code/D04-100_xlang-ai_batch-prompting_en",
+    "official_evidence": "未核实官方归属（仅仓库存在）"
+  },
+  "D04-101": {
+    "license_file": "LICENSE",
+    "license_name": "apache license",
+    "readme": [
+      "readme.md"
+    ],
+    "entries": [
+      "modeling/run.py",
+      "tokenization/run.py",
+      "tokenization/train.sh",
+      "evaluation/text_classification/zero_shot_train.py"
+    ],
+    "configs": [],
+    "deps": [
+      "requirements.txt",
+      "evaluation/requirements.txt"
+    ],
+    "tests": [],
+    "notebooks": [],
+    "n_files": 44,
+    "truncated_listing": false,
+    "has_gitmodules": false,
+    "has_lfs_pointers": false,
+    "code_kind": "C",
+    "missing": [
+      "配置（可能用 argparse）",
+      "测试"
+    ],
+    "level": "L1",
+    "l1_ok": true,
+    "sid": "D04-101",
+    "url": "https://github.com/cisnlp/Glot500",
+    "owner": "cisnlp",
+    "repo": "Glot500",
+    "commit": "d5eb3d386a9e5bd1f56c9d8fd034685ae6c47269",
+    "path": "code/D04-101_cisnlp_Glot500_en",
+    "official_evidence": "未核实官方归属（仅仓库存在）"
+  },
+  "D04-102": {
+    "sid": "D04-102",
+    "code_kind": "D",
+    "level": "",
+    "urls": [
+      "https://github.com/DavidFanzz/Generalist_or_Specialist"
+    ],
+    "note": "clone 失败 Cloning into '/root/recent_top_conference_research/code/D04-102_DavidFanzz_Generalist_or_Specialist_en'...\nfatal: could not read Username for 'https://github.com': terminal prompts",
+    "tried": "https://github.com/DavidFanzz/Generalist_or_Specialist"
+  },
+  "D04-103": {
+    "license_file": "LICENSE",
+    "license_name": "apache license",
+    "readme": [
+      "readme.md"
+    ],
+    "entries": [
+      "main.py",
+      "run.sh"
+    ],
+    "configs": [],
+    "deps": [
+      "requirements.txt"
+    ],
+    "tests": [],
+    "notebooks": [],
+    "n_files": 14,
+    "truncated_listing": false,
+    "has_gitmodules": false,
+    "has_lfs_pointers": false,
+    "code_kind": "A",
+    "missing": [
+      "配置（可能用 argparse）",
+      "测试"
+    ],
+    "level": "L1",
+    "l1_ok": true,
+    "sid": "D04-103",
+    "url": "https://github.com/azshue/AutoPoison",
+    "owner": "azshue",
+    "repo": "AutoPoison",
+    "commit": "6d46562918b141572e8e438aee3fcdf388354e52",
+    "path": "code/D04-103_azshue_AutoPoison_en",
+    "official_evidence": "疑似作者（仓库名含作者姓氏）"
+  },
+  "D04-106": {
+    "license_file": "LICENSE",
+    "license_name": "mit license",
+    "readme": [
+      "readme.md"
+    ],
+    "entries": [],
+    "configs": [],
+    "deps": [
+      "environment.yml"
+    ],
+    "tests": [],
+    "notebooks": [],
+    "n_files": 41,
+    "truncated_listing": false,
+    "has_gitmodules": false,
+    "has_lfs_pointers": false,
+    "code_kind": "C",
+    "missing": [
+      "仅部分实现可见"
+    ],
+    "level": "L0",
+    "l1_ok": false,
+    "sid": "D04-106",
+    "url": "https://github.com/hannahwxy/AffordBot",
+    "owner": "hannahwxy",
+    "repo": "AffordBot",
+    "commit": "dc3969da742005eb529b190b539f4ec44b58362d",
+    "path": "code/D04-106_hannahwxy_AffordBot_en",
+    "official_evidence": "未核实官方归属（仅仓库存在）"
+  },
+  "D04-108": {
+    "license_file": "",
+    "license_name": "未发现许可证（不标为可自由复用）",
+    "readme": [
+      "readme.md"
+    ],
+    "entries": [],
+    "configs": [],
+    "deps": [],
+    "tests": [],
+    "notebooks": [],
+    "n_files": 31,
+    "truncated_listing": false,
+    "has_gitmodules": false,
+    "has_lfs_pointers": false,
+    "code_kind": "B",
+    "missing": [
+      "仅部分实现可见"
+    ],
+    "level": "L0",
+    "l1_ok": false,
+    "sid": "D04-108",
+    "url": "https://github.com/Zhaolutuan/AnomalyCoT",
+    "owner": "Zhaolutuan",
+    "repo": "AnomalyCoT",
+    "commit": "8a0671e3745e2ce76419796b91eae121ef1f9f5e",
+    "path": "code/D04-108_Zhaolutuan_AnomalyCoT_en",
+    "official_evidence": "疑似作者（仓库名含作者姓氏）"
+  },
+  "D04-109": {
+    "license_file": "LICENSE",
+    "license_name": "apache license",
+    "readme": [
+      "readme.md"
+    ],
+    "entries": [],
+    "configs": [
+      "grpo_trainer_lora_model/adapter_config.json",
+      "grpo_trainer_lora_model/ds_config_stage2.json"
+    ],
+    "deps": [
+      "requirements.txt",
+      "pyproject.toml"
+    ],
+    "tests": [],
+    "notebooks": [],
+    "n_files": 44,
+    "truncated_listing": false,
+    "has_gitmodules": false,
+    "has_lfs_pointers": false,
+    "code_kind": "B",
+    "missing": [
+      "仅部分实现可见"
+    ],
+    "level": "L0",
+    "l1_ok": false,
+    "sid": "D04-109",
+    "url": "https://github.com/bowang-lab/BioReason",
+    "owner": "bowang-lab",
+    "repo": "BioReason",
+    "commit": "684ff7c09eb1d65e70925c114a7a05a1fcc0403f",
+    "path": "code/D04-109_bowang-lab_BioReason_en",
+    "official_evidence": "疑似作者（仓库名含作者姓氏）"
+  },
+  "D04-110": {
+    "license_file": "LICENSE",
+    "license_name": "apache license",
+    "readme": [
+      "readme.md"
+    ],
+    "entries": [
+      "evaluate.py"
+    ],
+    "configs": [],
+    "deps": [
+      "requirements.txt"
+    ],
+    "tests": [],
+    "notebooks": [],
+    "n_files": 9,
+    "truncated_listing": false,
+    "has_gitmodules": false,
+    "has_lfs_pointers": false,
+    "code_kind": "C",
+    "missing": [
+      "配置（可能用 argparse）",
+      "测试"
+    ],
+    "level": "L1",
+    "l1_ok": true,
+    "sid": "D04-110",
+    "url": "https://github.com/Liyan06/ChartMuseum",
+    "owner": "Liyan06",
+    "repo": "ChartMuseum",
+    "commit": "c3feaea144fecae71508add5570222dfc83ede6b",
+    "path": "code/D04-110_Liyan06_ChartMuseum_en",
+    "official_evidence": "未核实官方归属（仅仓库存在）"
+  },
+  "D04-028": {
+    "sid": "D04-028",
+    "code_kind": "D",
+    "level": "",
+    "urls": [],
+    "note": "未在摘要/评论/PDF 首页发现代码链接；未声称已检索穷尽第三方复现"
+  },
+  "D04-054": {
+    "sid": "D04-054",
+    "code_kind": "D",
+    "level": "",
+    "urls": [],
+    "note": "未在摘要/评论/PDF 首页发现代码链接；未声称已检索穷尽第三方复现"
+  },
+  "D04-058": {
+    "license_file": "LICENSE",
+    "license_name": "apache license",
+    "readme": [
+      "readme.md"
+    ],
+    "entries": [],
+    "configs": [
+      ".pre-commit-config.yaml"
+    ],
+    "deps": [
+      "pyproject.toml"
+    ],
+    "tests": [],
+    "notebooks": [],
+    "n_files": 36,
+    "truncated_listing": false,
+    "has_gitmodules": false,
+    "has_lfs_pointers": false,
+    "code_kind": "B",
+    "missing": [
+      "仅部分实现可见"
+    ],
+    "level": "L0",
+    "l1_ok": false,
+    "sid": "D04-058",
+    "url": "https://github.com/Modalities/MT-Bench-X",
+    "owner": "Modalities",
+    "repo": "MT-Bench-X",
+    "commit": "f8972dc70595a7e981ada7f2ac5e7c191ab12441",
+    "path": "code/D04-058_Modalities_MT-Bench-X_en",
+    "official_evidence": "疑似作者（仓库名含作者姓氏）"
+  },
+  "D04-059": {
+    "sid": "D04-059",
+    "code_kind": "D",
+    "level": "",
+    "urls": [],
+    "note": "未在摘要/评论/PDF 首页发现代码链接；未声称已检索穷尽第三方复现"
+  },
+  "D04-074": {
+    "sid": "D04-074",
+    "code_kind": "D",
+    "level": "",
+    "urls": [],
+    "note": "未在摘要/评论/PDF 首页发现代码链接；未声称已检索穷尽第三方复现"
+  },
+  "D04-076": {
+    "sid": "D04-076",
+    "code_kind": "D",
+    "level": "",
+    "urls": [],
+    "note": "未在摘要/评论/PDF 首页发现代码链接；未声称已检索穷尽第三方复现"
+  },
+  "D04-080": {
+    "sid": "D04-080",
+    "code_kind": "D",
+    "level": "",
+    "urls": [],
+    "note": "未在摘要/评论/PDF 首页发现代码链接；未声称已检索穷尽第三方复现"
+  },
+  "D04-084": {
+    "sid": "D04-084",
+    "code_kind": "D",
+    "level": "",
+    "urls": [],
+    "note": "未在摘要/评论/PDF 首页发现代码链接；未声称已检索穷尽第三方复现"
+  },
+  "D04-085": {
+    "license_file": "LICENSE",
+    "license_name": "apache license",
+    "readme": [
+      "readme.md"
+    ],
+    "entries": [
+      "vision/ocr/main/main.py"
+    ],
+    "configs": [],
+    "deps": [
+      "requirements.txt",
+      "environment.yml"
+    ],
+    "tests": [],
+    "notebooks": [],
+    "n_files": 66,
+    "truncated_listing": false,
+    "has_gitmodules": true,
+    "has_lfs_pointers": false,
+    "code_kind": "A",
+    "missing": [
+      "配置（可能用 argparse）",
+      "测试"
+    ],
+    "level": "L1",
+    "l1_ok": true,
+    "sid": "D04-085",
+    "url": "https://github.com/xueqingpeng/MultiFinBen",
+    "owner": "xueqingpeng",
+    "repo": "MultiFinBen",
+    "commit": "a3fc54082d0bcc6f9cc4e3491222a9b405ee35db",
+    "path": "code/D04-085_xueqingpeng_MultiFinBen_en",
+    "official_evidence": "疑似作者（仓库名含作者姓氏）"
+  },
+  "D04-086": {
+    "license_file": "LICENSE",
+    "license_name": "apache license",
+    "readme": [
+      "readme.md"
+    ],
+    "entries": [],
+    "configs": [],
+    "deps": [],
+    "tests": [],
+    "notebooks": [],
+    "n_files": 2,
+    "truncated_listing": false,
+    "has_gitmodules": false,
+    "has_lfs_pointers": false,
+    "code_kind": "C",
+    "missing": [
+      "仅部分实现可见"
+    ],
+    "level": "L0",
+    "l1_ok": false,
+    "sid": "D04-086",
+    "url": "https://github.com/Road2Redemption/PolyChartQA",
+    "owner": "Road2Redemption",
+    "repo": "PolyChartQA",
+    "commit": "1bca9c3b0531d21bcbfeb97357c54e472061ac39",
+    "path": "code/D04-086_Road2Redemption_PolyChartQA_en",
+    "official_evidence": "未核实官方归属（仅仓库存在）"
+  },
+  "D04-092": {
+    "sid": "D04-092",
+    "code_kind": "D",
+    "level": "",
+    "urls": [],
+    "note": "未在摘要/评论/PDF 首页发现代码链接；未声称已检索穷尽第三方复现"
+  },
+  "D04-093": {
+    "sid": "D04-093",
+    "code_kind": "D",
+    "level": "",
+    "urls": [],
+    "note": "未在摘要/评论/PDF 首页发现代码链接；未声称已检索穷尽第三方复现"
+  },
+  "D04-096": {
+    "sid": "D04-096",
+    "code_kind": "D",
+    "level": "",
+    "urls": [],
+    "note": "未在摘要/评论/PDF 首页发现代码链接；未声称已检索穷尽第三方复现"
+  },
+  "D04-097": {
+    "sid": "D04-097",
+    "code_kind": "D",
+    "level": "",
+    "urls": [],
+    "note": "未在摘要/评论/PDF 首页发现代码链接；未声称已检索穷尽第三方复现"
+  },
+  "D04-104": {
+    "license_file": "LICENSE",
+    "license_name": "mit license",
+    "readme": [
+      "readme.md"
+    ],
+    "entries": [],
+    "configs": [],
+    "deps": [],
+    "tests": [],
+    "notebooks": [],
+    "n_files": 2,
+    "truncated_listing": false,
+    "has_gitmodules": false,
+    "has_lfs_pointers": false,
+    "code_kind": "C",
+    "missing": [
+      "仅部分实现可见"
+    ],
+    "level": "L0",
+    "l1_ok": false,
+    "sid": "D04-104",
+    "url": "https://github.com/FudanDISC/weakly-supervised-mVLP",
+    "owner": "FudanDISC",
+    "repo": "weakly-supervised-mVLP",
+    "commit": "550502b9ba9e38532a9b3d2b95002890cbb46618",
+    "path": "code/D04-104_FudanDISC_weakly-supervised-mVLP_en",
+    "official_evidence": "未核实官方归属（仅仓库存在）"
+  },
+  "D04-105": {
+    "sid": "D04-105",
+    "code_kind": "D",
+    "level": "",
+    "urls": [],
+    "note": "未在摘要/评论/PDF 首页发现代码链接；未声称已检索穷尽第三方复现"
+  },
+  "D04-107": {
+    "sid": "D04-107",
+    "code_kind": "D",
+    "level": "",
+    "urls": [],
+    "note": "未在摘要/评论/PDF 首页发现代码链接；未声称已检索穷尽第三方复现"
+  }
+}

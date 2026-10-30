@@ -1,0 +1,1102 @@
+{
+  "D02-001": {
+    "sid": "D02-001",
+    "status": "ok",
+    "detail": "通过：%PDF；pypdf 12 页、76172 字符；标题匹配 1.00",
+    "path": "papers/2026_Gomez_BeyondTimeSeriesSpatialReasoningEpidemicForecastingMultimodal_en.pdf",
+    "sha256": "556bb6bd50acdd00916147c2e3b51df91eb7c089f64b921ee0f413fe36e01287",
+    "source_kind": "新下载",
+    "reused_lib": "",
+    "bytes": 4973630
+  },
+  "D02-002": {
+    "sid": "D02-002",
+    "status": "ok",
+    "detail": "通过：%PDF；pypdf 36 页、41125 字符；标题匹配 1.00",
+    "path": "papers/2026_Yang_ConditionallyWhitenedGenerativeModelsProbabilisticTimeSeriesForecasting_en.pdf",
+    "sha256": "02f3d797ac9973e8fbbb854db6a4707316f052b6354a0c1c27ff08e4cddac115",
+    "source_kind": "新下载",
+    "reused_lib": "",
+    "bytes": 1849016
+  },
+  "D02-003": {
+    "sid": "D02-003",
+    "status": "ok",
+    "detail": "通过：%PDF；pypdf 40 页、45237 字符；标题匹配 1.00",
+    "path": "papers/2025_Cachay_ElucidatedRollingDiffusionModelsProbabilisticForecastingComplexDynamics_en.pdf",
+    "sha256": "6fc7a01e2ab6304f8170bbc9d6eb1bcf8400b7d88ed2787d255fb2bcd99203f0",
+    "source_kind": "新下载",
+    "reused_lib": "",
+    "bytes": 10843569
+  },
+  "D02-004": {
+    "sid": "D02-004",
+    "status": "ok",
+    "detail": "通过：%PDF；pypdf 36 页、43679 字符；标题匹配 1.00",
+    "path": "papers/2023_Gao_PrediffPrecipitationNowcastingLatentDiffusionModels_en.pdf",
+    "sha256": "474de14c61eec8ffa5060f4e3d5aabc05d9c71b618f15d13f6254d8e3882613d",
+    "source_kind": "新下载",
+    "reused_lib": "",
+    "bytes": 10101658
+  },
+  "D02-005": {
+    "sid": "D02-005",
+    "status": "ok",
+    "detail": "通过：%PDF；pypdf 27 页、59021 字符；标题匹配 1.00",
+    "path": "papers/2025_Chen_ExpandCompressExploringTuningPrinciplesContinualSpatioTemporal_en.pdf",
+    "sha256": "e181757fbcff50099fa57a8a0b5f155d6fbcde5b7a7a4470af870d62a61c36d9",
+    "source_kind": "新下载",
+    "reused_lib": "",
+    "bytes": 1609596
+  },
+  "D02-006": {
+    "sid": "D02-006",
+    "status": "ok",
+    "detail": "通过：%PDF；pypdf 9 页、42970 字符；标题匹配 1.00",
+    "path": "papers/2026_Yan_BeyondSequencesDynamicHierarchicalHeterogeneousSpatioTemporalGraph_en.pdf",
+    "sha256": "9f4211ba305409c1cf6b101a8948eab3bfdfe1bd470b39f20c2661d8833162ab",
+    "source_kind": "新下载",
+    "reused_lib": "",
+    "bytes": 1815859
+  },
+  "D02-007": {
+    "sid": "D02-007",
+    "status": "ok",
+    "detail": "通过：%PDF；pypdf 14 页、72801 字符；标题匹配 1.00",
+    "path": "papers/2025_Qiu_DuetDualClusteringEnhancedMultivariateTimeSeriesForecasting_en.pdf",
+    "sha256": "a26e3deb2ec3821c56f39e12ce78c1097e5482a0620d50f2f7fa4c0d9bd76a19",
+    "source_kind": "新下载",
+    "reused_lib": "",
+    "bytes": 1535804
+  },
+  "D02-008": {
+    "sid": "D02-008",
+    "status": "ok",
+    "detail": "通过：%PDF；pypdf 18 页、51842 字符；标题匹配 1.00",
+    "path": "papers/2024_Zhang_IrregularMultivariateTimeSeriesForecastingTransformablePatchingGraph_en.pdf",
+    "sha256": "61b44ce520c22d22bbe588804cd439e309c4ed0927a35d74343bb6002feda674",
+    "source_kind": "新下载",
+    "reused_lib": "",
+    "bytes": 3599525
+  },
+  "D02-009": {
+    "sid": "D02-009",
+    "status": "ok",
+    "detail": "通过：%PDF；pypdf 19 页、46413 字符；标题匹配 1.00",
+    "path": "papers/2025_Ye_NonStationaryDiffusionProbabilisticTimeSeriesForecasting_en.pdf",
+    "sha256": "70574fd39c560ad7252fb5f1c33206827e533a3e0e5caa5350d3c536b3dfb93c",
+    "source_kind": "新下载",
+    "reused_lib": "",
+    "bytes": 2204176
+  },
+  "D02-010": {
+    "sid": "D02-010",
+    "status": "ok",
+    "detail": "通过：%PDF；pypdf 12 页、64793 字符；标题匹配 1.00",
+    "path": "papers/2026_Lv_RipcnRoadImpedancePrincipalComponentNetworkProbabilisticTraffic_en.pdf",
+    "sha256": "1a89e87606e0b813c2346d9d7e4c3a3d58a54b71b0d1bd1225f10c55805abde0",
+    "source_kind": "新下载",
+    "reused_lib": "",
+    "bytes": 3605969
+  },
+  "D02-011": {
+    "sid": "D02-011",
+    "status": "ok",
+    "detail": "通过：%PDF；pypdf 30 页、46850 字符；标题匹配 1.00",
+    "path": "papers/2026_Neglia_RescpReservoirConformalPredictionTimeSeriesForecasting_en.pdf",
+    "sha256": "e7b8430e9a78d5a54d2be8fa8f7c9a3dea2458a9a9ad5f67c7339232f8b0919c",
+    "source_kind": "新下载",
+    "reused_lib": "",
+    "bytes": 1699588
+  },
+  "D02-012": {
+    "sid": "D02-012",
+    "status": "ok",
+    "detail": "通过：%PDF；pypdf 16 页、65423 字符；标题匹配 1.00",
+    "path": "papers/2023_Kamarthi_WhenRigidityHurtsSoftConsistencyRegularizationProbabilisticHierarchical_en.pdf",
+    "sha256": "716a78dfa8e07b5a3ee812e4b9e82fa0bfddc732fe70b8feafe8bd316906b07b",
+    "source_kind": "新下载",
+    "reused_lib": "",
+    "bytes": 1669129
+  },
+  "D02-013": {
+    "sid": "D02-013",
+    "status": "ok",
+    "detail": "通过：%PDF；pypdf 18 页、56946 字符；标题匹配 1.00",
+    "path": "papers/2025_Jiang_FstllmSpatioTemporalLlmFewShotTimeSeries_en.pdf",
+    "sha256": "447544f169297d74c85182b723efe2d9c76cd7bf8d89ecbc53a0f706af6f18f7",
+    "source_kind": "新下载",
+    "reused_lib": "",
+    "bytes": 800298
+  },
+  "D02-014": {
+    "sid": "D02-014",
+    "status": "ok",
+    "detail": "通过：%PDF；pypdf 18 页、57670 字符；标题匹配 1.00",
+    "path": "papers/2025_Hu_ImtsWorthTimeTimesChannelPatchesVisualMasked_en.pdf",
+    "sha256": "dbfe3482dde8f19b3acff0db83885c03f8352abca33a2abc10b1196b0c915a19",
+    "source_kind": "新下载",
+    "reused_lib": "",
+    "bytes": 1611348
+  },
+  "D02-015": {
+    "sid": "D02-015",
+    "status": "ok",
+    "detail": "通过：%PDF；pypdf 19 页、53035 字符；标题匹配 1.00",
+    "path": "papers/2025_Hu_TimefilterPatchSpecificSpatialTemporalGraphFiltrationTime_en.pdf",
+    "sha256": "1504f4daf6d7137044e61baff5d538bff955be1255eaf0dc56192064ccc6c805",
+    "source_kind": "新下载",
+    "reused_lib": "",
+    "bytes": 4841802
+  },
+  "D02-016": {
+    "sid": "D02-016",
+    "status": "ok",
+    "detail": "通过：%PDF；pypdf 12 页、53128 字符；标题匹配 1.00",
+    "path": "papers/2022_Lan_DstagnnDynamicSpatialTemporalAwareGraphNeuralNetwork_en.pdf",
+    "sha256": "a0778d3440d00d5b099348aeacc0645a5b9c8dd90a39ee73d91e660dac08144d",
+    "source_kind": "新下载",
+    "reused_lib": "",
+    "bytes": 3608212
+  },
+  "D02-017": {
+    "sid": "D02-017",
+    "status": "ok",
+    "detail": "通过：%PDF；pypdf 9 页、47208 字符；标题匹配 1.00",
+    "path": "papers/2023_Deng_LearningGaussianMixtureRepresentationsTensorTimeSeriesForecasting_en.pdf",
+    "sha256": "62b4eca668272e15f3f836a627d0dad0c21aee0390a05a12c6fc13439f0e6e27",
+    "source_kind": "新下载",
+    "reused_lib": "",
+    "bytes": 1792246
+  },
+  "D02-018": {
+    "sid": "D02-018",
+    "status": "ok",
+    "detail": "通过：%PDF；pypdf 18 页、49055 字符；标题匹配 1.00",
+    "path": "papers/2026_Ding_SimdiffSimplerYetBetterDiffusionModelTimeSeries_en.pdf",
+    "sha256": "95825512f9315e79e958a0bb528c2bca99cf20fc8106b3dd2f59de95f41ff48d",
+    "source_kind": "新下载",
+    "reused_lib": "",
+    "bytes": 7024944
+  },
+  "D02-019": {
+    "sid": "D02-019",
+    "status": "ok",
+    "detail": "通过：%PDF；pypdf 21 页、46967 字符；标题匹配 1.00",
+    "path": "papers/2024_Fraikin_TRepRepresentationLearningTimeSeriesTimeEmbeddings_en.pdf",
+    "sha256": "118159ceb6acee8d049e07406e2e39aadbb684b1bbdc26faf1b08a69da077932",
+    "source_kind": "新下载",
+    "reused_lib": "",
+    "bytes": 2735572
+  },
+  "D02-020": {
+    "sid": "D02-020",
+    "status": "ok",
+    "detail": "通过：%PDF；pypdf 17 页、57955 字符；标题匹配 1.00",
+    "path": "papers/2026_Qiu_BridgingTimeFrequencyJointModelingFrameworkIrregularMultivariate_en.pdf",
+    "sha256": "c84686b8baccd06316d54e4463d0682dd09749b7d18a68e5aa6fe251c8261b9c",
+    "source_kind": "新下载",
+    "reused_lib": "",
+    "bytes": 3691655
+  },
+  "D02-021": {
+    "sid": "D02-021",
+    "status": "ok",
+    "detail": "通过：%PDF；pypdf 27 页、60107 字符；标题匹配 1.00",
+    "path": "papers/2026_You_LatentLaplaceDiffusionIrregularMultivariateTimeSeries_en.pdf",
+    "sha256": "4a1f458c287a5ef58fe0535a3260e087d9dd20bf3511579d29921b4d930139e0",
+    "source_kind": "新下载",
+    "reused_lib": "",
+    "bytes": 2095008
+  },
+  "D02-022": {
+    "sid": "D02-022",
+    "status": "ok",
+    "detail": "通过：%PDF；pypdf 29 页、48578 字符；标题匹配 1.00",
+    "path": "papers/2026_Lim_QuiteQueryIrregularTimeSeriesEmbedding_en.pdf",
+    "sha256": "16ee87c49287bbd1b68b3f62ef1a7c4381cbfd6b1a9f6992cc26e94d469360f7",
+    "source_kind": "新下载",
+    "reused_lib": "",
+    "bytes": 19713831
+  },
+  "D02-023": {
+    "sid": "D02-023",
+    "status": "ok",
+    "detail": "通过：%PDF；pypdf 17 页、54657 字符；标题匹配 1.00",
+    "path": "papers/2025_Li_HyperimtsHypergraphNeuralNetworkIrregularMultivariateTimeSeries_en.pdf",
+    "sha256": "2e3920bcaa385b4ba3aa128b830b566158cab93028527646067589758ca85ec4",
+    "source_kind": "新下载",
+    "reused_lib": "",
+    "bytes": 3690816
+  },
+  "D02-024": {
+    "sid": "D02-024",
+    "status": "ok",
+    "detail": "通过：%PDF；pypdf 13 页、58897 字符；标题匹配 1.00",
+    "path": "papers/2023_Zhang_SpatialTemporalGraphLearningAdversarialContrastiveAdaptation_en.pdf",
+    "sha256": "43632b26c4d050cf4e7b5e63085741e83c30e1d0a29a67c6c0348da832ca7360",
+    "source_kind": "新下载",
+    "reused_lib": "",
+    "bytes": 1190446
+  },
+  "D02-025": {
+    "sid": "D02-025",
+    "status": "ok",
+    "detail": "通过：%PDF；pypdf 12 页、66138 字符；标题匹配 1.00",
+    "path": "papers/2026_Dey_WhenTrustDistillMultiFoundationModelGuidanceLightweight_en.pdf",
+    "sha256": "e3ea03c1298e1475875e9e23433af0df51693125482a19cca4b42bb5542979a3",
+    "source_kind": "新下载",
+    "reused_lib": "",
+    "bytes": 5108604
+  },
+  "D02-026": {
+    "sid": "D02-026",
+    "status": "ok",
+    "detail": "通过：%PDF；pypdf 13 页、64061 字符；标题匹配 1.00",
+    "path": "papers/2026_Ruan_RastRetrievalAugmentedSpatioTemporalFrameworkTrafficPrediction_en.pdf",
+    "sha256": "6d650c66053a8e3a51f93078682a1902f48c6d5eacf736b05bc9f7ce061858d1",
+    "source_kind": "新下载",
+    "reused_lib": "",
+    "bytes": 2404758
+  },
+  "D02-027": {
+    "sid": "D02-027",
+    "status": "ok",
+    "detail": "通过：%PDF；pypdf 17 页、58907 字符；标题匹配 1.00",
+    "path": "papers/2025_Cini_RelationalConformalPredictionCorrelatedTimeSeries_en.pdf",
+    "sha256": "179e177ca9cb41c21c8b2b1bf205e946ccb1f509137e4f0a34b7a2163833be07",
+    "source_kind": "新下载",
+    "reused_lib": "",
+    "bytes": 517269
+  },
+  "D02-028": {
+    "sid": "D02-028",
+    "status": "ok",
+    "detail": "通过：%PDF；pypdf 29 页、48360 字符；标题匹配 1.00",
+    "path": "papers/2023_Cachay_DyffusionDynamicsInformedDiffusionModelSpatiotemporalForecasting_en.pdf",
+    "sha256": "eb87872c3ef157c48e16773f1e0de36271f86af51f9d7d6ea31385512471ac80",
+    "source_kind": "新下载",
+    "reused_lib": "",
+    "bytes": 1507255
+  },
+  "D02-029": {
+    "sid": "D02-029",
+    "status": "ok",
+    "detail": "通过：%PDF；pypdf 47 页、55591 字符；标题匹配 1.00",
+    "path": "papers/2023_Marcotte_RegionsReliabilityEvaluationMultivariateProbabilisticForecasts_en.pdf",
+    "sha256": "71c2992c9e7033c5f5920867f6ad7493384f77277ab9308b977ee83407d57b43",
+    "source_kind": "新下载",
+    "reused_lib": "",
+    "bytes": 2847607
+  },
+  "D02-030": {
+    "sid": "D02-030",
+    "status": "ok",
+    "detail": "通过：%PDF；pypdf 17 页、47931 字符；标题匹配 1.00",
+    "path": "papers/2023_Hasson_TheoreticalGuaranteesLearningEnsemblingStrategiesApplicationsTimeSeries_en.pdf",
+    "sha256": "e3b1a8d6f4782d26a78295753624d826fe17c344c6da976b11ce220a5fcbf668",
+    "source_kind": "新下载",
+    "reused_lib": "",
+    "bytes": 422800
+  },
+  "D02-031": {
+    "sid": "D02-031",
+    "status": "ok",
+    "detail": "通过：%PDF；pypdf 21 页、47056 字符；标题匹配 1.00",
+    "path": "papers/2024_Liu_ExplainingTimeSeriesContrastiveLocallySparsePerturbations_en.pdf",
+    "sha256": "fccba4eb56889daad908506db41c382525d97a98880919dad0e3840200590a0e",
+    "source_kind": "新下载",
+    "reused_lib": "",
+    "bytes": 1456082
+  },
+  "D02-032": {
+    "sid": "D02-032",
+    "status": "ok",
+    "detail": "通过：%PDF；pypdf 15 页、60209 字符；标题匹配 1.00",
+    "path": "papers/2026_Kim_CandiCuratedTestTimeAdaptationMultivariateTimeSeries_en.pdf",
+    "sha256": "7426dca620d03b853763ef7924689fa95105b952e98467f9596a45515257ca8c",
+    "source_kind": "新下载",
+    "reused_lib": "",
+    "bytes": 2501221
+  },
+  "D02-033": {
+    "sid": "D02-033",
+    "status": "ok",
+    "detail": "通过：%PDF；pypdf 9 页、48752 字符；标题匹配 1.00",
+    "path": "papers/2026_Zhang_CaseNetDeepSpatioTemporalRepresentationLearningCausal_en.pdf",
+    "sha256": "b7b07a7fea63bbcb97f7eb39c636594a9f68b158cc66dd7684bedbd61a1ba7f8",
+    "source_kind": "新下载",
+    "reused_lib": "",
+    "bytes": 1337070
+  },
+  "D02-034": {
+    "sid": "D02-034",
+    "status": "ok",
+    "detail": "通过：%PDF；pypdf 30 页、46492 字符；标题匹配 1.00",
+    "path": "papers/2026_Dai_SamplesScenariosNewParadigmProbabilisticForecasting_en.pdf",
+    "sha256": "5bfd5d16e7f3759cdfdba668fd62a61c12862caa57dc7a9d0c0d720a8653eb0a",
+    "source_kind": "新下载",
+    "reused_lib": "",
+    "bytes": 4031179
+  },
+  "D02-035": {
+    "sid": "D02-035",
+    "status": "ok",
+    "detail": "通过：%PDF；pypdf 28 页、66087 字符；标题匹配 1.00",
+    "path": "papers/2026_Neog_LakefmFoundationModelAquaticEcosystemsIrregularMultivariateMulti_en.pdf",
+    "sha256": "28c661c33c686c55e15b62cd3dc957685ed45ae92d898643ccec5a15fe17162b",
+    "source_kind": "新下载",
+    "reused_lib": "",
+    "bytes": 10288958
+  },
+  "D02-036": {
+    "sid": "D02-036",
+    "status": "ok",
+    "detail": "通过：%PDF；pypdf 9 页、36463 字符；标题匹配 1.00",
+    "path": "papers/2023_Zhou_PtseMultiModelEnsembleMethodProbabilisticTimeSeries_en.pdf",
+    "sha256": "35e05a3b7c49c814202e3bc22bf2eb0a70e107a63b68b0b9914e03e3b16d9505",
+    "source_kind": "新下载",
+    "reused_lib": "",
+    "bytes": 511646
+  },
+  "D02-037": {
+    "sid": "D02-037",
+    "status": "ok",
+    "detail": "通过：%PDF；pypdf 27 页、53607 字符；标题匹配 1.00",
+    "path": "papers/2026_Zhu_DynamicTmoeDriftAwareDynamicMixtureExpertsFramework_en.pdf",
+    "sha256": "57e3e0b386f272dd32232e9cccb4965086fe7c5ba685141c1725572c0cf14e92",
+    "source_kind": "新下载",
+    "reused_lib": "",
+    "bytes": 4648179
+  },
+  "D02-038": {
+    "sid": "D02-038",
+    "status": "ok",
+    "detail": "通过：%PDF；pypdf 12 页、56135 字符；标题匹配 1.00",
+    "path": "papers/2026_Wu_LagllmLlmEmpoweredLeadLagDependencyLearningSpatial_en.pdf",
+    "sha256": "a68c2af0756aa1a8180330b56eab914c69974d0592a20e349a8dbbf6ea2a6725",
+    "source_kind": "新下载",
+    "reused_lib": "",
+    "bytes": 994172
+  },
+  "D02-039": {
+    "sid": "D02-039",
+    "status": "ok",
+    "detail": "通过：%PDF；pypdf 28 页、58434 字符；标题匹配 1.00",
+    "path": "papers/2026_Feofanov_MantisLightweightFoundationModelTimeSeriesClassification_en.pdf",
+    "sha256": "d9f3242bdc456ddbee683af77208695f7b3b4c79f7e6c62b210bfd03b38fd506",
+    "source_kind": "新下载",
+    "reused_lib": "",
+    "bytes": 869324
+  },
+  "D02-040": {
+    "sid": "D02-040",
+    "status": "ok",
+    "detail": "通过：%PDF；pypdf 20 页、55189 字符；标题匹配 1.00",
+    "path": "papers/2026_Ai_NestedSpatioTemporalTimeSeriesForecasting_en.pdf",
+    "sha256": "c14bdf1764f3e5613377ddefe1090ff5386bf350624dbe87ef00cb035c65ae11",
+    "source_kind": "新下载",
+    "reused_lib": "",
+    "bytes": 1835156
+  },
+  "D02-041": {
+    "sid": "D02-041",
+    "status": "ok",
+    "detail": "通过：%PDF；pypdf 22 页、56330 字符；标题匹配 1.00",
+    "path": "papers/2026_Cachay_UCastSurprisinglySimpleEfficientFrontierProbabilisticAi_en.pdf",
+    "sha256": "524324dcad1acd28a7c9932b0971708d444df2995477e150c263f1f002abd4af",
+    "source_kind": "新下载",
+    "reused_lib": "",
+    "bytes": 5627744
+  },
+  "D02-042": {
+    "sid": "D02-042",
+    "status": "ok",
+    "detail": "通过：%PDF；pypdf 31 页、55223 字符；标题匹配 1.00",
+    "path": "papers/2026_Fu_ZeusTuningFreeFoundationModelTimeSeriesAnalysis_en.pdf",
+    "sha256": "0d9026b2396240a67245ba84ec5444d44e09cc3223c5ba7e6edfe94ce271f605",
+    "source_kind": "新下载",
+    "reused_lib": "",
+    "bytes": 3889036
+  },
+  "D02-043": {
+    "sid": "D02-043",
+    "status": "ok",
+    "detail": "通过：%PDF；pypdf 28 页、75647 字符；标题匹配 1.00",
+    "path": "papers/2025_Masserano_EnhancingFoundationModelsTimeSeriesForecastingWaveletTokenization_en.pdf",
+    "sha256": "3b052c656c4d71fe070154e1393c051c5a7ea322784c7f85de1023980d17d121",
+    "source_kind": "新下载",
+    "reused_lib": "",
+    "bytes": 9799984
+  },
+  "D02-044": {
+    "sid": "D02-044",
+    "status": "ok",
+    "detail": "通过：%PDF；pypdf 29 页、44343 字符；标题匹配 1.00",
+    "path": "papers/2025_Gao_DifferentPastSpatioTemporalTimeSeriesForecastingSelf_en.pdf",
+    "sha256": "073c42d5bceee9914fef87d1cd5d2a0477e84bbeb6d3fad1849331c30c960222",
+    "source_kind": "新下载",
+    "reused_lib": "",
+    "bytes": 13581031
+  },
+  "D02-045": {
+    "sid": "D02-045",
+    "status": "ok",
+    "detail": "通过：%PDF；pypdf 35 页、43098 字符；标题匹配 1.00",
+    "path": "papers/2025_Sun_LearningPatternSpecificExpertsTimeSeriesForecastingPatch_en.pdf",
+    "sha256": "d83b612fa75814c41e3a46935c48299738a412d58eb0fc8a8175e99571d10d4f",
+    "source_kind": "新下载",
+    "reused_lib": "",
+    "bytes": 2864100
+  },
+  "D02-046": {
+    "sid": "D02-046",
+    "status": "ok",
+    "detail": "通过：%PDF；pypdf 29 页、56132 字符；标题匹配 1.00",
+    "path": "papers/2025_Lee_LightweightOnlineAdaptionTimeSeriesFoundationModelForecasts_en.pdf",
+    "sha256": "2b2d2a30ef5583676f7801a5844761c2c93162d36ba13d08d3460cc1fe2a300c",
+    "source_kind": "新下载",
+    "reused_lib": "",
+    "bytes": 878740
+  },
+  "D02-047": {
+    "sid": "D02-047",
+    "status": "ok",
+    "detail": "通过：%PDF；pypdf 34 页、50042 字符；标题匹配 1.00",
+    "path": "papers/2025_He_SempoLightweightFoundationModelsTimeSeriesForecasting_en.pdf",
+    "sha256": "1d6fc68a23a17d3923e891e25bd880cd7f044e6d15bae5446e8dd03e277997eb",
+    "source_kind": "新下载",
+    "reused_lib": "",
+    "bytes": 1715478
+  },
+  "D02-048": {
+    "sid": "D02-048",
+    "status": "ok",
+    "detail": "通过：%PDF；pypdf 27 页、46979 字符；标题匹配 1.00",
+    "path": "papers/2024_Liu_TimeFfmLmEmpoweredFederatedFoundationModelTime_en.pdf",
+    "sha256": "866a526f710369738b3958a1347428c546f152a4167a0e44d6dbd6c26b7c274f",
+    "source_kind": "新下载",
+    "reused_lib": "",
+    "bytes": 623762
+  },
+  "D02-049": {
+    "sid": "D02-049",
+    "status": "ok",
+    "detail": "通过：%PDF；pypdf 31 页、44774 字符；标题匹配 1.00",
+    "path": "papers/2025_Nguyen_OmnicastMaskedLatentDiffusionModelWeatherForecastingAcross_en.pdf",
+    "sha256": "f91bdfb04fdb81da4d519a7c5d7d3d0ae3228eee09efa6c75a30c9148368a90f",
+    "source_kind": "新下载",
+    "reused_lib": "",
+    "bytes": 41424637
+  },
+  "D02-050": {
+    "sid": "D02-050",
+    "status": "ok",
+    "detail": "通过：%PDF；pypdf 37 页、49197 字符；标题匹配 1.00",
+    "path": "papers/2024_Chen_AddressingSpatialTemporalHeterogeneityGeneralMixedTimeSeries_en.pdf",
+    "sha256": "8736111657e92440f9c65deed8401656913d5809f1dcc00844ad2ad3152c5ac1",
+    "source_kind": "新下载",
+    "reused_lib": "",
+    "bytes": 6213719
+  },
+  "D02-051": {
+    "sid": "D02-051",
+    "status": "ok",
+    "detail": "通过：%PDF；pypdf 28 页、42696 字符；标题匹配 1.00",
+    "path": "papers/2023_Angelopoulos_ConformalPidControlTimeSeriesPrediction_en.pdf",
+    "sha256": "a100caac0c7944b7087a32996dd3aeb1e56af7c88a2414fee00d0542f00d4ac6",
+    "source_kind": "新下载",
+    "reused_lib": "",
+    "bytes": 9060379
+  },
+  "D02-053": {
+    "sid": "D02-053",
+    "status": "ok",
+    "detail": "通过：%PDF；pypdf 12 页、59321 字符；标题匹配 1.00",
+    "path": "papers/2026_Lu_NonStationaryTimeSeriesForecastingTemporalStabilizationFrequency_en.pdf",
+    "sha256": "01d0f1659452262480aeb1a30064b28a50a71eb272ab372fc220a34e0db12249",
+    "source_kind": "新下载",
+    "reused_lib": "",
+    "bytes": 5007887
+  },
+  "D02-054": {
+    "sid": "D02-054",
+    "status": "ok",
+    "detail": "通过：%PDF；pypdf 15 页、64351 字符；标题匹配 1.00",
+    "path": "papers/2025_Kim_BattlingNonStationarityTimeSeriesForecastingTestTime_en.pdf",
+    "sha256": "8a7389b118a918c7bf40d5cc5d514f5db2e4679a2997af7ed6586bf1f33ff743",
+    "source_kind": "新下载",
+    "reused_lib": "",
+    "bytes": 1255458
+  },
+  "D02-055": {
+    "sid": "D02-055",
+    "status": "ok",
+    "detail": "通过：%PDF；pypdf 9 页、44330 字符；标题匹配 1.00",
+    "path": "papers/2025_Wang_NonCollectiveCalibratingStrategyTimeSeriesForecasting_en.pdf",
+    "sha256": "18468f22d45bb2a3f52d99532bc8300c2db11ec3ece94eb7ddf795f84a3087ae",
+    "source_kind": "新下载",
+    "reused_lib": "",
+    "bytes": 1118331
+  },
+  "D02-056": {
+    "sid": "D02-056",
+    "status": "ok",
+    "detail": "通过：%PDF；pypdf 27 页、46614 字符；标题匹配 1.00",
+    "path": "papers/2026_Huang_OnlineTimeSeriesPredictionFeatureAdjustment_en.pdf",
+    "sha256": "da0e15865cd4573d5b7b0979fcd57acb853430ac93876828aa886fa702b5c6a4",
+    "source_kind": "新下载",
+    "reused_lib": "",
+    "bytes": 961189
+  },
+  "D02-057": {
+    "sid": "D02-057",
+    "status": "ok",
+    "detail": "通过：%PDF；pypdf 13 页、51385 字符；标题匹配 1.00",
+    "path": "papers/2026_Ma_RecastReliabilityAwareCodebookAssistedLightweightTimeSeries_en.pdf",
+    "sha256": "a260b663f89959a450f9463acdfc41b8a8fec4874fc878a5ea09dc45a7febabd",
+    "source_kind": "新下载",
+    "reused_lib": "",
+    "bytes": 3183441
+  },
+  "D02-058": {
+    "sid": "D02-058",
+    "status": "ok",
+    "detail": "通过：%PDF；pypdf 9 页、53666 字符；标题匹配 1.00",
+    "path": "papers/2025_Wang_DeepLearningMultivariateTimeSeriesImputationSurvey_en.pdf",
+    "sha256": "d76bc020160cbce4585f55077865155edba74f7df1e1b171b35f2ee2d65c703f",
+    "source_kind": "新下载",
+    "reused_lib": "",
+    "bytes": 632958
+  },
+  "D02-059": {
+    "sid": "D02-059",
+    "status": "ok",
+    "detail": "通过：%PDF；pypdf 9 页、44805 字符；标题匹配 1.00",
+    "path": "papers/2025_Huang_CuqdsConformalUncertaintyQuantificationDistributionShiftTrajectoryPrediction_en.pdf",
+    "sha256": "0aa54bebe652a806be6771a9f7eef0921bada490f70340f8291adb33d3768b01",
+    "source_kind": "新下载",
+    "reused_lib": "",
+    "bytes": 539275
+  },
+  "D02-060": {
+    "sid": "D02-060",
+    "status": "ok",
+    "detail": "通过：%PDF；pypdf 12 页、72953 字符；标题匹配 1.00",
+    "path": "papers/2025_Fan_FlowInstanceNormalizationFlowNonStationaryTimeSeries_en.pdf",
+    "sha256": "d0db15e3db4d8f158328ea0a498625143ac59214e38ebd6cd247a0cd346849ef",
+    "source_kind": "新下载",
+    "reused_lib": "",
+    "bytes": 2246106
+  },
+  "D02-061": {
+    "sid": "D02-061",
+    "status": "ok",
+    "detail": "通过：%PDF；pypdf 9 页、49617 字符；标题匹配 1.00",
+    "path": "papers/2025_Chen_LearningExtrapolateAdjustTwoStageMetaLearningConcept_en.pdf",
+    "sha256": "e367214ea81a8f32494e7bd52e22ec9d955aeaf7b20c94516925dde58777a382",
+    "source_kind": "新下载",
+    "reused_lib": "",
+    "bytes": 538449
+  },
+  "D02-062": {
+    "sid": "D02-062",
+    "status": "ok",
+    "detail": "通过：%PDF；pypdf 9 页、47066 字符；标题匹配 1.00",
+    "path": "papers/2025_Sun_RidingWaveMultiScaleSpatialTemporalGraphLearning_en.pdf",
+    "sha256": "b40cabd308201b9b97b67356bcc9e7e329ca8505615ae9337a51c1e1980c9bf0",
+    "source_kind": "新下载",
+    "reused_lib": "",
+    "bytes": 647177
+  },
+  "D02-063": {
+    "sid": "D02-063",
+    "status": "ok",
+    "detail": "通过：%PDF；pypdf 9 页、49797 字符；标题匹配 1.00",
+    "path": "papers/2024_Fan_DeepFrequencyDerivativeLearningNonStationaryTimeSeries_en.pdf",
+    "sha256": "34b230fa533332e46be2979087cb728f1ff4332a8334302ba1ccaae31e33851c",
+    "source_kind": "新下载",
+    "reused_lib": "",
+    "bytes": 464118
+  },
+  "D02-064": {
+    "sid": "D02-064",
+    "status": "ok",
+    "detail": "通过：%PDF；pypdf 12 页、56124 字符；标题匹配 1.00",
+    "path": "papers/2023_Fan_DishTsGeneralParadigmAlleviatingDistributionShiftTime_en.pdf",
+    "sha256": "fe7af548a0dc99bf00a22bdb6584c73a710d472fbecd0e80d675b43e0d664788",
+    "source_kind": "新下载",
+    "reused_lib": "",
+    "bytes": 1147178
+  },
+  "D02-065": {
+    "sid": "D02-065",
+    "status": "ok",
+    "detail": "通过：%PDF；pypdf 7 页、26592 字符；标题匹配 1.00",
+    "path": "papers/2023_Pasula_RealWorldTimeSeriesBenchmarkDatasetsDistributionShifts_en.pdf",
+    "sha256": "4514333ad7e925b5043e6365d07c41544f1cc01c37727424a4ac57975d8b8eb6",
+    "source_kind": "新下载",
+    "reused_lib": "",
+    "bytes": 4200924
+  },
+  "D02-066": {
+    "sid": "D02-066",
+    "status": "ok",
+    "detail": "通过：%PDF；pypdf 21 页、44007 字符；标题匹配 1.00",
+    "path": "papers/2024_Liu_RetrievalAugmentedDiffusionModelsTimeSeriesForecasting_en.pdf",
+    "sha256": "fa6f7209a5336190a923f1a6331ea5807e4c2f7bba5c1b132a233b949a9c2cad",
+    "source_kind": "新下载",
+    "reused_lib": "",
+    "bytes": 1500291
+  },
+  "D02-067": {
+    "sid": "D02-067",
+    "status": "ok",
+    "detail": "通过：%PDF；pypdf 31 页、43585 字符；标题匹配 1.00",
+    "path": "papers/2024_Han_SoftsEfficientMultivariateTimeSeriesForecastingSeriesCore_en.pdf",
+    "sha256": "1cd4341b064d41b6fca6f2c17a33b538b3110fce5f2bbba1a98198814f36e62e",
+    "source_kind": "新下载",
+    "reused_lib": "",
+    "bytes": 4000053
+  },
+  "D02-068": {
+    "sid": "D02-068",
+    "status": "ok",
+    "detail": "通过：%PDF；pypdf 35 页、54566 字符；标题匹配 1.00",
+    "path": "papers/2024_Ekambaram_TinyTimeMixersTtmsFastPreTrainedModels_en.pdf",
+    "sha256": "10f424ca02cf770d319c754eba6b597d0b8c8ae4ac0d15651e0df05cb982bffc",
+    "source_kind": "新下载",
+    "reused_lib": "",
+    "bytes": 1470482
+  },
+  "D02-069": {
+    "sid": "D02-069",
+    "status": "ok",
+    "detail": "通过：%PDF；pypdf 21 页、52745 字符；标题匹配 1.00",
+    "path": "papers/2023_Xia_DecipheringSpatioTemporalGraphForecastingCausalLensTreatment_en.pdf",
+    "sha256": "a69537bc45d75aecf263d2908658b1e2ad436de3838f2a18a1ccf0f85cdf234e",
+    "source_kind": "新下载",
+    "reused_lib": "",
+    "bytes": 2741646
+  },
+  "D02-070": {
+    "sid": "D02-070",
+    "status": "ok",
+    "detail": "通过：%PDF；pypdf 23 页、43862 字符；标题匹配 1.00",
+    "path": "papers/2023_Yi_FouriergnnRethinkingMultivariateTimeSeriesForecastingPureGraph_en.pdf",
+    "sha256": "6431b116ccb27b667759ad38283fe36d71ba00466460c69a831c428268ea81a2",
+    "source_kind": "新下载",
+    "reused_lib": "",
+    "bytes": 2283079
+  },
+  "D02-071": {
+    "sid": "D02-071",
+    "status": "ok",
+    "detail": "通过：%PDF；pypdf 18 页、51981 字符；标题匹配 1.00",
+    "path": "papers/2023_Li_GptStGenerativePreTrainingSpatioTemporalGraph_en.pdf",
+    "sha256": "749963b9fd7ab15b8fb9b10ea7214773633a6c10f0c3e6422f49e545500a27aa",
+    "source_kind": "新下载",
+    "reused_lib": "",
+    "bytes": 3090104
+  },
+  "D02-072": {
+    "sid": "D02-072",
+    "status": "ok",
+    "detail": "通过：%PDF；pypdf 32 页、45163 字符；标题匹配 1.00",
+    "path": "papers/2024_Lee_AntAdaptiveNoiseScheduleTimeSeriesDiffusionModels_en.pdf",
+    "sha256": "d45a551f0a6fe484a16115f4acda7bc62fdfa93d5d303e30415b6f7ed02e9f82",
+    "source_kind": "新下载",
+    "reused_lib": "",
+    "bytes": 7868686
+  },
+  "D02-073": {
+    "sid": "D02-073",
+    "status": "ok",
+    "detail": "通过：%PDF；pypdf 30 页、47085 字符；标题匹配 1.00",
+    "path": "papers/2024_Kim_SelfAttentionsEffectiveTimeSeriesForecasting_en.pdf",
+    "sha256": "4c2321455ac346075be64c26bc97c23c33dd51eb0ff63cd05a2ffc9bda94f77b",
+    "source_kind": "新下载",
+    "reused_lib": "",
+    "bytes": 1151022
+  },
+  "D02-074": {
+    "sid": "D02-074",
+    "status": "ok",
+    "detail": "通过：%PDF；pypdf 31 页、37954 字符；标题匹配 1.00",
+    "path": "papers/2024_Shi_ScalingLawTimeSeriesForecasting_en.pdf",
+    "sha256": "ff078bdecd3d5dacff8e644a36b53f77e2244ed7f4f54289b07a05037f1d299b",
+    "source_kind": "新下载",
+    "reused_lib": "",
+    "bytes": 2349752
+  },
+  "D02-075": {
+    "sid": "D02-075",
+    "status": "ok",
+    "detail": "通过：%PDF；pypdf 43 页、55777 字符；标题匹配 1.00",
+    "path": "papers/2024_Gao_UnitsUnifiedMultiTaskTimeSeriesModel_en.pdf",
+    "sha256": "493b415e2ffc02b826071ac31cd34e3bab1c766db33a66325726e9dd2df5db66",
+    "source_kind": "新下载",
+    "reused_lib": "",
+    "bytes": 2543655
+  },
+  "D02-076": {
+    "sid": "D02-076",
+    "status": "ok",
+    "detail": "通过：%PDF；pypdf 13 页、44701 字符；标题匹配 1.00",
+    "path": "papers/2022_LIU_PracticalAdversarialAttacksSpatiotemporalTrafficForecastingModels_en.pdf",
+    "sha256": "f000804dcfa524f6df5f718f7c37e671375318cd87f6b6d61686fb09e9920838",
+    "source_kind": "新下载",
+    "reused_lib": "",
+    "bytes": 3796742
+  },
+  "D02-077": {
+    "sid": "D02-077",
+    "status": "ok",
+    "detail": "通过：%PDF；pypdf 29 页、49138 字符；标题匹配 1.00",
+    "path": "papers/2026_Cao_EnhancingMultivariateTimeSeriesForecastingGlobalTemporalRetrieval_en.pdf",
+    "sha256": "24b1033b6d4c5ab31a4e469b1e4bf56cd693873f6095cac4b572c3b48973c02a",
+    "source_kind": "新下载",
+    "reused_lib": "",
+    "bytes": 3735441
+  },
+  "D02-078": {
+    "sid": "D02-078",
+    "status": "ok",
+    "detail": "通过：%PDF；pypdf 12 页、73847 字符；标题匹配 1.00",
+    "path": "papers/2026_Wen_OnlineIrregularMultivariateTimeSeriesForecastingUncertaintyDriven_en.pdf",
+    "sha256": "9e744b57a71550c74bf10114ff13ca186ba9d56946b0d4257368b97da2244539",
+    "source_kind": "新下载",
+    "reused_lib": "",
+    "bytes": 982829
+  },
+  "D02-079": {
+    "sid": "D02-079",
+    "status": "ok",
+    "detail": "通过：%PDF；pypdf 9 页、47633 字符；标题匹配 1.00",
+    "path": "papers/2026_Cao_SpeakingNumbersLlmsMultiWaveletNumberEmbeddingsTime_en.pdf",
+    "sha256": "b49f9582245af8b9905ab14f62e954cc139b57a4076709d67db4083c7b78fc44",
+    "source_kind": "新下载",
+    "reused_lib": "",
+    "bytes": 7981258
+  },
+  "D02-080": {
+    "sid": "D02-080",
+    "status": "ok",
+    "detail": "通过：%PDF；pypdf 9 页、53945 字符；标题匹配 1.00",
+    "path": "papers/2023_Wen_TransformersTimeSeriesSurvey_en.pdf",
+    "sha256": "efbea35580a935305ea40959a400b0a39a585e40c46d38c6ed1482122e1a04df",
+    "source_kind": "新下载",
+    "reused_lib": "",
+    "bytes": 594194
+  },
+  "D02-081": {
+    "sid": "D02-081",
+    "status": "ok",
+    "detail": "通过：%PDF；pypdf 15 页、48795 字符；标题匹配 1.00",
+    "path": "papers/2026_Savchenko_HnMvtsHypernetworkMultivariateTimeSeriesForecasting_en.pdf",
+    "sha256": "872957ce0cdead778d96526c5a08a6aa58f258e969f2bd2f9405a491fa4881cb",
+    "source_kind": "新下载",
+    "reused_lib": "",
+    "bytes": 2163962
+  },
+  "D02-082": {
+    "sid": "D02-082",
+    "status": "ok",
+    "detail": "通过：%PDF；pypdf 9 页、48344 字符；标题匹配 1.00",
+    "path": "papers/2026_Wang_StreammtsStreamingMultivariateTimeSeriesForecasting_en.pdf",
+    "sha256": "e945855132f91c8ade50fa2c72d7fc04f4b8df5e978a621759a629635df97923",
+    "source_kind": "新下载",
+    "reused_lib": "",
+    "bytes": 371621
+  },
+  "D02-083": {
+    "sid": "D02-083",
+    "status": "ok",
+    "detail": "通过：%PDF；pypdf 9 页、45145 字符；标题匹配 1.00",
+    "path": "papers/2025_Li_ConditionalInformationBottleneckMultivariateTimeSeriesForecasting_en.pdf",
+    "sha256": "0d772b73d32513675e657868427add6e0219e88a330a689abb7948449294518a",
+    "source_kind": "新下载",
+    "reused_lib": "",
+    "bytes": 297818
+  },
+  "D02-084": {
+    "sid": "D02-084",
+    "status": "ok",
+    "detail": "通过：%PDF；pypdf 9 页、48352 字符；标题匹配 1.00",
+    "path": "papers/2025_Yan_DgraformerDynamicGraphLearningGuidedMultiScaleTransformer_en.pdf",
+    "sha256": "03f6dfe82e979d2e99d6f81cb062c855dbd9582e28614af192f74e6e8c298efe",
+    "source_kind": "新下载",
+    "reused_lib": "",
+    "bytes": 718280
+  },
+  "D02-085": {
+    "sid": "D02-085",
+    "status": "ok",
+    "detail": "通过：%PDF；pypdf 14 页、53897 字符；标题匹配 1.00",
+    "path": "papers/2025_Wang_FiltertsComprehensiveFrequencyFilteringMultivariateTimeSeriesForecasting_en.pdf",
+    "sha256": "64a8c0d9761f8b7e0c8aede9ba57be04c672be85b6188b416d7a358ea03e172b",
+    "source_kind": "新下载",
+    "reused_lib": "",
+    "bytes": 2065421
+  },
+  "D02-086": {
+    "sid": "D02-086",
+    "status": "ok",
+    "detail": "通过：%PDF；pypdf 9 页、47153 字符；标题匹配 1.00",
+    "path": "papers/2025_Yue_FreeformerFrequencyEnhancedTransformerMultivariateTimeSeriesForecasting_en.pdf",
+    "sha256": "ff16c989f88fd2f02a60c3f608f504643714a4cffd3afc355c85b2d4006e703f",
+    "source_kind": "新下载",
+    "reused_lib": "",
+    "bytes": 635416
+  },
+  "D02-087": {
+    "sid": "D02-087",
+    "status": "ok",
+    "detail": "通过：%PDF；pypdf 12 页、66469 字符；标题匹配 1.00",
+    "path": "papers/2026_Le_EfficientTestTimeScalingLlmTimeSeriesForecasting_en.pdf",
+    "sha256": "44511372197e1a79eb406023a0b405f1a3fa8c2d3d66b68c2b86252d4599ec1a",
+    "source_kind": "新下载",
+    "reused_lib": "",
+    "bytes": 3800871
+  },
+  "D02-088": {
+    "sid": "D02-088",
+    "status": "ok",
+    "detail": "通过：%PDF；pypdf 12 页、73686 字符；标题匹配 1.00",
+    "path": "papers/2025_Weng_SdeSimplifiedDisentangledDependencyEncodingFrameworkStateSpace_en.pdf",
+    "sha256": "f52b19f0c3bf64915e60d2cd13bc2bd52c0c1c6a30585dbbd214e9b0cc008b7e",
+    "source_kind": "新下载",
+    "reused_lib": "",
+    "bytes": 1926860
+  },
+  "D02-089": {
+    "sid": "D02-089",
+    "status": "ok",
+    "detail": "通过：%PDF；pypdf 16 页、44647 字符；标题匹配 0.89",
+    "path": "papers/2024_Hettige_AirphynetHarnessingPhysicsGuidedNeuralNetworksAirQuality_en.pdf",
+    "sha256": "8c0ac824c2cebf88a9450bc54ea33b28ca5501985c3749096e3e1e6ff5a5b70c",
+    "source_kind": "新下载",
+    "reused_lib": "",
+    "bytes": 7514591
+  },
+  "D02-090": {
+    "sid": "D02-090",
+    "status": "ok",
+    "detail": "通过：%PDF；pypdf 9 页、47613 字符；标题匹配 1.00",
+    "path": "papers/2026_Wu_AirddeMultifactorNeuralDelayDifferentialEquationsAirQuality_en.pdf",
+    "sha256": "43fccd5639c283e29853b89b3e4f066ed7718498160d803e44549e870d216bb3",
+    "source_kind": "新下载",
+    "reused_lib": "",
+    "bytes": 835196
+  },
+  "D02-091": {
+    "sid": "D02-091",
+    "status": "ok",
+    "detail": "通过：%PDF；pypdf 11 页、65589 字符；标题匹配 1.00",
+    "path": "papers/2024_Le_ShapeformerShapeletTransformerMultivariateTimeSeriesClassification_en.pdf",
+    "sha256": "cd8c9a4dfa881416deb14aa50c969402d569dc8b9c8e4023276ea426dd60ff6a",
+    "source_kind": "新下载",
+    "reused_lib": "",
+    "bytes": 4022905
+  },
+  "D02-093": {
+    "sid": "D02-093",
+    "status": "ok",
+    "detail": "通过：%PDF；pypdf 12 页、69798 字符；标题匹配 1.00",
+    "path": "papers/2026_Zhou_StationarityAwareRetrievalAugmentedTimeSeriesForecasting_en.pdf",
+    "sha256": "233b3f115207ded537514d50b512ec56e2161f29f0ac8ace7ff9e644d20ec0bd",
+    "source_kind": "新下载",
+    "reused_lib": "",
+    "bytes": 1032138
+  },
+  "D02-094": {
+    "sid": "D02-094",
+    "status": "ok",
+    "detail": "通过：%PDF；pypdf 11 页、63252 字符；标题匹配 1.00",
+    "path": "papers/2025_Lyu_TimingImportantRiskAwareFundAllocationTimeSeries_en.pdf",
+    "sha256": "4bda2d1fbb25f347c5aeb9569a67a7326bc5f76d86c079e5c9125e6f6c280491",
+    "source_kind": "新下载",
+    "reused_lib": "",
+    "bytes": 2988799
+  },
+  "D02-095": {
+    "sid": "D02-095",
+    "status": "ok",
+    "detail": "通过：%PDF；pypdf 31 页、50236 字符；标题匹配 1.00",
+    "path": "papers/2026_Hu_MultimodalTimeSeriesAnomalyDetectionSemanticAlignmentCondensed_en.pdf",
+    "sha256": "ce2a495140d985a6c1815dd854cffe1436023fbdfbea0ed0c6fb0b681e615c42",
+    "source_kind": "新下载",
+    "reused_lib": "",
+    "bytes": 1463842
+  },
+  "D02-096": {
+    "sid": "D02-096",
+    "status": "ok",
+    "detail": "通过：%PDF；pypdf 25 页、51584 字符；标题匹配 1.00",
+    "path": "papers/2024_Lee_SoftContrastiveLearningTimeSeries_en.pdf",
+    "sha256": "0df2278cadfb241db497c0f3c98df3aa404756acd45e840e2b2da1e40a4fd571",
+    "source_kind": "新下载",
+    "reused_lib": "",
+    "bytes": 3367167
+  },
+  "D02-097": {
+    "sid": "D02-097",
+    "status": "ok",
+    "detail": "通过：%PDF；pypdf 18 页、69624 字符；标题匹配 1.00",
+    "path": "papers/2026_Chen_Stm3MixtureMultiscaleMambaLongTermSpatioTemporal_en.pdf",
+    "sha256": "20e737a46d5184258bf3ff159b745aa6d87b0c19af2fe1839bdedf2161f8ec8f",
+    "source_kind": "新下载",
+    "reused_lib": "",
+    "bytes": 8086738
+  },
+  "D02-098": {
+    "sid": "D02-098",
+    "status": "ok",
+    "detail": "通过：%PDF；pypdf 12 页、75077 字符；标题匹配 1.00",
+    "path": "papers/2025_Wang_PreTrainingTimeSeriesModelsStockDataCustomization_en.pdf",
+    "sha256": "7338c8cb7738af06422ccadce9301be6bbeef2ede2a0e7f0c8bb6d4c17a394ba",
+    "source_kind": "新下载",
+    "reused_lib": "",
+    "bytes": 1056066
+  },
+  "D02-099": {
+    "sid": "D02-099",
+    "status": "ok",
+    "detail": "通过：%PDF；pypdf 39 页、43425 字符；标题匹配 1.00",
+    "path": "papers/2024_Xue_CardChannelAlignedRobustBlendTransformerTimeSeries_en.pdf",
+    "sha256": "adab85559fc89c63d024fbdd9177ae12b5ad289aadfea11fdc341c0dab757bd0",
+    "source_kind": "新下载",
+    "reused_lib": "",
+    "bytes": 8237144
+  },
+  "D02-100": {
+    "sid": "D02-100",
+    "status": "ok",
+    "detail": "通过：%PDF；pypdf 22 页、52130 字符；标题匹配 1.00",
+    "path": "papers/2024_Lee_LearningEmbedTimeSeriesPatchesIndependently_en.pdf",
+    "sha256": "e991d0d56805f3901f7833c4bb4e7a98b754ca5c3d53a07c91f97a9269cae953",
+    "source_kind": "新下载",
+    "reused_lib": "",
+    "bytes": 1789893
+  },
+  "D02-101": {
+    "sid": "D02-101",
+    "status": "ok",
+    "detail": "通过：%PDF；pypdf 23 页、42692 字符；标题匹配 1.00",
+    "path": "papers/2023_Shabani_ScaleformerIterativeMultiScaleRefiningTransformersTimeSeries_en.pdf",
+    "sha256": "ed4c343cdc51845cdc1be7004937bd1c2ae8cdf5e535bb34f517ff8c6ea0216c",
+    "source_kind": "新下载",
+    "reused_lib": "",
+    "bytes": 1814071
+  },
+  "D02-102": {
+    "sid": "D02-102",
+    "status": "ok",
+    "detail": "通过：%PDF；pypdf 23 页、62866 字符；标题匹配 1.00",
+    "path": "papers/2026_Wang_CometnetContextualMotifGuidedLongTermTimeSeries_en.pdf",
+    "sha256": "eeda0799e876392825d9bdf05ee0081d218822ab97b27da16fe94756c452d14f",
+    "source_kind": "新下载",
+    "reused_lib": "",
+    "bytes": 15456553
+  },
+  "D02-103": {
+    "sid": "D02-103",
+    "status": "ok",
+    "detail": "通过：%PDF；pypdf 15 页、53100 字符；标题匹配 1.00",
+    "path": "papers/2026_Hong_HarmonicDatasetDistillationTimeSeriesForecasting_en.pdf",
+    "sha256": "fc5deabfb6b7ac2738551a036b15181b0af3e5ade3c5ad3775bcaad372a8891f",
+    "source_kind": "新下载",
+    "reused_lib": "",
+    "bytes": 812758
+  },
+  "D02-104": {
+    "sid": "D02-104",
+    "status": "ok",
+    "detail": "通过：%PDF；pypdf 31 页、44149 字符；标题匹配 1.00",
+    "path": "papers/2026_Jung_MambaslExploringSingleLayerMambaTimeSeriesClassification_en.pdf",
+    "sha256": "7f15b6a50bf7bacddeea2b1bea784228f1406b50648208edb019f408932e65bd",
+    "source_kind": "新下载",
+    "reused_lib": "",
+    "bytes": 8723552
+  },
+  "D02-105": {
+    "sid": "D02-105",
+    "status": "ok",
+    "detail": "通过：%PDF；pypdf 22 页、46670 字符；标题匹配 1.00",
+    "path": "papers/2026_Peng_PrototsLearningHierarchicalPrototypesExplainableTimeSeriesForecasting_en.pdf",
+    "sha256": "b651271158b29b9de1b6825442056a90dbaf0c4b8b8380c0bbbdb9f0575c582e",
+    "source_kind": "新下载",
+    "reused_lib": "",
+    "bytes": 10396039
+  },
+  "D02-106": {
+    "sid": "D02-106",
+    "status": "ok",
+    "detail": "通过：%PDF；pypdf 42 页、46981 字符；标题匹配 1.00",
+    "path": "papers/2026_Wu_ScitsScientificTimeSeriesUnderstandingGenerationLlms_en.pdf",
+    "sha256": "287ca7288a6be9088ffb25121c00a4f231402a25f262064aaec6f1def3e2ee2f",
+    "source_kind": "新下载",
+    "reused_lib": "",
+    "bytes": 4213439
+  },
+  "D02-107": {
+    "sid": "D02-107",
+    "status": "ok",
+    "detail": "通过：%PDF；pypdf 27 页、48794 字符；标题匹配 1.00",
+    "path": "papers/2025_Lu_ContextTimeSeriesPredictor_en.pdf",
+    "sha256": "02930dada85ab125d55730c1af210f2503b0bc7db1d46d1e3b95f8e434810187",
+    "source_kind": "新下载",
+    "reused_lib": "",
+    "bytes": 5998314
+  },
+  "D02-108": {
+    "sid": "D02-108",
+    "status": "ok",
+    "detail": "通过：%PDF；pypdf 19 页、56277 字符；标题匹配 1.00",
+    "path": "papers/2023_Luo_TimeSeriesContrastiveLearningInformationAwareAugmentations_en.pdf",
+    "sha256": "710d15d1b23b0fdf7caca8caa0318e687f89264df21eb7c776ce97945bfb506a",
+    "source_kind": "新下载",
+    "reused_lib": "",
+    "bytes": 2044560
+  },
+  "D02-109": {
+    "sid": "D02-109",
+    "status": "ok",
+    "detail": "通过：%PDF；pypdf 24 页、59057 字符；标题匹配 1.00",
+    "path": "papers/2026_Shen_FindingTimeSeriesAnomaliesGranularBallVectorData_en.pdf",
+    "sha256": "b6653c6d5647f101ff77c8e001ed2f0a8e5e67833a7081343f582ec4db4e4587",
+    "source_kind": "新下载",
+    "reused_lib": "",
+    "bytes": 8776068
+  },
+  "D02-110": {
+    "sid": "D02-110",
+    "status": "ok",
+    "detail": "通过：%PDF；pypdf 9 页、50284 字符；标题匹配 1.00",
+    "path": "papers/2026_Li_TubermcTubeConditionedReconstructionMutualConstraintsWeaklySupervised_en.pdf",
+    "sha256": "f8ba9755b6e898fdf9f4bde7e588905936d794cb61c1ca6eea315ee23c5e5184",
+    "source_kind": "新下载",
+    "reused_lib": "",
+    "bytes": 7154548
+  },
+  "D02-052": {
+    "sid": "D02-052",
+    "status": "ok",
+    "detail": "通过：%PDF；pypdf 33 页、53120 字符；标题匹配 1.00",
+    "path": "papers/2022_Zaffran_AdaptiveConformalPredictionsTimeSeries_en.pdf",
+    "sha256": "7f908bcc760fd0bd5192ca7d7b255c861136aa7912638171ad58a50a2ec54cad",
+    "source_kind": "新下载",
+    "reused_lib": "",
+    "bytes": 1416052
+  },
+  "D02-092": {
+    "sid": "D02-092",
+    "status": "ok",
+    "detail": "通过：%PDF；pypdf 17 页、50924 字符；标题匹配 1.00",
+    "path": "papers/2024_Fang_BayotideBayesianOnlineMultivariateTimeSeriesImputationFunctional_en.pdf",
+    "sha256": "c1c6f8c6709c71dd50723fd0244bca134c9c0ddd3304558e638cc91fd29315b2",
+    "source_kind": "新下载",
+    "reused_lib": "",
+    "bytes": 848590
+  }
+}

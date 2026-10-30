@@ -1,0 +1,23 @@
+﻿sid,标题,会议,年份,阶段,URL,状态码,原因,备注
+D01-105,Rate of Convergence of Polynomial Networks to Gaussian Processes,COLT,2022,verify,https://proceedings.mlr.press/v178/klukowski22a/klukowski22a.pdf,,可提取字符不足 7684,新下载
+D01-012,Robust and Computation-Aware Gaussian Processes,NeurIPS,2025,verify,https://papers.nips.cc/paper_files/paper/2025/file/0122ad3e4a752438562297553bbf9049-Paper-Conference.pdf,,"pypdf 解析失败 NameError(""name 'chars' is not defined"")",新下载
+D01-066,Verifiably Robust Conformal Prediction,NeurIPS,2024,verify,https://papers.nips.cc/paper_files/paper/2024/file/0814a342597d65e0832fc7ec9b42c317-Paper-Conference.pdf,,"pypdf 解析失败 NameError(""name 'chars' is not defined"")",新下载
+D01-080,Memory-Based Dual Gaussian Processes for Sequential Learning,ICML,2023,verify,https://proceedings.mlr.press/v202/chang23a/chang23a.pdf,,"pypdf 解析失败 NameError(""name 'chars' is not defined"")",新下载
+D01-105,Rate of Convergence of Polynomial Networks to Gaussian Processes,COLT,2022,verify,https://proceedings.mlr.press/v178/klukowski22a/klukowski22a.pdf,,"pypdf 解析失败 NameError(""name 'chars' is not defined"")",新下载
+D02-092,End-to-End Learning for Partially-Observed Time Series with PyPOTS,KDD,2026,verify,https://arxiv.org/pdf/2604.24041.pdf,,页数不足 2,新下载
+D06-058,Breadth-First Pipeline Parallelism,MLSys,2023,pdf,https://proceedings.mlsys.org/paper_files/paper/2023/file/24e845415c1486dd2d582a9d639237f9-Paper-Conference.pdf,404 https://proceedings.mlsys.org/paper_files/paper/2023/file/24e845415c1486dd2d582a9d639237f9-Paper-Conference.pdf,下载失败或非 PDF,
+D06-058,Breadth-First Pipeline Parallelism,MLSys,2023,pdf,https://proceedings.mlsys.org/paper_files/paper/2023/file/24e845415c1486dd2d582a9d639237f9-Paper-Conference.pdf,404 https://proceedings.mlsys.org/paper_files/paper/2023/file/24e845415c1486dd2d582a9d639237f9-Paper-Conference.pdf,下载失败或非 PDF,
+D07-009,Leveling the Playing Field: Carefully Comparing Classical and Learned Controllers for Quadrotor Trajectory Tracking,RSS,2025,verify,https://www.roboticsproceedings.org/rss21/p116.pdf,,可提取字符不足 0,新下载
+D07-034,Gait-Net-augmented Implicit Kino-dynamic MPC for Dynamic Variable-frequency Humanoid Locomotion over Discrete Terrains,RSS,2025,verify,https://www.roboticsproceedings.org/rss21/p069.pdf,,可提取字符不足 0,新下载
+D07-035,PartInstruct: Part-level Instruction Following for Fine-grained Robot Manipulation,RSS,2025,verify,https://www.roboticsproceedings.org/rss21/p148.pdf,,可提取字符不足 0,新下载
+D07-036,RoboMIND: Benchmark on Multi-embodiment Intelligence Normative Data for Robot Manipulation,RSS,2025,verify,https://www.roboticsproceedings.org/rss21/p152.pdf,,可提取字符不足 0,新下载
+D07-037,STDArm: Transfer Visuomotor Policy From Static Data Training to Dynamic Robot Manipulation,RSS,2025,verify,https://www.roboticsproceedings.org/rss21/p147.pdf,,可提取字符不足 0,新下载
+D07-038,Safe Beyond the Horizon: Efficient Sampling-based MPC with Neural Control Barrier Functions,RSS,2025,verify,https://www.roboticsproceedings.org/rss21/p112.pdf,,可提取字符不足 0,新下载
+D07-058,DayDreamer: World Models for Physical Robot Learning,CoRL,2022,verify,https://proceedings.mlr.press/v205/wu23c/wu23c.pdf,,"pypdf 解析失败 UnboundLocalError(""cannot access local variable 'v' where it is not associated with a value"")",新下载
+D07-009,Leveling the Playing Field: Carefully Comparing Classical and Learned Controllers for Quadrotor Trajectory Tracking,RSS,2025,verify,https://www.roboticsproceedings.org/rss21/p116.pdf,,可提取字符不足 0,新下载
+D07-034,Gait-Net-augmented Implicit Kino-dynamic MPC for Dynamic Variable-frequency Humanoid Locomotion over Discrete Terrains,RSS,2025,verify,https://www.roboticsproceedings.org/rss21/p069.pdf,,可提取字符不足 0,新下载
+D07-035,PartInstruct: Part-level Instruction Following for Fine-grained Robot Manipulation,RSS,2025,verify,https://www.roboticsproceedings.org/rss21/p148.pdf,,可提取字符不足 0,新下载
+D07-036,RoboMIND: Benchmark on Multi-embodiment Intelligence Normative Data for Robot Manipulation,RSS,2025,verify,https://www.roboticsproceedings.org/rss21/p152.pdf,,可提取字符不足 0,新下载
+D07-037,STDArm: Transfer Visuomotor Policy From Static Data Training to Dynamic Robot Manipulation,RSS,2025,verify,https://www.roboticsproceedings.org/rss21/p147.pdf,,可提取字符不足 0,新下载
+D07-038,Safe Beyond the Horizon: Efficient Sampling-based MPC with Neural Control Barrier Functions,RSS,2025,verify,https://www.roboticsproceedings.org/rss21/p112.pdf,,可提取字符不足 0,新下载
+D07-058,DayDreamer: World Models for Physical Robot Learning,CoRL,2022,verify,https://proceedings.mlr.press/v205/wu23c/wu23c.pdf,,"pypdf 解析失败 UnboundLocalError(""cannot access local variable 'v' where it is not associated with a value"")",新下载

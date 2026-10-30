@@ -1,0 +1,1102 @@
+{
+  "D07-001": {
+    "sid": "D07-001",
+    "status": "ok",
+    "detail": "通过：%PDF；pypdf 12 页、55697 字符；标题匹配 1.00",
+    "path": "papers/2026_Ren_ZeroShotSimRealRobotLearningDexterousManipulation_en.pdf",
+    "sha256": "8c52f43eed291a7eec949d66839969e8ce13a301e924d42200eabf915342b310",
+    "source_kind": "新下载",
+    "reused_lib": "",
+    "bytes": 1657599
+  },
+  "D07-002": {
+    "sid": "D07-002",
+    "status": "ok",
+    "detail": "通过：%PDF；pypdf 15 页、42209 字符；标题匹配 1.00",
+    "path": "papers/2025_Lin_SimRealReinforcementLearningVisionDexterousManipulationHumanoids_en.pdf",
+    "sha256": "0963dcbb28b300302b1214bcadde88ce56b5cb16fe8f70a576a629d68dc08ae5",
+    "source_kind": "新下载",
+    "reused_lib": "",
+    "bytes": 13942328
+  },
+  "D07-003": {
+    "sid": "D07-003",
+    "status": "ok",
+    "detail": "通过：%PDF；pypdf 14 页、39816 字符；标题匹配 0.92",
+    "path": "papers/2025_He_ImperativeMpcEndEndSelfSupervisedLearningDifferentiable_en.pdf",
+    "sha256": "ffe851191c9967cb680d9cff695f71aa25817d4d55779b3645db2da8a98acfeb",
+    "source_kind": "新下载",
+    "reused_lib": "",
+    "bytes": 779249
+  },
+  "D07-004": {
+    "sid": "D07-004",
+    "status": "ok",
+    "detail": "通过：%PDF；pypdf 12 页、33761 字符；标题匹配 1.00",
+    "path": "papers/2024_Gu_ProtoMpcEncoderPrototypeDecoderApproachQuadrotorControl_en.pdf",
+    "sha256": "c6e6e139477491937f376af8188d6538ab404e3db9407b25b16e3e65acd38424",
+    "source_kind": "新下载",
+    "reused_lib": "",
+    "bytes": 8378055
+  },
+  "D07-005": {
+    "sid": "D07-005",
+    "status": "ok",
+    "detail": "通过：%PDF；pypdf 17 页、42252 字符；标题匹配 1.00",
+    "path": "papers/2025_Peri_NonConflictingEnergyMinimizationReinforcementLearningRobotControl_en.pdf",
+    "sha256": "f008aad3268d5973c4c01ca74c97a4f196afeae8989fe57190915982a46c85f3",
+    "source_kind": "新下载",
+    "reused_lib": "",
+    "bytes": 3698498
+  },
+  "D07-006": {
+    "sid": "D07-006",
+    "status": "ok",
+    "detail": "通过：%PDF；pypdf 10 页、34920 字符；标题匹配 1.00",
+    "path": "papers/2025_Mao_SequenceModelingTimeOptimalQuadrotorTrajectoryOptimizationSampling_en.pdf",
+    "sha256": "7a3af1fdd46e3aedc40e2776714e2947b4d82100e8b7b7bd500d1d7c72e008dc",
+    "source_kind": "新下载",
+    "reused_lib": "",
+    "bytes": 658978
+  },
+  "D07-007": {
+    "sid": "D07-007",
+    "status": "ok",
+    "detail": "通过：%PDF；pypdf 15 页、40746 字符；标题匹配 1.00",
+    "path": "papers/2023_Huang_DattDeepAdaptiveTrajectoryTrackingQuadrotorControl_en.pdf",
+    "sha256": "fe3e3ded23d4970197f25ab0cedaae04f460bdeffe607a1edeacfdaa22bfa23c",
+    "source_kind": "新下载",
+    "reused_lib": "",
+    "bytes": 12373931
+  },
+  "D07-008": {
+    "sid": "D07-008",
+    "status": "ok",
+    "detail": "通过：%PDF；pypdf 11 页、38222 字符；标题匹配 1.00",
+    "path": "papers/2022_Wang_QuadueCcmInterpretableDistributionalReinforcementLearningUncertainContraction_en.pdf",
+    "sha256": "723e0e7f09df5efa1022aa6bad8b724367f1d1edf70536ee7b29b2bb5c4fa73a",
+    "source_kind": "新下载",
+    "reused_lib": "",
+    "bytes": 4930856
+  },
+  "D07-009": {
+    "sid": "D07-009",
+    "status": "ok",
+    "detail": "通过：%PDF；pypdf 20 页、42598 字符；标题匹配 1.00",
+    "path": "papers/2025_Zhao_AnyplaceLearningGeneralizableObjectPlacementRobotManipulation_en.pdf",
+    "sha256": "3e8a65d894141c8b70d93853ed6b8e198bd108e4e6829e9c43d5c5cc9809ba0e",
+    "source_kind": "新下载",
+    "reused_lib": "",
+    "bytes": 37310236
+  },
+  "D07-010": {
+    "sid": "D07-010",
+    "status": "ok",
+    "detail": "通过：%PDF；pypdf 20 页、42598 字符；标题匹配 1.00",
+    "path": "papers/2025_Zhao_AnyplaceLearningGeneralizableObjectPlacementRobotManipulation_en.pdf",
+    "sha256": "3e8a65d894141c8b70d93853ed6b8e198bd108e4e6829e9c43d5c5cc9809ba0e",
+    "source_kind": "新下载",
+    "reused_lib": "",
+    "bytes": 37310236
+  },
+  "D07-011": {
+    "sid": "D07-011",
+    "status": "ok",
+    "detail": "通过：%PDF；pypdf 21 页、44186 字符；标题匹配 1.00",
+    "path": "papers/2025_Zhou_AutoevalAutonomousEvaluationGeneralistRobotManipulationPoliciesReal_en.pdf",
+    "sha256": "ad66258016d2633ccfb5632933967897bea18ec67ae96b628400a5b3b5de37bb",
+    "source_kind": "新下载",
+    "reused_lib": "",
+    "bytes": 18689272
+  },
+  "D07-012": {
+    "sid": "D07-012",
+    "status": "ok",
+    "detail": "通过：%PDF；pypdf 24 页、39093 字符；标题匹配 1.00",
+    "path": "papers/2025_Lee_ClassContrastiveLearningActionSequenceSupervisionRobotManipulation_en.pdf",
+    "sha256": "73dc95cd11284e2031f805cdac816774aab44eae891cca39540a185ef410da45",
+    "source_kind": "新下载",
+    "reused_lib": "",
+    "bytes": 38417010
+  },
+  "D07-013": {
+    "sid": "D07-013",
+    "status": "ok",
+    "detail": "通过：%PDF；pypdf 25 页、38532 字符；标题匹配 1.00",
+    "path": "papers/2025_Jang_DreamgenUnlockingGeneralizationRobotLearningVideoWorldModels_en.pdf",
+    "sha256": "d2103c9f0384e16750a8a5692e410cc14da953eb9dd53a395a680471d30968c3",
+    "source_kind": "新下载",
+    "reused_lib": "",
+    "bytes": 21051833
+  },
+  "D07-014": {
+    "sid": "D07-014",
+    "status": "ok",
+    "detail": "通过：%PDF；pypdf 20 页、37794 字符；标题匹配 1.00",
+    "path": "papers/2025_Zheng_FlareRobotLearningImplicitWorldModeling_en.pdf",
+    "sha256": "fc769418d2e1de506340ec3ac7d289c74a2fb6462a815bcc894d403a55851c6e",
+    "source_kind": "新下载",
+    "reused_lib": "",
+    "bytes": 10467300
+  },
+  "D07-015": {
+    "sid": "D07-015",
+    "status": "ok",
+    "detail": "通过：%PDF；pypdf 16 页、42703 字符；标题匹配 1.00",
+    "path": "papers/2025_Bharadhwaj_Gen2actHumanVideoGenerationNovelScenariosEnablesGeneralizable_en.pdf",
+    "sha256": "487e6a4076ac2008092f3a03bb30dd67fe93b25e9f4334bc8ac5c00512bd7611",
+    "source_kind": "新下载",
+    "reused_lib": "",
+    "bytes": 16843025
+  },
+  "D07-016": {
+    "sid": "D07-016",
+    "status": "ok",
+    "detail": "通过：%PDF；pypdf 22 页、45287 字符；标题匹配 1.00",
+    "path": "papers/2025_Spiridonov_GeneralistRobotManipulationBeyondActionLabeledData_en.pdf",
+    "sha256": "f2b93fd4e81d00383a6c68eb6eabce9a459e8133098655d37c8564c2f209a542",
+    "source_kind": "新下载",
+    "reused_lib": "",
+    "bytes": 9417623
+  },
+  "D07-017": {
+    "sid": "D07-017",
+    "status": "ok",
+    "detail": "通过：%PDF；pypdf 20 页、42373 字符；标题匹配 1.00",
+    "path": "papers/2025_Zhu_LavaManLearningVisualActionRepresentationsRobotManipulation_en.pdf",
+    "sha256": "f82cb3494c15758d18c77d07259d69ebd34cda5c0eabf913635e2a3d6234bc34",
+    "source_kind": "新下载",
+    "reused_lib": "",
+    "bytes": 14241290
+  },
+  "D07-018": {
+    "sid": "D07-018",
+    "status": "ok",
+    "detail": "通过：%PDF；pypdf 16 页、41415 字符；标题匹配 1.00",
+    "path": "papers/2025_Mao_LearningLongHorizonRobotManipulationSkillsPrivilegedAction_en.pdf",
+    "sha256": "0849bad52ffde41f2f69998e6a2e0a3c2d0b8aea719e2ba2835b2148f0e925ee",
+    "source_kind": "新下载",
+    "reused_lib": "",
+    "bytes": 14613347
+  },
+  "D07-019": {
+    "sid": "D07-019",
+    "status": "ok",
+    "detail": "通过：%PDF；pypdf 20 页、44802 字符；标题匹配 1.00",
+    "path": "papers/2025_Fan_LongVlaUnleashingLongHorizonCapabilityVisionLanguage_en.pdf",
+    "sha256": "38caf18f5728f93c0867c73bf05f1f744cf748454e96c4c5fc8b2962addf7128",
+    "source_kind": "新下载",
+    "reused_lib": "",
+    "bytes": 25332483
+  },
+  "D07-020": {
+    "sid": "D07-020",
+    "status": "ok",
+    "detail": "通过：%PDF；pypdf 26 页、38925 字符；标题匹配 1.00",
+    "path": "papers/2025_Yan_ManiflowGeneralRobotManipulationPolicyConsistencyFlowTraining_en.pdf",
+    "sha256": "cba4e944ceaae28031e5ab6bf6c91a4cc884c36aff120d6f9d346398418691e8",
+    "source_kind": "新下载",
+    "reused_lib": "",
+    "bytes": 28246933
+  },
+  "D07-021": {
+    "sid": "D07-021",
+    "status": "ok",
+    "detail": "通过：%PDF；pypdf 50 页、48187 字符；标题匹配 1.00",
+    "path": "papers/2025_Zhao_ManipbenchBenchmarkingVisionLanguageModelsLowLevelRobot_en.pdf",
+    "sha256": "253060bc8a4deb60de7adaf89e9d5cf3d0a072a46108cdd647e8f1a657ca9488",
+    "source_kind": "新下载",
+    "reused_lib": "",
+    "bytes": 5843419
+  },
+  "D07-022": {
+    "sid": "D07-022",
+    "status": "ok",
+    "detail": "通过：%PDF；pypdf 22 页、39098 字符；标题匹配 1.00",
+    "path": "papers/2025_Haldar_PointPolicyUnifyingObservationsActionsKeyPointsRobot_en.pdf",
+    "sha256": "d7734b470bd81086738b7e449aa61ba99253d2770930f4af28e93f79fa64c1c3",
+    "source_kind": "新下载",
+    "reused_lib": "",
+    "bytes": 25395639
+  },
+  "D07-023": {
+    "sid": "D07-023",
+    "status": "ok",
+    "detail": "通过：%PDF；pypdf 12 页、33708 字符；标题匹配 1.00",
+    "path": "papers/2025_Rabiee_SafeExplorationReinforcementLearningTrainingBackupControlBarrier_en.pdf",
+    "sha256": "5bcffc86d4bc8d83570cb78eb368855363d36feb4cd55cc91c7772307e0223dd",
+    "source_kind": "新下载",
+    "reused_lib": "",
+    "bytes": 1886223
+  },
+  "D07-024": {
+    "sid": "D07-024",
+    "status": "ok",
+    "detail": "通过：%PDF；pypdf 15 页、38012 字符；标题匹配 1.00",
+    "path": "papers/2023_Aljalbout_ClasCoordinatingMultiRobotManipulationCentralLatentAction_en.pdf",
+    "sha256": "e42c549e0ad175ce5409ebfa06496bc16541ed32cc062ddba6939c1482bbb7d8",
+    "source_kind": "新下载",
+    "reused_lib": "",
+    "bytes": 2139131
+  },
+  "D07-025": {
+    "sid": "D07-025",
+    "status": "ok",
+    "detail": "通过：%PDF；pypdf 13 页、38394 字符；标题匹配 1.00",
+    "path": "papers/2023_Ahn_ModelPredictiveControlPolicyImitationLearning_en.pdf",
+    "sha256": "e012fb7429535fc7eae3d741a8ca34682fb2620ac9063f9ae373a50b824d7d56",
+    "source_kind": "新下载",
+    "reused_lib": "",
+    "bytes": 407034
+  },
+  "D07-026": {
+    "sid": "D07-026",
+    "status": "ok",
+    "detail": "通过：%PDF；pypdf 13 页、36512 字符；标题匹配 1.00",
+    "path": "papers/2022_Cui_FoundationModelsPerformZeroShotTaskSpecificationRobot_en.pdf",
+    "sha256": "85dd1d30fb8f256f7e5897224692bc7c5105f1336a42ca7115da2996a0abaf4a",
+    "source_kind": "新下载",
+    "reused_lib": "",
+    "bytes": 1797369
+  },
+  "D07-027": {
+    "sid": "D07-027",
+    "status": "ok",
+    "detail": "通过：%PDF；pypdf 12 页、59634 字符；标题匹配 1.00",
+    "path": "papers/2026_He_ClosedLoopMultiAgentFrameworkRobustMultiRobot_en.pdf",
+    "sha256": "4e860b6e95925fbc9b7be3c923567b67d87fb39a2ebaa7c8a54ffb74eb67ec1a",
+    "source_kind": "新下载",
+    "reused_lib": "",
+    "bytes": 14706642
+  },
+  "D07-028": {
+    "sid": "D07-028",
+    "status": "ok",
+    "detail": "通过：%PDF；pypdf 14 页、55434 字符；标题匹配 1.00",
+    "path": "papers/2026_Lin_SystematicStudyDataModalitiesStrategiesCoTrainingLarge_en.pdf",
+    "sha256": "bbf7960643472fc1d067426c28dc6f99ce7db0fb82729ca6f639f4af9331f137",
+    "source_kind": "新下载",
+    "reused_lib": "",
+    "bytes": 12062832
+  },
+  "D07-029": {
+    "sid": "D07-029",
+    "status": "ok",
+    "detail": "通过：%PDF；pypdf 23 页、58745 字符；标题匹配 1.00",
+    "path": "papers/2026_Li_CausalWorldModelingRobotControl_en.pdf",
+    "sha256": "6c1ce421f0e36de0fafd033013cfb9a2961ebc9418784fb1a1c88dd69bdb2285",
+    "source_kind": "新下载",
+    "reused_lib": "",
+    "bytes": 8390510
+  },
+  "D07-030": {
+    "sid": "D07-030",
+    "status": "ok",
+    "detail": "通过：%PDF；pypdf 10 页、40954 字符；标题匹配 1.00",
+    "path": "papers/2026_Krishna_GhostHierarchicalSubGoalPoliciesGeneralizingRobotManipulation_en.pdf",
+    "sha256": "109524a50dabe13159bba050c98bc930d68631f563f0a746ad3230e0c32a8e91",
+    "source_kind": "新下载",
+    "reused_lib": "",
+    "bytes": 3930989
+  },
+  "D07-031": {
+    "sid": "D07-031",
+    "status": "ok",
+    "detail": "通过：%PDF；pypdf 10 页、50621 字符；标题匹配 1.00",
+    "path": "papers/2026_Shah_MemoryRetrievalVisuomotorPoliciesLongHorizonRobotControl_en.pdf",
+    "sha256": "e323a8e92ae1caf34349865c3b143b414743867cb58bc61723a8920ae6e8bfe3",
+    "source_kind": "新下载",
+    "reused_lib": "",
+    "bytes": 8782790
+  },
+  "D07-032": {
+    "sid": "D07-032",
+    "status": "ok",
+    "detail": "通过：%PDF；pypdf 22 页、63032 字符；标题匹配 1.00",
+    "path": "papers/2026_Kim_MolmospacesLargeScaleOpenEcosystemRobotManipulationNavigation_en.pdf",
+    "sha256": "c637d7191a6fd9564cb81d2d3c66d980406989bc62c596e4dc776dee4bfc56d0",
+    "source_kind": "新下载",
+    "reused_lib": "",
+    "bytes": 31215006
+  },
+  "D07-033": {
+    "sid": "D07-033",
+    "status": "ok",
+    "detail": "通过：%PDF；pypdf 11 页、51376 字符；标题匹配 1.00",
+    "path": "papers/2026_Balaji_OopsieverseSafetyBenchmarkDamageAwareSimulationRobotManipulation_en.pdf",
+    "sha256": "0dc66fb1622235efeb59e90f056bc70fad384f66b4d8004acde647d1805e64b9",
+    "source_kind": "新下载",
+    "reused_lib": "",
+    "bytes": 34914520
+  },
+  "D07-034": {
+    "sid": "D07-034",
+    "status": "ok",
+    "detail": "通过：%PDF；pypdf 16 页、60687 字符；标题匹配 1.00",
+    "path": "papers/2024_Huang_HomotopicPathSetPlanningRobotManipulationNavigation_en.pdf",
+    "sha256": "35368a64a8ae9674d6b8e485ea3dc7891bcf7931393c4801bb6c27e408f9e5ad",
+    "source_kind": "新下载",
+    "reused_lib": "",
+    "bytes": 7548266
+  },
+  "D07-035": {
+    "sid": "D07-035",
+    "status": "ok",
+    "detail": "通过：%PDF；pypdf 17 页、34439 字符；标题匹配 1.00",
+    "path": "papers/2026_Zhang_FalconLearningForceAdaptiveHumanoidLocoManipulation_en.pdf",
+    "sha256": "24c95a17f963308dbf633b29c07ca13c1e728fd3a09f394f7d58494d00f8fad8",
+    "source_kind": "新下载",
+    "reused_lib": "",
+    "bytes": 10382949
+  },
+  "D07-036": {
+    "sid": "D07-036",
+    "status": "ok",
+    "detail": "通过：%PDF；pypdf 14 页、35731 字符；标题匹配 1.00",
+    "path": "papers/2024_Kolev_EfficientImitationLearningConservativeWorldModels_en.pdf",
+    "sha256": "87338a61c3fd42aa0c6a89c01a9459775dbce194a5b1ac1eed3aa1c1e324404e",
+    "source_kind": "新下载",
+    "reused_lib": "",
+    "bytes": 507650
+  },
+  "D07-037": {
+    "sid": "D07-037",
+    "status": "ok",
+    "detail": "通过：%PDF；pypdf 15 页、31516 字符；标题匹配 1.00",
+    "path": "papers/2026_Cobo-Briesewitz_LearnedIncrementalNonlinearDynamicInversionQuadrotorsSlungPayloads_en.pdf",
+    "sha256": "02fbb4cc19c13d8767c11dbf74e0f613b98d743fe9b49c90c556554d290fa1aa",
+    "source_kind": "新下载",
+    "reused_lib": "",
+    "bytes": 5211456
+  },
+  "D07-038": {
+    "sid": "D07-038",
+    "status": "ok",
+    "detail": "通过：%PDF；pypdf 13 页、39828 字符；标题匹配 1.00",
+    "path": "papers/2024_Holzapfel_EventTriggeredSafeBayesianOptimizationQuadcopters_en.pdf",
+    "sha256": "e2b02f5f132384114e4f8172248c2ef699eef51e4aef88e2930348c9c9b59a3e",
+    "source_kind": "新下载",
+    "reused_lib": "",
+    "bytes": 1394379
+  },
+  "D07-039": {
+    "sid": "D07-039",
+    "status": "ok",
+    "detail": "通过：%PDF；pypdf 13 页、57068 字符；标题匹配 1.00",
+    "path": "papers/2024_Khazatsky_DroidLargeScaleWildRobotManipulationDataset_en.pdf",
+    "sha256": "f37321af021aba1d19351a166241db48230b82e85c3fccf2054261fd46ca339a",
+    "source_kind": "新下载",
+    "reused_lib": "",
+    "bytes": 4160650
+  },
+  "D07-040": {
+    "sid": "D07-040",
+    "status": "ok",
+    "detail": "通过：%PDF；pypdf 16 页、60687 字符；标题匹配 1.00",
+    "path": "papers/2024_Huang_HomotopicPathSetPlanningRobotManipulationNavigation_en.pdf",
+    "sha256": "35368a64a8ae9674d6b8e485ea3dc7891bcf7931393c4801bb6c27e408f9e5ad",
+    "source_kind": "新下载",
+    "reused_lib": "",
+    "bytes": 7548266
+  },
+  "D07-041": {
+    "sid": "D07-041",
+    "status": "ok",
+    "detail": "通过：%PDF；pypdf 17 页、34439 字符；标题匹配 1.00",
+    "path": "papers/2026_Zhang_FalconLearningForceAdaptiveHumanoidLocoManipulation_en.pdf",
+    "sha256": "24c95a17f963308dbf633b29c07ca13c1e728fd3a09f394f7d58494d00f8fad8",
+    "source_kind": "新下载",
+    "reused_lib": "",
+    "bytes": 10382949
+  },
+  "D07-042": {
+    "sid": "D07-042",
+    "status": "ok",
+    "detail": "通过：%PDF；pypdf 14 页、35731 字符；标题匹配 1.00",
+    "path": "papers/2024_Kolev_EfficientImitationLearningConservativeWorldModels_en.pdf",
+    "sha256": "87338a61c3fd42aa0c6a89c01a9459775dbce194a5b1ac1eed3aa1c1e324404e",
+    "source_kind": "新下载",
+    "reused_lib": "",
+    "bytes": 507650
+  },
+  "D07-043": {
+    "sid": "D07-043",
+    "status": "ok",
+    "detail": "通过：%PDF；pypdf 15 页、31516 字符；标题匹配 1.00",
+    "path": "papers/2026_Cobo-Briesewitz_LearnedIncrementalNonlinearDynamicInversionQuadrotorsSlungPayloads_en.pdf",
+    "sha256": "02fbb4cc19c13d8767c11dbf74e0f613b98d743fe9b49c90c556554d290fa1aa",
+    "source_kind": "新下载",
+    "reused_lib": "",
+    "bytes": 5211456
+  },
+  "D07-044": {
+    "sid": "D07-044",
+    "status": "ok",
+    "detail": "通过：%PDF；pypdf 13 页、39828 字符；标题匹配 1.00",
+    "path": "papers/2024_Holzapfel_EventTriggeredSafeBayesianOptimizationQuadcopters_en.pdf",
+    "sha256": "e2b02f5f132384114e4f8172248c2ef699eef51e4aef88e2930348c9c9b59a3e",
+    "source_kind": "新下载",
+    "reused_lib": "",
+    "bytes": 1394379
+  },
+  "D07-045": {
+    "sid": "D07-045",
+    "status": "ok",
+    "detail": "通过：%PDF；pypdf 12 页、27900 字符；标题匹配 1.00",
+    "path": "papers/2023_Tankasala_AcceleratingTrajectoryGenerationQuadrotorsTransformers_en.pdf",
+    "sha256": "409e83561139b7d34b7d8c1e6f994773d4b9902b24396709f5bf858dc3a28dfa",
+    "source_kind": "新下载",
+    "reused_lib": "",
+    "bytes": 755840
+  },
+  "D07-046": {
+    "sid": "D07-046",
+    "status": "ok",
+    "detail": "通过：%PDF；pypdf 13 页、35599 字符；标题匹配 1.00",
+    "path": "papers/2026_Omar_LearningActContactUnifiedViewMultiTaskRobot_en.pdf",
+    "sha256": "f71c2f4be4835deee521873da53a10f828d0b0448006b62f38e78a719afd60ee",
+    "source_kind": "新下载",
+    "reused_lib": "",
+    "bytes": 14639161
+  },
+  "D07-047": {
+    "sid": "D07-047",
+    "status": "ok",
+    "detail": "通过：%PDF；pypdf 13 页、43184 字符；标题匹配 1.00",
+    "path": "papers/2025_Gouru_LivenetRobustMinimallyInvasiveMultiRobotControlSafe_en.pdf",
+    "sha256": "66e5139ca525d47e8c0dcc525587b7a245e51273c6e033936776f2bbff264724",
+    "source_kind": "新下载",
+    "reused_lib": "",
+    "bytes": 3207945
+  },
+  "D07-048": {
+    "sid": "D07-048",
+    "status": "ok",
+    "detail": "通过：%PDF；pypdf 13 页、36851 字符；标题匹配 1.00",
+    "path": "papers/2024_Brancato_VivoLearningControlMicrobialPopulationsDensityBioreactors_en.pdf",
+    "sha256": "a13fb6b92785a50fc0067eeb32c161c2f9fc444b43fbcaa48bed18bc9c2d3ad4",
+    "source_kind": "新下载",
+    "reused_lib": "",
+    "bytes": 2788656
+  },
+  "D07-049": {
+    "sid": "D07-049",
+    "status": "ok",
+    "detail": "通过：%PDF；pypdf 21 页、40619 字符；标题匹配 1.00",
+    "path": "papers/2025_Sobanbabu_SamplingSystemIdentificationActiveExplorationLeggedSim2realLearning_en.pdf",
+    "sha256": "c3c23596dcb268800b170e063b21c8078e3a6742f951a5d5ff978f8f11fb7595",
+    "source_kind": "新下载",
+    "reused_lib": "",
+    "bytes": 27878154
+  },
+  "D07-050": {
+    "sid": "D07-050",
+    "status": "ok",
+    "detail": "通过：%PDF；pypdf 19 页、45413 字符；标题匹配 1.00",
+    "path": "papers/2025_Higuera_TactileBeyondPixelsMultisensoryTouchRepresentationsRobotManipulation_en.pdf",
+    "sha256": "d89672985469c03f0793904742b324c88d03b4d8451cad1255dd777827a35c3a",
+    "source_kind": "新下载",
+    "reused_lib": "",
+    "bytes": 50167141
+  },
+  "D07-051": {
+    "sid": "D07-051",
+    "status": "ok",
+    "detail": "通过：%PDF；pypdf 22 页、41690 字符；标题匹配 1.00",
+    "path": "papers/2025_Rickenbach_ZipmpcCompressedContextDependentMpcCostImitationLearning_en.pdf",
+    "sha256": "fbc17c304ed6615c3b37dd691cc3b108db8b393aa2e4148cc3b01d414779b251",
+    "source_kind": "新下载",
+    "reused_lib": "",
+    "bytes": 19970744
+  },
+  "D07-052": {
+    "sid": "D07-052",
+    "status": "ok",
+    "detail": "通过：%PDF；pypdf 24 页、51668 字符；标题匹配 1.00",
+    "path": "papers/2024_Li_EvaluatingRealWorldRobotManipulationPoliciesSimulation_en.pdf",
+    "sha256": "1cb4de1a58da4eeaf4f1761a488bb452c042ea3bec1e9840cff5acc51a7c7167",
+    "source_kind": "新下载",
+    "reused_lib": "",
+    "bytes": 9842630
+  },
+  "D07-053": {
+    "sid": "D07-053",
+    "status": "ok",
+    "detail": "通过：%PDF；pypdf 16 页、45305 字符；标题匹配 1.00",
+    "path": "papers/2024_Liu_ManiwavLearningRobotManipulationWildAudioVisualData_en.pdf",
+    "sha256": "151b597434416208187bb2f8c4dc2dcabcfdcd1ce3ba2e0f1c52f316b45c7d0b",
+    "source_kind": "新下载",
+    "reused_lib": "",
+    "bytes": 17904735
+  },
+  "D07-054": {
+    "sid": "D07-054",
+    "status": "ok",
+    "detail": "通过：%PDF；pypdf 19 页、41288 字符；标题匹配 1.00",
+    "path": "papers/2024_Gao_RiemannNearRealTimeSe3EquivariantRobot_en.pdf",
+    "sha256": "486f710f28d9b9ef5669fb0ced53f6d800a2b6b2587aba0a3280af2ef9fe170b",
+    "source_kind": "新下载",
+    "reused_lib": "",
+    "bytes": 6350934
+  },
+  "D07-055": {
+    "sid": "D07-055",
+    "status": "ok",
+    "detail": "通过：%PDF；pypdf 21 页、45671 字符；标题匹配 1.00",
+    "path": "papers/2023_Salhotra_LearningRobotManipulationCrossMorphologyDemonstration_en.pdf",
+    "sha256": "626a42c7c5767c5f9bb912b58a84db42bc39949e98a3d7770f4505fc30d47c3b",
+    "source_kind": "新下载",
+    "reused_lib": "",
+    "bytes": 26169228
+  },
+  "D07-056": {
+    "sid": "D07-056",
+    "status": "ok",
+    "detail": "通过：%PDF；pypdf 28 页、41544 字符；标题匹配 1.00",
+    "path": "papers/2023_Lee_ScaleCausalLearningDiscoveryRobotManipulationSkillsSimulation_en.pdf",
+    "sha256": "bc853de2a5d9c97979a61fcedf7d8fe0cd6cf4b93f0ec28702b74b862b4dfc40",
+    "source_kind": "新下载",
+    "reused_lib": "",
+    "bytes": 7063372
+  },
+  "D07-057": {
+    "sid": "D07-057",
+    "status": "ok",
+    "detail": "通过：%PDF；pypdf 14 页、41589 字符；标题匹配 1.00",
+    "path": "papers/2023_Thankaraj_ThatSoundsRightAuditorySelfSupervisionDynamicRobot_en.pdf",
+    "sha256": "0099be3a15cb9ca07c78df4c2442cf9d34ecfa707bf2933c593a07b084177050",
+    "source_kind": "新下载",
+    "reused_lib": "",
+    "bytes": 1636677
+  },
+  "D07-058": {
+    "sid": "D07-058",
+    "status": "ok",
+    "detail": "通过：%PDF；pypdf 10 页、37092 字符；标题匹配 1.00",
+    "path": "papers/2021_Liu_DistillingMotionPlannerAugmentedPoliciesVisualControlPolicies_en.pdf",
+    "sha256": "c1fc5b146df49c14ed22802ea7143206d961506800f6cd4c9712e4e423924692",
+    "source_kind": "新下载",
+    "reused_lib": "",
+    "bytes": 4701521
+  },
+  "D07-059": {
+    "sid": "D07-059",
+    "status": "ok",
+    "detail": "通过：%PDF；pypdf 10 页、35348 字符；标题匹配 1.00",
+    "path": "papers/2022_Graf_LearningDenseVisualDescriptorsImageAugmentationsRobotManipulation_en.pdf",
+    "sha256": "c471d4e1b11f8164be8b01ee02f1f99f74627aa3655ae772e59e2bc692838fb7",
+    "source_kind": "新下载",
+    "reused_lib": "",
+    "bytes": 5916741
+  },
+  "D07-060": {
+    "sid": "D07-060",
+    "status": "ok",
+    "detail": "通过：%PDF；pypdf 12 页、42830 字符；标题匹配 1.00",
+    "path": "papers/2022_Zhou_ModularityAttentionEfficientTrainingTransferLanguageConditionedPolicies_en.pdf",
+    "sha256": "10effb52c9f70366547c78162f8560ab3aa0ceb70376dbf98f3331d419bd2211",
+    "source_kind": "新下载",
+    "reused_lib": "",
+    "bytes": 14752384
+  },
+  "D07-061": {
+    "sid": "D07-061",
+    "status": "ok",
+    "detail": "通过：%PDF；pypdf 18 页、45090 字符；标题匹配 1.00",
+    "path": "papers/2022_Nair_R3mUniversalVisualRepresentationRobotManipulation_en.pdf",
+    "sha256": "c3e4087b213c86aa3dd2c36bd749cf19ba46c5701061010a3e19980f043ceb56",
+    "source_kind": "新下载",
+    "reused_lib": "",
+    "bytes": 20684190
+  },
+  "D07-062": {
+    "sid": "D07-062",
+    "status": "ok",
+    "detail": "通过：%PDF；pypdf 10 页、39290 字符；标题匹配 0.89",
+    "path": "papers/2022_Pan_TaxPoseTaskSpecificCrossPoseEstimationRobot_en.pdf",
+    "sha256": "ff89257cdb0df6b3be72458f2c042c7033e4b3638f0af05b09db1c6644b8ac47",
+    "source_kind": "新下载",
+    "reused_lib": "",
+    "bytes": 4556498
+  },
+  "D07-063": {
+    "sid": "D07-063",
+    "status": "ok",
+    "detail": "通过：%PDF；pypdf 13 页、51181 字符；标题匹配 1.00",
+    "path": "papers/2022_Abeyruwan_ISim2realReinforcementLearningRoboticPoliciesTightHuman_en.pdf",
+    "sha256": "67fd4e93fc0f06e4163031c28e614cfce954b396148b7498604516a2ae7875ae",
+    "source_kind": "新下载",
+    "reused_lib": "",
+    "bytes": 2968120
+  },
+  "D07-064": {
+    "sid": "D07-064",
+    "status": "ok",
+    "detail": "通过：%PDF；pypdf 11 页、58238 字符；标题匹配 1.00",
+    "path": "papers/2021_Lee_AdversarialSkillChainingLongHorizonRobotManipulationTerminal_en.pdf",
+    "sha256": "9eaeb0a7d3c69dfc4acc0df4b6a439b33445f63486f766f6809ab29bf6160c18",
+    "source_kind": "新下载",
+    "reused_lib": "",
+    "bytes": 9354722
+  },
+  "D07-065": {
+    "sid": "D07-065",
+    "status": "ok",
+    "detail": "通过：%PDF；pypdf 10 页、37092 字符；标题匹配 1.00",
+    "path": "papers/2021_Liu_DistillingMotionPlannerAugmentedPoliciesVisualControlPolicies_en.pdf",
+    "sha256": "c1fc5b146df49c14ed22802ea7143206d961506800f6cd4c9712e4e423924692",
+    "source_kind": "新下载",
+    "reused_lib": "",
+    "bytes": 4701521
+  },
+  "D07-066": {
+    "sid": "D07-066",
+    "status": "ok",
+    "detail": "通过：%PDF；pypdf 13 页、46993 字符；标题匹配 0.88",
+    "path": "papers/2021_Mandlekar_WhatMattersLearningOfflineHumanDemonstrationsRobotManipulation_en.pdf",
+    "sha256": "963aaa01b922f07c6d67848c06d1d5bd80664dd96e5e4a209b76d2e281318c66",
+    "source_kind": "新下载",
+    "reused_lib": "",
+    "bytes": 8700215
+  },
+  "D07-067": {
+    "sid": "D07-067",
+    "status": "ok",
+    "detail": "通过：%PDF；pypdf 19 页、43779 字符；标题匹配 1.00",
+    "path": "papers/2024_Ma_ContrastiveImitationLearningLanguageGuidedMultiTaskRobotic_en.pdf",
+    "sha256": "1f523135baec5bfb0007f5130454ff696708acd8eec5e7c746a833aa0c49e93a",
+    "source_kind": "新下载",
+    "reused_lib": "",
+    "bytes": 13218345
+  },
+  "D07-068": {
+    "sid": "D07-068",
+    "status": "ok",
+    "detail": "通过：%PDF；pypdf 19 页、45859 字符；标题匹配 1.00",
+    "path": "papers/2024_Li_OkamiTeachingHumanoidRobotsManipulationSkillsSingleVideo_en.pdf",
+    "sha256": "a87623278d4c9b69e79b33d876e4fbba80fd5a82814e372756b13c1f4b0e2b31",
+    "source_kind": "新下载",
+    "reused_lib": "",
+    "bytes": 11241365
+  },
+  "D07-069": {
+    "sid": "D07-069",
+    "status": "ok",
+    "detail": "通过：%PDF；pypdf 24 页、44980 字符；标题匹配 1.00",
+    "path": "papers/2024_Liu_VisualWholeBodyControlLeggedLocoManipulation_en.pdf",
+    "sha256": "7309333a5ebe9752534fd087ba23f139b18f0a535255313866de19107e4be879",
+    "source_kind": "新下载",
+    "reused_lib": "",
+    "bytes": 24331724
+  },
+  "D07-070": {
+    "sid": "D07-070",
+    "status": "ok",
+    "detail": "通过：%PDF；pypdf 19 页、39146 字符；标题匹配 1.00",
+    "path": "papers/2023_Zhang_EfficientSimRealTransferContactRichManipulationSkills_en.pdf",
+    "sha256": "0739459c0d9a80e63a35478e6911beadd452df1717b301c4306cd2524a2bf654",
+    "source_kind": "新下载",
+    "reused_lib": "",
+    "bytes": 3140330
+  },
+  "D07-071": {
+    "sid": "D07-071",
+    "status": "ok",
+    "detail": "通过：%PDF；pypdf 15 页、42066 字符；标题匹配 1.00",
+    "path": "papers/2023_Shi_WaypointImitationLearningRoboticManipulation_en.pdf",
+    "sha256": "613a3165eabd90e20e2c964b9ee1280e27c03cbefd41cda60af667cdcb30151a",
+    "source_kind": "新下载",
+    "reused_lib": "",
+    "bytes": 12188779
+  },
+  "D07-072": {
+    "sid": "D07-072",
+    "status": "ok",
+    "detail": "通过：%PDF；pypdf 12 页、42205 字符；标题匹配 1.00",
+    "path": "papers/2022_Qin_DexpointGeneralizablePointCloudReinforcementLearningSimReal_en.pdf",
+    "sha256": "27abe2b836fd436ed1d006dd5c7f9146b2f69a32b358880ff053d251af3d9589",
+    "source_kind": "新下载",
+    "reused_lib": "",
+    "bytes": 6828094
+  },
+  "D07-073": {
+    "sid": "D07-073",
+    "status": "ok",
+    "detail": "通过：%PDF；pypdf 12 页、47397 字符；标题匹配 1.00",
+    "path": "papers/2022_Zhu_ViolaImitationLearningVisionManipulationObjectProposalPriors_en.pdf",
+    "sha256": "e4a88a9ab14513e04abdc3a07e700e61ffe9cee09e58d5c5ad3be16f9ac26cce",
+    "source_kind": "新下载",
+    "reused_lib": "",
+    "bytes": 5265977
+  },
+  "D07-074": {
+    "sid": "D07-074",
+    "status": "ok",
+    "detail": "通过：%PDF；pypdf 12 页、47945 字符；标题匹配 1.00",
+    "path": "papers/2021_Wong_ErrorAwareImitationLearningTeleoperationDataMobileManipulation_en.pdf",
+    "sha256": "4c66654d3106051a9f926cd8854c7610dab8547bba7658d63d4a7d067e694518",
+    "source_kind": "新下载",
+    "reused_lib": "",
+    "bytes": 4967126
+  },
+  "D07-075": {
+    "sid": "D07-075",
+    "status": "ok",
+    "detail": "通过：%PDF；pypdf 13 页、63059 字符；标题匹配 1.00",
+    "path": "papers/2026_Li_HaicHumanoidAgileObjectInteractionControlDynamicsAware_en.pdf",
+    "sha256": "b3c12a807b6865834a2158136c83cab8214cdc68aef952ae853505efd4d0c28e",
+    "source_kind": "新下载",
+    "reused_lib": "",
+    "bytes": 2629155
+  },
+  "D07-076": {
+    "sid": "D07-076",
+    "status": "ok",
+    "detail": "通过：%PDF；pypdf 10 页、50147 字符；标题匹配 1.00",
+    "path": "papers/2026_Cao_HiwetHierarchicalWorldFrameEndEffectorTrackingLong_en.pdf",
+    "sha256": "68ba35a2d5beee5af38bc46fdef823601e8b1fbb170156eac9c06bc7148aafd7",
+    "source_kind": "新下载",
+    "reused_lib": "",
+    "bytes": 15064648
+  },
+  "D07-077": {
+    "sid": "D07-077",
+    "status": "ok",
+    "detail": "通过：%PDF；pypdf 11 页、53931 字符；标题匹配 1.00",
+    "path": "papers/2026_Wei_0OpenFoundationModelUniversalHumanoidLocoManipulation_en.pdf",
+    "sha256": "a135f74db226c22a62cd4ee2a7331a8908610435a1249200fd4f28783eff520b",
+    "source_kind": "新下载",
+    "reused_lib": "",
+    "bytes": 15300089
+  },
+  "D07-078": {
+    "sid": "D07-078",
+    "status": "ok",
+    "detail": "通过：%PDF；pypdf 14 页、52867 字符；标题匹配 1.00",
+    "path": "papers/2024_Gu_AdvancingHumanoidLocomotionMasteringChallengingTerrainsDenoisingWorld_en.pdf",
+    "sha256": "b6d8817f28c7fb49e290b1aec1c169ac298268f91fada2e325d1c931de8e1017",
+    "source_kind": "新下载",
+    "reused_lib": "",
+    "bytes": 25978891
+  },
+  "D07-079": {
+    "sid": "D07-079",
+    "status": "ok",
+    "detail": "通过：%PDF；pypdf 13 页、49782 字符；标题匹配 1.00",
+    "path": "papers/2024_Sferrazza_HumanoidbenchSimulatedHumanoidBenchmarkWholeBodyLocomotionManipulation_en.pdf",
+    "sha256": "3b71533b7df5ae009012c69abbf8f3de9657cb5c772a01fa87670ece87b0c499",
+    "source_kind": "新下载",
+    "reused_lib": "",
+    "bytes": 17023386
+  },
+  "D07-080": {
+    "sid": "D07-080",
+    "status": "ok",
+    "detail": "通过：%PDF；pypdf 12 页、54604 字符；标题匹配 1.00",
+    "path": "papers/2024_Zhang_OneShotImitationLearningInvarianceMatchingRoboticManipulation_en.pdf",
+    "sha256": "e202a7d323b11d57c6018328b4620821406ec318d4a703f15b4f1b6e0a2c343d",
+    "source_kind": "新下载",
+    "reused_lib": "",
+    "bytes": 10556357
+  },
+  "D07-081": {
+    "sid": "D07-081",
+    "status": "pending",
+    "detail": "第一作者姓氏未在首页检出（Villasevil）",
+    "path": "papers/2024_Villasevil_ReconcilingRealitySimulationRealSimRealApproachRobust_en.pdf",
+    "sha256": "e1827b9c667626615643b350a634421ecde07338bb5eea875dacf65314b3c1ff",
+    "source_kind": "新下载",
+    "reused_lib": "",
+    "bytes": 14159618
+  },
+  "D07-082": {
+    "sid": "D07-082",
+    "status": "ok",
+    "detail": "通过：%PDF；pypdf 13 页、56815 字符；标题匹配 1.00",
+    "path": "papers/2024_Zhao_VlmpcVisionLanguageModelPredictiveControlRoboticManipulation_en.pdf",
+    "sha256": "7d7890f92770f46683fe6f5dd2ff2abf12ee50d2dfb75939c92ff1e265203a23",
+    "source_kind": "新下载",
+    "reused_lib": "",
+    "bytes": 2716304
+  },
+  "D07-083": {
+    "sid": "D07-083",
+    "status": "ok",
+    "detail": "通过：%PDF；pypdf 9 页、47367 字符；标题匹配 1.00",
+    "path": "papers/2023_Vincenti_CentralizedModelPredictiveControlCollaborativeLocoManipulation_en.pdf",
+    "sha256": "57b0f5ca4e34d84c7cc3b01442620274f49d3087e18955b5eb8aad625597da27",
+    "source_kind": "新下载",
+    "reused_lib": "",
+    "bytes": 8451176
+  },
+  "D07-084": {
+    "sid": "D07-084",
+    "status": "ok",
+    "detail": "通过：%PDF；pypdf 18 页、37082 字符；标题匹配 1.00",
+    "path": "papers/2024_Bhattacharya_MonocularEventVisionObstacleAvoidanceQuadrotor_en.pdf",
+    "sha256": "e35fcde735c08fe70322c38b3db81a78e6351e7e64ffcd4b8c26586a43c3083c",
+    "source_kind": "新下载",
+    "reused_lib": "",
+    "bytes": 25447212
+  },
+  "D07-085": {
+    "sid": "D07-085",
+    "status": "ok",
+    "detail": "通过：%PDF；pypdf 11 页、40907 字符；标题匹配 1.00",
+    "path": "papers/2022_Ryou_RealTimeGenerationTimeOptimalQuadrotorTrajectoriesSemi_en.pdf",
+    "sha256": "e299405f4f0a840389402b9c9222ae6095f1444fc37c09d393f6185586a216b6",
+    "source_kind": "新下载",
+    "reused_lib": "",
+    "bytes": 1309595
+  },
+  "D07-086": {
+    "sid": "D07-086",
+    "status": "ok",
+    "detail": "通过：%PDF；pypdf 11 页、44136 字符；标题匹配 1.00",
+    "path": "papers/2021_Batra_DecentralizedControlQuadrotorSwarmsEndEndDeepReinforcement_en.pdf",
+    "sha256": "fc07505506f6320fb6e678baf30c50f98ae28bd462774c9ec63c1662aff5bc20",
+    "source_kind": "新下载",
+    "reused_lib": "",
+    "bytes": 5810936
+  },
+  "D07-087": {
+    "sid": "D07-087",
+    "status": "ok",
+    "detail": "通过：%PDF；pypdf 10 页、38149 字符；标题匹配 1.00",
+    "path": "papers/2021_Al-Hafez_RedundancyResolutionActionBiasPolicySearchRoboticManipulation_en.pdf",
+    "sha256": "d12c759d5304a30d43c2b9320fabfe4d5d66335f5fefd6bf4a554d3a749ca2c3",
+    "source_kind": "新下载",
+    "reused_lib": "",
+    "bytes": 12099211
+  },
+  "D07-088": {
+    "sid": "D07-088",
+    "status": "ok",
+    "detail": "通过：%PDF；pypdf 10 页、45537 字符；标题匹配 0.89",
+    "path": "papers/2026_Wang_ComputationalDesignLowVisibilityUavHumanAlignedPerceptual_en.pdf",
+    "sha256": "3b43295676f777042d26aa4e431bfd9a549b5bfe0e612bc284907eb6e559d091",
+    "source_kind": "新下载",
+    "reused_lib": "",
+    "bytes": 11155698
+  },
+  "D07-089": {
+    "sid": "D07-089",
+    "status": "ok",
+    "detail": "通过：%PDF；pypdf 10 页、51424 字符；标题匹配 0.90",
+    "path": "papers/2026_Qin_DNavEndEndDynamicUavNavigationDual_en.pdf",
+    "sha256": "c149d64726ec6c1fc7916e8b9bbbfc4542fd232ca08b453ad59163ef195fc9ad",
+    "source_kind": "新下载",
+    "reused_lib": "",
+    "bytes": 2964712
+  },
+  "D07-090": {
+    "sid": "D07-090",
+    "status": "ok",
+    "detail": "通过：%PDF；pypdf 10 页、52817 字符；标题匹配 1.00",
+    "path": "papers/2026_Ren_LearningAgileQuadrotorFlightRealWorld_en.pdf",
+    "sha256": "d07f4fd290157702b6db76f1202650b290fe5f48130bc9e37ab50b39e75c7dd7",
+    "source_kind": "新下载",
+    "reused_lib": "",
+    "bytes": 3356131
+  },
+  "D07-091": {
+    "sid": "D07-091",
+    "status": "ok",
+    "detail": "通过：%PDF；pypdf 10 页、47964 字符；标题匹配 1.00",
+    "path": "papers/2026_Nguyen_OptimalUgvUavCooperativePartitioningInspectionShortestPaths_en.pdf",
+    "sha256": "f3f9e2b04dbe479869375fa0c55a8ac89516a2258a3960e1acd139b02b772627",
+    "source_kind": "新下载",
+    "reused_lib": "",
+    "bytes": 5570205
+  },
+  "D07-092": {
+    "sid": "D07-092",
+    "status": "ok",
+    "detail": "通过：%PDF；pypdf 10 页、43890 字符；标题匹配 1.00",
+    "path": "papers/2023_Zhang_SimultaneousTrajectoryOptimizationContactSelectionMultiModalManipulation_en.pdf",
+    "sha256": "a6351d8d4e6d5146f33587a00a9374239f2a47450cd80cee17bfa8bec0da6b4d",
+    "source_kind": "新下载",
+    "reused_lib": "",
+    "bytes": 15714237
+  },
+  "D07-093": {
+    "sid": "D07-093",
+    "status": "ok",
+    "detail": "通过：%PDF；pypdf 15 页、43849 字符；标题匹配 1.00",
+    "path": "papers/2024_Jia_CluttergenClutteredSceneGeneratorRobotLearning_en.pdf",
+    "sha256": "eeafbd14db6f538d18df47cfb5964cf8dbd40c3c1642d6057a625bff1cd3aecd",
+    "source_kind": "新下载",
+    "reused_lib": "",
+    "bytes": 37720257
+  },
+  "D07-094": {
+    "sid": "D07-094",
+    "status": "ok",
+    "detail": "通过：%PDF；pypdf 17 页、43096 字符；标题匹配 1.00",
+    "path": "papers/2024_Xu_DynamicsGuidedDiffusionModelSensorLessRobotManipulator_en.pdf",
+    "sha256": "bdb245fe1f24b8ae59e60d658aa915938690217df64bea9ab2ba3069fb05d689",
+    "source_kind": "新下载",
+    "reused_lib": "",
+    "bytes": 7865851
+  },
+  "D07-095": {
+    "sid": "D07-095",
+    "status": "ok",
+    "detail": "通过：%PDF；pypdf 26 页、40434 字符；标题匹配 1.00",
+    "path": "papers/2024_Yuan_GeneralFlowFoundationAffordanceScalableRobotLearning_en.pdf",
+    "sha256": "b75ef60a13570443f9d8e766efc5b6683e830bfdb55c1d80328c25d58bc2e348",
+    "source_kind": "新下载",
+    "reused_lib": "",
+    "bytes": 4919711
+  },
+  "D07-096": {
+    "sid": "D07-096",
+    "status": "ok",
+    "detail": "通过：%PDF；pypdf 23 页、44481 字符；标题匹配 1.00",
+    "path": "papers/2024_Niu_LlarvaVisionActionInstructionTuningEnhancesRobotLearning_en.pdf",
+    "sha256": "47e725a1c0fcbff7454ce9a1408107c51fe882f255c98aa7e90c84bf0ef12915",
+    "source_kind": "新下载",
+    "reused_lib": "",
+    "bytes": 6778245
+  },
+  "D07-097": {
+    "sid": "D07-097",
+    "status": "ok",
+    "detail": "通过：%PDF；pypdf 25 页、45760 字符；标题匹配 1.00",
+    "path": "papers/2024_Chen_RoviAugRobotViewpointAugmentationCrossEmbodimentRobot_en.pdf",
+    "sha256": "a36355e4d17b08566c39a8e7527b999dc41748668530288c7798e56c6c88c8e0",
+    "source_kind": "新下载",
+    "reused_lib": "",
+    "bytes": 8836993
+  },
+  "D07-098": {
+    "sid": "D07-098",
+    "status": "ok",
+    "detail": "通过：%PDF；pypdf 28 页、39502 字符；标题匹配 1.00",
+    "path": "papers/2024_Kasaei_SoftmanisimFastSimulationFrameworkMultiSegmentContinuumManipulators_en.pdf",
+    "sha256": "10efb53783875374acf354181ce2fa776a2007e6b6f4a543641aa0acde0ec66b",
+    "source_kind": "新下载",
+    "reused_lib": "",
+    "bytes": 9977285
+  },
+  "D07-099": {
+    "sid": "D07-099",
+    "status": "ok",
+    "detail": "通过：%PDF；pypdf 17 页、42794 字符；标题匹配 1.00",
+    "path": "papers/2024_Wang_SparseDiffusionPolicySparseReusableFlexiblePolicyRobot_en.pdf",
+    "sha256": "26b75d78c833c89d46737b9a5d810c6fec2ed7603b9b9eb3bf175d3b7c5473d8",
+    "source_kind": "新下载",
+    "reused_lib": "",
+    "bytes": 3605095
+  },
+  "D07-100": {
+    "sid": "D07-100",
+    "status": "ok",
+    "detail": "通过：%PDF；pypdf 25 页、43773 字符；标题匹配 1.00",
+    "path": "papers/2024_Shang_TheiaDistillingDiverseVisionFoundationModelsRobotLearning_en.pdf",
+    "sha256": "6fd9df738e6e6fcc32ad2a997fedfa6226fe6a32ad65974a673dbf53f89c44b5",
+    "source_kind": "新下载",
+    "reused_lib": "",
+    "bytes": 17512742
+  },
+  "D07-101": {
+    "sid": "D07-101",
+    "status": "ok",
+    "detail": "通过：%PDF；pypdf 13 页、44086 字符；标题匹配 1.00",
+    "path": "papers/2024_Wu_TidybotOpenSourceHolonomicMobileManipulatorRobotLearning_en.pdf",
+    "sha256": "51bdc57b0523b46e63796ad8df36dab00038672025aa928f2d9531d71d77d843",
+    "source_kind": "新下载",
+    "reused_lib": "",
+    "bytes": 5327380
+  },
+  "D07-102": {
+    "sid": "D07-102",
+    "status": "ok",
+    "detail": "通过：%PDF；pypdf 14 页、44375 字符；标题匹配 1.00",
+    "path": "papers/2023_Walke_BridgedataV2DatasetRobotLearningScale_en.pdf",
+    "sha256": "52dc04866e173336d090f0b42b373d4b495a4a35cedc4f756b4d064936383825",
+    "source_kind": "新下载",
+    "reused_lib": "",
+    "bytes": 3160373
+  },
+  "D07-103": {
+    "sid": "D07-103",
+    "status": "ok",
+    "detail": "通过：%PDF；pypdf 18 页、43255 字符；标题匹配 1.00",
+    "path": "papers/2023_Ze_GnfactorMultiTaskRealRobotLearningGeneralizableNeural_en.pdf",
+    "sha256": "1bd4f759526f7450b2c443305b8fe7e4d904bf22d345d30bb3f272954c8c06f0",
+    "source_kind": "新下载",
+    "reused_lib": "",
+    "bytes": 5703576
+  },
+  "D07-104": {
+    "sid": "D07-104",
+    "status": "ok",
+    "detail": "通过：%PDF；pypdf 18 页、38619 字符；标题匹配 1.00",
+    "path": "papers/2023_Rafailov_MotoOfflinePreTrainingOnlineFineTuningModel_en.pdf",
+    "sha256": "fda3fef62ed7df266c241c2b5ada2b567fe0dc55a3dd8a80c4ead9eb92e826ca",
+    "source_kind": "新下载",
+    "reused_lib": "",
+    "bytes": 3703437
+  },
+  "D07-105": {
+    "sid": "D07-105",
+    "status": "ok",
+    "detail": "通过：%PDF；pypdf 45 页、51146 字符；标题匹配 1.00",
+    "path": "papers/2023_Mandlekar_MimicgenDataGenerationSystemScalableRobotLearningHuman_en.pdf",
+    "sha256": "5f65080fac4df7f9500ccd126dbca6071ca4289c566eb03704dad8b65426c509",
+    "source_kind": "新下载",
+    "reused_lib": "",
+    "bytes": 14032162
+  },
+  "D07-106": {
+    "sid": "D07-106",
+    "status": "ok",
+    "detail": "通过：%PDF；pypdf 11 页、37859 字符；标题匹配 1.00",
+    "path": "papers/2023_Radosavovic_RobotLearningSensorimotorPreTraining_en.pdf",
+    "sha256": "c95534c85dba5a6e553774603df521f6f1e74953b05cfd00e4867ac5b96bac73",
+    "source_kind": "新下载",
+    "reused_lib": "",
+    "bytes": 2125002
+  },
+  "D07-107": {
+    "sid": "D07-107",
+    "status": "ok",
+    "detail": "通过：%PDF；pypdf 17 页、39063 字符；标题匹配 1.00",
+    "path": "papers/2023_Tai_SconeFoodScoopingRobotLearningFrameworkActivePerception_en.pdf",
+    "sha256": "819ec2b54f4a7014c06030d6b5a1d2839103d88d41823be04acb7e3c73ca484f",
+    "source_kind": "新下载",
+    "reused_lib": "",
+    "bytes": 2667791
+  },
+  "D07-108": {
+    "sid": "D07-108",
+    "status": "ok",
+    "detail": "通过：%PDF；pypdf 27 页、39554 字符；标题匹配 1.00",
+    "path": "papers/2023_Biggie_TellMeWhereGoComposableFrameworkContextAware_en.pdf",
+    "sha256": "e3dcd6e223ff9d46144c6db8de326d4106d65247cdb0ab78303b01d3271df4e0",
+    "source_kind": "新下载",
+    "reused_lib": "",
+    "bytes": 20251335
+  },
+  "D07-109": {
+    "sid": "D07-109",
+    "status": "ok",
+    "detail": "通过：%PDF；pypdf 28 页、42357 字符；标题匹配 1.00",
+    "path": "papers/2023_Feng_TopologyMatchingNormalizingFlowsOutDistributionDetectionRobot_en.pdf",
+    "sha256": "ca01fc7e08b795d92189f2fb69b74b72e06e06631bad6c87e1967287131a04b4",
+    "source_kind": "新下载",
+    "reused_lib": "",
+    "bytes": 11049536
+  },
+  "D07-110": {
+    "sid": "D07-110",
+    "status": "ok",
+    "detail": "通过：%PDF；pypdf 13 页、45667 字符；标题匹配 1.00",
+    "path": "papers/2022_Zhang_DualRepresentationFrameworkRobotLearningHumanGuidance_en.pdf",
+    "sha256": "3a78468ddb6c179de8b84b7888d891b67decad1022f2a0caf48213360bfddd61",
+    "source_kind": "新下载",
+    "reused_lib": "",
+    "bytes": 1881353
+  }
+}

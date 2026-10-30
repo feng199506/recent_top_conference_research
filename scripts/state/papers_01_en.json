@@ -1,0 +1,1102 @@
+{
+  "D01-001": {
+    "sid": "D01-001",
+    "status": "ok",
+    "detail": "通过：%PDF；pypdf 21 页、15090 字符；标题匹配 1.00",
+    "path": "papers/2024_Chen_SelfAttentionKernelEigenPairSparseVariationalGaussian_en.pdf",
+    "sha256": "849b4aad60df36a43162e3df9f0fcbb4d90915e30961fd6629d331063251970e",
+    "source_kind": "新下载",
+    "reused_lib": "",
+    "bytes": 777714
+  },
+  "D01-002": {
+    "sid": "D01-002",
+    "status": "ok",
+    "detail": "通过：%PDF；pypdf 39 页、14689 字符；标题匹配 1.00",
+    "path": "papers/2024_Li_StudyBayesianNeuralNetworkSurrogatesBayesianOptimization_en.pdf",
+    "sha256": "007ede87205b91538b87c68dfd97952fc3c6246d9261ee6ef26457dbdf503921",
+    "source_kind": "新下载",
+    "reused_lib": "",
+    "bytes": 2710102
+  },
+  "D01-003": {
+    "sid": "D01-003",
+    "status": "pending",
+    "detail": "第一作者姓氏未在首页检出（Mller）",
+    "path": "papers/2023_Mller_Pfns4boContextLearningBayesianOptimization_en.pdf",
+    "sha256": "d55d6b19d11e442dae535cbe7fc849a4422e4f60ff25aec93c6dca66e74eb2a1",
+    "source_kind": "新下载",
+    "reused_lib": "",
+    "bytes": 3355881
+  },
+  "D01-004": {
+    "sid": "D01-004",
+    "status": "ok",
+    "detail": "通过：%PDF；pypdf 22 页、14131 字符；标题匹配 1.00",
+    "path": "papers/2024_Ortega_VariationalLinearizedLaplaceApproximationBayesianDeepLearning_en.pdf",
+    "sha256": "57a7cbe18ee73033213ccd7e37aecc7ee71966380290a0d131036943eb4a1a40",
+    "source_kind": "新下载",
+    "reused_lib": "",
+    "bytes": 1044417
+  },
+  "D01-005": {
+    "sid": "D01-005",
+    "status": "ok",
+    "detail": "通过：%PDF；pypdf 40 页、12628 字符；标题匹配 1.00",
+    "path": "papers/2025_Yu_PredictiveUncertaintyQuantificationBirdSEyeViewSegmentation_en.pdf",
+    "sha256": "194b01e6b8e1a8eded0e2bc6d2198f959ea00e245dfb5d3dca25c15d3b22b218",
+    "source_kind": "新下载",
+    "reused_lib": "",
+    "bytes": 1957757
+  },
+  "D01-006": {
+    "sid": "D01-006",
+    "status": "ok",
+    "detail": "通过：%PDF；pypdf 18 页、14136 字符；标题匹配 1.00",
+    "path": "papers/2025_Titsias_NewBoundsSparseVariationalGaussianProcesses_en.pdf",
+    "sha256": "069c75e86deb9acfdbed33151b713060de39f83a877415311a30b5826443294e",
+    "source_kind": "新下载",
+    "reused_lib": "",
+    "bytes": 4020507
+  },
+  "D01-007": {
+    "sid": "D01-007",
+    "status": "ok",
+    "detail": "通过：%PDF；pypdf 32 页、12853 字符；标题匹配 1.00",
+    "path": "papers/2025_Magnani_LinearizationTurnsNeuralOperatorsFunctionValuedGaussianProcesses_en.pdf",
+    "sha256": "f5b5577e66ca31ee86dee9edf2084542f4d0e3ce5898c7c220b402525c54a755",
+    "source_kind": "新下载",
+    "reused_lib": "",
+    "bytes": 1833990
+  },
+  "D01-008": {
+    "sid": "D01-008",
+    "status": "ok",
+    "detail": "通过：%PDF；pypdf 11 页、13746 字符；标题匹配 1.00",
+    "path": "papers/2024_Xu_SparseInducingPointsDeepGaussianProcessesEnhancingModeling_en.pdf",
+    "sha256": "a7e9d050f95a15f853c1d31f6d65c9b9c3e3284ba0015f5ca2f972846a59aae8",
+    "source_kind": "新下载",
+    "reused_lib": "",
+    "bytes": 853492
+  },
+  "D01-009": {
+    "sid": "D01-009",
+    "status": "pending",
+    "detail": "第一作者姓氏未在首页检出（Mller）",
+    "path": "papers/2022_Mller_TransformersBayesianInference_en.pdf",
+    "sha256": "9736e7789e7f4b7dd7401b6017602be87410eb15c1b11f94065d88ba7fec5a9b",
+    "source_kind": "新下载",
+    "reused_lib": "",
+    "bytes": 1271614
+  },
+  "D01-010": {
+    "sid": "D01-010",
+    "status": "ok",
+    "detail": "通过：%PDF；pypdf 29 页、13038 字符；标题匹配 1.00",
+    "path": "papers/2024_Milsom_ConvolutionalDeepKernelMachines_en.pdf",
+    "sha256": "634d7f9da5251ddbdce0ca17bac92b6f276b1647a661060ac4e9cf7f774d58fb",
+    "source_kind": "新下载",
+    "reused_lib": "",
+    "bytes": 402312
+  },
+  "D01-011": {
+    "sid": "D01-011",
+    "status": "ok",
+    "detail": "通过：%PDF；pypdf 25 页、14772 字符；标题匹配 0.91",
+    "path": "papers/2025_Cinquin_WellDefinedFunctionSpaceVariationalInferenceBayesianNeural_en.pdf",
+    "sha256": "870d7c95159f3e467ce7d93195180f42d2238e90de506cd1c99f6994c1706947",
+    "source_kind": "新下载",
+    "reused_lib": "",
+    "bytes": 3204002
+  },
+  "D01-013": {
+    "sid": "D01-013",
+    "status": "ok",
+    "detail": "通过：%PDF；pypdf 27 页、14596 字符；标题匹配 1.00",
+    "path": "papers/2024_Rakotoarison_ContextFreezeThawBayesianOptimizationHyperparameterOptimization_en.pdf",
+    "sha256": "1f4307331e3383aabb1972f070e812eb3a2930cf9912ddde2c2282eca32d843d",
+    "source_kind": "新下载",
+    "reused_lib": "",
+    "bytes": 6308491
+  },
+  "D01-014": {
+    "sid": "D01-014",
+    "status": "ok",
+    "detail": "通过：%PDF；pypdf 24 页、13315 字符；标题匹配 1.00",
+    "path": "papers/2025_Zhao_DeepAdditiveKernelLearningLastLayerBayesianNeural_en.pdf",
+    "sha256": "dbe057cbc46512c5d3667ad8bc5e2ba5b6a09376fa3d7b1667e1cd9f31fedd9f",
+    "source_kind": "新下载",
+    "reused_lib": "",
+    "bytes": 3247876
+  },
+  "D01-015": {
+    "sid": "D01-015",
+    "status": "ok",
+    "detail": "通过：%PDF；pypdf 23 页、14352 字符；标题匹配 1.00",
+    "path": "papers/2024_Wang_BeyondDirichletModelsWhenBayesianNeuralNetworksMeet_en.pdf",
+    "sha256": "1639ebe74928b18316dd7b6ca9a66387f79fd32a2db6a87b7b7c0ef07c8d90f8",
+    "source_kind": "新下载",
+    "reused_lib": "",
+    "bytes": 1122233
+  },
+  "D01-016": {
+    "sid": "D01-016",
+    "status": "ok",
+    "detail": "通过：%PDF；pypdf 14 页、13825 字符；标题匹配 1.00",
+    "path": "papers/2023_Cunningham_ActuallySparseVariationalGaussianProcesses_en.pdf",
+    "sha256": "2ae7a3f4b9a4fcf57ba5b24b4a23a3bd0b821326548e84688ce9f794f1278729",
+    "source_kind": "新下载",
+    "reused_lib": "",
+    "bytes": 2774789
+  },
+  "D01-017": {
+    "sid": "D01-017",
+    "status": "ok",
+    "detail": "通过：%PDF；pypdf 22 页、15032 字符；标题匹配 1.00",
+    "path": "papers/2023_Tran_FullyBayesianAutoencodersLatentSparseGaussianProcesses_en.pdf",
+    "sha256": "fc9642676af553d23b0953cd7987c6cf568e1046eb0420d0ca208cf6e84cbfad",
+    "source_kind": "新下载",
+    "reused_lib": "",
+    "bytes": 1527322
+  },
+  "D01-018": {
+    "sid": "D01-018",
+    "status": "ok",
+    "detail": "通过：%PDF；pypdf 21 页、15426 字符；标题匹配 1.00",
+    "path": "papers/2022_Jafrasteh_InputDependentSparseGaussianProcesses_en.pdf",
+    "sha256": "4801ab6b71d13ef32183df07fa1c43030945bb1cdcfc726c7ff103cc65aac9bd",
+    "source_kind": "新下载",
+    "reused_lib": "",
+    "bytes": 9417002
+  },
+  "D01-019": {
+    "sid": "D01-019",
+    "status": "ok",
+    "detail": "通过：%PDF；pypdf 28 页、11401 字符；标题匹配 1.00",
+    "path": "papers/2026_Iten_SampleEfficientScalableExplorationContinuousTimeRl_en.pdf",
+    "sha256": "0b94ce398f041538afab42ffe8d98ad29725ef6648334973532941fffc8096c1",
+    "source_kind": "新下载",
+    "reused_lib": "",
+    "bytes": 1792243
+  },
+  "D01-020": {
+    "sid": "D01-020",
+    "status": "ok",
+    "detail": "通过：%PDF；pypdf 19 页、12640 字符；标题匹配 1.00",
+    "path": "papers/2023_Ortega_DeepVariationalImplicitProcesses_en.pdf",
+    "sha256": "10428bbbe84d361d9b32afa4c9a27e502ffe3eae0950bdd56e572b1ae451bce1",
+    "source_kind": "新下载",
+    "reused_lib": "",
+    "bytes": 2390774
+  },
+  "D01-021": {
+    "sid": "D01-021",
+    "status": "ok",
+    "detail": "通过：%PDF；pypdf 31 页、14707 字符；标题匹配 1.00",
+    "path": "papers/2025_Futami_EpistemicUncertaintyExcessRiskVariationalInference_en.pdf",
+    "sha256": "72fd7462699ccce984b353801b917e36205b6c4ed5c414e2f06ec0c00b89ee35",
+    "source_kind": "新下载",
+    "reused_lib": "",
+    "bytes": 508532
+  },
+  "D01-022": {
+    "sid": "D01-022",
+    "status": "ok",
+    "detail": "通过：%PDF；pypdf 16 页、13182 字符；标题匹配 1.00",
+    "path": "papers/2024_Matias_AmortizedVariationalDeepKernelLearning_en.pdf",
+    "sha256": "ac0b7ee213952dee6c05b2839e4eafa0f1138c1b32eb6795e2e354d74caf8b14",
+    "source_kind": "新下载",
+    "reused_lib": "",
+    "bytes": 2597497
+  },
+  "D01-023": {
+    "sid": "D01-023",
+    "status": "ok",
+    "detail": "通过：%PDF；pypdf 29 页、11171 字符；标题匹配 1.00",
+    "path": "papers/2023_Chen_CalibratingTransformersSparseGaussianProcesses_en.pdf",
+    "sha256": "f9c97c61b856c5aeb082f202dd65e070b7206991451dfaf942cb6a4c1adfdfbf",
+    "source_kind": "新下载",
+    "reused_lib": "",
+    "bytes": 953323
+  },
+  "D01-024": {
+    "sid": "D01-024",
+    "status": "ok",
+    "detail": "通过：%PDF；pypdf 22 页、15239 字符；标题匹配 1.00",
+    "path": "papers/2026_Guo_DelvingNonExchangeabilityConformalPredictionGraphStructuredMultivariate_en.pdf",
+    "sha256": "ff29e9e5af343c7e40fa1701953ac64b04d4de3a7ddf02b558ac106a8dd07e64",
+    "source_kind": "新下载",
+    "reused_lib": "",
+    "bytes": 1968712
+  },
+  "D01-025": {
+    "sid": "D01-025",
+    "status": "ok",
+    "detail": "通过：%PDF；pypdf 28 页、13264 字符；标题匹配 1.00",
+    "path": "papers/2023_Stanton_BayesianOptimizationConformalPredictionSets_en.pdf",
+    "sha256": "32d573387f0bc1c1c39f36b30df0fdbba049ea5c718240fa9335743414637fba",
+    "source_kind": "新下载",
+    "reused_lib": "",
+    "bytes": 1976514
+  },
+  "D01-026": {
+    "sid": "D01-026",
+    "status": "ok",
+    "detail": "通过：%PDF；pypdf 18 页、14460 字符；标题匹配 1.00",
+    "path": "papers/2023_Moss_InducingPointAllocationSparseGaussianProcessesHighThroughput_en.pdf",
+    "sha256": "eed345fce083ff7bad45de40ae2c1686636ac64a204209f4fb3c3a9d951ea7b3",
+    "source_kind": "新下载",
+    "reused_lib": "",
+    "bytes": 1668275
+  },
+  "D01-027": {
+    "sid": "D01-027",
+    "status": "ok",
+    "detail": "通过：%PDF；pypdf 38 页、14503 字符；标题匹配 1.00",
+    "path": "papers/2026_Yi_CooperativeVarianceEstimationBayesianNeuralNetworksDisentanglingAleatoric_en.pdf",
+    "sha256": "86b93fe2f271750e56360986918a0edda61532a1ba7e43eaa4cd6adbf926a3fd",
+    "source_kind": "新下载",
+    "reused_lib": "",
+    "bytes": 3798854
+  },
+  "D01-028": {
+    "sid": "D01-028",
+    "status": "ok",
+    "detail": "通过：%PDF；pypdf 21 页、11810 字符；标题匹配 1.00",
+    "path": "papers/2026_Cortinovis_InverseFreeSparseVariationalGaussianProcesses_en.pdf",
+    "sha256": "2b2ff70d397d7b855a0a6c0c21c1f881c729999f6528045a3bfcd813f6cb7af2",
+    "source_kind": "新下载",
+    "reused_lib": "",
+    "bytes": 1068852
+  },
+  "D01-029": {
+    "sid": "D01-029",
+    "status": "ok",
+    "detail": "通过：%PDF；pypdf 40 页、13325 字符；标题匹配 1.00",
+    "path": "papers/2026_Jiang_TransformedLatentVariableMultiOutputGaussianProcesses_en.pdf",
+    "sha256": "4dfc5e525c46ba7518b2cc898612d2a82c7c0a77af83e871287f1f9e435ff007",
+    "source_kind": "新下载",
+    "reused_lib": "",
+    "bytes": 17817387
+  },
+  "D01-030": {
+    "sid": "D01-030",
+    "status": "ok",
+    "detail": "通过：%PDF；pypdf 33 页、14598 字符；标题匹配 1.00",
+    "path": "papers/2023_Hodgkinson_MonotonicityDoubleDescentUncertaintyEstimationGaussianProcesses_en.pdf",
+    "sha256": "0599f6a12de985aed0100ea0589675a5f8b7a4aaa6bfcf5517b053be7e029595",
+    "source_kind": "新下载",
+    "reused_lib": "",
+    "bytes": 3528909
+  },
+  "D01-031": {
+    "sid": "D01-031",
+    "status": "ok",
+    "detail": "通过：%PDF；pypdf 21 页、14018 字符；标题匹配 1.00",
+    "path": "papers/2023_Jimenez_ScalableBayesianOptimizationVecchiaApproximationsGaussianProcesses_en.pdf",
+    "sha256": "51a405e4cb3db607d29797c44301ed2db6bef7e42d10f1656b5e479fd8ba199e",
+    "source_kind": "新下载",
+    "reused_lib": "",
+    "bytes": 546493
+  },
+  "D01-032": {
+    "sid": "D01-032",
+    "status": "ok",
+    "detail": "通过：%PDF；pypdf 26 页、15439 字符；标题匹配 1.00",
+    "path": "papers/2022_Nguyen_TransformerNeuralProcessesUncertaintyAwareMetaLearningSequence_en.pdf",
+    "sha256": "955cf56e944d19ea631e8122e664638d8d5a1c95fa141c8e525e0523ab9dd694",
+    "source_kind": "新下载",
+    "reused_lib": "",
+    "bytes": 17653800
+  },
+  "D01-033": {
+    "sid": "D01-033",
+    "status": "ok",
+    "detail": "通过：%PDF；pypdf 18 页、10887 字符；标题匹配 1.00",
+    "path": "papers/2025_Minoza_LearningEnhancedStructuralRepresentationsBlockUncertaintiesOceanFloor_en.pdf",
+    "sha256": "ff3e1a6b797aaf18d7a2977207bd970e85e44feda3b084e20d51018ba8036b4d",
+    "source_kind": "新下载",
+    "reused_lib": "",
+    "bytes": 2872529
+  },
+  "D01-034": {
+    "sid": "D01-034",
+    "status": "ok",
+    "detail": "通过：%PDF；pypdf 25 页、12417 字符；标题匹配 1.00",
+    "path": "papers/2025_Lee_LeaveOneOutStableConformalPrediction_en.pdf",
+    "sha256": "5497155def1d827e81425ff40ab0a1d3651cb915c9776b8c1eeba8166866d24b",
+    "source_kind": "新下载",
+    "reused_lib": "",
+    "bytes": 1028007
+  },
+  "D01-035": {
+    "sid": "D01-035",
+    "status": "ok",
+    "detail": "通过：%PDF；pypdf 29 页、11897 字符；标题匹配 1.00",
+    "path": "papers/2025_Kim_ParameterExpandedStochasticGradientMarkovChainMonteCarlo_en.pdf",
+    "sha256": "6a73c32d30de0a1f3ebf05f19f6c92221bb1bdbe97a6c0d35d9a9b7f36753a1f",
+    "source_kind": "新下载",
+    "reused_lib": "",
+    "bytes": 2479097
+  },
+  "D01-036": {
+    "sid": "D01-036",
+    "status": "ok",
+    "detail": "通过：%PDF；pypdf 29 页、14144 字符；标题匹配 1.00",
+    "path": "papers/2026_Faller_LowRankSubspaceInferenceLaplaceApproximationBayesianNeural_en.pdf",
+    "sha256": "52980e4f0fbbf903cc99235dc3dfc92775585fbec5b5630019f4eb2f7a71338d",
+    "source_kind": "新下载",
+    "reused_lib": "",
+    "bytes": 1064398
+  },
+  "D01-037": {
+    "sid": "D01-037",
+    "status": "ok",
+    "detail": "通过：%PDF；pypdf 36 页、15154 字符；标题匹配 1.00",
+    "path": "papers/2026_Ng_TabmgpMartingalePosteriorTabpfn_en.pdf",
+    "sha256": "ccd77836eebdc3e9edf621514ca978f7c20f4ce22892ad35a2e7f77d657cbcc2",
+    "source_kind": "新下载",
+    "reused_lib": "",
+    "bytes": 3275332
+  },
+  "D01-038": {
+    "sid": "D01-038",
+    "status": "ok",
+    "detail": "通过：%PDF；pypdf 20 页、12548 字符；标题匹配 1.00",
+    "path": "papers/2025_Hegde_CalibratedComputationAwareGaussianProcesses_en.pdf",
+    "sha256": "3a79288b05fea0b449d59a719af3c676d4f25858dc4e8ee0f9394b9832c82a35",
+    "source_kind": "新下载",
+    "reused_lib": "",
+    "bytes": 3425834
+  },
+  "D01-039": {
+    "sid": "D01-039",
+    "status": "ok",
+    "detail": "通过：%PDF；pypdf 31 页、14995 字符；标题匹配 1.00",
+    "path": "papers/2024_Liu_WeaklySupervisedResidualEvidentialLearningMultiInstanceUncertainty_en.pdf",
+    "sha256": "34f173d5666bcf54fdb1e79d19e47607d7c3f5585e0d70af597dc1874660b160",
+    "source_kind": "新下载",
+    "reused_lib": "",
+    "bytes": 8587254
+  },
+  "D01-040": {
+    "sid": "D01-040",
+    "status": "ok",
+    "detail": "通过：%PDF；pypdf 14 页、14286 字符；标题匹配 1.00",
+    "path": "papers/2023_Bengs_SecondOrderScoringRulesEpistemicUncertaintyQuantification_en.pdf",
+    "sha256": "317d2838b97559cf8ad17e245d8f1692b3d6bff81c93cab6c0ac61d626179e9f",
+    "source_kind": "新下载",
+    "reused_lib": "",
+    "bytes": 400567
+  },
+  "D01-041": {
+    "sid": "D01-041",
+    "status": "ok",
+    "detail": "通过：%PDF；pypdf 24 页、10552 字符；标题匹配 1.00",
+    "path": "papers/2023_Travis_PointwiseUncertaintyQuantificationSparseVariationalGaussianProcessRegression_en.pdf",
+    "sha256": "6672d7a76be158256c34af087ddf4206b61f4dd704a119b8e5ebb4b2500428b5",
+    "source_kind": "新下载",
+    "reused_lib": "",
+    "bytes": 401753
+  },
+  "D01-042": {
+    "sid": "D01-042",
+    "status": "ok",
+    "detail": "通过：%PDF；pypdf 35 页、10325 字符；标题匹配 1.00",
+    "path": "papers/2026_Rochussen_AmortisingInferenceMetaLearningPriorsNeuralNetworks_en.pdf",
+    "sha256": "ad8f0b0f1c7005e406cbf526f30a22ea4598472404da88337f094f60b420b745",
+    "source_kind": "新下载",
+    "reused_lib": "",
+    "bytes": 3171474
+  },
+  "D01-043": {
+    "sid": "D01-043",
+    "status": "ok",
+    "detail": "通过：%PDF；pypdf 73 页、11050 字符；标题匹配 1.00",
+    "path": "papers/2026_Azizi_ClearCalibratedLearningEpistemicAleatoricRisk_en.pdf",
+    "sha256": "278d9ab28c8582b04013e0dc6e9682024cc95321651fdb0dca687aa1f3450f10",
+    "source_kind": "新下载",
+    "reused_lib": "",
+    "bytes": 1398898
+  },
+  "D01-044": {
+    "sid": "D01-044",
+    "status": "ok",
+    "detail": "通过：%PDF；pypdf 17 页、11554 字符；标题匹配 1.00",
+    "path": "papers/2026_Kumar_ScalableRandomWaveletFeaturesEfficientNonStationaryKernel_en.pdf",
+    "sha256": "6d891f169c0f8070ea902e9a2c5416e5d5859ed7e0159e39d3876ed07780fa21",
+    "source_kind": "新下载",
+    "reused_lib": "",
+    "bytes": 1398780
+  },
+  "D01-045": {
+    "sid": "D01-045",
+    "status": "ok",
+    "detail": "通过：%PDF；pypdf 30 页、11351 字符；标题匹配 1.00",
+    "path": "papers/2025_Tailor_ApproximatingFullConformalPredictionNeuralNetworkRegressionGauss_en.pdf",
+    "sha256": "4b0628834d870c68f1de98ee3bb858ceba8b360a023714b77013c4110a4ed3e0",
+    "source_kind": "新下载",
+    "reused_lib": "",
+    "bytes": 1890617
+  },
+  "D01-046": {
+    "sid": "D01-046",
+    "status": "ok",
+    "detail": "通过：%PDF；pypdf 18 页、10762 字符；标题匹配 1.00",
+    "path": "papers/2024_Kou_BayesdiffEstimatingPixelWiseUncertaintyDiffusionBayesianInference_en.pdf",
+    "sha256": "427dfc5ef333decbfe1a695ca1cb1fdde2ac60d9bc148887a26392e773773dad",
+    "source_kind": "新下载",
+    "reused_lib": "",
+    "bytes": 8321128
+  },
+  "D01-047": {
+    "sid": "D01-047",
+    "status": "ok",
+    "detail": "通过：%PDF；pypdf 26 页、14084 字符；标题匹配 1.00",
+    "path": "papers/2025_Sendera_RevisitingEquivalenceBayesianNeuralNetworksGaussianProcessesImportance_en.pdf",
+    "sha256": "0f053d1d48997f5fb768208050b22e210a6c272f500d71347be5e7de9ba1307d",
+    "source_kind": "新下载",
+    "reused_lib": "",
+    "bytes": 6550762
+  },
+  "D01-048": {
+    "sid": "D01-048",
+    "status": "ok",
+    "detail": "通过：%PDF；pypdf 31 页、14193 字符；标题匹配 1.00",
+    "path": "papers/2025_Laplante_RobustConjugateSpatioTemporalGaussianProcesses_en.pdf",
+    "sha256": "6e8233b14529d4ef406ec4021c122b7a060e07ffe74046329bc9ee365581a4e8",
+    "source_kind": "新下载",
+    "reused_lib": "",
+    "bytes": 2077880
+  },
+  "D01-049": {
+    "sid": "D01-049",
+    "status": "ok",
+    "detail": "通过：%PDF；pypdf 27 页、15434 字符；标题匹配 1.00",
+    "path": "papers/2023_Zaffran_ConformalPredictionMissingValues_en.pdf",
+    "sha256": "80d2a6482a415d424e8cc77f4bcac0da0a4e45413cf77c2d60f00e858e0d5a15",
+    "source_kind": "新下载",
+    "reused_lib": "",
+    "bytes": 1567260
+  },
+  "D01-050": {
+    "sid": "D01-050",
+    "status": "ok",
+    "detail": "通过：%PDF；pypdf 13 页、15303 字符；标题匹配 1.00",
+    "path": "papers/2022_Long_AutoipUnitedFrameworkIntegratePhysicsGaussianProcesses_en.pdf",
+    "sha256": "fa89ffb25b06b8d75d922bcceed28833376b13690a4c2e6ceea5f3afe42436c9",
+    "source_kind": "新下载",
+    "reused_lib": "",
+    "bytes": 866305
+  },
+  "D01-051": {
+    "sid": "D01-051",
+    "status": "ok",
+    "detail": "通过：%PDF；pypdf 15 页、12857 字符；标题匹配 1.00",
+    "path": "papers/2022_Altamirano_NonstationaryMultiOutputGaussianProcessesHarmonizableSpectralMixtures_en.pdf",
+    "sha256": "1d53feb881fb1a6ad6380c7a606152fad5f7663c04d5c313b548380eaaa8d1e2",
+    "source_kind": "新下载",
+    "reused_lib": "",
+    "bytes": 2753722
+  },
+  "D01-052": {
+    "sid": "D01-052",
+    "status": "ok",
+    "detail": "通过：%PDF；pypdf 40 页、13019 字符；标题匹配 1.00",
+    "path": "papers/2022_Li_SafeActiveLearningMultiOutputGaussianProcesses_en.pdf",
+    "sha256": "6785433a69f198a0b9135f5b1e0748bf10c31b3532ba30c609f60eb04d081c5a",
+    "source_kind": "新下载",
+    "reused_lib": "",
+    "bytes": 3398012
+  },
+  "D01-053": {
+    "sid": "D01-053",
+    "status": "ok",
+    "detail": "通过：%PDF；pypdf 25 页、11172 字符；标题匹配 1.00",
+    "path": "papers/2024_Wei_ScalableBayesianOptimizationFocalizedSparseGaussianProcesses_en.pdf",
+    "sha256": "69e0d56f1d09ecf36e46f7d1e098a3d27651660a02cc9bd81d076605705df471",
+    "source_kind": "新下载",
+    "reused_lib": "",
+    "bytes": 4546816
+  },
+  "D01-054": {
+    "sid": "D01-054",
+    "status": "ok",
+    "detail": "通过：%PDF；pypdf 27 页、11820 字符；标题匹配 1.00",
+    "path": "papers/2025_Li_CalibratingLlmsInformationTheoreticEvidentialDeepLearning_en.pdf",
+    "sha256": "e630dcb634421c2498a7c96cf89eba1a629705e8ddfb5dfa4b297e0a6c8643b5",
+    "source_kind": "新下载",
+    "reused_lib": "",
+    "bytes": 413913
+  },
+  "D01-055": {
+    "sid": "D01-055",
+    "status": "ok",
+    "detail": "通过：%PDF；pypdf 25 页、12910 字符；标题匹配 1.00",
+    "path": "papers/2023_Chen_MetaLearningAdaptiveDeepKernelGaussianProcessesMolecular_en.pdf",
+    "sha256": "b913b8a4dfffee41c378ec5582a8dc262e7737752538b1614f61fa58dcf261e1",
+    "source_kind": "新下载",
+    "reused_lib": "",
+    "bytes": 1093061
+  },
+  "D01-056": {
+    "sid": "D01-056",
+    "status": "ok",
+    "detail": "通过：%PDF；pypdf 44 页、14985 字符；标题匹配 1.00",
+    "path": "papers/2026_Liu_BeyondProcedureSubstantiveFairnessConformalPrediction_en.pdf",
+    "sha256": "dd05d5234e64eef7a47e9da95ddd303226737c087fdeb2d81f7a7e6f1fd60880",
+    "source_kind": "新下载",
+    "reused_lib": "",
+    "bytes": 959652
+  },
+  "D01-057": {
+    "sid": "D01-057",
+    "status": "ok",
+    "detail": "通过：%PDF；pypdf 37 页、11794 字符；标题匹配 1.00",
+    "path": "papers/2026_Popescu_DistributionalDeepGaussianProcesses_en.pdf",
+    "sha256": "d0f3a30b2f78343467bbf83a6af8f1e14f273b3b81c61fa8ec01711d8a00ddb3",
+    "source_kind": "新下载",
+    "reused_lib": "",
+    "bytes": 14006612
+  },
+  "D01-058": {
+    "sid": "D01-058",
+    "status": "ok",
+    "detail": "通过：%PDF；pypdf 19 页、14970 字符；标题匹配 1.00",
+    "path": "papers/2026_Javanmardi_OptimalConformalPredictionEpistemicUncertainty_en.pdf",
+    "sha256": "deaa32089dea1c22a59dec9b1cfeb0f2578b875efabbd17afe7cd1c0dfdca661",
+    "source_kind": "新下载",
+    "reused_lib": "",
+    "bytes": 1371667
+  },
+  "D01-059": {
+    "sid": "D01-059",
+    "status": "ok",
+    "detail": "通过：%PDF；pypdf 25 页、14380 字符；标题匹配 1.00",
+    "path": "papers/2026_Lederer_PolicySearchBayesianOptimizationTemporalDifferenceGaussianProcesses_en.pdf",
+    "sha256": "f0c61bea042b243d7bba03acc4fdd84a52f815363942b644b95752ffe428dfed",
+    "source_kind": "新下载",
+    "reused_lib": "",
+    "bytes": 852378
+  },
+  "D01-060": {
+    "sid": "D01-060",
+    "status": "ok",
+    "detail": "通过：%PDF；pypdf 22 页、15070 字符；标题匹配 1.00",
+    "path": "papers/2026_Jiang_SpatialConformalInferenceLocalizedQuantileRegression_en.pdf",
+    "sha256": "eda6d9cc9a2663679f769fb7798b0b0ab6e49347424a9807895494492e0ae44d",
+    "source_kind": "新下载",
+    "reused_lib": "",
+    "bytes": 4536000
+  },
+  "D01-061": {
+    "sid": "D01-061",
+    "status": "ok",
+    "detail": "通过：%PDF；pypdf 17 页、12727 字符；标题匹配 1.00",
+    "path": "papers/2025_Snell_ConformalPredictionBayesianQuadrature_en.pdf",
+    "sha256": "66ded9eeb168e102584b881894e9fb548cb94bf1babb7a483cafdc206082e5cc",
+    "source_kind": "新下载",
+    "reused_lib": "",
+    "bytes": 887930
+  },
+  "D01-062": {
+    "sid": "D01-062",
+    "status": "ok",
+    "detail": "通过：%PDF；pypdf 16 页、14926 字符；标题匹配 1.00",
+    "path": "papers/2025_Laan_GeneralizedVennVennAbersCalibrationApplicationsConformalPrediction_en.pdf",
+    "sha256": "a3dca5857f3cf87813966aed2b1cfc9c936087281e42a65456ed0ba3cd7841bf",
+    "source_kind": "新下载",
+    "reused_lib": "",
+    "bytes": 467159
+  },
+  "D01-063": {
+    "sid": "D01-063",
+    "status": "ok",
+    "detail": "通过：%PDF；pypdf 17 页、15016 字符；标题匹配 1.00",
+    "path": "papers/2025_Gao_ModelUncertaintyQuantificationConformalPredictionContinualLearning_en.pdf",
+    "sha256": "1ea2387c89a1af5d501370732f5d128ac61a3c48a3b4770da887605699fc80f8",
+    "source_kind": "新下载",
+    "reused_lib": "",
+    "bytes": 692387
+  },
+  "D01-064": {
+    "sid": "D01-064",
+    "status": "ok",
+    "detail": "通过：%PDF；pypdf 14 页、10963 字符；标题匹配 1.00",
+    "path": "papers/2022_Deng_AcceleratedLinearizedLaplaceApproximationBayesianDeepLearning_en.pdf",
+    "sha256": "1ed6a4a09e2ed1dc3d0fce5b566e0d2e09a9a71ae52a4fdbbf6724b7b0bce0b6",
+    "source_kind": "新下载",
+    "reused_lib": "",
+    "bytes": 1524992
+  },
+  "D01-065": {
+    "sid": "D01-065",
+    "status": "ok",
+    "detail": "通过：%PDF；pypdf 18 页、12171 字符；标题匹配 1.00",
+    "path": "papers/2024_Fang_FunctionalBayesianTuckerDecompositionContinuousIndexedTensorData_en.pdf",
+    "sha256": "5f003f806c913401dedb02e1fd4b900aaa13ecde5c5d12e1d2a2ed4a9a49ee0e",
+    "source_kind": "新下载",
+    "reused_lib": "",
+    "bytes": 849290
+  },
+  "D01-067": {
+    "sid": "D01-067",
+    "status": "ok",
+    "detail": "通过：%PDF；pypdf 25 页、13011 字符；标题匹配 1.00",
+    "path": "papers/2025_Scholten_ProvablyReliableConformalPredictionSetsPresenceDataPoisoning_en.pdf",
+    "sha256": "5dc71d45a5234aaaf0251f1c51c2d9e79bc3930d4178832413cbe26413013eea",
+    "source_kind": "新下载",
+    "reused_lib": "",
+    "bytes": 668251
+  },
+  "D01-068": {
+    "sid": "D01-068",
+    "status": "ok",
+    "detail": "通过：%PDF；pypdf 22 页、11362 字符；标题匹配 1.00",
+    "path": "papers/2024_Sun_CopulaConformalPredictionMultiStepTimeSeriesForecasting_en.pdf",
+    "sha256": "34190375d282e549b84be3f8b772f29527fa0126b83d82815bc8e918516c63ae",
+    "source_kind": "新下载",
+    "reused_lib": "",
+    "bytes": 2411742
+  },
+  "D01-069": {
+    "sid": "D01-069",
+    "status": "ok",
+    "detail": "通过：%PDF；pypdf 22 页、14019 字符；标题匹配 1.00",
+    "path": "papers/2026_Singer_UncertaintyQuantificationNamedEntityRecognitionConformalPrediction_en.pdf",
+    "sha256": "185a1bb0213c42fbb4e11f650c5b21afb180198cf41024c3477e3dee2aaedcb8",
+    "source_kind": "新下载",
+    "reused_lib": "",
+    "bytes": 2859273
+  },
+  "D01-070": {
+    "sid": "D01-070",
+    "status": "pending",
+    "detail": "第一作者姓氏未在首页检出（Tth）",
+    "path": "papers/2025_Tth_LearningForgetBayesianTimeSeriesForecastingRecurrentSparse_en.pdf",
+    "sha256": "d09c20c508df85edb286a116e2c1a70b06430d8d2eac19c4c07515fe87adee3e",
+    "source_kind": "新下载",
+    "reused_lib": "",
+    "bytes": 1495944
+  },
+  "D01-071": {
+    "sid": "D01-071",
+    "status": "ok",
+    "detail": "通过：%PDF；pypdf 21 页、14261 字符；标题匹配 1.00",
+    "path": "papers/2024_Sale_LabelWiseAleatoricEpistemicUncertaintyQuantification_en.pdf",
+    "sha256": "a6758df199af192abfc5c04d350eec7d55549e136b2bda4fc373855ce1024117",
+    "source_kind": "新下载",
+    "reused_lib": "",
+    "bytes": 1497771
+  },
+  "D01-072": {
+    "sid": "D01-072",
+    "status": "ok",
+    "detail": "通过：%PDF；pypdf 19 页、15208 字符；标题匹配 1.00",
+    "path": "papers/2024_Valdettaro_OfflineBayesianAleatoricEpistemicUncertaintyQuantificationPosteriorValue_en.pdf",
+    "sha256": "59413cee4eb2ff9f0ebf045e86152b0b16e3c02b5eda3885f44e1cd233728298",
+    "source_kind": "新下载",
+    "reused_lib": "",
+    "bytes": 1147100
+  },
+  "D01-073": {
+    "sid": "D01-073",
+    "status": "ok",
+    "detail": "通过：%PDF；pypdf 23 页、12511 字符；标题匹配 1.00",
+    "path": "papers/2024_Deshpande_OnlineCalibratedConformalPredictionImprovesBayesianOptimization_en.pdf",
+    "sha256": "ef9a3d8f278000352e1ec7e79c513628546375058a035ae13858d682b72323e5",
+    "source_kind": "新下载",
+    "reused_lib": "",
+    "bytes": 1549737
+  },
+  "D01-074": {
+    "sid": "D01-074",
+    "status": "ok",
+    "detail": "通过：%PDF；pypdf 11 页、14345 字符；标题匹配 1.00",
+    "path": "papers/2023_Wimmer_QuantifyingAleatoricEpistemicUncertaintyMachineLearningConditionalEntropy_en.pdf",
+    "sha256": "ad67f944a2fb9b6b3c85e32a64db928f409d60c14a640c72c3fac3b902b86a2d",
+    "source_kind": "新下载",
+    "reused_lib": "",
+    "bytes": 1416621
+  },
+  "D01-075": {
+    "sid": "D01-075",
+    "status": "ok",
+    "detail": "通过：%PDF；pypdf 17 页、13279 字符；标题匹配 1.00",
+    "path": "papers/2022_Wynne_VariationalGaussianProcessesFunctionalAnalysisView_en.pdf",
+    "sha256": "07babbc23f228a2ec9ad2b32a41d79671426fe8eedea1ffb56fb571bd6904454",
+    "source_kind": "新下载",
+    "reused_lib": "",
+    "bytes": 349379
+  },
+  "D01-076": {
+    "sid": "D01-076",
+    "status": "ok",
+    "detail": "通过：%PDF；pypdf 31 页、13308 字符；标题匹配 1.00",
+    "path": "papers/2026_Huang_DetectingMisbehaviorsLargeVisionLanguageModelsEvidentialUncertainty_en.pdf",
+    "sha256": "0486c671128626076c8f3ed77e8e2d7a9c535d068e4b0953958faa26021c09cd",
+    "source_kind": "新下载",
+    "reused_lib": "",
+    "bytes": 4167556
+  },
+  "D01-077": {
+    "sid": "D01-077",
+    "status": "ok",
+    "detail": "通过：%PDF；pypdf 34 页、14022 字符；标题匹配 1.00",
+    "path": "papers/2025_Duong_CausalDiscoveryBayesianOptimization_en.pdf",
+    "sha256": "0b5041c6ef2443aba73779c79bda0c8112fdd487a0a1d6417b12968416e9ea76",
+    "source_kind": "新下载",
+    "reused_lib": "",
+    "bytes": 1679734
+  },
+  "D01-078": {
+    "sid": "D01-078",
+    "status": "ok",
+    "detail": "通过：%PDF；pypdf 11 页、19541 字符；标题匹配 1.00",
+    "path": "papers/2024_Zhang_DiscriminantDistanceAwareRepresentationDeterministicUncertaintyQuantificationMet_en.pdf",
+    "sha256": "64bae7d07e21312630b3b5c734c11f5445362c97024e95bd6b78479f937eb33e",
+    "source_kind": "新下载",
+    "reused_lib": "",
+    "bytes": 1399101
+  },
+  "D01-079": {
+    "sid": "D01-079",
+    "status": "ok",
+    "detail": "通过：%PDF；pypdf 30 页、10681 字符；标题匹配 1.00",
+    "path": "papers/2025_Li_VicinalLabelSupervisionReliableAleatoricEpistemicUncertaintyEstimation_en.pdf",
+    "sha256": "d3298374f5ec3f821bb827eb620d244a0b498667f80abb1acf22692b57e1e0a7",
+    "source_kind": "新下载",
+    "reused_lib": "",
+    "bytes": 1858649
+  },
+  "D01-081": {
+    "sid": "D01-081",
+    "status": "ok",
+    "detail": "通过：%PDF；pypdf 25 页、11873 字符；标题匹配 1.00",
+    "path": "papers/2023_Jha_NpclNeuralProcessesUncertaintyAwareContinualLearning_en.pdf",
+    "sha256": "96efc249170f7b6d96a60bc700b85586646f8ae0ef1b8dd4d620dfc3127f2e8c",
+    "source_kind": "新下载",
+    "reused_lib": "",
+    "bytes": 4181410
+  },
+  "D01-082": {
+    "sid": "D01-082",
+    "status": "ok",
+    "detail": "通过：%PDF；pypdf 26 页、10295 字符；标题匹配 1.00",
+    "path": "papers/2025_Bui_SparseGaussianProcessesStructuredApproximationsPowerEpRevisited_en.pdf",
+    "sha256": "945046363e6667dd1e7765a8a699dbdde79faae5ba5b4ccaf456a9acbd22717d",
+    "source_kind": "新下载",
+    "reused_lib": "",
+    "bytes": 800763
+  },
+  "D01-083": {
+    "sid": "D01-083",
+    "status": "ok",
+    "detail": "通过：%PDF；pypdf 34 页、11453 字符；标题匹配 1.00",
+    "path": "papers/2024_Wenger_ComputationAwareGaussianProcessesModelSelectionLinearTime_en.pdf",
+    "sha256": "78548765cf54690e7c2daadbd3c9c7d3efa7d07b621e27d653e8ba21d81fb695",
+    "source_kind": "新下载",
+    "reused_lib": "",
+    "bytes": 2582895
+  },
+  "D01-084": {
+    "sid": "D01-084",
+    "status": "ok",
+    "detail": "通过：%PDF；pypdf 37 页、11473 字符；标题匹配 1.00",
+    "path": "papers/2024_Lin_ImprovingLinearSystemSolversHyperparameterOptimisationIterativeGaussian_en.pdf",
+    "sha256": "48ffa01163a495e2c245dab473e570f95e77cb7da97272d02404f07a24590b3a",
+    "source_kind": "新下载",
+    "reused_lib": "",
+    "bytes": 4090649
+  },
+  "D01-085": {
+    "sid": "D01-085",
+    "status": "ok",
+    "detail": "通过：%PDF；pypdf 11 页、11641 字符；标题匹配 1.00",
+    "path": "papers/2023_Souza_ThinDeepGaussianProcesses_en.pdf",
+    "sha256": "a34342fc7b0510c449d1ebe2a5f1182de9f6e32a52649b30268be6f6aa55111e",
+    "source_kind": "新下载",
+    "reused_lib": "",
+    "bytes": 1143042
+  },
+  "D01-086": {
+    "sid": "D01-086",
+    "status": "ok",
+    "detail": "通过：%PDF；pypdf 21 页、9815 字符；标题匹配 1.00",
+    "path": "papers/2023_Zhu_VariationalGaussianProcessesDecoupledConditionals_en.pdf",
+    "sha256": "02e19f098947f3787dd65d9be767d6d572546338860c83ea7f958337791c3e44",
+    "source_kind": "新下载",
+    "reused_lib": "",
+    "bytes": 962127
+  },
+  "D01-087": {
+    "sid": "D01-087",
+    "status": "ok",
+    "detail": "通过：%PDF；pypdf 13 页、12736 字符；标题匹配 1.00",
+    "path": "papers/2023_RANDRIANARISOA_VariationalGaussianProcessesLinearInverseProblems_en.pdf",
+    "sha256": "3ce414416b857bc2962c39a96081d298c254f9e829aebe0d75d58e66ae95d5a2",
+    "source_kind": "新下载",
+    "reused_lib": "",
+    "bytes": 416480
+  },
+  "D01-088": {
+    "sid": "D01-088",
+    "status": "ok",
+    "detail": "通过：%PDF；pypdf 13 页、11517 字符；标题匹配 1.00",
+    "path": "papers/2022_Rudner_TractableFunctionSpaceVariationalInferenceBayesianNeuralNetworks_en.pdf",
+    "sha256": "8579bc9665cb9a0dc3eac2e18bd7959f29ceb34e3b6cf0f32a01a148e0dbcf7e",
+    "source_kind": "新下载",
+    "reused_lib": "",
+    "bytes": 3749263
+  },
+  "D01-089": {
+    "sid": "D01-089",
+    "status": "ok",
+    "detail": "通过：%PDF；pypdf 34 页、12963 字符；标题匹配 1.00",
+    "path": "papers/2025_Noorani_ConformalPredictionBeyondSeenMissingMassPerspectiveUncertainty_en.pdf",
+    "sha256": "0769e80add8d850fe9c9249e49ccea98811d6254a2f68390b68793c3a83b7518",
+    "source_kind": "新下载",
+    "reused_lib": "",
+    "bytes": 1446214
+  },
+  "D01-090": {
+    "sid": "D01-090",
+    "status": "ok",
+    "detail": "通过：%PDF；pypdf 32 页、11288 字符；标题匹配 1.00",
+    "path": "papers/2024_Hamelijnck_PhysicsInformedVariationalStateSpaceGaussianProcesses_en.pdf",
+    "sha256": "ca822b2de52487bf33bce262e296ddc38b44095635e7e07e86ed88d7372ffd80",
+    "source_kind": "新下载",
+    "reused_lib": "",
+    "bytes": 1021642
+  },
+  "D01-091": {
+    "sid": "D01-091",
+    "status": "ok",
+    "detail": "通过：%PDF；pypdf 23 页、11800 字符；标题匹配 1.00",
+    "path": "papers/2023_Sharma_PacBayesGeneralizationCertificatesLearnedInductiveConformalPrediction_en.pdf",
+    "sha256": "1a5c570cc6c1cb04d7569e5bba1e118bea90aeacba0d3fd576de0616566cc384",
+    "source_kind": "新下载",
+    "reused_lib": "",
+    "bytes": 919164
+  },
+  "D01-092": {
+    "sid": "D01-092",
+    "status": "ok",
+    "detail": "通过：%PDF；pypdf 16 页、12607 字符；标题匹配 1.00",
+    "path": "papers/2025_Gan_ConformalPredictionBeyondHorizonDistributionFreeInferencePolicy_en.pdf",
+    "sha256": "4a2bdd428b9cedb2507e29c9369c0e4be62bb5d76e813142d7dac938fcd8b8af",
+    "source_kind": "新下载",
+    "reused_lib": "",
+    "bytes": 878842
+  },
+  "D01-093": {
+    "sid": "D01-093",
+    "status": "ok",
+    "detail": "通过：%PDF；pypdf 20 页、11091 字符；标题匹配 1.00",
+    "path": "papers/2025_Feng_StaciSpatioTemporalAleatoricConformalInference_en.pdf",
+    "sha256": "5f73e39ec254ee1f947a6dd6f0c5c1b7555654846d150fd608c52960f5f073ad",
+    "source_kind": "新下载",
+    "reused_lib": "",
+    "bytes": 6692986
+  },
+  "D01-094": {
+    "sid": "D01-094",
+    "status": "ok",
+    "detail": "通过：%PDF；pypdf 35 页、12291 字符；标题匹配 1.00",
+    "path": "papers/2024_Shen_UncertaintyQuantificationCapabilitiesEvidentialDeepLearningMirage_en.pdf",
+    "sha256": "d166910eab7b00108e53f41a45b0676af0ea3e51587a006d15e302d61c2bb6ea",
+    "source_kind": "新下载",
+    "reused_lib": "",
+    "bytes": 27511787
+  },
+  "D01-095": {
+    "sid": "D01-095",
+    "status": "ok",
+    "detail": "通过：%PDF；pypdf 30 页、11314 字符；标题匹配 1.00",
+    "path": "papers/2024_Cinquin_FspLaplaceFunctionSpacePriorsLaplaceApproximationBayesian_en.pdf",
+    "sha256": "51ac302da8829538581c60382699cfde4817088378fb1feb40bd4998144971d1",
+    "source_kind": "新下载",
+    "reused_lib": "",
+    "bytes": 2256705
+  },
+  "D01-096": {
+    "sid": "D01-096",
+    "status": "ok",
+    "detail": "通过：%PDF；pypdf 30 页、11780 字符；标题匹配 1.00",
+    "path": "papers/2023_Bergamin_RiemannianLaplaceApproximationsBayesianNeuralNetworks_en.pdf",
+    "sha256": "a5ef250b9ed78fee7dafd30498c7bd32875d41c8bf24ce10b4e3868a3b9986b6",
+    "source_kind": "新下载",
+    "reused_lib": "",
+    "bytes": 5719427
+  },
+  "D01-097": {
+    "sid": "D01-097",
+    "status": "ok",
+    "detail": "通过：%PDF；pypdf 23 页、17552 字符；标题匹配 0.86",
+    "path": "papers/2023_Huang_UncertaintyQuantificationGraphConformalizedGraphNeuralNetworks_en.pdf",
+    "sha256": "8187ffbe18ec34b3731a8e440663b294fdd1b765770788ddb20f66c1498f931d",
+    "source_kind": "新下载",
+    "reused_lib": "",
+    "bytes": 1292140
+  },
+  "D01-098": {
+    "sid": "D01-098",
+    "status": "ok",
+    "detail": "通过：%PDF；pypdf 12 页、11623 字符；标题匹配 1.00",
+    "path": "papers/2022_Bengs_PitfallsEpistemicUncertaintyQuantificationLossMinimisation_en.pdf",
+    "sha256": "a43077c25dc41593201c5a53993174ca617f7abf758b9b415dea0501686a7a92",
+    "source_kind": "新下载",
+    "reused_lib": "",
+    "bytes": 385695
+  },
+  "D01-099": {
+    "sid": "D01-099",
+    "status": "ok",
+    "detail": "通过：%PDF；pypdf 20 页、12400 字符；标题匹配 1.00",
+    "path": "papers/2023_Laghuvarapu_ConformalDrugPropertyPredictionDensityEstimationCovariateShift_en.pdf",
+    "sha256": "959c5da3f59b2fa7928ca753246b636d10e9f3cc251cd6453837641728248858",
+    "source_kind": "新下载",
+    "reused_lib": "",
+    "bytes": 1138078
+  },
+  "D01-100": {
+    "sid": "D01-100",
+    "status": "ok",
+    "detail": "通过：%PDF；pypdf 22 页、11328 字符；标题匹配 1.00",
+    "path": "papers/2023_Li_PrototypeAleatoricUncertaintyQuantificationCrossModalRetrieval_en.pdf",
+    "sha256": "520a7caa532d7b3ad6717a8325f64919e55f95a636af67369e72e1055cee50b9",
+    "source_kind": "新下载",
+    "reused_lib": "",
+    "bytes": 5969285
+  },
+  "D01-101": {
+    "sid": "D01-101",
+    "status": "ok",
+    "detail": "通过：%PDF；pypdf 23 页、14823 字符；标题匹配 1.00",
+    "path": "papers/2025_Fathullah_GeneralisedProbabilisticModellingImprovedUncertaintyEstimationComparativeLlm_en.pdf",
+    "sha256": "8460971eba37505a262a5292f840ad658dde53ba92119bc71f258ffa22d2558d",
+    "source_kind": "新下载",
+    "reused_lib": "",
+    "bytes": 1893332
+  },
+  "D01-102": {
+    "sid": "D01-102",
+    "status": "ok",
+    "detail": "通过：%PDF；pypdf 17 页、14035 字符；标题匹配 1.00",
+    "path": "papers/2026_Venkataramanan_ApicAmortizedPhysicsInformedCalibrationNeuralProcesses_en.pdf",
+    "sha256": "e473320c629194a7a32a25acc79fb38c04e6431388d5ab61ca3f1532588a8a2b",
+    "source_kind": "新下载",
+    "reused_lib": "",
+    "bytes": 1174467
+  },
+  "D01-103": {
+    "sid": "D01-103",
+    "status": "ok",
+    "detail": "通过：%PDF；pypdf 44 页、15207 字符；标题匹配 1.00",
+    "path": "papers/2026_Tugnoli_ImprovingTabpfnSSyntheticDataGenerationIntegratingCausal_en.pdf",
+    "sha256": "a164a2651a8c3fb9af0335c7cc77f0e852f8aa23c8c95869fa03c9845bea421b",
+    "source_kind": "新下载",
+    "reused_lib": "",
+    "bytes": 1283102
+  },
+  "D01-104": {
+    "sid": "D01-104",
+    "status": "ok",
+    "detail": "通过：%PDF；pypdf 31 页、14672 字符；标题匹配 1.00",
+    "path": "papers/2026_Noorani_ConformalRiskMinimizationVarianceReduction_en.pdf",
+    "sha256": "32bbc19a54451a9e8a0e86a4d21e5f40e2ae05b221dd1ed0af0de9449d821a3e",
+    "source_kind": "新下载",
+    "reused_lib": "",
+    "bytes": 5126639
+  },
+  "D01-105": {
+    "sid": "D01-105",
+    "status": "ok",
+    "detail": "通过：%PDF；pypdf 22 页、24262 字符；标题匹配 1.00",
+    "path": "papers/2022_Klukowski_RateConvergencePolynomialNetworksGaussianProcesses_en.pdf",
+    "sha256": "05b5e8092c96e03c70cb7f2cf9688304e51035b2b2839ccda9b198a508ec1d45",
+    "source_kind": "新下载",
+    "reused_lib": "",
+    "bytes": 425407
+  },
+  "D01-106": {
+    "sid": "D01-106",
+    "status": "ok",
+    "detail": "通过：%PDF；pypdf 28 页、8488 字符；标题匹配 1.00",
+    "path": "papers/2024_Kuzborskij_BetterThanKlPacBayesBounds_en.pdf",
+    "sha256": "12037023f8d82e52d85445feed5c57982150077450f13d37fc516da195a8b66e",
+    "source_kind": "新下载",
+    "reused_lib": "",
+    "bytes": 412493
+  },
+  "D01-107": {
+    "sid": "D01-107",
+    "status": "ok",
+    "detail": "通过：%PDF；pypdf 33 页、9525 字符；标题匹配 1.00",
+    "path": "papers/2024_Areces_TwoFundamentalLimitsUncertaintyQuantificationPredictiveInference_en.pdf",
+    "sha256": "1a98e77e1857638b81b906a44cb0407e80c854b6d0c7cabb5c46ed4fa44165ac",
+    "source_kind": "新下载",
+    "reused_lib": "",
+    "bytes": 484190
+  },
+  "D01-108": {
+    "sid": "D01-108",
+    "status": "ok",
+    "detail": "通过：%PDF；pypdf 25 页、10406 字符；标题匹配 1.00",
+    "path": "papers/2023_Jang_TighterPacBayesBoundsCoinBetting_en.pdf",
+    "sha256": "9e065483128d8019845263e5ed2c39388fa8acdfffbca57c2206323af0a206be",
+    "source_kind": "新下载",
+    "reused_lib": "",
+    "bytes": 568281
+  },
+  "D01-109": {
+    "sid": "D01-109",
+    "status": "ok",
+    "detail": "通过：%PDF；pypdf 39 页、14112 字符；标题匹配 1.00",
+    "path": "papers/2024_Liu_MultiSourceConformalInferenceDistributionShift_en.pdf",
+    "sha256": "6c035937fc819d6fd4d21297a6cde2dc485ed6daa447662e250fa5e069618427",
+    "source_kind": "新下载",
+    "reused_lib": "",
+    "bytes": 7268013
+  },
+  "D01-110": {
+    "sid": "D01-110",
+    "status": "ok",
+    "detail": "通过：%PDF；pypdf 18 页、14110 字符；标题匹配 1.00",
+    "path": "papers/2023_Tiao_SphericalInducingFeaturesOrthogonallyDecoupledGaussianProcesses_en.pdf",
+    "sha256": "d776e73f3d5d599bcbaff8339a0c75724d2cd1546bae96760aae4b02ffeed819",
+    "source_kind": "新下载",
+    "reused_lib": "",
+    "bytes": 1318815
+  },
+  "D01-012": {
+    "sid": "D01-012",
+    "status": "ok",
+    "detail": "通过：%PDF；pypdf 36 页、52277 字符；标题匹配 1.00",
+    "path": "papers/2025_Sinaga_RobustComputationAwareGaussianProcesses_en.pdf",
+    "sha256": "c5ec695f0817d50e72c4b0077d2e0580ff9795a3ed657bc5a82f796fa28a9e27",
+    "source_kind": "新下载",
+    "reused_lib": "",
+    "bytes": 6595413
+  },
+  "D01-066": {
+    "sid": "D01-066",
+    "status": "ok",
+    "detail": "通过：%PDF；pypdf 20 页、37904 字符；标题匹配 1.00",
+    "path": "papers/2024_Jeary_VerifiablyRobustConformalPrediction_en.pdf",
+    "sha256": "ee723400c040ea2957860bb4c37fc63a045c2e8044d716a488cfa4ef3dc94904",
+    "source_kind": "新下载",
+    "reused_lib": "",
+    "bytes": 452877
+  },
+  "D01-080": {
+    "sid": "D01-080",
+    "status": "ok",
+    "detail": "通过：%PDF；pypdf 20 页、49579 字符；标题匹配 1.00",
+    "path": "papers/2023_Chang_MemoryDualGaussianProcessesSequentialLearning_en.pdf",
+    "sha256": "78f0bef471f52e603e753b7ae3a8671bd97d8576b8ded2a44b67d3d72767528f",
+    "source_kind": "新下载",
+    "reused_lib": "",
+    "bytes": 5766084
+  }
+}

@@ -1,0 +1,3 @@
+﻿原相对路径,类型,文献编号,标题,在线地址,提交,原因
+code/D05-037_ntt-dkiku_chaos-eater_en/,代码快照,D05-037,LLM-Powered Fully Automated Chaos Engineering: Towards Enabling Anyone to Build Resilient Software Systems at Low Cost,https://github.com/ntt-dkiku/chaos-eater,47c4e44bc897014d22fa1cb3079a0e7d28011fbc,NTT “Software License Agreement for Evaluation” 明确禁止向第三方销售、转让或分发（DISTRIBUTE）该软件；本机原件保留，需要时请从在线地址按提交号自行获取
+code/*/.git/,Git 元数据,,,,,各代码快照内的本地 Git 数据（约 4.6 GB），阅读不需要；仓库地址与提交号见 code_availability_cn.csv

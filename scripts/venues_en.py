@@ -55,11 +55,13 @@ VENUE_MEETING = {
     ("ACL", 2023): ("2023-07-09", "2023-07-14", "ACL 2023 会议日历"),
     ("ACL", 2024): ("2024-08-11", "2024-08-16", "ACL 2024 会议日历"),
     ("ACL", 2025): ("2025-07-27", "2025-08-01", "ACL 2025 会议日历"),
+    ("ACL", 2026): ("2026-07-02", "2026-07-07", "ACL 2026 会议日历（San Diego）"),
     ("EMNLP", 2021): ("2021-11-07", "2021-11-11", "EMNLP 2021 会议日历"),
     ("EMNLP", 2022): ("2022-12-07", "2022-12-11", "EMNLP 2022 会议日历"),
     ("EMNLP", 2023): ("2023-12-06", "2023-12-10", "EMNLP 2023 会议日历"),
     ("EMNLP", 2024): ("2024-11-12", "2024-11-16", "EMNLP 2024 会议日历"),
     ("EMNLP", 2025): ("2025-11-04", "2025-11-09", "EMNLP 2025 会议日历"),
+    ("EMNLP", 2026): ("2026-10-24", "2026-10-29", "EMNLP 2026 会议日历（Budapest）"),
     ("CVPR", 2022): ("2022-06-19", "2022-06-24", "CVPR 2022 会议日历"),
     ("CVPR", 2023): ("2023-06-18", "2023-06-22", "CVPR 2023 会议日历"),
     ("CVPR", 2024): ("2024-06-17", "2024-06-21", "CVPR 2024 会议日历"),
@@ -217,6 +219,8 @@ def meeting_date(venue, year):
 
 
 def in_window_meeting(venue, year, window_start="2021-10-30", window_end="2026-10-30"):
+    if (venue, int(year)) in EXCLUDED_MEETINGS:
+        return False, EXCLUDED_MEETINGS[(venue, int(year))], "日"
     start, end, note, prec = meeting_date(venue, year)
     if not start:
         return None, "会议日期未核实", prec

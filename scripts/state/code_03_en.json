@@ -1,0 +1,749 @@
+{
+  "D03-001": {
+    "license_file": "LICENSE",
+    "license_name": "mit license",
+    "readme": [
+      "src/readme.md"
+    ],
+    "entries": [],
+    "configs": [],
+    "deps": [],
+    "tests": [],
+    "notebooks": [],
+    "n_files": 11,
+    "truncated_listing": false,
+    "has_gitmodules": false,
+    "has_lfs_pointers": false,
+    "code_kind": "B",
+    "missing": [
+      "仅部分实现可见"
+    ],
+    "level": "L0",
+    "l1_ok": false,
+    "sid": "D03-001",
+    "url": "https://github.com/wagner-d/noboom",
+    "owner": "wagner-d",
+    "repo": "noboom",
+    "commit": "f810947b70f37cdf8fea95aa7200c9f7769b2595",
+    "path": "code/D03-001_wagner-d_noboom_en",
+    "official_evidence": "疑似作者（仓库名含作者姓氏）"
+  },
+  "D03-002": {
+    "sid": "D03-002",
+    "code_kind": "D",
+    "level": "",
+    "urls": [],
+    "note": "未在摘要/评论/PDF 首页发现代码链接；未声称已检索穷尽第三方复现"
+  },
+  "D03-003": {
+    "license_file": "Agent 3: InfoGuide/LICENSE",
+    "license_name": "mit license",
+    "readme": [
+      "readme.md",
+      "agent 1: predictx/readme.md",
+      "demonstration/infoguide/readme.md",
+      "demonstration/infoguide/infoguide_demo/readme.md",
+      "demonstration/predictx/readme.md"
+    ],
+    "entries": [
+      "demonstration/infoguide/infoguide_demo/src/main.py",
+      "demonstration/predictx/rcafiles/python_files/main.py",
+      "demonstration/foresight/rcafiles/python_files/main.py",
+      "agent 3: infoguide/src/test.py",
+      "agent 3: infoguide/src/old/main.py",
+      "agent 3: infoguide/src/old/run.py"
+    ],
+    "configs": [
+      "models/final_best_model_predictx/adapter_config.json",
+      "models/final_best_model_predictx/tokenizer_config.json",
+      "models/final_finetuned_model_foresight/adapter_config.json",
+      "models/final_finetuned_model_foresight/tokenizer_config.json",
+      "agent 3: infoguide/src/content/final_finetuned_model/adapter_config.json",
+      "agent 3: infoguide/src/content/final_finetuned_model/tokenizer_config.json",
+      "agent 3: infoguide/src/final_best_model/adapter_config.json",
+      "agent 3: infoguide/src/final_best_model/tokenizer_config.json"
+    ],
+    "deps": [
+      "requirements.txt",
+      "demonstration/predictx/rcafiles/requirements.txt",
+      "demonstration/predictx/rcafiles/python_files/requirements.txt",
+      "demonstration/predictx/model/requirements.txt",
+      "demonstration/foresight/rcafiles/requirements.txt",
+      "demonstration/foresight/rcafiles/python_files/requirements.txt",
+      "demonstration/foresight/model/requirements.txt"
+    ],
+    "tests": [
+      "agent 3: infoguide/src/test_li.py",
+      "agent 3: infoguide/src/test.py"
+    ],
+    "notebooks": [
+      "agent 1: predictx/data preprocessing/combine_mm_data.ipynb",
+      "agent 1: predictx/data preprocessing/analog dataset preprocessing.ipynb",
+      "agent 1: predictx/data preprocessing/multimodal dataset preprocessing.ipynb",
+      "demonstration/predictx/rcafiles/notebooks/create_ontology.ipynb",
+      "demonstration/foresight/rcafiles/notebooks/create_ontology.ipynb",
+      "agent 2: foresight/forecasting model/forcast_production_day_new-v3.ipynb",
+      "agent 2: foresight/forecasting model/forcast_production_day_new-v3-day.ipynb"
+    ],
+    "n_files": 262,
+    "truncated_listing": false,
+    "has_gitmodules": false,
+    "has_lfs_pointers": false,
+    "code_kind": "A",
+    "missing": [],
+    "level": "L1",
+    "l1_ok": true,
+    "sid": "D03-003",
+    "url": "https://github.com/ChathurangiShyalika/SmartPilot",
+    "owner": "ChathurangiShyalika",
+    "repo": "SmartPilot",
+    "commit": "1003c191e74fc6f7c2d9414c3a62354511b9857b",
+    "path": "code/D03-003_ChathurangiShyalika_SmartPilot_en",
+    "official_evidence": "疑似作者（仓库名含作者姓氏）"
+  },
+  "D03-004": {
+    "sid": "D03-004",
+    "code_kind": "D",
+    "level": "",
+    "urls": [],
+    "note": "未在摘要/评论/PDF 首页发现代码链接；未声称已检索穷尽第三方复现"
+  },
+  "D03-005": {
+    "sid": "D03-005",
+    "code_kind": "D",
+    "level": "",
+    "urls": [],
+    "note": "未在摘要/评论/PDF 首页发现代码链接；未声称已检索穷尽第三方复现"
+  },
+  "D03-006": {
+    "sid": "D03-006",
+    "code_kind": "D",
+    "level": "",
+    "urls": [],
+    "note": "未在摘要/评论/PDF 首页发现代码链接；未声称已检索穷尽第三方复现"
+  },
+  "D03-007": {
+    "license_file": "LICENSE",
+    "license_name": "mit license",
+    "readme": [
+      "readme.md",
+      "models/imagebind/readme.md"
+    ],
+    "entries": [
+      "main.py",
+      "models/dinov2/train/train.py",
+      "models/dinov2/run/train/train.py"
+    ],
+    "configs": [
+      "ad_models/uniad/config.yaml",
+      "models/openclip/model_configs/convnext_base_w_320.json",
+      "models/openclip/model_configs/convnext_large_d_320.json",
+      "models/openclip/model_configs/mt5-xl-vit-h-14.json",
+      "models/openclip/model_configs/vit-l-14-336.json",
+      "models/openclip/model_configs/vit-b-32-plus-256.json",
+      "models/openclip/model_configs/convnext_xxlarge_320.json",
+      "models/openclip/model_configs/rn50x64.json",
+      "models/openclip/model_configs/swin_base_patch4_window7_224.json",
+      "models/openclip/model_configs/coca_vit-l-14.json",
+      "models/openclip/model_configs/convnext_large.json",
+      "models/openclip/model_configs/vit-h-16.json"
+    ],
+    "deps": [
+      "requirements.txt",
+      "models/imagebind/requirements.txt",
+      "models/dinov2/eval/setup.py"
+    ],
+    "tests": [],
+    "notebooks": [],
+    "n_files": 328,
+    "truncated_listing": false,
+    "has_gitmodules": false,
+    "has_lfs_pointers": false,
+    "code_kind": "A",
+    "missing": [
+      "测试"
+    ],
+    "level": "L1",
+    "l1_ok": true,
+    "sid": "D03-007",
+    "url": "https://github.com/xcyao00/ADPretrain",
+    "owner": "xcyao00",
+    "repo": "ADPretrain",
+    "commit": "68fce6cfece91dbb7f011fb98f837c61185c0027",
+    "path": "code/D03-007_xcyao00_ADPretrain_en",
+    "official_evidence": "疑似作者（仓库名含作者姓氏）"
+  },
+  "D03-008": {
+    "sid": "D03-008",
+    "code_kind": "D",
+    "level": "",
+    "urls": [],
+    "note": "未在摘要/评论/PDF 首页发现代码链接；未声称已检索穷尽第三方复现"
+  },
+  "D03-009": {
+    "sid": "D03-009",
+    "code_kind": "D",
+    "level": "",
+    "urls": [],
+    "note": "未在摘要/评论/PDF 首页发现代码链接；未声称已检索穷尽第三方复现"
+  },
+  "D03-010": {
+    "license_file": "",
+    "license_name": "未发现许可证（不标为可自由复用）",
+    "readme": [
+      "readme.md",
+      "dataset/mmad/readme.md",
+      "dataset/mmad/ds-mvtec/readme.md",
+      "dataset/mmad/mvtec-ad/readme.md",
+      "dataset/mmad/mvtec-loco/readme.md"
+    ],
+    "entries": [
+      "evaluation/examples/softpatch/main.py",
+      "evaluation/examples/anomalyclip/train.sh",
+      "evaluation/examples/anomalyclip/train.py",
+      "evaluation/examples/anomalyclip/test.py"
+    ],
+    "configs": [],
+    "deps": [
+      "evaluation/examples/softpatch/requirements.txt",
+      "evaluation/examples/anomalyclip/requirements.txt"
+    ],
+    "tests": [
+      "evaluation/examples/anomalyclip/test_one_example.sh",
+      "evaluation/examples/anomalyclip/test.sh",
+      "evaluation/examples/anomalyclip/test_one_example.py",
+      "evaluation/examples/anomalyclip/test.py"
+    ],
+    "notebooks": [],
+    "n_files": 146,
+    "truncated_listing": false,
+    "has_gitmodules": false,
+    "has_lfs_pointers": false,
+    "code_kind": "C",
+    "missing": [
+      "配置（可能用 argparse）"
+    ],
+    "level": "L1",
+    "l1_ok": true,
+    "sid": "D03-010",
+    "url": "https://github.com/jam-cc/MMAD",
+    "owner": "jam-cc",
+    "repo": "MMAD",
+    "commit": "49db95b39b49acd344c7b915d0b422b09d303102",
+    "path": "code/D03-010_jam-cc_MMAD_en",
+    "official_evidence": "未核实官方归属（仅仓库存在）"
+  },
+  "D03-011": {
+    "license_file": "",
+    "license_name": "未发现许可证（不标为可自由复用）",
+    "readme": [
+      "readme.md"
+    ],
+    "entries": [],
+    "configs": [],
+    "deps": [],
+    "tests": [],
+    "notebooks": [],
+    "n_files": 17,
+    "truncated_listing": false,
+    "has_gitmodules": false,
+    "has_lfs_pointers": false,
+    "code_kind": "B",
+    "missing": [
+      "仅部分实现可见"
+    ],
+    "level": "L0",
+    "l1_ok": false,
+    "sid": "D03-011",
+    "url": "https://github.com/sheoyon-jhin/PAD",
+    "owner": "sheoyon-jhin",
+    "repo": "PAD",
+    "commit": "ca0e9b0402f13b4042aac3f9d89770437f7d0507",
+    "path": "code/D03-011_sheoyon-jhin_PAD_en",
+    "official_evidence": "疑似作者（仓库名含作者姓氏）"
+  },
+  "D03-012": {
+    "license_file": "",
+    "license_name": "未发现许可证（不标为可自由复用）",
+    "readme": [
+      "readme.md"
+    ],
+    "entries": [
+      "src/evaluation/evaluate.py"
+    ],
+    "configs": [],
+    "deps": [
+      "requirements.txt"
+    ],
+    "tests": [],
+    "notebooks": [],
+    "n_files": 19,
+    "truncated_listing": false,
+    "has_gitmodules": false,
+    "has_lfs_pointers": false,
+    "code_kind": "A",
+    "missing": [
+      "配置（可能用 argparse）",
+      "测试"
+    ],
+    "level": "L1",
+    "l1_ok": true,
+    "sid": "D03-012",
+    "url": "https://github.com/ZLHe0/VLM4TS",
+    "owner": "ZLHe0",
+    "repo": "VLM4TS",
+    "commit": "8ab8c16414eb2c1a861dfc3e76f458180035a879",
+    "path": "code/D03-012_ZLHe0_VLM4TS_en",
+    "official_evidence": "疑似作者（仓库名含作者姓氏）"
+  },
+  "D03-013": {
+    "sid": "D03-013",
+    "code_kind": "D",
+    "level": "",
+    "urls": [],
+    "note": "未在摘要/评论/PDF 首页发现代码链接；未声称已检索穷尽第三方复现"
+  },
+  "D03-014": {
+    "sid": "D03-014",
+    "code_kind": "D",
+    "level": "",
+    "urls": [],
+    "note": "未在摘要/评论/PDF 首页发现代码链接；未声称已检索穷尽第三方复现"
+  },
+  "D03-015": {
+    "sid": "D03-015",
+    "code_kind": "D",
+    "level": "",
+    "urls": [],
+    "note": "未在摘要/评论/PDF 首页发现代码链接；未声称已检索穷尽第三方复现"
+  },
+  "D03-016": {
+    "sid": "D03-016",
+    "code_kind": "D",
+    "level": "",
+    "urls": [],
+    "note": "未在摘要/评论/PDF 首页发现代码链接；未声称已检索穷尽第三方复现"
+  },
+  "D03-017": {
+    "sid": "D03-017",
+    "code_kind": "D",
+    "level": "",
+    "urls": [],
+    "note": "未在摘要/评论/PDF 首页发现代码链接；未声称已检索穷尽第三方复现"
+  },
+  "D03-018": {
+    "sid": "D03-018",
+    "code_kind": "D",
+    "level": "",
+    "urls": [],
+    "note": "未在摘要/评论/PDF 首页发现代码链接；未声称已检索穷尽第三方复现"
+  },
+  "D03-019": {
+    "sid": "D03-019",
+    "code_kind": "D",
+    "level": "",
+    "urls": [],
+    "note": "未在摘要/评论/PDF 首页发现代码链接；未声称已检索穷尽第三方复现"
+  },
+  "D03-020": {
+    "sid": "D03-020",
+    "code_kind": "D",
+    "level": "",
+    "urls": [],
+    "note": "未在摘要/评论/PDF 首页发现代码链接；未声称已检索穷尽第三方复现"
+  },
+  "D03-021": {
+    "license_file": "LICENSE",
+    "license_name": "apache license",
+    "readme": [
+      "readme.md"
+    ],
+    "entries": [
+      "main.py"
+    ],
+    "configs": [],
+    "deps": [
+      "requirements.txt"
+    ],
+    "tests": [],
+    "notebooks": [],
+    "n_files": 19,
+    "truncated_listing": false,
+    "has_gitmodules": false,
+    "has_lfs_pointers": false,
+    "code_kind": "C",
+    "missing": [
+      "配置（可能用 argparse）",
+      "测试"
+    ],
+    "level": "L1",
+    "l1_ok": true,
+    "sid": "D03-021",
+    "url": "https://github.com/mala-lab/IMPACT",
+    "owner": "mala-lab",
+    "repo": "IMPACT",
+    "commit": "6379f43e9719a79ac982b7b31363e75bfbcae340",
+    "path": "code/D03-021_mala-lab_IMPACT_en",
+    "official_evidence": "未核实官方归属（仅仓库存在）"
+  },
+  "D03-022": {
+    "license_file": "",
+    "license_name": "未发现许可证（不标为可自由复用）",
+    "readme": [
+      "readme.md"
+    ],
+    "entries": [
+      "main.py",
+      "utils/evaluate.py",
+      "script/run.sh"
+    ],
+    "configs": [],
+    "deps": [
+      "requirements.txt"
+    ],
+    "tests": [],
+    "notebooks": [],
+    "n_files": 28,
+    "truncated_listing": false,
+    "has_gitmodules": false,
+    "has_lfs_pointers": false,
+    "code_kind": "C",
+    "missing": [
+      "配置（可能用 argparse）",
+      "测试"
+    ],
+    "level": "L1",
+    "l1_ok": true,
+    "sid": "D03-022",
+    "url": "https://github.com/ForestsKing/D3R",
+    "owner": "ForestsKing",
+    "repo": "D3R",
+    "commit": "9a812ce92452f4e685e0f468fd4b54b051aef2b7",
+    "path": "code/D03-022_ForestsKing_D3R_en",
+    "official_evidence": "未核实官方归属（仅仓库存在）"
+  },
+  "D03-023": {
+    "sid": "D03-023",
+    "code_kind": "D",
+    "level": "",
+    "urls": [],
+    "note": "未在摘要/评论/PDF 首页发现代码链接；未声称已检索穷尽第三方复现"
+  },
+  "D03-024": {
+    "license_file": "",
+    "license_name": "未发现许可证（不标为可自由复用）",
+    "readme": [
+      "readme.md"
+    ],
+    "entries": [
+      "main.py",
+      "train.py"
+    ],
+    "configs": [],
+    "deps": [
+      "requirements.txt"
+    ],
+    "tests": [],
+    "notebooks": [
+      "parse_results.ipynb",
+      ".ipynb_checkpoints/parse_results-checkpoint.ipynb"
+    ],
+    "n_files": 15,
+    "truncated_listing": false,
+    "has_gitmodules": false,
+    "has_lfs_pointers": false,
+    "code_kind": "A",
+    "missing": [
+      "配置（可能用 argparse）",
+      "测试"
+    ],
+    "level": "L1",
+    "l1_ok": true,
+    "sid": "D03-024",
+    "url": "https://github.com/andrewlai61616/NPSR",
+    "owner": "andrewlai61616",
+    "repo": "NPSR",
+    "commit": "a2d3a1ee0f54fd9d03b1d3e1734b47121d68b053",
+    "path": "code/D03-024_andrewlai61616_NPSR_en",
+    "official_evidence": "疑似作者（仓库名含作者姓氏）"
+  },
+  "D03-025": {
+    "license_file": "LICENSE",
+    "license_name": "mit license",
+    "readme": [
+      "readme.md"
+    ],
+    "entries": [
+      "main.py",
+      "metrics/vus/analysis/robustness_eval.py"
+    ],
+    "configs": [],
+    "deps": [
+      "requirements.txt"
+    ],
+    "tests": [],
+    "notebooks": [],
+    "n_files": 38,
+    "truncated_listing": false,
+    "has_gitmodules": false,
+    "has_lfs_pointers": false,
+    "code_kind": "C",
+    "missing": [
+      "配置（可能用 argparse）",
+      "测试"
+    ],
+    "level": "L1",
+    "l1_ok": true,
+    "sid": "D03-025",
+    "url": "https://github.com/jk-sounds/ScatterAD",
+    "owner": "jk-sounds",
+    "repo": "ScatterAD",
+    "commit": "7572fa954468e46c598badf1c9cfaf6c1835c4cb",
+    "path": "code/D03-025_jk-sounds_ScatterAD_en",
+    "official_evidence": "未核实官方归属（仅仓库存在）"
+  },
+  "D03-026": {
+    "sid": "D03-026",
+    "code_kind": "D",
+    "level": "",
+    "urls": [],
+    "note": "未在摘要/评论/PDF 首页发现代码链接；未声称已检索穷尽第三方复现"
+  },
+  "D03-027": {
+    "sid": "D03-027",
+    "code_kind": "D",
+    "level": "",
+    "urls": [],
+    "note": "未在摘要/评论/PDF 首页发现代码链接；未声称已检索穷尽第三方复现"
+  },
+  "D03-028": {
+    "license_file": "",
+    "license_name": "未发现许可证（不标为可自由复用）",
+    "readme": [
+      "readme.md"
+    ],
+    "entries": [
+      "run.py"
+    ],
+    "configs": [
+      "configs/smd/model_configs_0.json",
+      "configs/smd/train_configs.json",
+      "configs/psm/model_configs_0.json",
+      "configs/psm/train_configs.json",
+      "configs/msl/model_configs_0.json",
+      "configs/msl/train_configs.json",
+      "configs/swat/model_configs_0.json",
+      "configs/swat/train_configs.json",
+      "configs/swan/model_configs_0.json",
+      "configs/swan/train_configs.json",
+      "configs/smap/model_configs_0.json",
+      "configs/smap/train_configs.json"
+    ],
+    "deps": [
+      "requirements.txt"
+    ],
+    "tests": [
+      "scripts/test/smd.sh",
+      "scripts/test/swat.sh",
+      "scripts/test/ucr.sh",
+      "scripts/test/gecco.sh",
+      "scripts/test/swan.sh",
+      "scripts/test/msl.sh",
+      "scripts/test/smap.sh",
+      "scripts/test/psm.sh"
+    ],
+    "notebooks": [],
+    "n_files": 123,
+    "truncated_listing": false,
+    "has_gitmodules": false,
+    "has_lfs_pointers": false,
+    "code_kind": "A",
+    "missing": [],
+    "level": "L1",
+    "l1_ok": true,
+    "sid": "D03-028",
+    "url": "https://github.com/decisionintelligence/CrossAD",
+    "owner": "decisionintelligence",
+    "repo": "CrossAD",
+    "commit": "ff0fb2d41291b76452898910312dd38ed3389bf3",
+    "path": "code/D03-028_decisionintelligence_CrossAD_en",
+    "official_evidence": "疑似作者（仓库名含作者姓氏）"
+  },
+  "D03-029": {
+    "sid": "D03-029",
+    "code_kind": "D",
+    "level": "",
+    "urls": [],
+    "note": "未在摘要/评论/PDF 首页发现代码链接；未声称已检索穷尽第三方复现"
+  },
+  "D03-030": {
+    "sid": "D03-030",
+    "code_kind": "D",
+    "level": "",
+    "urls": [],
+    "note": "未在摘要/评论/PDF 首页发现代码链接；未声称已检索穷尽第三方复现"
+  },
+  "D03-031": {
+    "sid": "D03-031",
+    "code_kind": "D",
+    "level": "",
+    "urls": [],
+    "note": "未在摘要/评论/PDF 首页发现代码链接；未声称已检索穷尽第三方复现"
+  },
+  "D03-032": {
+    "sid": "D03-032",
+    "code_kind": "D",
+    "level": "",
+    "urls": [],
+    "note": "未在摘要/评论/PDF 首页发现代码链接；未声称已检索穷尽第三方复现"
+  },
+  "D03-033": {
+    "sid": "D03-033",
+    "code_kind": "D",
+    "level": "",
+    "urls": [],
+    "note": "未在摘要/评论/PDF 首页发现代码链接；未声称已检索穷尽第三方复现"
+  },
+  "D03-034": {
+    "license_file": "",
+    "license_name": "未发现许可证（不标为可自由复用）",
+    "readme": [
+      "readme.md"
+    ],
+    "entries": [
+      "main.py",
+      "run.sh"
+    ],
+    "configs": [],
+    "deps": [
+      "requirements.txt"
+    ],
+    "tests": [
+      "processed/mba/test.npy"
+    ],
+    "notebooks": [],
+    "n_files": 289,
+    "truncated_listing": false,
+    "has_gitmodules": false,
+    "has_lfs_pointers": false,
+    "code_kind": "C",
+    "missing": [
+      "配置（可能用 argparse）"
+    ],
+    "level": "L1",
+    "l1_ok": true,
+    "sid": "D03-034",
+    "url": "https://github.com/CSUFUNLAB/RTdetector",
+    "owner": "CSUFUNLAB",
+    "repo": "RTdetector",
+    "commit": "fc7394168b338c84c6d614bb86ee5e28b0773cd3",
+    "path": "code/D03-034_CSUFUNLAB_RTdetector_en",
+    "official_evidence": "未核实官方归属（仅仓库存在）"
+  },
+  "D03-035": {
+    "sid": "D03-035",
+    "code_kind": "D",
+    "level": "",
+    "urls": [],
+    "note": "未在摘要/评论/PDF 首页发现代码链接；未声称已检索穷尽第三方复现"
+  },
+  "D03-036": {
+    "sid": "D03-036",
+    "code_kind": "D",
+    "level": "",
+    "urls": [
+      "https://github.com/decisionintelligence/FlowFuse"
+    ],
+    "note": "clone 失败 Cloning into '/root/recent_top_conference_research/code/D03-036_decisionintelligence_FlowFuse_en'...\nfatal: could not read Username for 'https://github.com': terminal prompts disab",
+    "tried": "https://github.com/decisionintelligence/FlowFuse"
+  },
+  "D03-037": {
+    "license_file": "",
+    "license_name": "未发现许可证（不标为可自由复用）",
+    "readme": [
+      "readme.md"
+    ],
+    "entries": [
+      "main.py"
+    ],
+    "configs": [],
+    "deps": [],
+    "tests": [],
+    "notebooks": [],
+    "n_files": 13,
+    "truncated_listing": false,
+    "has_gitmodules": false,
+    "has_lfs_pointers": false,
+    "code_kind": "C",
+    "missing": [
+      "依赖声明",
+      "配置（可能用 argparse）",
+      "测试"
+    ],
+    "level": "L0",
+    "l1_ok": false,
+    "sid": "D03-037",
+    "url": "https://github.com/dearlexie1128/Graph-MoE",
+    "owner": "dearlexie1128",
+    "repo": "Graph-MoE",
+    "commit": "5f52721005089f7230d9fae79800e531704bd2e9",
+    "path": "code/D03-037_dearlexie1128_Graph-MoE_en",
+    "official_evidence": "未核实官方归属（仅仓库存在）"
+  },
+  "D03-038": {
+    "sid": "D03-038",
+    "code_kind": "D",
+    "level": "",
+    "urls": [],
+    "note": "未在摘要/评论/PDF 首页发现代码链接；未声称已检索穷尽第三方复现"
+  },
+  "D03-039": {
+    "license_file": "",
+    "license_name": "未发现许可证（不标为可自由复用）",
+    "readme": [
+      "readme.md"
+    ],
+    "entries": [
+      "ts_benchmark/baselines/self_impl/anomaly_trans/test.py"
+    ],
+    "configs": [
+      "config/unfixed_detect_score_multi_config.json",
+      "config/fixed_detect_label_config.json",
+      "config/fixed_detect_score_config.json",
+      "config/all_detect_label_config.json",
+      "config/unfixed_detect_label_config.json",
+      "config/unfixed_detect_score_config.json",
+      "config/all_detect_score_config.json",
+      "config/unfixed_detect_label_multi_config.json"
+    ],
+    "deps": [
+      "requirements.txt"
+    ],
+    "tests": [
+      "ts_benchmark/baselines/self_impl/anomaly_trans/test.py",
+      "ts_benchmark/baselines/tods/third_party/detection_algorithm/core/test_collectivebase.py",
+      "ts_benchmark/baselines/tods/third_party/tods/detection_algorithm/core/test_collectivebase.py",
+      "ts_benchmark/baselines/tods/third_party/tods/sk_interface/test/detection_algorithm/test_ski_cblof.py",
+      "ts_benchmark/baselines/tods/third_party/tods/sk_interface/test/detection_algorithm/test_ski_isolationforest.py",
+      "ts_benchmark/baselines/tods/third_party/tods/sk_interface/test/detection_algorithm/test_ski_cof.py",
+      "ts_benchmark/baselines/tods/third_party/tods/sk_interface/test/detection_algorithm/run_tests.py",
+      "ts_benchmark/baselines/tods/third_party/tods/sk_interface/test/detection_algorithm/test_ski_variationalautoencoder.py"
+    ],
+    "notebooks": [],
+    "n_files": 2225,
+    "truncated_listing": false,
+    "has_gitmodules": false,
+    "has_lfs_pointers": false,
+    "code_kind": "A",
+    "missing": [],
+    "level": "L1",
+    "l1_ok": true,
+    "sid": "D03-039",
+    "url": "https://github.com/decisionintelligence/CATCH",
+    "owner": "decisionintelligence",
+    "repo": "CATCH",
+    "commit": "3647c69be5eb56649b072596cf89098e689e20c3",
+    "path": "code/D03-039_decisionintelligence_CATCH_en",
+    "official_evidence": "疑似作者（仓库名含作者姓氏）"
+  }
+}

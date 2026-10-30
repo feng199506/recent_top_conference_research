@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="zh-CN"><head><meta charset="utf-8"><title>01 高斯过程、概率机器学习与不确定性</title>
+<style>body{font-family:"Microsoft YaHei","PingFang SC","Noto Sans CJK SC",sans-serif;max-width:1200px;margin:2em auto;
+padding:0 1em;line-height:1.6;color:#222}table{border-collapse:collapse;margin:1em 0;font-size:14px}th,td{border:1px solid #ccc;
+padding:4px 8px;vertical-align:top}th{background:#f3f3f3}code{background:#f5f5f5;padding:0 3px}pre{background:#f5f5f5;padding:8px;
+overflow:auto}a{color:#0645ad}.muted{color:#888}.warn{color:#a15c00}.nav{font-size:14px;margin-bottom:1em}</style>
+</head><body>
+<div class="nav"><a href="../../index_cn.html">← 离线首页 index_cn.html</a></div>
+<h1>01 高斯过程、概率机器学习与不确定性</h1>
+<p>检索日 2026-10-30。窗口 2021-10-30 至 2026-10-30，按正式会议发表日期判断。
+本方向只收主会研究论文；AISTATS/UAI 等补充会议单独标注，不与 ICML/NeurIPS/ICLR/COLT 混称同一排名。</p>
+<ul><li>已下载并核验全文：<strong>110</strong> 篇（目标约 100，参考 90–120）</li><li>新下载 110，已有复用 0</li><li>有可获取代码（A/B/C）49 篇（44.5%）；官方完整实现（A）9 篇</li><li>本轮代码核验最高到 L1，<strong>不</strong>声称运行验证通过或已复现</li></ul>
+<h2>年份</h2>
+<table><thead><tr><th>年份</th><th>篇数</th></tr></thead><tbody><tr><td>2022</td><td>11</td></tr><tr><td>2023</td><td>26</td></tr><tr><td>2024</td><td>26</td></tr><tr><td>2025</td><td>27</td></tr><tr><td>2026</td><td>20</td></tr></tbody></table>
+<h2>会议与轨道</h2>
+<table><thead><tr><th>会议</th><th>年份</th><th>轨道计数</th></tr></thead><tbody><tr><td>AISTATS</td><td>2022</td><td>3</td></tr><tr><td>AISTATS</td><td>2023</td><td>4</td></tr><tr><td>AISTATS</td><td>2024</td><td>2</td></tr><tr><td>AISTATS</td><td>2025</td><td>4</td></tr><tr><td>AISTATS</td><td>2026</td><td>3</td></tr><tr><td>COLT</td><td>2022</td><td>1</td></tr><tr><td>COLT</td><td>2023</td><td>1</td></tr><tr><td>COLT</td><td>2024</td><td>2</td></tr><tr><td>ICLR</td><td>2022</td><td>1</td></tr><tr><td>ICLR</td><td>2023</td><td>3</td></tr><tr><td>ICLR</td><td>2024</td><td>5</td></tr><tr><td>ICLR</td><td>2025</td><td>8</td></tr><tr><td>ICLR</td><td>2026</td><td>5</td></tr><tr><td>ICML</td><td>2022</td><td>3</td></tr><tr><td>ICML</td><td>2023</td><td>7</td></tr><tr><td>ICML</td><td>2024</td><td>7</td></tr><tr><td>ICML</td><td>2025</td><td>6</td></tr><tr><td>ICML</td><td>2026</td><td>7</td></tr><tr><td>NeurIPS</td><td>2022</td><td>3</td></tr><tr><td>NeurIPS</td><td>2023</td><td>10</td></tr><tr><td>NeurIPS</td><td>2024</td><td>7</td></tr><tr><td>NeurIPS</td><td>2025</td><td>6</td></tr><tr><td>UAI</td><td>2023</td><td>1</td></tr><tr><td>UAI</td><td>2024</td><td>3</td></tr><tr><td>UAI</td><td>2025</td><td>3</td></tr><tr><td>UAI</td><td>2026</td><td>5</td></tr></tbody></table>
+<p>轨道合计：</p>
+<ul><li>main: 110</li></ul>
+<h2>代码可用性</h2>
+<table><thead><tr><th>类别</th><th>含义</th><th>篇数</th></tr></thead><tbody><tr><td>A</td><td>作者官方完整实现（静态）</td><td>9</td></tr><tr><td>B</td><td>作者官方部分实现</td><td>13</td></tr><tr><td>C</td><td>仅第三方复现</td><td>27</td></tr><tr><td>D</td><td>无代码、空仓或未找到</td><td>61</td></tr></tbody></table>
+<p>筛选目标是每方向至少 70% 已下载论文有官方可获取代码。本方向实际 A+B 比例 20.0%（不把第三方算进官方代码，也不把目标写成已达成）。</p>
+<h2>优先阅读与复现（10 篇）</h2>
+<p>只根据与本方向的直接相关性和代码完整度排序，不是对方法优劣的判断。前置条件见代码列。</p>
+<h3>1. A Study of Bayesian Neural Network Surrogates for Bayesian Optimization（<a href="../../papers/2024_Li_StudyBayesianNeuralNetworkSurrogatesBayesianOptimization_en.pdf">全文 PDF</a> · <a href="../../code/D01-002_yucenli_bnn-bo_en/">本地代码</a>）</h3>
+<ul><li>会议：ICLR 2024（main）</li><li>关系：直接研究目标任务；贝叶斯神经网络；Laplace 近似；深度核；HMC/NUTS；深度集成；贝叶斯优化；线性化 Laplace；核方法</li><li>代码：类别 A，级别 L1；许可证 未发现许可证（不标为可自由复用）</li><li>理由：直接研究目标任务。命中：贝叶斯神经网络、Laplace 近似、深度核、HMC/NUTS、深度集成、贝叶斯优化、线性化 Laplace、核方法。会议 ICLR 2024 main 轨道。</li><li>前置条件：静态已见入口/配置/依赖，未运行。大型数据、权重未下载；本轮未运行。</li></ul>
+<h3>2. Self-Attention through Kernel-Eigen Pair Sparse Variational Gaussian Processes（<a href="../../papers/2024_Chen_SelfAttentionKernelEigenPairSparseVariationalGaussian_en.pdf">全文 PDF</a> · <a href="../../code/D01-001_yingyichen-cyy_KEP-SVGP_en/">本地代码</a>）</h3>
+<ul><li>会议：ICML 2024（main）</li><li>关系：直接研究目标任务；高斯过程；GP 方法；变分 GP；稀疏 GP；不确定性估计；不确定性感知；变分推断</li><li>代码：类别 A，级别 L1；许可证 未发现许可证（不标为可自由复用）</li><li>理由：直接研究目标任务。命中：高斯过程、GP 方法、变分 GP、稀疏 GP、不确定性估计、不确定性感知、变分推断。会议 ICML 2024 main 轨道。</li><li>前置条件：配置（可能用 argparse）。大型数据、权重未下载；本轮未运行。</li></ul>
+<h3>3. Weakly-Supervised Residual Evidential Learning for Multi-Instance Uncertainty Estimation（<a href="../../papers/2024_Liu_WeaklySupervisedResidualEvidentialLearningMultiInstanceUncertainty_en.pdf">全文 PDF</a> · <a href="../../code/D01-039_liupei101_MIREL_en/">本地代码</a>）</h3>
+<ul><li>会议：ICML 2024（main）</li><li>关系：可迁移的基础方法；预测不确定性；证据深度学习；不确定性估计；预测分布</li><li>代码：类别 A，级别 L1；许可证 mit license</li><li>理由：可迁移的基础方法。命中：预测不确定性、证据深度学习、不确定性估计、预测分布。会议 ICML 2024 main 轨道。</li><li>前置条件：依赖声明; 测试。大型数据、权重未下载；本轮未运行。</li></ul>
+<h3>4. Label-wise Aleatoric and Epistemic Uncertainty Quantification（<a href="../../papers/2024_Sale_LabelWiseAleatoricEpistemicUncertaintyQuantification_en.pdf">全文 PDF</a> · <a href="../../code/D01-071_YSale_label-uq_en/">本地代码</a>）</h3>
+<ul><li>会议：UAI 2024（main）</li><li>关系：直接研究目标任务；不确定性量化；认知不确定性；偶然不确定性</li><li>代码：类别 A，级别 L1；许可证 有 LICENSE 文件但未识别 SPDX/常用名称</li><li>理由：直接研究目标任务。命中：不确定性量化、认知不确定性、偶然不确定性。会议 UAI 2024 main 轨道。</li><li>前置条件：依赖声明; 配置（可能用 argparse）; 测试。大型数据、权重未下载；本轮未运行。</li></ul>
+<h3>5. Offline Bayesian Aleatoric and Epistemic Uncertainty Quantification and Posterior Value Optimisation in Finite-State MDPs（<a href="../../papers/2024_Valdettaro_OfflineBayesianAleatoricEpistemicUncertaintyQuantificationPosteriorValue_en.pdf">全文 PDF</a> · <a href="../../code/D01-072_filippovaldettaro_finite-state-mdps_en/">本地代码</a>）</h3>
+<ul><li>会议：UAI 2024（main）</li><li>关系：直接研究目标任务；不确定性量化；认知不确定性；偶然不确定性</li><li>代码：类别 A，级别 L1；许可证 未发现许可证（不标为可自由复用）</li><li>理由：直接研究目标任务。命中：不确定性量化、认知不确定性、偶然不确定性。会议 UAI 2024 main 轨道。</li><li>前置条件：依赖声明; 配置（可能用 argparse）; 测试。大型数据、权重未下载；本轮未运行。</li></ul>
+<h3>6. Meta-learning Adaptive Deep Kernel Gaussian Processes for Molecular Property Prediction（<a href="../../papers/2023_Chen_MetaLearningAdaptiveDeepKernelGaussianProcessesMolecular_en.pdf">全文 PDF</a> · <a href="../../code/D01-055_Wenlin-Chen_ADKF-IFT_en/">本地代码</a>）</h3>
+<ul><li>会议：ICLR 2023（main）</li><li>关系：直接研究目标任务；高斯过程；深度核；核方法</li><li>代码：类别 A，级别 L1；许可证 mit license</li><li>理由：直接研究目标任务。命中：高斯过程、深度核、核方法。会议 ICLR 2023 main 轨道。</li><li>前置条件：静态已见入口/配置/依赖，未运行。大型数据、权重未下载；本轮未运行。</li></ul>
+<h3>7. Physics-Informed Variational State-Space Gaussian Processes（<a href="../../papers/2024_Hamelijnck_PhysicsInformedVariationalStateSpaceGaussianProcesses_en.pdf">全文 PDF</a> · <a href="../../code/D01-090_ohamelijnck_physs_gp_en/">本地代码</a>）</h3>
+<ul><li>会议：NeurIPS 2024（main）</li><li>关系：直接研究目标任务；高斯过程；状态空间 GP</li><li>代码：类别 A，级别 L1；许可证 有 LICENSE 文件但未识别 SPDX/常用名称</li><li>理由：直接研究目标任务。命中：高斯过程、状态空间 GP。会议 NeurIPS 2024 main 轨道。</li><li>前置条件：配置（可能用 argparse）; 测试。大型数据、权重未下载；本轮未运行。</li></ul>
+<h3>8. Improving Linear System Solvers for Hyperparameter Optimisation in Iterative Gaussian Processes（<a href="../../papers/2024_Lin_ImprovingLinearSystemSolversHyperparameterOptimisationIterativeGaussian_en.pdf">全文 PDF</a> · <a href="../../code/D01-084_jandylin_iterative-gaussian-processes_en/">本地代码</a>）</h3>
+<ul><li>会议：NeurIPS 2024（main）</li><li>关系：直接研究目标任务；高斯过程；迭代 GP</li><li>代码：类别 A，级别 L1；许可证 mit license</li><li>理由：直接研究目标任务。命中：高斯过程、迭代 GP。会议 NeurIPS 2024 main 轨道。</li><li>前置条件：依赖声明; 测试。大型数据、权重未下载；本轮未运行。</li></ul>
+<h3>9. Improving TabPFN's Synthetic Data Generation by Integrating Causal Structure（<a href="../../papers/2026_Tugnoli_ImprovingTabpfnSSyntheticDataGenerationIntegratingCausal_en.pdf">全文 PDF</a> · <a href="../../code/D01-103_DavideTugnoli_tabpfn-causal-synthetic_en/">本地代码</a>）</h3>
+<ul><li>会议：UAI 2026（main）</li><li>关系：直接研究目标任务；PFN/TabPFN</li><li>代码：类别 A，级别 L1；许可证 apache license</li><li>理由：直接研究目标任务。命中：PFN/TabPFN。会议 UAI 2026 main 轨道。</li><li>前置条件：静态已见入口/配置/依赖，未运行。大型数据、权重未下载；本轮未运行。</li></ul>
+<h3>10. PFNs4BO: In-Context Learning for Bayesian Optimization（<a href="../../papers/2023_Mller_Pfns4boContextLearningBayesianOptimization_en.pdf">全文 PDF</a> · <a href="../../code/D01-003_automl_PFNs4BO_en/">本地代码</a>）</h3>
+<ul><li>会议：ICML 2023（main）</li><li>关系：直接研究目标任务；Neural Process；贝叶斯神经网络；PFN/TabPFN；贝叶斯优化；预测分布；后验预测；上下文贝叶斯推断</li><li>代码：类别 C，级别 L1；许可证 apache license</li><li>理由：直接研究目标任务。命中：Neural Process、贝叶斯神经网络、PFN/TabPFN、贝叶斯优化、预测分布、后验预测、上下文贝叶斯推断。会议 ICML 2023 main 轨道。</li><li>前置条件：测试; 官方归属未证实，按第三方实现登记。大型数据、权重未下载；本轮未运行。</li></ul>
+<h2>对本任务的用途</h2>
+<p>对照现有高斯过程文献库，补充近五年主会中的 GP、共形预测、贝叶斯神经网络与校准方法，以及可静态核验的官方实现入口。</p>
+<h2>缺口</h2>
+<ul><li>未运行训练或评测；缺数据、权重和硬件验证。</li><li>付费墙会议论文若无合法公开全文则未计入。</li><li>边界日期条目若精度只有年份，未计入或在窗口说明中标注。</li></ul>
+<p>续跑：<code>python3 -I scripts/run_en.py domain 01</code>（已完成项会跳过）。</p>
+<p>生成时间 2026-10-30 01:41 UTC</p>
+</body></html>

@@ -1,0 +1,1446 @@
+{
+  "D06-001": {
+    "license_file": "LICENSE",
+    "license_name": "apache license",
+    "readme": [
+      "readme.md",
+      "benchmarks/readme.md",
+      "benchmarks/readme_autotuner_accuracy.md",
+      "benchmarks/results/readme_gdn_sm120_cute.md",
+      "examples/pytorch/readme.md"
+    ],
+    "entries": [
+      "benchmarks/bench_cake_rmsnorm_train.py",
+      "benchmarks/bench_cake_dsa_train.py",
+      "benchmarks/bench_cake_causal_conv1d_train.py",
+      "benchmarks/bench_cake_kda_train.py",
+      "benchmarks/bench_cake_gqa_train.py",
+      "benchmarks/bench_cake_rmsnorm_silu_gate_train.py",
+      "flashinfer/cake_mhc_train.py",
+      "flashinfer/cake_causal_conv1d_train.py",
+      "flashinfer/gqa_train.py",
+      "flashinfer/cake_rmsnorm_train.py",
+      "flashinfer/cake_rmsnorm_silu_gate_train.py",
+      "flashinfer/kda_train.py"
+    ],
+    "configs": [
+      ".pre-commit-config.yaml"
+    ],
+    "deps": [
+      "requirements.txt",
+      "pyproject.toml",
+      "flashinfer-jit-cache-provider/pyproject.toml",
+      "flashinfer-jit-cache-provider/setup.py",
+      "benchmarks/moe_ep/requirements.txt"
+    ],
+    "tests": [
+      "docker/test_ci_image.py",
+      "scripts/test_run_status.py",
+      "scripts/test_run_status.sh",
+      "scripts/test_utils.sh",
+      "scripts/test_path_scope.sh",
+      "scripts/test_sharding/workers.py",
+      "scripts/test_sharding/summary.py",
+      "scripts/test_sharding/processes.py"
+    ],
+    "notebooks": [],
+    "n_files": 8000,
+    "truncated_listing": true,
+    "has_gitmodules": true,
+    "has_lfs_pointers": false,
+    "code_kind": "C",
+    "missing": [],
+    "level": "L1",
+    "l1_ok": true,
+    "sid": "D06-001",
+    "url": "https://github.com/flashinfer-ai/flashinfer",
+    "owner": "flashinfer-ai",
+    "repo": "flashinfer",
+    "commit": "d5e3324f41f85817fa1f1b9cf49299937168f14d",
+    "path": "code/D06-001_flashinfer-ai_flashinfer_en",
+    "official_evidence": "未核实官方归属（仅仓库存在）"
+  },
+  "D06-002": {
+    "license_file": "LICENSE",
+    "license_name": "mit license",
+    "readme": [
+      "readme.md"
+    ],
+    "entries": [
+      "mixllm/evaluation/eval.py",
+      "mixllm/evaluation/run.sh"
+    ],
+    "configs": [
+      ".pre-commit-config.yaml"
+    ],
+    "deps": [
+      "requirements.txt",
+      "setup.py"
+    ],
+    "tests": [
+      "mixllm/kernels/cutlass_extension/test/mix_mma_multistage.cu",
+      "mixllm/kernels/cutlass_extension/test/cutlass_unit_test.h",
+      "mixllm/kernels/cutlass_extension/test/mix_mma_multistage_search.cu",
+      "mixllm/kernels/cutlass_extension/test/makefile",
+      "mixllm/kernels/cutlass_extension/test/mma_multistage_testbed.h",
+      "mixllm/test/test_linear_module_e2e.py",
+      "mixllm/test/test_quantize.py",
+      "mixllm/test/test_kernel_no_cudagraph.py"
+    ],
+    "notebooks": [],
+    "n_files": 65,
+    "truncated_listing": false,
+    "has_gitmodules": true,
+    "has_lfs_pointers": false,
+    "code_kind": "A",
+    "missing": [],
+    "level": "L1",
+    "l1_ok": true,
+    "sid": "D06-002",
+    "url": "https://github.com/microsoft/MixLLM",
+    "owner": "microsoft",
+    "repo": "MixLLM",
+    "commit": "00263510f9760d3a1d958a388e0e7c25961a7d59",
+    "path": "code/D06-002_microsoft_MixLLM_en",
+    "official_evidence": "疑似官方机构/实验室组织"
+  },
+  "D06-003": {
+    "license_file": "LICENSE",
+    "license_name": "apache license",
+    "readme": [
+      "readme.md",
+      "kernels/csrc/fused_attention/fused_attention_pure_dense/readme.md"
+    ],
+    "entries": [
+      "eval/longbench/eval.py"
+    ],
+    "configs": [
+      "attn_patterns/mistral-7b-instruct-v0.3/config.json",
+      "attn_patterns/mistral-7b-instruct-v0.3/lr=0.02-reg=0.05-ctx=1000_32000-multi_passkey10/config.json",
+      "attn_patterns/llama-2-7b-32k-instruct/config.json",
+      "attn_patterns/llama-2-7b-32k-instruct/lr=0.02-reg=0.05-ctx=1000_32000-multi_passkey10/config.json",
+      "attn_patterns/meta-llama-3.1-8b-instruct/config.json",
+      "attn_patterns/meta-llama-3.1-8b-instruct/lr=0.02-reg=0.05-ctx=1000_128000-multi_passkey10/config.json",
+      "attn_patterns/mixtral-8x7b-instruct-v0.1/config.json",
+      "attn_patterns/mixtral-8x7b-instruct-v0.1/lr=0.02-reg=0.05-ctx=1000_32000-multi_passkey10/config.json",
+      "attn_patterns/llama-3-8b-instruct-gradient-1048k/config.json",
+      "attn_patterns/llama-3-8b-instruct-gradient-1048k/lr=0.02-reg=0.05-ctx=1000_32000-multi_passkey10/config.json",
+      "attn_patterns/mistral-7b-instruct-v0.2/config.json",
+      "attn_patterns/mistral-7b-instruct-v0.2/lr=0.02-reg=0.05-ctx=1000_32000-multi_passkey10/config.json"
+    ],
+    "deps": [
+      "pyproject.toml",
+      "kernels/setup.py"
+    ],
+    "tests": [
+      "unit_tests/test_vllm_full_net_sampling.py"
+    ],
+    "notebooks": [],
+    "n_files": 252,
+    "truncated_listing": false,
+    "has_gitmodules": false,
+    "has_lfs_pointers": false,
+    "code_kind": "A",
+    "missing": [],
+    "level": "L1",
+    "l1_ok": true,
+    "sid": "D06-003",
+    "url": "https://github.com/mit-han-lab/omniserve",
+    "owner": "mit-han-lab",
+    "repo": "omniserve",
+    "commit": "02b2925aa6fa3b92b06316a1524b7f38922cd9c8",
+    "path": "code/D06-003_mit-han-lab_omniserve_en",
+    "official_evidence": "疑似作者（仓库名含作者姓氏）"
+  },
+  "D06-004": {
+    "license_file": "LICENSE",
+    "license_name": "apache license",
+    "readme": [
+      "readme.md",
+      ".buildkite/performance-benchmarks/readme.md",
+      ".buildkite/scripts/ci-otel/readme.md",
+      "recipes/readme.md",
+      "tools/recipes/readme.md"
+    ],
+    "entries": [
+      "examples/disaggregated/example_connector/run.sh",
+      "examples/disaggregated/kv_load_failure_recovery_offline/run.sh",
+      "tests/evals/gsm8k/gsm8k_eval.py",
+      "tests/evals/mrcr/mrcr_eval.py",
+      "tests/evals/gpt_oss/run_gpqa_eval.py",
+      "vllm/entrypoints/cli/main.py",
+      "vllm/entrypoints/cli/benchmark/main.py",
+      "vllm/benchmarks/forward/main.py"
+    ],
+    "configs": [
+      ".pre-commit-config.yaml",
+      ".buildkite/ci_config_rocm.yaml",
+      ".buildkite/ci_config.yaml",
+      ".buildkite/ci_config_intel.yaml",
+      ".buildkite/lm-eval-harness/configs/meta-llama-3-70b-instruct.yaml",
+      ".buildkite/lm-eval-harness/configs/meta-llama-3-70b-instruct-fbgemm-nonuniform.yaml",
+      ".buildkite/lm-eval-harness/configs/mixtral-8x22b-instruct-v0.1-fp8-dynamic.yaml",
+      ".buildkite/lm-eval-harness/configs/qwen2-57b-a14-instruct.yaml",
+      ".buildkite/lm-eval-harness/configs/qwen2.5-vl-3b-instruct-fp8-dynamic.yaml",
+      ".buildkite/lm-eval-harness/configs/meta-llama-3.2-1b-instruct-fp8-compressed-tensors.yaml",
+      ".buildkite/lm-eval-harness/configs/minitron-4b-base-fp8.yaml",
+      ".buildkite/lm-eval-harness/configs/qwen1.5-moe-w4a16-compressed-tensors.yaml"
+    ],
+    "deps": [
+      "pyproject.toml",
+      "setup.py",
+      "tools/recipes/requirements.txt",
+      "benchmarks/kernels/requirements.txt",
+      "benchmarks/multi_turn/requirements.txt",
+      "examples/features/structured_outputs/pyproject.toml",
+      "rust/cargo.toml",
+      "rust/src/bench/cargo.toml"
+    ],
+    "tests": [
+      ".buildkite/test-amd.yaml",
+      ".buildkite/test-pipeline.yaml",
+      ".buildkite/lm-eval-harness/test_lm_eval_correctness.py",
+      ".buildkite/performance-benchmarks/tests/throughput-tests-arm64-cpu.json",
+      ".buildkite/performance-benchmarks/tests/serving-tests-cpu-text.json",
+      ".buildkite/performance-benchmarks/tests/throughput-tests-hpu.json",
+      ".buildkite/performance-benchmarks/tests/throughput-tests-cpu.json",
+      ".buildkite/performance-benchmarks/tests/serving-tests-cpu.json"
+    ],
+    "notebooks": [],
+    "n_files": 8000,
+    "truncated_listing": true,
+    "has_gitmodules": false,
+    "has_lfs_pointers": false,
+    "code_kind": "C",
+    "missing": [],
+    "level": "L1",
+    "l1_ok": true,
+    "sid": "D06-004",
+    "url": "https://github.com/vllm-project/vllm",
+    "owner": "vllm-project",
+    "repo": "vllm",
+    "commit": "f2ba523d6706ad3051b2283ece173805e80ffd61",
+    "path": "code/D06-004_vllm-project_vllm_en",
+    "official_evidence": "未核实官方归属（仅仓库存在）"
+  },
+  "D06-005": {
+    "sid": "D06-005",
+    "code_kind": "D",
+    "level": "",
+    "urls": [],
+    "note": "未在摘要/评论/PDF 首页发现代码链接；未声称已检索穷尽第三方复现"
+  },
+  "D06-006": {
+    "license_file": "LICENSE",
+    "license_name": "mit license",
+    "readme": [
+      "readme.md",
+      "third_party_for_nest/nest-megatron-lm/megatron/core/readme.md",
+      "third_party_for_nest/nest-megatron-lm/megatron/core/readme_straggler.md",
+      "third_party_for_nest/nest-megatron-lm/megatron/core/transformer/moe/readme.md",
+      "third_party_for_nest/nest-megatron-lm/megatron/core/optimizer/cpu_offloading/readme.md"
+    ],
+    "entries": [
+      "third_party_for_nest/nest-megatron-lm/megatron/training/training.py",
+      "third_party_for_nest/sunstone/examples/weight_stationary/main.py",
+      "third_party_for_nest/sunstone/examples/simba_like/main.py",
+      "third_party_for_nest/sunstone/examples/eyeriss_like/main.py",
+      "scripts/alpa/alpa/benchmark/deepspeed/training.py",
+      "scripts/alpa/alpa/benchmark/deepspeed/patch/training.py",
+      "scripts/alpa/alpa/alpa/serve/run.py",
+      "scripts/alpa/alpa/alpa/estimator/sunstone/examples/weight_stationary/main.py",
+      "scripts/alpa/alpa/alpa/estimator/sunstone/examples/simba_like/main.py",
+      "scripts/alpa/alpa/alpa/estimator/sunstone/examples/eyeriss_like/main.py",
+      "scripts/alpa/alpa/examples/mnist/main.py",
+      "scripts/alpa/alpa/examples/mnist/train.py"
+    ],
+    "configs": [
+      "scripts/alpa/alpa/benchmark/deepspeed/ds_zero_stage_2_moe_config.json",
+      "scripts/alpa/alpa/benchmark/deepspeed/ds_zero_stage_2_config.json",
+      "scripts/alpa/alpa/benchmark/deepspeed/ds_zero_stage_3_config.json",
+      "scripts/alpa/alpa/examples/llm_serving/log_config.yaml",
+      "scripts/alpa/alpa/third_party/tensorflow-alpa/.github/bot_config.yml"
+    ],
+    "deps": [
+      "environment.yml",
+      "third_party_for_nest/nest-megatron-lm/megatron/core/requirements.txt",
+      "third_party_for_nest/sunstone/requirements.txt",
+      "scripts/alpa/environment.yml",
+      "scripts/alpa/jaxlib/setup.py",
+      "scripts/alpa/alpa/setup.py",
+      "scripts/alpa/alpa/alpa/collective/requirements.txt",
+      "scripts/alpa/alpa/examples/setup.py"
+    ],
+    "tests": [
+      "third_party_for_nest/nest-megatron-lm/megatron/legacy/mpu/tests/test_random.py",
+      "third_party_for_nest/nest-megatron-lm/megatron/legacy/mpu/tests/test_initialize.py",
+      "third_party_for_nest/nest-megatron-lm/megatron/legacy/mpu/tests/test_cross_entropy.py",
+      "third_party_for_nest/nest-megatron-lm/megatron/legacy/mpu/tests/test_data.py",
+      "third_party_for_nest/nest-megatron-lm/megatron/legacy/mpu/tests/__init__.py",
+      "third_party_for_nest/nest-megatron-lm/megatron/legacy/mpu/tests/test_layers.py",
+      "third_party_for_nest/nest-megatron-lm/megatron/legacy/mpu/tests/commons.py",
+      "third_party_for_nest/nest-megatron-lm/megatron/legacy/fused_kernels/tests/test_fused_kernels.py"
+    ],
+    "notebooks": [
+      "scripts/alpa/alpa/third_party/tensorflow-alpa/tensorflow/compiler/xla/g3doc/tutorials/autoclustering_xla.ipynb",
+      "scripts/alpa/alpa/third_party/tensorflow-alpa/tensorflow/compiler/xla/g3doc/tutorials/jit_compile.ipynb"
+    ],
+    "n_files": 8000,
+    "truncated_listing": true,
+    "has_gitmodules": false,
+    "has_lfs_pointers": true,
+    "code_kind": "C",
+    "missing": [],
+    "level": "L1",
+    "l1_ok": true,
+    "sid": "D06-006",
+    "url": "https://github.com/scai-tech/Nest",
+    "owner": "scai-tech",
+    "repo": "Nest",
+    "commit": "3e163ad43d17b24ff6c7741cbcc9bdd5a595871d",
+    "path": "code/D06-006_scai-tech_Nest_en",
+    "official_evidence": "未核实官方归属（仅仓库存在）"
+  },
+  "D06-007": {
+    "sid": "D06-007",
+    "code_kind": "D",
+    "level": "",
+    "urls": [],
+    "note": "未在摘要/评论/PDF 首页发现代码链接；未声称已检索穷尽第三方复现"
+  },
+  "D06-008": {
+    "license_file": "LICENSE",
+    "license_name": "apache license",
+    "readme": [
+      "readme.md",
+      "figures/readme.md"
+    ],
+    "entries": [],
+    "configs": [
+      "models_config.json",
+      "vllm_logging_config.json"
+    ],
+    "deps": [
+      "requirements.txt"
+    ],
+    "tests": [
+      "experiments/a100/predictor_info/test_data.json",
+      "experiments/node5/predictor_info/test_data.json",
+      "experiments/node7/predictor_info/test_data.json",
+      "figures/figure-rest/predictor_info/test_data.json"
+    ],
+    "notebooks": [
+      "experiments/t1/visualize.ipynb",
+      "experiments/t2/visualize.ipynb",
+      "experiments/a100/visualize.ipynb",
+      "experiments/node5/visualize.ipynb",
+      "experiments/node7/visualize.ipynb",
+      "experiments/node7/custom_figures.ipynb",
+      "experiments/node7/examples/cpu_measurements/analyze_cpu_usage.ipynb"
+    ],
+    "n_files": 3252,
+    "truncated_listing": false,
+    "has_gitmodules": false,
+    "has_lfs_pointers": false,
+    "code_kind": "C",
+    "missing": [
+      "仅部分实现可见"
+    ],
+    "level": "L0",
+    "l1_ok": false,
+    "sid": "D06-008",
+    "url": "https://github.com/upb-cn/vllm-startup-profiler",
+    "owner": "upb-cn",
+    "repo": "vllm-startup-profiler",
+    "commit": "8a4a6f28a9e840185d3b1657957d4c64781988cb",
+    "path": "code/D06-008_upb-cn_vllm-startup-profiler_en",
+    "official_evidence": "未核实官方归属（仅仓库存在）"
+  },
+  "D06-009": {
+    "license_file": "LICENSE",
+    "license_name": "apache license",
+    "readme": [
+      "readme.md",
+      "examples/qwen3-asr/readme.md",
+      "examples/qwen3-tts/readme.md",
+      "crates/ztensor/readme.md",
+      "crates/ztensor-compat/readme.md"
+    ],
+    "entries": [
+      "examples/json-schema-constrained-decoding-py/main.py",
+      "examples/naive-baseline-py/main.py",
+      "examples/beam-search-py/main.py",
+      "examples/prefix-tree-kv-cache-py/main.py",
+      "examples/text-completion-py/main.py",
+      "examples/quickstart-py/main.py",
+      "examples/top-a-sampling-py/main.py",
+      "packages/python/client/src/pie_client_cli/main.py",
+      "packages/python/inferlet/src/inferlet/bindings/wit_world/exports/run.py"
+    ],
+    "configs": [
+      "crates/engine-metal/tests/fixtures/qwen4-micro/config.json",
+      ".cargo/config.toml",
+      "packages/javascript/inferlet/tsconfig.json"
+    ],
+    "deps": [
+      "cargo.toml",
+      "examples/cargo.toml",
+      "examples/repetition-penalty/cargo.toml",
+      "examples/qwen3-asr/cargo.toml",
+      "examples/tail-free-sampling/cargo.toml",
+      "examples/beam-search-js/package.json",
+      "examples/diffusion-baseline/cargo.toml",
+      "examples/naive-masked/cargo.toml"
+    ],
+    "tests": [
+      "scripts/bench/tests/test_pie_bench_config.py",
+      "crates/profile/tests/a_profile_reads_against_its_registry.rs",
+      "crates/kernels-metal/tests/kernels_metal/the_neural_engine_bridge_resolves.rs",
+      "crates/kernels-metal/tests/kernels_metal/the_ane_linear_matches_its_reference.rs",
+      "crates/kernels-metal/tests/kernels_metal/the_ane_ffn_matches_its_reference.rs",
+      "crates/kernels-metal/tests/kernels_metal/main.rs",
+      "crates/builtins/policies/test-spin/cargo.toml",
+      "crates/builtins/policies/test-spin/policy.toml"
+    ],
+    "notebooks": [],
+    "n_files": 3217,
+    "truncated_listing": false,
+    "has_gitmodules": false,
+    "has_lfs_pointers": false,
+    "code_kind": "C",
+    "missing": [],
+    "level": "L1",
+    "l1_ok": true,
+    "sid": "D06-009",
+    "url": "https://github.com/pie-project/pie",
+    "owner": "pie-project",
+    "repo": "pie",
+    "commit": "5601749edb6edd692fdf0d1ef045789a0c2fd043",
+    "path": "code/D06-009_pie-project_pie_en",
+    "official_evidence": "未核实官方归属（仅仓库存在）"
+  },
+  "D06-010": {
+    "sid": "D06-010",
+    "code_kind": "D",
+    "level": "",
+    "urls": [],
+    "note": "未在摘要/评论/PDF 首页发现代码链接；未声称已检索穷尽第三方复现"
+  },
+  "D06-011": {
+    "sid": "D06-011",
+    "code_kind": "D",
+    "level": "",
+    "urls": [],
+    "note": "未在摘要/评论/PDF 首页发现代码链接；未声称已检索穷尽第三方复现"
+  },
+  "D06-012": {
+    "sid": "D06-012",
+    "code_kind": "D",
+    "level": "",
+    "urls": [],
+    "note": "未在摘要/评论/PDF 首页发现代码链接；未声称已检索穷尽第三方复现"
+  },
+  "D06-013": {
+    "sid": "D06-013",
+    "code_kind": "D",
+    "level": "",
+    "urls": [],
+    "note": "未在摘要/评论/PDF 首页发现代码链接；未声称已检索穷尽第三方复现"
+  },
+  "D06-014": {
+    "license_file": "LICENSE",
+    "license_name": "mit license",
+    "readme": [
+      "readme.md",
+      "experiments/readme.md",
+      "experiments/crawler/configs/h200_enhanced_schedulers_v1_full/readme.md",
+      "experiments/crawler/configs/h100_enhanced_schedulers_v1_full/readme.md",
+      "stream2llm/readme.md"
+    ],
+    "entries": [
+      "stream2llm/vllm/entrypoints/cli/main.py",
+      "stream2llm/vllm/entrypoints/cli/benchmark/main.py"
+    ],
+    "configs": [
+      "experiments/anns/test_config_replay_anns.yaml",
+      "experiments/anns/quick_config_replay_anns.yaml",
+      "experiments/anns/configs/h200_enhanced_schedulers_v1_500q_delay_30/default_vllm/config_replay_anns_replay_0_5.yaml",
+      "experiments/anns/configs/h200_enhanced_schedulers_v1_500q_delay_30/lcas/config_replay_anns_replay_0_5.yaml",
+      "experiments/anns/configs/h200_enhanced_schedulers_v1_500q_delay_30/mcps/config_replay_anns_replay_0_5.yaml",
+      "experiments/anns/configs/h200_enhanced_schedulers_v1_500q_delay_30/fcfs/config_replay_anns_replay_0_5.yaml",
+      "experiments/anns/configs/h200_enhanced_schedulers_v1_full/default_vllm/config_replay_anns_replay_1.yaml",
+      "experiments/anns/configs/h200_enhanced_schedulers_v1_full/default_vllm/config_replay_anns_replay_4.yaml",
+      "experiments/anns/configs/h200_enhanced_schedulers_v1_full/default_vllm/config_replay_anns_replay_0_5.yaml",
+      "experiments/anns/configs/h200_enhanced_schedulers_v1_full/default_vllm/config_replay_anns_replay_2.yaml",
+      "experiments/anns/configs/h200_enhanced_schedulers_v1_full/lcas/config_replay_anns_replay_1.yaml",
+      "experiments/anns/configs/h200_enhanced_schedulers_v1_full/lcas/config_replay_anns_replay_4.yaml"
+    ],
+    "deps": [
+      "requirements.txt",
+      "stream2llm/pyproject.toml",
+      "stream2llm/setup.py"
+    ],
+    "tests": [
+      "experiments/anns/test_config_replay_anns.yaml",
+      "stream2llm/requirements/test.in",
+      "stream2llm/requirements/test.txt",
+      "stream2llm/vllm/test_utils.py"
+    ],
+    "notebooks": [],
+    "n_files": 1429,
+    "truncated_listing": false,
+    "has_gitmodules": true,
+    "has_lfs_pointers": false,
+    "code_kind": "C",
+    "missing": [],
+    "level": "L1",
+    "l1_ok": true,
+    "sid": "D06-014",
+    "url": "https://github.com/rajveerb/stream2llm",
+    "owner": "rajveerb",
+    "repo": "stream2llm",
+    "commit": "5e2763d51368390ec747945436c7612236258366",
+    "path": "code/D06-014_rajveerb_stream2llm_en",
+    "official_evidence": "未核实官方归属（仅仓库存在）"
+  },
+  "D06-015": {
+    "license_file": "LICENSE",
+    "license_name": "apache license",
+    "readme": [
+      "readme.md",
+      "ecoserve/benchmarks/readme.md",
+      "benchmarks/readme.md",
+      "examples/online_serving/prometheus_grafana/readme.md",
+      "examples/online_serving/chart-helm/readme.md"
+    ],
+    "entries": [
+      "vllm/entrypoints/cli/main.py"
+    ],
+    "configs": [
+      ".pre-commit-config.yaml",
+      "examples/online_serving/chart-helm/templates/configmap.yaml",
+      "vllm/model_executor/layers/fused_moe/configs/e=8,n=2048,device_name=amd_instinct_mi325x,dtype=fp8_w8a8.json",
+      "vllm/model_executor/layers/fused_moe/configs/e=16,n=1344,device_name=nvidia_h100_80gb_hbm3.json",
+      "vllm/model_executor/layers/fused_moe/configs/e=8,n=3584,device_name=nvidia_a100-sxm4-40gb.json",
+      "vllm/model_executor/layers/fused_moe/configs/e=16,n=7168,device_name=nvidia_h100_80gb_hbm3,dtype=int8_w8a16.json",
+      "vllm/model_executor/layers/fused_moe/configs/e=8,n=8192,device_name=amd_instinct_mi325x.json",
+      "vllm/model_executor/layers/fused_moe/configs/e=8,n=16384,device_name=amd_instinct_mi325x.json",
+      "vllm/model_executor/layers/fused_moe/configs/e=1,n=3072,device_name=nvidia_h100_80gb_hbm3.json",
+      "vllm/model_executor/layers/fused_moe/configs/e=1,n=3072,device_name=nvidia_a100-sxm4-80gb,dtype=int8_w8a16.json",
+      "vllm/model_executor/layers/fused_moe/configs/e=60,n=176,device_name=amd_instinct_mi300x.json",
+      "vllm/model_executor/layers/fused_moe/configs/e=8,n=2048,device_name=amd_instinct_mi300x.json"
+    ],
+    "deps": [
+      "pyproject.toml",
+      "setup.py",
+      "benchmarks/kernels/requirements.txt",
+      "tests/vllm_test_utils/setup.py",
+      "tests/plugins/vllm_add_dummy_model/setup.py",
+      "tests/plugins/vllm_add_dummy_platform/setup.py"
+    ],
+    "tests": [
+      "tests/test_embedded_commit.py",
+      "tests/test_regression.py",
+      "tests/test_sampling_params.py",
+      "tests/conftest.py",
+      "tests/test_logits_processor.py",
+      "tests/test_config.py",
+      "tests/utils.py",
+      "tests/test_logger.py"
+    ],
+    "notebooks": [],
+    "n_files": 1792,
+    "truncated_listing": false,
+    "has_gitmodules": false,
+    "has_lfs_pointers": false,
+    "code_kind": "C",
+    "missing": [],
+    "level": "L1",
+    "l1_ok": true,
+    "sid": "D06-015",
+    "url": "https://github.com/MLSysU/EcoServe",
+    "owner": "MLSysU",
+    "repo": "EcoServe",
+    "commit": "e7d7f7fe29e20c0218afac305f157dde4513de76",
+    "path": "code/D06-015_MLSysU_EcoServe_en",
+    "official_evidence": "未核实"
+  },
+  "D06-016": {
+    "sid": "D06-016",
+    "code_kind": "D",
+    "level": "",
+    "urls": [],
+    "note": "未在摘要/评论/PDF 首页发现代码链接；未声称已检索穷尽第三方复现"
+  },
+  "D06-017": {
+    "sid": "D06-017",
+    "code_kind": "D",
+    "level": "",
+    "urls": [],
+    "note": "未在摘要/评论/PDF 首页发现代码链接；未声称已检索穷尽第三方复现"
+  },
+  "D06-018": {
+    "license_file": "",
+    "license_name": "未发现许可证（不标为可自由复用）",
+    "readme": [
+      "readme.md"
+    ],
+    "entries": [],
+    "configs": [],
+    "deps": [],
+    "tests": [],
+    "notebooks": [],
+    "n_files": 36,
+    "truncated_listing": false,
+    "has_gitmodules": false,
+    "has_lfs_pointers": false,
+    "code_kind": "C",
+    "missing": [
+      "仅部分实现可见"
+    ],
+    "level": "L0",
+    "l1_ok": false,
+    "sid": "D06-018",
+    "url": "https://github.com/harveyp123/MaxK-GNN",
+    "owner": "harveyp123",
+    "repo": "MaxK-GNN",
+    "commit": "b8536d1ac4e70d04a62d9c9171f9850940b610ac",
+    "path": "code/D06-018_harveyp123_MaxK-GNN_en",
+    "official_evidence": "未核实官方归属（仅仓库存在）"
+  },
+  "D06-019": {
+    "license_file": "LICENSE",
+    "license_name": "apache license",
+    "readme": [
+      "readme.md",
+      "agent-assisted/readme.md",
+      "agent-assisted/gdn_prefill_qk4_v8_d128_k_last/readme.md",
+      "agent-assisted/dsa_sparse_attention_h16_ckv512_kpe64_topk2048_ps64/readme.md",
+      "agent-assisted/moe_fp8_block_scale_ds_routing_topk8_ng8_kg4_e32_h7168_i2048/readme.md"
+    ],
+    "entries": [
+      "full-agent/gdn/agent/agents/math_agent/cuda_task/mlsys26/gdn_prefill/output/iteration/6/executor/0_0/test.py",
+      "full-agent/gdn/agent/agents/math_agent/cuda_task/mlsys26/gdn_decode/output/iteration/9/executor/0_0/test.py",
+      "full-agent/gdn/full-agent-trace_gdn_decode/iteration/9/executor/0_0/test.py",
+      "full-agent/gdn/full-agent-trace_gdn_prefill/iteration/6/executor/0_0/test.py",
+      "full-agent/dsa/full-agent-trace_sparse_attn/iteration/4/executor/1_1/test.py"
+    ],
+    "configs": [
+      "agent-assisted/gdn_prefill_qk4_v8_d128_k_last/config.toml",
+      "agent-assisted/dsa_sparse_attention_h16_ckv512_kpe64_topk2048_ps64/config.toml",
+      "agent-assisted/moe_fp8_block_scale_ds_routing_topk8_ng8_kg4_e32_h7168_i2048/config.toml",
+      "agent-assisted/dsa_topk_indexer_fp8_h64_d128_topk2048_ps64/config.toml",
+      "agent-assisted/gdn_decode_qk4_v8_d128_k_last/config.toml",
+      "full-agent/moe/config.toml",
+      "full-agent/moe/agent/loongflow/agents/math_agent/cuda_task/mlsys26/moe/task_config.yaml",
+      "full-agent/gdn/gdn_prefill_qk4_v8_d128_k_last/config.toml",
+      "full-agent/gdn/gdn_decode_qk4_v8_d128_k_last/config.toml",
+      "full-agent/gdn/agent/agents/math_agent/cuda_task/mlsys26/gdn_prefill/task_config.yaml",
+      "full-agent/gdn/agent/agents/math_agent/cuda_task/mlsys26/gdn_decode/task_config.yaml",
+      "full-agent/dsa/dsa_sparse_attention_h16_ckv512_kpe64_topk2048_ps64/config.toml"
+    ],
+    "deps": [
+      "full-agent/moe/pyproject.toml",
+      "full-agent/moe/agent/loongflow/pyproject.toml",
+      "full-agent/gdn/pyproject.toml",
+      "full-agent/gdn/agent/pyproject.toml",
+      "full-agent/dsa/pyproject.toml"
+    ],
+    "tests": [
+      "full-agent/gdn/agent/agents/math_agent/cuda_task/mlsys26/gdn_prefill/output/iteration/6/executor/0_0/test.py",
+      "full-agent/gdn/agent/agents/math_agent/cuda_task/mlsys26/gdn_prefill/output/iteration/10/executor/0_0/test_runner.py",
+      "full-agent/gdn/agent/agents/math_agent/cuda_task/mlsys26/gdn_prefill/output/iteration/10/executor/0_0/test_kernel_t32.cu",
+      "full-agent/gdn/agent/agents/math_agent/cuda_task/mlsys26/gdn_prefill/output/iteration/10/executor/0_0/test_kernel.cu",
+      "full-agent/gdn/agent/agents/math_agent/cuda_task/mlsys26/gdn_decode/output/iteration/9/executor/0_0/test.py",
+      "full-agent/gdn/agent/agents/math_agent/cuda_task/mlsys26/gdn_decode/output/iteration/3/executor/2_1/test_gdn.cu",
+      "full-agent/gdn/full-agent-trace_gdn_decode/iteration/9/executor/0_0/test.py",
+      "full-agent/gdn/full-agent-trace_gdn_decode/iteration/3/executor/2_1/test_gdn.cu"
+    ],
+    "notebooks": [],
+    "n_files": 8000,
+    "truncated_listing": true,
+    "has_gitmodules": false,
+    "has_lfs_pointers": false,
+    "code_kind": "C",
+    "missing": [],
+    "level": "L1",
+    "l1_ok": true,
+    "sid": "D06-019",
+    "url": "https://github.com/syhya/mlsys26-flashinfer-contest",
+    "owner": "syhya",
+    "repo": "mlsys26-flashinfer-contest",
+    "commit": "e82b04107dbdca7d0dc87ced51c71243645d41ee",
+    "path": "code/D06-019_syhya_mlsys26-flashinfer-contest_en",
+    "official_evidence": "未核实官方归属（仅仓库存在）"
+  },
+  "D06-020": {
+    "sid": "D06-020",
+    "code_kind": "D",
+    "level": "",
+    "urls": [],
+    "note": "未在摘要/评论/PDF 首页发现代码链接；未声称已检索穷尽第三方复现"
+  },
+  "D06-021": {
+    "license_file": "",
+    "license_name": "未发现许可证（不标为可自由复用）",
+    "readme": [
+      "readme.md",
+      "dpro/memory/readme.md"
+    ],
+    "entries": [],
+    "configs": [
+      "docs/sample_config.yaml"
+    ],
+    "deps": [
+      "requirements.txt",
+      "setup.py"
+    ],
+    "tests": [
+      "dpro/cost_model/_mixed_precision/test_rst.py"
+    ],
+    "notebooks": [],
+    "n_files": 105,
+    "truncated_listing": false,
+    "has_gitmodules": true,
+    "has_lfs_pointers": false,
+    "code_kind": "C",
+    "missing": [
+      "仅部分实现可见"
+    ],
+    "level": "L0",
+    "l1_ok": false,
+    "sid": "D06-021",
+    "url": "https://github.com/joapolarbear/dpro",
+    "owner": "joapolarbear",
+    "repo": "dpro",
+    "commit": "ac5e4ed57ad9c5f26d49599372c31ea36e882e99",
+    "path": "code/D06-021_joapolarbear_dpro_en",
+    "official_evidence": "未核实官方归属（仅仓库存在）"
+  },
+  "D06-022": {
+    "sid": "D06-022",
+    "code_kind": "D",
+    "level": "",
+    "urls": [],
+    "note": "未在摘要/评论/PDF 首页发现代码链接；未声称已检索穷尽第三方复现"
+  },
+  "D06-023": {
+    "sid": "D06-023",
+    "code_kind": "D",
+    "level": "",
+    "urls": [],
+    "note": "未在摘要/评论/PDF 首页发现代码链接；未声称已检索穷尽第三方复现"
+  },
+  "D06-024": {
+    "license_file": "LICENSE",
+    "license_name": "apache license",
+    "readme": [
+      "readme.md",
+      "benchmarks/readme.md",
+      "benchmarks/kernels/deepgemm/readme.md",
+      "benchmarks/flexicache/language_modelling/l-eval/leval/readme.md",
+      "examples/online_serving/prometheus_grafana/readme.md"
+    ],
+    "entries": [
+      "benchmarks/flexicache/language_modelling/l-eval/leval/evaluation/web_human_eval.py",
+      "benchmarks/flexicache/language_modelling/l-eval/leval/evaluation/llm_eval.py",
+      "benchmarks/flexicache/language_modelling/l-eval/leval/evaluation/auto_eval.py",
+      "benchmarks/flexicache/language_modelling/longbench/eval.py",
+      "vllm/entrypoints/cli/main.py",
+      "vllm/entrypoints/cli/benchmark/main.py"
+    ],
+    "configs": [
+      ".pre-commit-config.yaml",
+      "benchmarks/flexicache/language_modelling/longbench/config/dataset2prompt.json",
+      "benchmarks/flexicache/language_modelling/longbench/config/model2path.json",
+      "benchmarks/flexicache/language_modelling/longbench/config/model2revision.json",
+      "benchmarks/flexicache/language_modelling/longbench/config/model2maxlen.json",
+      "benchmarks/flexicache/language_modelling/longbench/config/dataset2maxlen.json",
+      "examples/online_serving/chart-helm/templates/configmap.yaml",
+      "vllm/model_executor/layers/fused_moe/configs/e=8,n=2048,device_name=amd_instinct_mi325x,dtype=fp8_w8a8.json",
+      "vllm/model_executor/layers/fused_moe/configs/e=16,n=1344,device_name=nvidia_h100_80gb_hbm3.json",
+      "vllm/model_executor/layers/fused_moe/configs/e=8,n=4096,device_name=nvidia_h200.json",
+      "vllm/model_executor/layers/fused_moe/configs/e=8,n=3584,device_name=nvidia_a100-sxm4-40gb.json",
+      "vllm/model_executor/layers/fused_moe/configs/e=64,n=320,device_name=nvidia_h200.json"
+    ],
+    "deps": [
+      "pyproject.toml",
+      "setup.py",
+      "benchmarks/kernels/requirements.txt",
+      "tests/vllm_test_utils/setup.py",
+      "tests/plugins/vllm_add_dummy_model/setup.py",
+      "tests/plugins/vllm_add_dummy_platform/setup.py"
+    ],
+    "tests": [
+      "requirements/test.in",
+      "requirements/test.txt",
+      "tests/test_embedded_commit.py",
+      "tests/test_regression.py",
+      "tests/test_sampling_params.py",
+      "tests/conftest.py",
+      "tests/test_logits_processor.py",
+      "tests/test_config.py"
+    ],
+    "notebooks": [
+      "topk-analysis/parse_output.ipynb",
+      "topk-analysis/overlap.ipynb"
+    ],
+    "n_files": 2161,
+    "truncated_listing": false,
+    "has_gitmodules": false,
+    "has_lfs_pointers": false,
+    "code_kind": "A",
+    "missing": [],
+    "level": "L1",
+    "l1_ok": true,
+    "sid": "D06-024",
+    "url": "https://github.com/NazmulTakbir/FlexiCache",
+    "owner": "NazmulTakbir",
+    "repo": "FlexiCache",
+    "commit": "ab0f495b10fc6509c1637af35779b29121fb7d3f",
+    "path": "code/D06-024_NazmulTakbir_FlexiCache_en",
+    "official_evidence": "疑似作者（仓库名含作者姓氏）"
+  },
+  "D06-025": {
+    "license_file": "LICENSE",
+    "license_name": "mit license",
+    "readme": [
+      "readme.md",
+      "accuracy_simulation/readme.md",
+      "latency_benchmarking/readme.md"
+    ],
+    "entries": [],
+    "configs": [],
+    "deps": [
+      "pyproject.toml"
+    ],
+    "tests": [],
+    "notebooks": [],
+    "n_files": 28,
+    "truncated_listing": false,
+    "has_gitmodules": true,
+    "has_lfs_pointers": false,
+    "code_kind": "C",
+    "missing": [
+      "仅部分实现可见"
+    ],
+    "level": "L0",
+    "l1_ok": false,
+    "sid": "D06-025",
+    "url": "https://github.com/Summer-Summer/Kitty",
+    "owner": "Summer-Summer",
+    "repo": "Kitty",
+    "commit": "dfd2c07b407d6b407179359207c612ab631f3ed1",
+    "path": "code/D06-025_Summer-Summer_Kitty_en",
+    "official_evidence": "未核实官方归属（仅仓库存在）"
+  },
+  "D06-026": {
+    "sid": "D06-026",
+    "code_kind": "D",
+    "level": "",
+    "urls": [],
+    "note": "未在摘要/评论/PDF 首页发现代码链接；未声称已检索穷尽第三方复现"
+  },
+  "D06-027": {
+    "sid": "D06-027",
+    "code_kind": "D",
+    "level": "",
+    "urls": [],
+    "note": "未在摘要/评论/PDF 首页发现代码链接；未声称已检索穷尽第三方复现"
+  },
+  "D06-028": {
+    "sid": "D06-028",
+    "code_kind": "D",
+    "level": "",
+    "urls": [],
+    "note": "未在摘要/评论/PDF 首页发现代码链接；未声称已检索穷尽第三方复现"
+  },
+  "D06-029": {
+    "sid": "D06-029",
+    "code_kind": "D",
+    "level": "",
+    "urls": [],
+    "note": "未在摘要/评论/PDF 首页发现代码链接；未声称已检索穷尽第三方复现"
+  },
+  "D06-030": {
+    "license_file": "LICENSE",
+    "license_name": "apache license",
+    "readme": [
+      "readme.md",
+      "conversation/readme.md",
+      "lm_eval_harness/readme.md",
+      "models/readme.md",
+      "summarization/readme.md"
+    ],
+    "entries": [
+      "lm_eval_harness/run.sh"
+    ],
+    "configs": [
+      "models/cerebras-keyformer-lib/config.json",
+      "models/mpt-keyformer-lib/config.json",
+      "models/gptj-keyformer-lib/config.json"
+    ],
+    "deps": [
+      "requirements.txt"
+    ],
+    "tests": [],
+    "notebooks": [],
+    "n_files": 69,
+    "truncated_listing": false,
+    "has_gitmodules": false,
+    "has_lfs_pointers": false,
+    "code_kind": "C",
+    "missing": [
+      "测试"
+    ],
+    "level": "L1",
+    "l1_ok": true,
+    "sid": "D06-030",
+    "url": "https://github.com/d-matrix-ai/keyformer-llm",
+    "owner": "d-matrix-ai",
+    "repo": "keyformer-llm",
+    "commit": "f327831056a9909b133aaa14a48f2bd0722acede",
+    "path": "code/D06-030_d-matrix-ai_keyformer-llm_en",
+    "official_evidence": "未核实官方归属（仅仓库存在）"
+  },
+  "D06-031": {
+    "license_file": "LICENSE",
+    "license_name": "mit license",
+    "readme": [
+      "readme.md"
+    ],
+    "entries": [
+      "main.py"
+    ],
+    "configs": [],
+    "deps": [
+      "environment.yml"
+    ],
+    "tests": [],
+    "notebooks": [],
+    "n_files": 9,
+    "truncated_listing": false,
+    "has_gitmodules": false,
+    "has_lfs_pointers": false,
+    "code_kind": "C",
+    "missing": [
+      "配置（可能用 argparse）",
+      "测试"
+    ],
+    "level": "L1",
+    "l1_ok": true,
+    "sid": "D06-031",
+    "url": "https://github.com/VITA-Group/Q-Hitter",
+    "owner": "VITA-Group",
+    "repo": "Q-Hitter",
+    "commit": "0e851a5392c5d6390c53bbeac86c104f96da75a8",
+    "path": "code/D06-031_VITA-Group_Q-Hitter_en",
+    "official_evidence": "未核实官方归属（仅仓库存在）"
+  },
+  "D06-032": {
+    "sid": "D06-032",
+    "code_kind": "D",
+    "level": "",
+    "urls": [],
+    "note": "未在摘要/评论/PDF 首页发现代码链接；未声称已检索穷尽第三方复现"
+  },
+  "D06-033": {
+    "sid": "D06-033",
+    "code_kind": "D",
+    "level": "",
+    "urls": [],
+    "note": "未在摘要/评论/PDF 首页发现代码链接；未声称已检索穷尽第三方复现"
+  },
+  "D06-034": {
+    "license_file": "LICENSE",
+    "license_name": "apache license",
+    "readme": [
+      "readme.md",
+      "benchmark/readme.md",
+      "assets/readme.md",
+      "traces/readme.md",
+      "third_party/vllm/readme.md"
+    ],
+    "entries": [],
+    "configs": [
+      "third_party/vllm/.buildkite/lm-eval-harness/configs/meta-llama-3-70b-instruct.yaml",
+      "third_party/vllm/.buildkite/lm-eval-harness/configs/meta-llama-3-70b-instruct-fbgemm-nonuniform.yaml",
+      "third_party/vllm/.buildkite/lm-eval-harness/configs/mixtral-8x22b-instruct-v0.1-fp8-dynamic.yaml",
+      "third_party/vllm/.buildkite/lm-eval-harness/configs/qwen2-57b-a14-instruct.yaml",
+      "third_party/vllm/.buildkite/lm-eval-harness/configs/minitron-4b-base-fp8.yaml",
+      "third_party/vllm/.buildkite/lm-eval-harness/configs/meta-llama-3-8b-instruct.yaml",
+      "third_party/vllm/.buildkite/lm-eval-harness/configs/deepseek-v2-lite-chat.yaml",
+      "third_party/vllm/.buildkite/lm-eval-harness/configs/qwen2-1.5b-instruct-w8a16-compressed-tensors.yaml",
+      "third_party/vllm/.buildkite/lm-eval-harness/configs/meta-llama-3-8b-instruct-int8-compressed-tensors-asym.yaml",
+      "third_party/vllm/.buildkite/lm-eval-harness/configs/meta-llama-3-8b-instruct-channelwise-compressed-tensors.yaml",
+      "third_party/vllm/.buildkite/lm-eval-harness/configs/mixtral-8x7b-instruct-v0.1-fp8.yaml",
+      "third_party/vllm/.buildkite/lm-eval-harness/configs/meta-llama-3-8b-instruct-fbgemm-nonuniform.yaml"
+    ],
+    "deps": [
+      "pyproject.toml",
+      "setup.py",
+      "third_party/vllm/pyproject.toml",
+      "third_party/vllm/setup.py",
+      "third_party/vllm/benchmarks/kernels/requirements.txt",
+      "third_party/vllm/tests/plugins/vllm_add_dummy_model/setup.py"
+    ],
+    "tests": [
+      "third_party/vllm/.buildkite/test-pipeline.yaml",
+      "third_party/vllm/.buildkite/lm-eval-harness/test_lm_eval_correctness.py",
+      "third_party/vllm/.buildkite/nightly-benchmarks/tests/throughput-tests.json",
+      "third_party/vllm/.buildkite/nightly-benchmarks/tests/latency-tests.json",
+      "third_party/vllm/.buildkite/nightly-benchmarks/tests/serving-tests.json",
+      "third_party/vllm/.buildkite/nightly-benchmarks/tests/nightly-tests.json",
+      "third_party/vllm/tests/test_embedded_commit.py",
+      "third_party/vllm/tests/test_regression.py"
+    ],
+    "notebooks": [],
+    "n_files": 1320,
+    "truncated_listing": false,
+    "has_gitmodules": false,
+    "has_lfs_pointers": false,
+    "code_kind": "C",
+    "missing": [
+      "仅部分实现可见"
+    ],
+    "level": "L0",
+    "l1_ok": false,
+    "sid": "D06-034",
+    "url": "https://github.com/UIUC-MLSys/JITServe",
+    "owner": "UIUC-MLSys",
+    "repo": "JITServe",
+    "commit": "84584a119b892cf90c65e2b3f5bac67250d39d27",
+    "path": "code/D06-034_UIUC-MLSys_JITServe_en",
+    "official_evidence": "未核实"
+  },
+  "D06-035": {
+    "sid": "D06-035",
+    "code_kind": "D",
+    "level": "",
+    "urls": [],
+    "note": "未在摘要/评论/PDF 首页发现代码链接；未声称已检索穷尽第三方复现"
+  },
+  "D06-036": {
+    "sid": "D06-036",
+    "code_kind": "D",
+    "level": "",
+    "urls": [],
+    "note": "未在摘要/评论/PDF 首页发现代码链接；未声称已检索穷尽第三方复现"
+  },
+  "D06-037": {
+    "license_file": "LICENSE",
+    "license_name": "apache license",
+    "readme": [
+      "readme.md",
+      "docker/readme.md",
+      "benchmarks/bench_idle_footprint/readme.md",
+      "benchmarks/bench_map_parallelism/readme.md",
+      "benchmarks/bench_vmm/readme.md"
+    ],
+    "entries": [
+      "tools/ci/gpu-runner/run.sh",
+      "tests/e2e/run.py"
+    ],
+    "configs": [
+      ".pre-commit-config.yaml",
+      ".gemini/config.yaml",
+      "benchmarks/bench_latency_benefit/bench-config.yaml",
+      "controller/example-config.yaml"
+    ],
+    "deps": [
+      "requirements.txt",
+      "pyproject.toml",
+      "setup.py"
+    ],
+    "tests": [
+      "tests/test_page_allocator_snapshot.py",
+      "tests/test_offload_copy_pins.py",
+      "tests/test_init_lock_order.py",
+      "tests/test_vllm_pp_fanout.py",
+      "tests/test_tp_ipc_atomic_map.py",
+      "tests/test_tp_listener_device.py",
+      "tests/test_elasticmlamemorypool.py",
+      "tests/test_kv_cache_shape_compat.py"
+    ],
+    "notebooks": [],
+    "n_files": 355,
+    "truncated_listing": false,
+    "has_gitmodules": false,
+    "has_lfs_pointers": false,
+    "code_kind": "C",
+    "missing": [],
+    "level": "L1",
+    "l1_ok": true,
+    "sid": "D06-037",
+    "url": "https://github.com/ovg-project/kvcached",
+    "owner": "ovg-project",
+    "repo": "kvcached",
+    "commit": "415d8273f3bd66007c176d5da56aa13d9ccaae57",
+    "path": "code/D06-037_ovg-project_kvcached_en",
+    "official_evidence": "未核实"
+  },
+  "D06-038": {
+    "sid": "D06-038",
+    "code_kind": "D",
+    "level": "",
+    "urls": [],
+    "note": "未在摘要/评论/PDF 首页发现代码链接；未声称已检索穷尽第三方复现"
+  },
+  "D06-039": {
+    "license_file": "LICENSE",
+    "license_name": "apache license",
+    "readme": [
+      "readme.md"
+    ],
+    "entries": [],
+    "configs": [],
+    "deps": [
+      "requirements.txt",
+      "setup.py"
+    ],
+    "tests": [
+      "tests/conftest.py",
+      "tests/test_construct.py",
+      "tests/test_clientpool.py",
+      "tests/test_utils.py"
+    ],
+    "notebooks": [],
+    "n_files": 19,
+    "truncated_listing": false,
+    "has_gitmodules": false,
+    "has_lfs_pointers": false,
+    "code_kind": "C",
+    "missing": [
+      "仅部分实现可见"
+    ],
+    "level": "L0",
+    "l1_ok": false,
+    "sid": "D06-039",
+    "url": "https://github.com/alibaba/ServeGen",
+    "owner": "alibaba",
+    "repo": "ServeGen",
+    "commit": "d70c8b2d5bc45f4b60a146fbc43dc5523f871c8b",
+    "path": "code/D06-039_alibaba_ServeGen_en",
+    "official_evidence": "未核实"
+  },
+  "D06-040": {
+    "sid": "D06-040",
+    "code_kind": "D",
+    "level": "",
+    "urls": [],
+    "note": "未在摘要/评论/PDF 首页发现代码链接；未声称已检索穷尽第三方复现"
+  },
+  "D06-041": {
+    "sid": "D06-041",
+    "code_kind": "D",
+    "level": "",
+    "urls": [],
+    "note": "未在摘要/评论/PDF 首页发现代码链接；未声称已检索穷尽第三方复现"
+  },
+  "D06-042": {
+    "sid": "D06-042",
+    "code_kind": "D",
+    "level": "",
+    "urls": [],
+    "note": "未在摘要/评论/PDF 首页发现代码链接；未声称已检索穷尽第三方复现"
+  },
+  "D06-043": {
+    "sid": "D06-043",
+    "code_kind": "D",
+    "level": "",
+    "urls": [],
+    "note": "未在摘要/评论/PDF 首页发现代码链接；未声称已检索穷尽第三方复现"
+  },
+  "D06-044": {
+    "sid": "D06-044",
+    "code_kind": "D",
+    "level": "",
+    "urls": [],
+    "note": "未在摘要/评论/PDF 首页发现代码链接；未声称已检索穷尽第三方复现"
+  },
+  "D06-045": {
+    "sid": "D06-045",
+    "code_kind": "D",
+    "level": "",
+    "urls": [],
+    "note": "未在摘要/评论/PDF 首页发现代码链接；未声称已检索穷尽第三方复现"
+  },
+  "D06-046": {
+    "license_file": "LICENSE",
+    "license_name": "apache license",
+    "readme": [
+      "readme.md"
+    ],
+    "entries": [],
+    "configs": [
+      "llumnix/config/mock_query_client_config.json",
+      "configs/bladellm.yml",
+      "configs/vllm.yml"
+    ],
+    "deps": [
+      "setup.py",
+      "llumnix/entrypoints/setup.py"
+    ],
+    "tests": [
+      "tests/conftest.py",
+      "tests/utils.py",
+      "tests/__init__.py",
+      "tests/e2e_test/test_server.py",
+      "tests/e2e_test/test_bench.py",
+      "tests/e2e_test/utils.py",
+      "tests/e2e_test/test_register_service.py",
+      "tests/e2e_test/bladellm_utils.py"
+    ],
+    "notebooks": [],
+    "n_files": 228,
+    "truncated_listing": false,
+    "has_gitmodules": true,
+    "has_lfs_pointers": false,
+    "code_kind": "C",
+    "missing": [
+      "仅部分实现可见"
+    ],
+    "level": "L0",
+    "l1_ok": false,
+    "sid": "D06-046",
+    "url": "https://github.com/AlibabaPAI/llumnix",
+    "owner": "AlibabaPAI",
+    "repo": "llumnix",
+    "commit": "3fb6c0376b3b186a73f722abda8c410653d49d8e",
+    "path": "code/D06-046_AlibabaPAI_llumnix_en",
+    "official_evidence": "未核实"
+  },
+  "D06-047": {
+    "sid": "D06-047",
+    "code_kind": "D",
+    "level": "",
+    "urls": [],
+    "note": "未在摘要/评论/PDF 首页发现代码链接；未声称已检索穷尽第三方复现"
+  },
+  "D06-048": {
+    "sid": "D06-048",
+    "code_kind": "D",
+    "level": "",
+    "urls": [],
+    "note": "未在摘要/评论/PDF 首页发现代码链接；未声称已检索穷尽第三方复现"
+  },
+  "D06-049": {
+    "sid": "D06-049",
+    "code_kind": "D",
+    "level": "",
+    "urls": [],
+    "note": "未在摘要/评论/PDF 首页发现代码链接；未声称已检索穷尽第三方复现"
+  },
+  "D06-050": {
+    "sid": "D06-050",
+    "code_kind": "D",
+    "level": "",
+    "urls": [
+      "https://github.com/sail-sg/V"
+    ],
+    "note": "clone 失败 Cloning into '/root/recent_top_conference_research/code/D06-050_sail-sg_V_en'...\nfatal: could not read Username for 'https://github.com': terminal prompts disabled\n",
+    "tried": "https://github.com/sail-sg/V"
+  },
+  "D06-051": {
+    "sid": "D06-051",
+    "code_kind": "D",
+    "level": "",
+    "urls": [],
+    "note": "未在摘要/评论/PDF 首页发现代码链接；未声称已检索穷尽第三方复现"
+  },
+  "D06-052": {
+    "license_file": "LICENSE.md",
+    "license_name": "有 LICENSE 文件但未识别 SPDX/常用名称",
+    "readme": [
+      "readme.md"
+    ],
+    "entries": [],
+    "configs": [],
+    "deps": [
+      "environment.yml"
+    ],
+    "tests": [],
+    "notebooks": [],
+    "n_files": 28,
+    "truncated_listing": false,
+    "has_gitmodules": false,
+    "has_lfs_pointers": false,
+    "code_kind": "B",
+    "missing": [
+      "仅部分实现可见"
+    ],
+    "level": "L0",
+    "l1_ok": false,
+    "sid": "D06-052",
+    "url": "https://github.com/ruipeterpan/marconi",
+    "owner": "ruipeterpan",
+    "repo": "marconi",
+    "commit": "08016617b1524e6bf6ac29b680641cc945bda7f0",
+    "path": "code/D06-052_ruipeterpan_marconi_en",
+    "official_evidence": "疑似作者（仓库名含作者姓氏）"
+  },
+  "D06-053": {
+    "license_file": "LICENSE",
+    "license_name": "apache license",
+    "readme": [
+      "readme.md",
+      "kernels/csrc/fused_attention/fused_attention_pure_dense/readme.md"
+    ],
+    "entries": [
+      "eval/longbench/eval.py"
+    ],
+    "configs": [
+      "attn_patterns/mistral-7b-instruct-v0.3/config.json",
+      "attn_patterns/mistral-7b-instruct-v0.3/lr=0.02-reg=0.05-ctx=1000_32000-multi_passkey10/config.json",
+      "attn_patterns/llama-2-7b-32k-instruct/config.json",
+      "attn_patterns/llama-2-7b-32k-instruct/lr=0.02-reg=0.05-ctx=1000_32000-multi_passkey10/config.json",
+      "attn_patterns/meta-llama-3.1-8b-instruct/config.json",
+      "attn_patterns/meta-llama-3.1-8b-instruct/lr=0.02-reg=0.05-ctx=1000_128000-multi_passkey10/config.json",
+      "attn_patterns/mixtral-8x7b-instruct-v0.1/config.json",
+      "attn_patterns/mixtral-8x7b-instruct-v0.1/lr=0.02-reg=0.05-ctx=1000_32000-multi_passkey10/config.json",
+      "attn_patterns/llama-3-8b-instruct-gradient-1048k/config.json",
+      "attn_patterns/llama-3-8b-instruct-gradient-1048k/lr=0.02-reg=0.05-ctx=1000_32000-multi_passkey10/config.json",
+      "attn_patterns/mistral-7b-instruct-v0.2/config.json",
+      "attn_patterns/mistral-7b-instruct-v0.2/lr=0.02-reg=0.05-ctx=1000_32000-multi_passkey10/config.json"
+    ],
+    "deps": [
+      "pyproject.toml",
+      "kernels/setup.py"
+    ],
+    "tests": [
+      "unit_tests/test_vllm_full_net_sampling.py"
+    ],
+    "notebooks": [],
+    "n_files": 252,
+    "truncated_listing": false,
+    "has_gitmodules": false,
+    "has_lfs_pointers": false,
+    "code_kind": "A",
+    "missing": [],
+    "level": "L1",
+    "l1_ok": true,
+    "sid": "D06-053",
+    "url": "https://github.com/mit-han-lab/omniserve",
+    "owner": "mit-han-lab",
+    "repo": "omniserve",
+    "commit": "02b2925aa6fa3b92b06316a1524b7f38922cd9c8",
+    "path": "code/D06-053_mit-han-lab_omniserve_en",
+    "official_evidence": "疑似作者（仓库名含作者姓氏）"
+  },
+  "D06-054": {
+    "license_file": "2_length_predictor/LICENSE",
+    "license_name": "mit license",
+    "readme": [
+      "readme.md",
+      "2_length_predictor/readme.md",
+      "benchmark_thr/src/readme_zh-cn.md",
+      "benchmark_thr/src/readme.md",
+      "benchmark_thr/src/readme_ja.md"
+    ],
+    "entries": [
+      "1_thr_predictor/vidur/main.py",
+      "1_thr_predictor/vidur/profiling/cpu_overhead/main.py",
+      "1_thr_predictor/vidur/profiling/attention/main.py",
+      "1_thr_predictor/vidur/profiling/mlp/main.py",
+      "1_thr_predictor/vidur/profiling/collectives/main.py",
+      "1_thr_predictor/vidur/config_optimizer/config_explorer/main.py",
+      "1_thr_predictor/vidur/config_optimizer/analyzer/dashboard/main.py"
+    ],
+    "configs": [
+      "2_length_predictor/config/dataset2prompt.json",
+      "2_length_predictor/config/model2path.json",
+      "2_length_predictor/config/model2maxlen.json",
+      "2_length_predictor/config/dataset2maxlen.json",
+      "benchmark_thr/src/.pre-commit-config.yaml",
+      "benchmark_thr/src/examples/cpp/llama/llama_config.yaml",
+      "benchmark_thr/src/autotest/config.yaml",
+      "1_thr_predictor/vidur/config_optimizer/config_explorer/config/debug_config.yml",
+      "1_thr_predictor/vidur/config_optimizer/config_explorer/config/config.yml"
+    ],
+    "deps": [
+      "2_length_predictor/requirements.txt",
+      "2_length_predictor/pyproject.toml",
+      "benchmark_thr/src/setup.py",
+      "1_thr_predictor/requirements.txt",
+      "1_thr_predictor/environment.yml",
+      "1_thr_predictor/setup.py"
+    ],
+    "tests": [
+      "benchmark_thr/src/src/turbomind/utils/test_utils.h",
+      "benchmark_thr/src/src/turbomind/kernels/attention/test_utils.cu",
+      "benchmark_thr/src/src/turbomind/kernels/attention/test_utils.h",
+      "benchmark_thr/src/src/turbomind/kernels/attention/test_attention.cu",
+      "benchmark_thr/src/src/turbomind/kernels/attention/test_quant.cu",
+      "benchmark_thr/src/src/turbomind/kernels/gemm/test/quantization.cu",
+      "benchmark_thr/src/src/turbomind/kernels/gemm/test/quantization_impl.h",
+      "benchmark_thr/src/src/turbomind/kernels/gemm/test/gemm_test.cu"
+    ],
+    "notebooks": [
+      "benchmark_thr/src/benchmark/visualize_log.ipynb"
+    ],
+    "n_files": 1457,
+    "truncated_listing": false,
+    "has_gitmodules": false,
+    "has_lfs_pointers": false,
+    "code_kind": "C",
+    "missing": [],
+    "level": "L1",
+    "l1_ok": true,
+    "sid": "D06-054",
+    "url": "https://github.com/LLMkvsys/rethink-kv-compression",
+    "owner": "LLMkvsys",
+    "repo": "rethink-kv-compression",
+    "commit": "7cb1dd9712073b3ff283f8c118e565e39f961795",
+    "path": "code/D06-054_LLMkvsys_rethink-kv-compression_en",
+    "official_evidence": "未核实官方归属（仅仓库存在）"
+  },
+  "D06-055": {
+    "sid": "D06-055",
+    "code_kind": "D",
+    "level": "",
+    "urls": [],
+    "note": "未在摘要/评论/PDF 首页发现代码链接；未声称已检索穷尽第三方复现"
+  },
+  "D06-056": {
+    "sid": "D06-056",
+    "code_kind": "D",
+    "level": "",
+    "urls": [],
+    "note": "未在摘要/评论/PDF 首页发现代码链接；未声称已检索穷尽第三方复现"
+  },
+  "D06-057": {
+    "sid": "D06-057",
+    "code_kind": "D",
+    "level": "",
+    "urls": [],
+    "note": "未在摘要/评论/PDF 首页发现代码链接；未声称已检索穷尽第三方复现"
+  },
+  "D06-058": {
+    "sid": "D06-058",
+    "code_kind": "D",
+    "level": "",
+    "urls": [],
+    "note": "未在摘要/评论/PDF 首页发现代码链接；未声称已检索穷尽第三方复现"
+  },
+  "D06-059": {
+    "sid": "D06-059",
+    "code_kind": "D",
+    "level": "",
+    "urls": [],
+    "note": "未在摘要/评论/PDF 首页发现代码链接；未声称已检索穷尽第三方复现"
+  },
+  "D06-060": {
+    "sid": "D06-060",
+    "code_kind": "D",
+    "level": "",
+    "urls": [],
+    "note": "未在摘要/评论/PDF 首页发现代码链接；未声称已检索穷尽第三方复现"
+  },
+  "D06-061": {
+    "sid": "D06-061",
+    "code_kind": "D",
+    "level": "",
+    "urls": [],
+    "note": "未在摘要/评论/PDF 首页发现代码链接；未声称已检索穷尽第三方复现"
+  }
+}

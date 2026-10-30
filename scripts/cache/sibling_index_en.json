@@ -1,0 +1,1018 @@
+{
+  "by_arxiv": {},
+  "by_title": {},
+  "files": [
+    {
+      "lib": "gaussian_process_literature",
+      "path": "/root/gaussian_process_literature/books/Pillonetto_RegularizedSystemIdentification_2022_en.pdf"
+    },
+    {
+      "lib": "gaussian_process_literature",
+      "path": "/root/gaussian_process_literature/books/RasmussenWilliams_GPML_2006_en.pdf"
+    },
+    {
+      "lib": "gaussian_process_literature",
+      "path": "/root/gaussian_process_literature/books/Bishop_PRML_2006_en.pdf"
+    },
+    {
+      "lib": "gaussian_process_literature",
+      "path": "/root/gaussian_process_literature/books/Deisenroth_MML_2020_en.pdf"
+    },
+    {
+      "lib": "gaussian_process_literature",
+      "path": "/root/gaussian_process_literature/books/Sarkka_BayesianFilteringSmoothing_2e_en.pdf"
+    },
+    {
+      "lib": "gaussian_process_literature",
+      "path": "/root/gaussian_process_literature/books/Gramacy_Surrogates_2020_en.pdf"
+    },
+    {
+      "lib": "gaussian_process_literature",
+      "path": "/root/gaussian_process_literature/books/Wilson_CovarianceKernels_thesis_2014_en.pdf"
+    },
+    {
+      "lib": "gaussian_process_literature",
+      "path": "/root/gaussian_process_literature/books/Duvenaud_AutomaticModelConstructionGP_thesis_2014_en.pdf"
+    },
+    {
+      "lib": "gaussian_process_literature",
+      "path": "/root/gaussian_process_literature/books/Bach_LearningTheory_2024_en.pdf"
+    },
+    {
+      "lib": "gaussian_process_literature",
+      "path": "/root/gaussian_process_literature/books/SarkkaSolin_AppliedSDEs_2019_en.pdf"
+    },
+    {
+      "lib": "gaussian_process_literature",
+      "path": "/root/gaussian_process_literature/books/Murphy_PML2_2023_en.pdf"
+    },
+    {
+      "lib": "gaussian_process_literature",
+      "path": "/root/gaussian_process_literature/books/WikleZammitMangionCressie_STR_2019_en.pdf"
+    },
+    {
+      "lib": "gaussian_process_literature",
+      "path": "/root/gaussian_process_literature/books/HennigOsborneKersting_ProbabilisticNumerics_2022_en.pdf"
+    },
+    {
+      "lib": "gaussian_process_literature",
+      "path": "/root/gaussian_process_literature/books/Murphy_PML1_2022_en.pdf"
+    },
+    {
+      "lib": "gaussian_process_literature",
+      "path": "/root/gaussian_process_literature/books/Solin_SDE_SpatioTemporalGP_thesis_2016_en.pdf"
+    },
+    {
+      "lib": "gaussian_process_literature",
+      "path": "/root/gaussian_process_literature/books/Garnett_BayesianOptimization_2023_en.pdf"
+    },
+    {
+      "lib": "gaussian_process_literature",
+      "path": "/root/gaussian_process_literature/courses/Duke_ECE581_GP_RKHS_2025_en.pdf"
+    },
+    {
+      "lib": "gaussian_process_literature",
+      "path": "/root/gaussian_process_literature/courses/ETH_PAI_lecture_notes_arXiv_2502.05244_en.pdf"
+    },
+    {
+      "lib": "gaussian_process_literature",
+      "path": "/root/gaussian_process_literature/01_foundations/papers/2024_Steinwart_WhenDoesGaussianProcess_en.pdf"
+    },
+    {
+      "lib": "gaussian_process_literature",
+      "path": "/root/gaussian_process_literature/01_foundations/papers/2025_Rosa_L2PosteriorContraction_en.pdf"
+    },
+    {
+      "lib": "gaussian_process_literature",
+      "path": "/root/gaussian_process_literature/01_foundations/papers/2024_Sendera_RevisitingEquivalenceBayesianNeural_en.pdf"
+    },
+    {
+      "lib": "gaussian_process_literature",
+      "path": "/root/gaussian_process_literature/01_foundations/papers/2026_Karvonen_GaussianProcessesSamplePaths_en.pdf"
+    },
+    {
+      "lib": "gaussian_process_literature",
+      "path": "/root/gaussian_process_literature/01_foundations/papers/2023_Costa_SamplePathRegularityGaussian_en.pdf"
+    },
+    {
+      "lib": "gaussian_process_literature",
+      "path": "/root/gaussian_process_literature/01_foundations/papers/2024_Shi_AdaptiveRKHSFourierFeatures_en.pdf"
+    },
+    {
+      "lib": "gaussian_process_literature",
+      "path": "/root/gaussian_process_literature/01_foundations/papers/2025_Kanagawa_GaussianProcessesReproducingKernel_en.pdf"
+    },
+    {
+      "lib": "gaussian_process_literature",
+      "path": "/root/gaussian_process_literature/01_foundations/papers/2018_Kanagawa_GaussianProcessesKernelMethods_en.pdf"
+    },
+    {
+      "lib": "gaussian_process_literature",
+      "path": "/root/gaussian_process_literature/03_kernel_design/papers/2023_Fang_PosteriorConcentrationGaussianProcess_en.pdf"
+    },
+    {
+      "lib": "gaussian_process_literature",
+      "path": "/root/gaussian_process_literature/03_kernel_design/papers/2013_Wilson_GaussianProcessKernelsPattern_en.pdf"
+    },
+    {
+      "lib": "gaussian_process_literature",
+      "path": "/root/gaussian_process_literature/03_kernel_design/papers/2025_Langrene_FastGaussianProcessInference_en.pdf"
+    },
+    {
+      "lib": "gaussian_process_literature",
+      "path": "/root/gaussian_process_literature/03_kernel_design/papers/2025_Zhang_PractitionerSGuideAutomatic_en.pdf"
+    },
+    {
+      "lib": "gaussian_process_literature",
+      "path": "/root/gaussian_process_literature/03_kernel_design/papers/2024_Kielstra_GaussianProcessRegressionLog_en.pdf"
+    },
+    {
+      "lib": "gaussian_process_literature",
+      "path": "/root/gaussian_process_literature/03_kernel_design/papers/2025_Zhu_ScalableDeepBasisKernel_en.pdf"
+    },
+    {
+      "lib": "gaussian_process_literature",
+      "path": "/root/gaussian_process_literature/03_kernel_design/papers/2013_Duvenaud_StructureDiscoveryNonparametricRegressio_en.pdf"
+    },
+    {
+      "lib": "gaussian_process_literature",
+      "path": "/root/gaussian_process_literature/03_kernel_design/papers/2026_Islam_TheKernelManifold_en.pdf"
+    },
+    {
+      "lib": "gaussian_process_literature",
+      "path": "/root/gaussian_process_literature/03_kernel_design/papers/2024_Risser_CompactlySupportedNonstationaryKernels_en.pdf"
+    },
+    {
+      "lib": "gaussian_process_literature",
+      "path": "/root/gaussian_process_literature/07_uncertainty_validation/papers/2025_Bergna_PostHocUncertaintyQuantification_en.pdf"
+    },
+    {
+      "lib": "gaussian_process_literature",
+      "path": "/root/gaussian_process_literature/07_uncertainty_validation/papers/2025_Xu_ConformalizedGaussianProcessesOnline_en.pdf"
+    },
+    {
+      "lib": "gaussian_process_literature",
+      "path": "/root/gaussian_process_literature/07_uncertainty_validation/papers/2024_Yazdi_DeepGaussianProcessEmulation_en.pdf"
+    },
+    {
+      "lib": "gaussian_process_literature",
+      "path": "/root/gaussian_process_literature/07_uncertainty_validation/papers/2025_Rooijakkers_MultiOutputRobustConjugate_en.pdf"
+    },
+    {
+      "lib": "gaussian_process_literature",
+      "path": "/root/gaussian_process_literature/07_uncertainty_validation/papers/2025_Gadde_AdaptiveParameterOptimizationGaussian_en.pdf"
+    },
+    {
+      "lib": "gaussian_process_literature",
+      "path": "/root/gaussian_process_literature/07_uncertainty_validation/papers/2025_Sinaga_RobustComputationAwareGaussian_en.pdf"
+    },
+    {
+      "lib": "gaussian_process_literature",
+      "path": "/root/gaussian_process_literature/07_uncertainty_validation/papers/2024_Oelrich_ModelingLocalPredictiveAbility_en.pdf"
+    },
+    {
+      "lib": "gaussian_process_literature",
+      "path": "/root/gaussian_process_literature/07_uncertainty_validation/papers/2025_Browning_CautionaryTaleModelMisspecification_en.pdf"
+    },
+    {
+      "lib": "gaussian_process_literature",
+      "path": "/root/gaussian_process_literature/05_extensions/papers/2012_Damianou_DeepGaussianProcesses_en.pdf"
+    },
+    {
+      "lib": "gaussian_process_literature",
+      "path": "/root/gaussian_process_literature/05_extensions/papers/2024_Barnett_MonotonicWarpingsAdditiveDeep_en.pdf"
+    },
+    {
+      "lib": "gaussian_process_literature",
+      "path": "/root/gaussian_process_literature/05_extensions/papers/2025_Jung_UncertaintyQuantificationParameterOptimi_en.pdf"
+    },
+    {
+      "lib": "gaussian_process_literature",
+      "path": "/root/gaussian_process_literature/05_extensions/papers/2025_Chang_DeepIntrinsicCoregionalizationMulti_en.pdf"
+    },
+    {
+      "lib": "gaussian_process_literature",
+      "path": "/root/gaussian_process_literature/05_extensions/papers/2017_Salimbeni_DoublyStochasticVariationalInference_en.pdf"
+    },
+    {
+      "lib": "gaussian_process_literature",
+      "path": "/root/gaussian_process_literature/05_extensions/papers/2024_Colombo_WarpedMultifidelityGaussianProcesses_en.pdf"
+    },
+    {
+      "lib": "gaussian_process_literature",
+      "path": "/root/gaussian_process_literature/05_extensions/papers/2023_Osborne_ConvergenceRatesNonStationary_en.pdf"
+    },
+    {
+      "lib": "gaussian_process_literature",
+      "path": "/root/gaussian_process_literature/05_extensions/papers/2015_Wilson_DeepKernelLearning_en.pdf"
+    },
+    {
+      "lib": "gaussian_process_literature",
+      "path": "/root/gaussian_process_literature/05_extensions/papers/2026_Williams_SimplexEuclideanBijectionConjugate_en.pdf"
+    },
+    {
+      "lib": "gaussian_process_literature",
+      "path": "/root/gaussian_process_literature/05_extensions/papers/2025_Huang_ScalingGaussianProcessRegression_en.pdf"
+    },
+    {
+      "lib": "gaussian_process_literature",
+      "path": "/root/gaussian_process_literature/05_extensions/papers/2025_Benavoli_DynoGP_en.pdf"
+    },
+    {
+      "lib": "gaussian_process_literature",
+      "path": "/root/gaussian_process_literature/09_scientific_engineering/papers/2026_Bai_PhysicsInformedGaussianProcess_en.pdf"
+    },
+    {
+      "lib": "gaussian_process_literature",
+      "path": "/root/gaussian_process_literature/09_scientific_engineering/papers/2025_Mak_RobustDesignsGaussianProcess_en.pdf"
+    },
+    {
+      "lib": "gaussian_process_literature",
+      "path": "/root/gaussian_process_literature/09_scientific_engineering/papers/2026_Alvi_SurrogateGatedGenerationFoundation_en.pdf"
+    },
+    {
+      "lib": "gaussian_process_literature",
+      "path": "/root/gaussian_process_literature/09_scientific_engineering/papers/2024_Wang_TutorialGaussianProcessLearning_en.pdf"
+    },
+    {
+      "lib": "gaussian_process_literature",
+      "path": "/root/gaussian_process_literature/09_scientific_engineering/papers/2026_Ming_GeneralizedScalableDeepGaussian_en.pdf"
+    },
+    {
+      "lib": "gaussian_process_literature",
+      "path": "/root/gaussian_process_literature/09_scientific_engineering/papers/2025_Chen_EFiGP_en.pdf"
+    },
+    {
+      "lib": "gaussian_process_literature",
+      "path": "/root/gaussian_process_literature/09_scientific_engineering/papers/2024_Deshpande_GaussianProcessRegressionDeep_en.pdf"
+    },
+    {
+      "lib": "gaussian_process_literature",
+      "path": "/root/gaussian_process_literature/11_software_reference_code/papers/2018_Gardner_GPyTorch_en.pdf"
+    },
+    {
+      "lib": "gaussian_process_literature",
+      "path": "/root/gaussian_process_literature/11_software_reference_code/papers/2025_Helmann_GPRat_en.pdf"
+    },
+    {
+      "lib": "gaussian_process_literature",
+      "path": "/root/gaussian_process_literature/11_software_reference_code/papers/2026_Marchildon_GpFlash_en.pdf"
+    },
+    {
+      "lib": "gaussian_process_literature",
+      "path": "/root/gaussian_process_literature/11_software_reference_code/papers/2019_Balandat_BoTorch_en.pdf"
+    },
+    {
+      "lib": "gaussian_process_literature",
+      "path": "/root/gaussian_process_literature/06_timeseries_spatiotemporal/papers/2021_Lindgren_SPDEApproachGaussianNon_en.pdf"
+    },
+    {
+      "lib": "gaussian_process_literature",
+      "path": "/root/gaussian_process_literature/06_timeseries_spatiotemporal/papers/2025_Kitagawa_GaussianProcessStateSpace_en.pdf"
+    },
+    {
+      "lib": "gaussian_process_literature",
+      "path": "/root/gaussian_process_literature/06_timeseries_spatiotemporal/papers/2024_Marinescu_ExplainingConnectingKrigingGaussian_en.pdf"
+    },
+    {
+      "lib": "gaussian_process_literature",
+      "path": "/root/gaussian_process_literature/06_timeseries_spatiotemporal/papers/2023_Youngman_Deform_en.pdf"
+    },
+    {
+      "lib": "gaussian_process_literature",
+      "path": "/root/gaussian_process_literature/06_timeseries_spatiotemporal/papers/2026_Kitagawa_GaussianProcessModelingTime_en.pdf"
+    },
+    {
+      "lib": "gaussian_process_literature",
+      "path": "/root/gaussian_process_literature/06_timeseries_spatiotemporal/papers/2026_Mohammadi_KrigingGaussianProcessesInterconnected_en.pdf"
+    },
+    {
+      "lib": "gaussian_process_literature",
+      "path": "/root/gaussian_process_literature/06_timeseries_spatiotemporal/papers/2024_Hamelijnck_PhysicsInformedVariationalState_en.pdf"
+    },
+    {
+      "lib": "gaussian_process_literature",
+      "path": "/root/gaussian_process_literature/06_timeseries_spatiotemporal/papers/2026_Gyger_ScalableNonSeparableSpatio_en.pdf"
+    },
+    {
+      "lib": "gaussian_process_literature",
+      "path": "/root/gaussian_process_literature/06_timeseries_spatiotemporal/papers/2025_Laplante_RobustConjugateSpatioTemporal_en.pdf"
+    },
+    {
+      "lib": "gaussian_process_literature",
+      "path": "/root/gaussian_process_literature/courses/Cambridge_4F13_2526_en/15_coursework1_en.pdf"
+    },
+    {
+      "lib": "gaussian_process_literature",
+      "path": "/root/gaussian_process_literature/courses/Cambridge_4F13_2526_en/08_gaussian_process_en.pdf"
+    },
+    {
+      "lib": "gaussian_process_literature",
+      "path": "/root/gaussian_process_literature/courses/Cambridge_4F13_2526_en/02_linear_in_the_parameters_regression_en.pdf"
+    },
+    {
+      "lib": "gaussian_process_literature",
+      "path": "/root/gaussian_process_literature/courses/Cambridge_4F13_2526_en/05_bayesian_finite_regression_en.pdf"
+    },
+    {
+      "lib": "gaussian_process_literature",
+      "path": "/root/gaussian_process_literature/courses/Cambridge_4F13_2526_en/14_gpy_tutorial_en.pdf"
+    },
+    {
+      "lib": "gaussian_process_literature",
+      "path": "/root/gaussian_process_literature/courses/Cambridge_4F13_2526_en/10_hyperparameters_en.pdf"
+    },
+    {
+      "lib": "gaussian_process_literature",
+      "path": "/root/gaussian_process_literature/courses/Cambridge_4F13_2526_en/01_modelling_data_en.pdf"
+    },
+    {
+      "lib": "gaussian_process_literature",
+      "path": "/root/gaussian_process_literature/courses/Cambridge_4F13_2526_en/11_correspondence_en.pdf"
+    },
+    {
+      "lib": "gaussian_process_literature",
+      "path": "/root/gaussian_process_literature/courses/Cambridge_4F13_2526_en/04_probability_fundamentals_en.pdf"
+    },
+    {
+      "lib": "gaussian_process_literature",
+      "path": "/root/gaussian_process_literature/courses/Cambridge_4F13_2526_en/07_parameters_and_functions_en.pdf"
+    },
+    {
+      "lib": "gaussian_process_literature",
+      "path": "/root/gaussian_process_literature/courses/Cambridge_4F13_2526_en/06_marginal_likelihood_en.pdf"
+    },
+    {
+      "lib": "gaussian_process_literature",
+      "path": "/root/gaussian_process_literature/courses/Cambridge_4F13_2526_en/09_gp_and_data_en.pdf"
+    },
+    {
+      "lib": "gaussian_process_literature",
+      "path": "/root/gaussian_process_literature/courses/Cambridge_4F13_2526_en/12_infinite_en.pdf"
+    },
+    {
+      "lib": "gaussian_process_literature",
+      "path": "/root/gaussian_process_literature/courses/Cambridge_4F13_2526_en/13_covariance_functions_en.pdf"
+    },
+    {
+      "lib": "gaussian_process_literature",
+      "path": "/root/gaussian_process_literature/courses/Cambridge_4F13_2526_en/03_likelihood_and_noise_en.pdf"
+    },
+    {
+      "lib": "gaussian_process_literature",
+      "path": "/root/gaussian_process_literature/courses/GPSS_2025_Manchester_slides_en/05_Pouplin2025_en.pdf"
+    },
+    {
+      "lib": "gaussian_process_literature",
+      "path": "/root/gaussian_process_literature/courses/GPSS_2025_Manchester_slides_en/01_Ek2025_en.pdf"
+    },
+    {
+      "lib": "gaussian_process_literature",
+      "path": "/root/gaussian_process_literature/courses/GPSS_2025_Manchester_slides_en/04_Giraldo2025_en.pdf"
+    },
+    {
+      "lib": "gaussian_process_literature",
+      "path": "/root/gaussian_process_literature/courses/GPSS_2025_Manchester_slides_en/03_DeBoi2025_en.pdf"
+    },
+    {
+      "lib": "gaussian_process_literature",
+      "path": "/root/gaussian_process_literature/courses/GPSS_2025_Manchester_slides_en/08_Wilkinson2025_en.pdf"
+    },
+    {
+      "lib": "gaussian_process_literature",
+      "path": "/root/gaussian_process_literature/courses/GPSS_2025_Manchester_slides_en/02_Alvarez2025_en.pdf"
+    },
+    {
+      "lib": "gaussian_process_literature",
+      "path": "/root/gaussian_process_literature/courses/GPSS_2025_Manchester_slides_en/06_Ek2025_bnn_en.pdf"
+    },
+    {
+      "lib": "gaussian_process_literature",
+      "path": "/root/gaussian_process_literature/courses/GPSS_2025_Manchester_slides_en/07_Moss2025_en.pdf"
+    },
+    {
+      "lib": "gaussian_process_literature",
+      "path": "/root/gaussian_process_literature/courses/WashU_CSE515T_F24_en/01_syllabus_en.pdf"
+    },
+    {
+      "lib": "gaussian_process_literature",
+      "path": "/root/gaussian_process_literature/courses/WashU_CSE515T_F24_en/13_10_en.pdf"
+    },
+    {
+      "lib": "gaussian_process_literature",
+      "path": "/root/gaussian_process_literature/courses/WashU_CSE515T_F24_en/04_assignment_2_en.pdf"
+    },
+    {
+      "lib": "gaussian_process_literature",
+      "path": "/root/gaussian_process_literature/courses/WashU_CSE515T_F24_en/12_9_en.pdf"
+    },
+    {
+      "lib": "gaussian_process_literature",
+      "path": "/root/gaussian_process_literature/courses/WashU_CSE515T_F24_en/05_1_en.pdf"
+    },
+    {
+      "lib": "gaussian_process_literature",
+      "path": "/root/gaussian_process_literature/courses/WashU_CSE515T_F24_en/08_5_en.pdf"
+    },
+    {
+      "lib": "gaussian_process_literature",
+      "path": "/root/gaussian_process_literature/courses/WashU_CSE515T_F24_en/10_7_en.pdf"
+    },
+    {
+      "lib": "gaussian_process_literature",
+      "path": "/root/gaussian_process_literature/courses/WashU_CSE515T_F24_en/03_assignment_1_en.pdf"
+    },
+    {
+      "lib": "gaussian_process_literature",
+      "path": "/root/gaussian_process_literature/courses/WashU_CSE515T_F24_en/09_6_en.pdf"
+    },
+    {
+      "lib": "gaussian_process_literature",
+      "path": "/root/gaussian_process_literature/courses/WashU_CSE515T_F24_en/06_2_en.pdf"
+    },
+    {
+      "lib": "gaussian_process_literature",
+      "path": "/root/gaussian_process_literature/courses/WashU_CSE515T_F24_en/11_8_en.pdf"
+    },
+    {
+      "lib": "gaussian_process_literature",
+      "path": "/root/gaussian_process_literature/courses/WashU_CSE515T_F24_en/14_14_en.pdf"
+    },
+    {
+      "lib": "gaussian_process_literature",
+      "path": "/root/gaussian_process_literature/courses/WashU_CSE515T_F24_en/02_project_en.pdf"
+    },
+    {
+      "lib": "gaussian_process_literature",
+      "path": "/root/gaussian_process_literature/courses/WashU_CSE515T_F24_en/07_4_en.pdf"
+    },
+    {
+      "lib": "gaussian_process_literature",
+      "path": "/root/gaussian_process_literature/courses/CMU_10424_624_S25_en/38_Rec2_Handout_en.pdf"
+    },
+    {
+      "lib": "gaussian_process_literature",
+      "path": "/root/gaussian_process_literature/courses/CMU_10424_624_S25_en/35_Midterm_Notes_en.pdf"
+    },
+    {
+      "lib": "gaussian_process_literature",
+      "path": "/root/gaussian_process_literature/courses/CMU_10424_624_S25_en/24_Lecture15_Slides_en.pdf"
+    },
+    {
+      "lib": "gaussian_process_literature",
+      "path": "/root/gaussian_process_literature/courses/CMU_10424_624_S25_en/32_Lecture21_en.pdf"
+    },
+    {
+      "lib": "gaussian_process_literature",
+      "path": "/root/gaussian_process_literature/courses/CMU_10424_624_S25_en/34_Lecture24_en.pdf"
+    },
+    {
+      "lib": "gaussian_process_literature",
+      "path": "/root/gaussian_process_literature/courses/CMU_10424_624_S25_en/36_Rec1_en.pdf"
+    },
+    {
+      "lib": "gaussian_process_literature",
+      "path": "/root/gaussian_process_literature/courses/CMU_10424_624_S25_en/17_Lecture12_en.pdf"
+    },
+    {
+      "lib": "gaussian_process_literature",
+      "path": "/root/gaussian_process_literature/courses/CMU_10424_624_S25_en/09_Lecture7_en.pdf"
+    },
+    {
+      "lib": "gaussian_process_literature",
+      "path": "/root/gaussian_process_literature/courses/CMU_10424_624_S25_en/33_Lecture23_en.pdf"
+    },
+    {
+      "lib": "gaussian_process_literature",
+      "path": "/root/gaussian_process_literature/courses/CMU_10424_624_S25_en/39_Rec3_Handout_en.pdf"
+    },
+    {
+      "lib": "gaussian_process_literature",
+      "path": "/root/gaussian_process_literature/courses/CMU_10424_624_S25_en/25_Lecture16_Slides_en.pdf"
+    },
+    {
+      "lib": "gaussian_process_literature",
+      "path": "/root/gaussian_process_literature/courses/CMU_10424_624_S25_en/23_Lecture15_en.pdf"
+    },
+    {
+      "lib": "gaussian_process_literature",
+      "path": "/root/gaussian_process_literature/courses/CMU_10424_624_S25_en/40_Rec4_Handout_en.pdf"
+    },
+    {
+      "lib": "gaussian_process_literature",
+      "path": "/root/gaussian_process_literature/courses/CMU_10424_624_S25_en/29_Lecture19_en.pdf"
+    },
+    {
+      "lib": "gaussian_process_literature",
+      "path": "/root/gaussian_process_literature/courses/CMU_10424_624_S25_en/21_Lecture14_en.pdf"
+    },
+    {
+      "lib": "gaussian_process_literature",
+      "path": "/root/gaussian_process_literature/courses/CMU_10424_624_S25_en/10_Lecture7_Slides_en.pdf"
+    },
+    {
+      "lib": "gaussian_process_literature",
+      "path": "/root/gaussian_process_literature/courses/CMU_10424_624_S25_en/04_Lecture3_en.pdf"
+    },
+    {
+      "lib": "gaussian_process_literature",
+      "path": "/root/gaussian_process_literature/courses/CMU_10424_624_S25_en/42_HW624_en.pdf"
+    },
+    {
+      "lib": "gaussian_process_literature",
+      "path": "/root/gaussian_process_literature/courses/CMU_10424_624_S25_en/11_Lecture8_en.pdf"
+    },
+    {
+      "lib": "gaussian_process_literature",
+      "path": "/root/gaussian_process_literature/courses/CMU_10424_624_S25_en/22_Lecture14_Slides_en.pdf"
+    },
+    {
+      "lib": "gaussian_process_literature",
+      "path": "/root/gaussian_process_literature/courses/CMU_10424_624_S25_en/37_Rec1_Handout_en.pdf"
+    },
+    {
+      "lib": "gaussian_process_literature",
+      "path": "/root/gaussian_process_literature/courses/CMU_10424_624_S25_en/43_Project_en.pdf"
+    },
+    {
+      "lib": "gaussian_process_literature",
+      "path": "/root/gaussian_process_literature/courses/CMU_10424_624_S25_en/05_Lecture4_en.pdf"
+    },
+    {
+      "lib": "gaussian_process_literature",
+      "path": "/root/gaussian_process_literature/courses/CMU_10424_624_S25_en/26_Lecture17_en.pdf"
+    },
+    {
+      "lib": "gaussian_process_literature",
+      "path": "/root/gaussian_process_literature/courses/CMU_10424_624_S25_en/18_Lecture12_Slides_en.pdf"
+    },
+    {
+      "lib": "gaussian_process_literature",
+      "path": "/root/gaussian_process_literature/courses/CMU_10424_624_S25_en/07_Lecture5_en.pdf"
+    },
+    {
+      "lib": "gaussian_process_literature",
+      "path": "/root/gaussian_process_literature/courses/CMU_10424_624_S25_en/12_Lecture9_en.pdf"
+    },
+    {
+      "lib": "gaussian_process_literature",
+      "path": "/root/gaussian_process_literature/courses/CMU_10424_624_S25_en/08_Lecture6_en.pdf"
+    },
+    {
+      "lib": "gaussian_process_literature",
+      "path": "/root/gaussian_process_literature/courses/CMU_10424_624_S25_en/13_Lecture9_Slides_en.pdf"
+    },
+    {
+      "lib": "gaussian_process_literature",
+      "path": "/root/gaussian_process_literature/courses/CMU_10424_624_S25_en/01_Lecture1_en.pdf"
+    },
+    {
+      "lib": "gaussian_process_literature",
+      "path": "/root/gaussian_process_literature/courses/CMU_10424_624_S25_en/14_Lecture10_en.pdf"
+    },
+    {
+      "lib": "gaussian_process_literature",
+      "path": "/root/gaussian_process_literature/courses/CMU_10424_624_S25_en/41_Rec5_en.pdf"
+    },
+    {
+      "lib": "gaussian_process_literature",
+      "path": "/root/gaussian_process_literature/courses/CMU_10424_624_S25_en/27_Lecture17_Slides_en.pdf"
+    },
+    {
+      "lib": "gaussian_process_literature",
+      "path": "/root/gaussian_process_literature/courses/CMU_10424_624_S25_en/03_Lecture2_en.pdf"
+    },
+    {
+      "lib": "gaussian_process_literature",
+      "path": "/root/gaussian_process_literature/courses/CMU_10424_624_S25_en/15_Lecture11_en.pdf"
+    },
+    {
+      "lib": "gaussian_process_literature",
+      "path": "/root/gaussian_process_literature/courses/CMU_10424_624_S25_en/31_Lecture20_en.pdf"
+    },
+    {
+      "lib": "gaussian_process_literature",
+      "path": "/root/gaussian_process_literature/courses/CMU_10424_624_S25_en/20_Lecture13_Slides_en.pdf"
+    },
+    {
+      "lib": "gaussian_process_literature",
+      "path": "/root/gaussian_process_literature/courses/CMU_10424_624_S25_en/02_Lecture1_Slides_en.pdf"
+    },
+    {
+      "lib": "gaussian_process_literature",
+      "path": "/root/gaussian_process_literature/courses/CMU_10424_624_S25_en/06_Lecture4_Slides_en.pdf"
+    },
+    {
+      "lib": "gaussian_process_literature",
+      "path": "/root/gaussian_process_literature/courses/CMU_10424_624_S25_en/30_Lecture19_Slides_en.pdf"
+    },
+    {
+      "lib": "gaussian_process_literature",
+      "path": "/root/gaussian_process_literature/courses/CMU_10424_624_S25_en/16_Lecture11_Slides_en.pdf"
+    },
+    {
+      "lib": "gaussian_process_literature",
+      "path": "/root/gaussian_process_literature/courses/CMU_10424_624_S25_en/19_Lecture13_en.pdf"
+    },
+    {
+      "lib": "gaussian_process_literature",
+      "path": "/root/gaussian_process_literature/courses/CMU_10424_624_S25_en/28_Lecture18_en.pdf"
+    },
+    {
+      "lib": "gaussian_process_literature",
+      "path": "/root/gaussian_process_literature/courses/GPSS_2024_Manchester_slides_en/02_Wilkinson2024_en.pdf"
+    },
+    {
+      "lib": "gaussian_process_literature",
+      "path": "/root/gaussian_process_literature/courses/GPSS_2024_Manchester_slides_en/01_Ek2024_en.pdf"
+    },
+    {
+      "lib": "gaussian_process_literature",
+      "path": "/root/gaussian_process_literature/courses/GPSS_2024_Manchester_slides_en/04_Semenova2024_en.pdf"
+    },
+    {
+      "lib": "gaussian_process_literature",
+      "path": "/root/gaussian_process_literature/courses/GPSS_2024_Manchester_slides_en/07_Moss2024_en.pdf"
+    },
+    {
+      "lib": "gaussian_process_literature",
+      "path": "/root/gaussian_process_literature/courses/GPSS_2024_Manchester_slides_en/03_LanyonS2024_en.pdf"
+    },
+    {
+      "lib": "gaussian_process_literature",
+      "path": "/root/gaussian_process_literature/courses/GPSS_2024_Manchester_slides_en/05_Ti2024_en.pdf"
+    },
+    {
+      "lib": "gaussian_process_literature",
+      "path": "/root/gaussian_process_literature/courses/GPSS_2024_Manchester_slides_en/08_Ginsbourger2024_en.pdf"
+    },
+    {
+      "lib": "gaussian_process_literature",
+      "path": "/root/gaussian_process_literature/courses/GPSS_2024_Manchester_slides_en/06_Rattray2024_en.pdf"
+    },
+    {
+      "lib": "gaussian_process_literature",
+      "path": "/root/gaussian_process_literature/courses/Tuebingen_NumericsOfML_notes_en/slides/06_SolvingODEs.pdf"
+    },
+    {
+      "lib": "gaussian_process_literature",
+      "path": "/root/gaussian_process_literature/courses/Tuebingen_NumericsOfML_notes_en/slides/14_ConclusionAndSummary.pdf"
+    },
+    {
+      "lib": "gaussian_process_literature",
+      "path": "/root/gaussian_process_literature/courses/Tuebingen_NumericsOfML_notes_en/slides/05_StateSpaceModels.pdf"
+    },
+    {
+      "lib": "gaussian_process_literature",
+      "path": "/root/gaussian_process_literature/courses/Tuebingen_NumericsOfML_notes_en/slides/09_MonteCarlo.pdf"
+    },
+    {
+      "lib": "gaussian_process_literature",
+      "path": "/root/gaussian_process_literature/courses/Tuebingen_NumericsOfML_notes_en/slides/11_OptimizationForDL.pdf"
+    },
+    {
+      "lib": "gaussian_process_literature",
+      "path": "/root/gaussian_process_literature/courses/Tuebingen_NumericsOfML_notes_en/slides/08_PDEs.pdf"
+    },
+    {
+      "lib": "gaussian_process_literature",
+      "path": "/root/gaussian_process_literature/courses/Tuebingen_NumericsOfML_notes_en/slides/07_ODEFilters.pdf"
+    },
+    {
+      "lib": "gaussian_process_literature",
+      "path": "/root/gaussian_process_literature/courses/Tuebingen_NumericsOfML_notes_en/slides/13_UncertaintyInDL.pdf"
+    },
+    {
+      "lib": "gaussian_process_literature",
+      "path": "/root/gaussian_process_literature/courses/Tuebingen_NumericsOfML_notes_en/slides/04_ComputationAwareGPs.pdf"
+    },
+    {
+      "lib": "gaussian_process_literature",
+      "path": "/root/gaussian_process_literature/courses/Tuebingen_NumericsOfML_notes_en/slides/01_Intro.pdf"
+    },
+    {
+      "lib": "gaussian_process_literature",
+      "path": "/root/gaussian_process_literature/courses/Tuebingen_NumericsOfML_notes_en/slides/03_ScalingGPs.pdf"
+    },
+    {
+      "lib": "gaussian_process_literature",
+      "path": "/root/gaussian_process_literature/courses/Tuebingen_NumericsOfML_notes_en/slides/10_BayesianQuadrature.pdf"
+    },
+    {
+      "lib": "gaussian_process_literature",
+      "path": "/root/gaussian_process_literature/courses/Tuebingen_NumericsOfML_notes_en/slides/02_LinearAlgebra.pdf"
+    },
+    {
+      "lib": "gaussian_process_literature",
+      "path": "/root/gaussian_process_literature/courses/Tuebingen_NumericsOfML_notes_en/slides/12_SecondOrderOptimization.pdf"
+    },
+    {
+      "lib": "gaussian_process_literature",
+      "path": "/root/gaussian_process_literature/courses/Tuebingen_NumericsOfML_notes_en/exercises/12_Second_Order_Optimization/Exercise_12.pdf"
+    },
+    {
+      "lib": "gaussian_process_literature",
+      "path": "/root/gaussian_process_literature/courses/Tuebingen_NumericsOfML_notes_en/exercises/11_Deep_Learning_Optimization/Exercise_11.pdf"
+    },
+    {
+      "lib": "gaussian_process_literature",
+      "path": "/root/gaussian_process_literature/courses/Tuebingen_NumericsOfML_notes_en/exercises/11_Deep_Learning_Optimization/Exercise_11_Solution.pdf"
+    },
+    {
+      "lib": "gaussian_process_literature",
+      "path": "/root/gaussian_process_literature/courses/Tuebingen_PML_2023_slides_en/slides/17.pdf"
+    },
+    {
+      "lib": "gaussian_process_literature",
+      "path": "/root/gaussian_process_literature/courses/Tuebingen_PML_2023_slides_en/slides/14.pdf"
+    },
+    {
+      "lib": "gaussian_process_literature",
+      "path": "/root/gaussian_process_literature/courses/Tuebingen_PML_2023_slides_en/slides/04.pdf"
+    },
+    {
+      "lib": "gaussian_process_literature",
+      "path": "/root/gaussian_process_literature/courses/Tuebingen_PML_2023_slides_en/slides/07.pdf"
+    },
+    {
+      "lib": "gaussian_process_literature",
+      "path": "/root/gaussian_process_literature/courses/Tuebingen_PML_2023_slides_en/slides/20.pdf"
+    },
+    {
+      "lib": "gaussian_process_literature",
+      "path": "/root/gaussian_process_literature/courses/Tuebingen_PML_2023_slides_en/slides/23.pdf"
+    },
+    {
+      "lib": "gaussian_process_literature",
+      "path": "/root/gaussian_process_literature/courses/Tuebingen_PML_2023_slides_en/slides/12.pdf"
+    },
+    {
+      "lib": "gaussian_process_literature",
+      "path": "/root/gaussian_process_literature/courses/Tuebingen_PML_2023_slides_en/slides/02.pdf"
+    },
+    {
+      "lib": "gaussian_process_literature",
+      "path": "/root/gaussian_process_literature/courses/Tuebingen_PML_2023_slides_en/slides/03.pdf"
+    },
+    {
+      "lib": "gaussian_process_literature",
+      "path": "/root/gaussian_process_literature/courses/Tuebingen_PML_2023_slides_en/slides/01.pdf"
+    },
+    {
+      "lib": "gaussian_process_literature",
+      "path": "/root/gaussian_process_literature/courses/Tuebingen_PML_2023_slides_en/slides/05.pdf"
+    },
+    {
+      "lib": "gaussian_process_literature",
+      "path": "/root/gaussian_process_literature/courses/Tuebingen_PML_2023_slides_en/slides/18.pdf"
+    },
+    {
+      "lib": "gaussian_process_literature",
+      "path": "/root/gaussian_process_literature/courses/Tuebingen_PML_2023_slides_en/slides/16.pdf"
+    },
+    {
+      "lib": "gaussian_process_literature",
+      "path": "/root/gaussian_process_literature/courses/Tuebingen_PML_2023_slides_en/slides/06.pdf"
+    },
+    {
+      "lib": "gaussian_process_literature",
+      "path": "/root/gaussian_process_literature/courses/Tuebingen_PML_2023_slides_en/slides/25.pdf"
+    },
+    {
+      "lib": "gaussian_process_literature",
+      "path": "/root/gaussian_process_literature/courses/Tuebingen_PML_2023_slides_en/slides/19.pdf"
+    },
+    {
+      "lib": "gaussian_process_literature",
+      "path": "/root/gaussian_process_literature/courses/Tuebingen_PML_2023_slides_en/slides/09.pdf"
+    },
+    {
+      "lib": "gaussian_process_literature",
+      "path": "/root/gaussian_process_literature/courses/Tuebingen_PML_2023_slides_en/slides/22.pdf"
+    },
+    {
+      "lib": "gaussian_process_literature",
+      "path": "/root/gaussian_process_literature/courses/Tuebingen_PML_2023_slides_en/slides/15.pdf"
+    },
+    {
+      "lib": "gaussian_process_literature",
+      "path": "/root/gaussian_process_literature/courses/Tuebingen_PML_2023_slides_en/slides/08.pdf"
+    },
+    {
+      "lib": "gaussian_process_literature",
+      "path": "/root/gaussian_process_literature/courses/Tuebingen_PML_2023_slides_en/slides/24.pdf"
+    },
+    {
+      "lib": "gaussian_process_literature",
+      "path": "/root/gaussian_process_literature/courses/Tuebingen_PML_2023_slides_en/slides/11.pdf"
+    },
+    {
+      "lib": "gaussian_process_literature",
+      "path": "/root/gaussian_process_literature/courses/Tuebingen_PML_2023_slides_en/slides/10.pdf"
+    },
+    {
+      "lib": "gaussian_process_literature",
+      "path": "/root/gaussian_process_literature/courses/Tuebingen_PML_2023_slides_en/slides/13.pdf"
+    },
+    {
+      "lib": "gaussian_process_literature",
+      "path": "/root/gaussian_process_literature/courses/Tuebingen_PML_2023_slides_en/slides/21.pdf"
+    },
+    {
+      "lib": "gaussian_process_literature",
+      "path": "/root/gaussian_process_literature/12_practice_deployment/papers/2024_Waxman_GaussianProcessStreamingAlgorithm_en.pdf"
+    },
+    {
+      "lib": "gaussian_process_literature",
+      "path": "/root/gaussian_process_literature/12_practice_deployment/papers/2025_Bucci_NumericalStabilityNystromMethod_en.pdf"
+    },
+    {
+      "lib": "gaussian_process_literature",
+      "path": "/root/gaussian_process_literature/12_practice_deployment/papers/2026_Johnson_BrittlenessMaximumLikelihoodEstimation_en.pdf"
+    },
+    {
+      "lib": "gaussian_process_literature",
+      "path": "/root/gaussian_process_literature/12_practice_deployment/papers/2026_Basson_BayesianGaussianProcessLatent_en.pdf"
+    },
+    {
+      "lib": "gaussian_process_literature",
+      "path": "/root/gaussian_process_literature/12_practice_deployment/papers/2025_Jeong_ConvergencePivotedCholeskyLipschitz_en.pdf"
+    },
+    {
+      "lib": "gaussian_process_literature",
+      "path": "/root/gaussian_process_literature/12_practice_deployment/papers/2024_Chen_PrecisionCholeskyFactorEstimation_en.pdf"
+    },
+    {
+      "lib": "gaussian_process_literature",
+      "path": "/root/gaussian_process_literature/12_practice_deployment/papers/2025_Yang_StreamingGeneratedGaussianProcess_en.pdf"
+    },
+    {
+      "lib": "gaussian_process_literature",
+      "path": "/root/gaussian_process_literature/12_practice_deployment/papers/2025_Vashishtha_StreamingSparseCholeskyMethod_en.pdf"
+    },
+    {
+      "lib": "gaussian_process_literature",
+      "path": "/root/gaussian_process_literature/12_practice_deployment/papers/2025_Roos_NovelPivotedCholeskyDecompositions_en.pdf"
+    },
+    {
+      "lib": "gaussian_process_literature",
+      "path": "/root/gaussian_process_literature/02_gp_regression/papers/2005_QuinoneroCandela_UnifyingViewSparseApproximate_en.pdf"
+    },
+    {
+      "lib": "gaussian_process_literature",
+      "path": "/root/gaussian_process_literature/02_gp_regression/papers/2024_Lin_WarmStartMarginalLikelihood_en.pdf"
+    },
+    {
+      "lib": "gaussian_process_literature",
+      "path": "/root/gaussian_process_literature/02_gp_regression/papers/2024_Lyu_ReviewRecentAdvancesGaussian_en.pdf"
+    },
+    {
+      "lib": "gaussian_process_literature",
+      "path": "/root/gaussian_process_literature/02_gp_regression/papers/2024_Besginow_LaplaceApproximationModelSelection_en.pdf"
+    },
+    {
+      "lib": "gaussian_process_literature",
+      "path": "/root/gaussian_process_literature/02_gp_regression/papers/2025_Li_GaussianProcessRegressionUncertainty_en.pdf"
+    },
+    {
+      "lib": "gaussian_process_literature",
+      "path": "/root/gaussian_process_literature/02_gp_regression/papers/2023_Fichera_ImplicitManifoldGaussianProcess_en.pdf"
+    },
+    {
+      "lib": "gaussian_process_literature",
+      "path": "/root/gaussian_process_literature/02_gp_regression/papers/2025_Do_SamplingGaussianProcessesTutorial_en.pdf"
+    },
+    {
+      "lib": "gaussian_process_literature",
+      "path": "/root/gaussian_process_literature/02_gp_regression/papers/2024_Wenger_ComputationAwareGaussianProcesses_en.pdf"
+    },
+    {
+      "lib": "gaussian_process_literature",
+      "path": "/root/gaussian_process_literature/02_gp_regression/papers/2023_Altamirano_RobustConjugateGaussianProcess_en.pdf"
+    },
+    {
+      "lib": "gaussian_process_literature",
+      "path": "/root/gaussian_process_literature/08_bayesian_optimization/papers/2025_Alvi_DeepGaussianProcessCost_en.pdf"
+    },
+    {
+      "lib": "gaussian_process_literature",
+      "path": "/root/gaussian_process_literature/08_bayesian_optimization/papers/2018_Frazier_TutorialBayesianOptimization_en.pdf"
+    },
+    {
+      "lib": "gaussian_process_literature",
+      "path": "/root/gaussian_process_literature/08_bayesian_optimization/papers/2024_Wei_ScalableBayesianOptimizationFocalized_en.pdf"
+    },
+    {
+      "lib": "gaussian_process_literature",
+      "path": "/root/gaussian_process_literature/08_bayesian_optimization/papers/2025_Iwazaki_ImprovedRegretBoundsGaussian_en.pdf"
+    },
+    {
+      "lib": "gaussian_process_literature",
+      "path": "/root/gaussian_process_literature/08_bayesian_optimization/papers/2026_Goswami_TutorialReviewBayesianOptimization_en.pdf"
+    },
+    {
+      "lib": "gaussian_process_literature",
+      "path": "/root/gaussian_process_literature/08_bayesian_optimization/papers/2026_Suwandi_RobustBayesianOptimizationQ_en.pdf"
+    },
+    {
+      "lib": "gaussian_process_literature",
+      "path": "/root/gaussian_process_literature/08_bayesian_optimization/papers/2025_Kronenwett_BayesianOptimizationProcessParameters_en.pdf"
+    },
+    {
+      "lib": "gaussian_process_literature",
+      "path": "/root/gaussian_process_literature/08_bayesian_optimization/papers/2025_GarridoMerchan_InformationTheoreticBayesianOptimization_en.pdf"
+    },
+    {
+      "lib": "gaussian_process_literature",
+      "path": "/root/gaussian_process_literature/08_bayesian_optimization/papers/2024_GonzalezDuque_SurveyBenchmarkHighDimensional_en.pdf"
+    },
+    {
+      "lib": "gaussian_process_literature",
+      "path": "/root/gaussian_process_literature/08_bayesian_optimization/papers/2012_Snoek_PracticalBayesianOptimizationMachine_en.pdf"
+    },
+    {
+      "lib": "gaussian_process_literature",
+      "path": "/root/gaussian_process_literature/08_bayesian_optimization/papers/2025_Candelieri_WassersteinBarycenterGaussianProcess_en.pdf"
+    },
+    {
+      "lib": "gaussian_process_literature",
+      "path": "/root/gaussian_process_literature/10_environment_industry/papers/2024_Duan_AugmentingGroundLevelPM2_en.pdf"
+    },
+    {
+      "lib": "gaussian_process_literature",
+      "path": "/root/gaussian_process_literature/10_environment_industry/papers/2024_Luis_DeepReinforcementMultiAgent_en.pdf"
+    },
+    {
+      "lib": "gaussian_process_literature",
+      "path": "/root/gaussian_process_literature/10_environment_industry/papers/2025_Chen_DeepClassifierKrigingProbabilistic_en.pdf"
+    },
+    {
+      "lib": "gaussian_process_literature",
+      "path": "/root/gaussian_process_literature/10_environment_industry/papers/2025_Perry_DetectingUrbanPM2_en.pdf"
+    },
+    {
+      "lib": "gaussian_process_literature",
+      "path": "/root/gaussian_process_literature/10_environment_industry/papers/2025_Yang_InductiveSpatioTemporalKriging_en.pdf"
+    },
+    {
+      "lib": "gaussian_process_literature",
+      "path": "/root/gaussian_process_literature/10_environment_industry/papers/2025_Mohamed_ComparisonBetweenGeostatisticalMachine_en.pdf"
+    },
+    {
+      "lib": "gaussian_process_literature",
+      "path": "/root/gaussian_process_literature/10_environment_industry/papers/2023_Stoddart_GaussianProcessesMonitoringAir_en.pdf"
+    },
+    {
+      "lib": "gaussian_process_literature",
+      "path": "/root/gaussian_process_literature/10_environment_industry/papers/2025_Idir_MappingUrbanAirQuality_en.pdf"
+    },
+    {
+      "lib": "gaussian_process_literature",
+      "path": "/root/gaussian_process_literature/04_scalable_inference/papers/2024_Szabo_VecchiaGaussianProcesses_en.pdf"
+    },
+    {
+      "lib": "gaussian_process_literature",
+      "path": "/root/gaussian_process_literature/04_scalable_inference/papers/2024_Jiang_ScalableMultiOutputGaussian_en.pdf"
+    },
+    {
+      "lib": "gaussian_process_literature",
+      "path": "/root/gaussian_process_literature/04_scalable_inference/papers/2013_Hensman_GaussianProcessesBigData_en.pdf"
+    },
+    {
+      "lib": "gaussian_process_literature",
+      "path": "/root/gaussian_process_literature/04_scalable_inference/papers/2017_Katzfuss_GeneralFrameworkVecchiaApproximations_en.pdf"
+    },
+    {
+      "lib": "gaussian_process_literature",
+      "path": "/root/gaussian_process_literature/04_scalable_inference/papers/2025_Lin_ScalableGaussianProcessesLatent_en.pdf"
+    },
+    {
+      "lib": "gaussian_process_literature",
+      "path": "/root/gaussian_process_literature/04_scalable_inference/papers/2024_Pan_BlockVecchiaApproximationScalable_en.pdf"
+    },
+    {
+      "lib": "gaussian_process_literature",
+      "path": "/root/gaussian_process_literature/04_scalable_inference/papers/2009_Titsias_VariationalLearningInducingVariables_en.pdf"
+    },
+    {
+      "lib": "gaussian_process_literature",
+      "path": "/root/gaussian_process_literature/04_scalable_inference/papers/2014_Datta_HierarchicalNearestNeighborGaussian_en.pdf"
+    },
+    {
+      "lib": "gaussian_process_literature",
+      "path": "/root/gaussian_process_literature/04_scalable_inference/papers/2024_Kang_AsymptoticPropertiesVecchiaApproximation_en.pdf"
+    },
+    {
+      "lib": "gaussian_process_literature",
+      "path": "/root/gaussian_process_literature/04_scalable_inference/papers/2025_Dong_WarmStartingIterativeGaussian_en.pdf"
+    },
+    {
+      "lib": "gaussian_process_literature",
+      "path": "/root/gaussian_process_literature/04_scalable_inference/papers/2025_Gyger_VecchiaInducingPointsFull_en.pdf"
+    },
+    {
+      "lib": "gaussian_process_literature",
+      "path": "/root/gaussian_process_literature/04_scalable_inference/papers/2025_Bui_TighterSparseVariationalGaussian_en.pdf"
+    }
+  ]
+}

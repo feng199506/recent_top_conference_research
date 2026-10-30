@@ -1,0 +1,3022 @@
+{
+  "D02-001": {
+    "sid": "D02-001",
+    "url": "https://github.com/complex-ai-lab/m-spice",
+    "owner": "complex-ai-lab",
+    "repo": "m-spice",
+    "commit": "d14fdf1d4b33c2856c9d57eba2ed3216d6bd6d48",
+    "path": "code/D02-001_complex-ai-lab_m-spice_en",
+    "official_evidence": "未核实官方归属（仅仓库存在）",
+    "code_kind": "C",
+    "license_file": "LICENSE",
+    "license_name": "mit license",
+    "readme": [
+      "readme.md"
+    ],
+    "entries": [
+      "src/forecaster/eval.py"
+    ],
+    "configs": [],
+    "deps": [
+      "requirements.txt"
+    ],
+    "tests": [],
+    "notebooks": [],
+    "n_files": 19,
+    "truncated_listing": false,
+    "has_gitmodules": false,
+    "has_lfs_pointers": false,
+    "missing": [
+      "配置（可能用 argparse）",
+      "测试",
+      "官方归属未证实，按第三方实现登记"
+    ],
+    "level": "L1",
+    "l1_ok": true
+  },
+  "D02-002": {
+    "sid": "D02-002",
+    "code_kind": "D",
+    "level": "",
+    "urls": [],
+    "note": "未在摘要/评论/PDF 首页发现代码链接；未声称已检索穷尽第三方复现"
+  },
+  "D02-003": {
+    "sid": "D02-003",
+    "code_kind": "D",
+    "level": "",
+    "urls": [
+      "https://github.com/NVlabs/ERDM"
+    ],
+    "note": "clone 失败 Cloning into '/root/recent_top_conference_research/code/D02-003_NVlabs_ERDM_en'...\nfatal: could not read Username for 'https://github.com': terminal prompts disabled\n",
+    "tried": "https://github.com/NVlabs/ERDM"
+  },
+  "D02-004": {
+    "sid": "D02-004",
+    "code_kind": "D",
+    "level": "",
+    "urls": [],
+    "note": "未在摘要/评论/PDF 首页发现代码链接；未声称已检索穷尽第三方复现"
+  },
+  "D02-005": {
+    "sid": "D02-005",
+    "url": "https://github.com/Onedean/EAC",
+    "owner": "Onedean",
+    "repo": "EAC",
+    "commit": "0a99297e01e484d56b2dfc845eacbbcf733efd1b",
+    "path": "code/D02-005_Onedean_EAC_en",
+    "official_evidence": "未核实官方归属（仅仓库存在）",
+    "code_kind": "C",
+    "license_file": "",
+    "license_name": "未发现许可证（不标为可自由复用）",
+    "readme": [
+      "readme.md"
+    ],
+    "entries": [
+      "main.py"
+    ],
+    "configs": [
+      "conf/air/oneline_st_an_air.json",
+      "conf/air/stkec.json",
+      "conf/air/pretrain_st_air.json",
+      "conf/air/eac.json",
+      "conf/air/oneline_st_nn_air.json",
+      "conf/air/eac-2.json",
+      "conf/air/retrain_st_air.json",
+      "conf/air/trafficstream.json",
+      "conf/pems/oneline_st_an_pems.json",
+      "conf/pems/stkec.json",
+      "conf/pems/oneline_st_nn_pems.json",
+      "conf/pems/eac.json"
+    ],
+    "deps": [
+      "environment.yaml"
+    ],
+    "tests": [],
+    "notebooks": [
+      "result_statistical.ipynb",
+      "empirical_observation.ipynb"
+    ],
+    "n_files": 2159,
+    "truncated_listing": false,
+    "has_gitmodules": false,
+    "has_lfs_pointers": false,
+    "missing": [
+      "测试",
+      "官方归属未证实，按第三方实现登记"
+    ],
+    "level": "L1",
+    "l1_ok": true
+  },
+  "D02-006": {
+    "sid": "D02-006",
+    "code_kind": "D",
+    "level": "",
+    "urls": [],
+    "note": "未在摘要/评论/PDF 首页发现代码链接；未声称已检索穷尽第三方复现"
+  },
+  "D02-007": {
+    "sid": "D02-007",
+    "code_kind": "D",
+    "level": "",
+    "urls": [],
+    "note": "未在摘要/评论/PDF 首页发现代码链接；未声称已检索穷尽第三方复现"
+  },
+  "D02-008": {
+    "sid": "D02-008",
+    "code_kind": "D",
+    "level": "",
+    "urls": [],
+    "note": "未在摘要/评论/PDF 首页发现代码链接；未声称已检索穷尽第三方复现"
+  },
+  "D02-009": {
+    "sid": "D02-009",
+    "url": "https://github.com/wwy155/NsDiff",
+    "owner": "wwy155",
+    "repo": "NsDiff",
+    "commit": "dd7b97ae0c47629986f72ba01effbbdc1d44be2b",
+    "path": "code/D02-009_wwy155_NsDiff_en",
+    "official_evidence": "未核实官方归属（仅仓库存在）",
+    "code_kind": "C",
+    "license_file": "",
+    "license_name": "未发现许可证（不标为可自由复用）",
+    "readme": [
+      "readme.md"
+    ],
+    "entries": [
+      "scripts/run.sh"
+    ],
+    "configs": [
+      "configs/nsdiff.yml",
+      "configs/tmdm.yml",
+      "configs/csbi.yaml"
+    ],
+    "deps": [
+      "requirements.txt"
+    ],
+    "tests": [],
+    "notebooks": [
+      "notebooks/uncertainty_variation.ipynb"
+    ],
+    "n_files": 122,
+    "truncated_listing": false,
+    "has_gitmodules": false,
+    "has_lfs_pointers": false,
+    "missing": [
+      "测试",
+      "官方归属未证实，按第三方实现登记"
+    ],
+    "level": "L1",
+    "l1_ok": true
+  },
+  "D02-010": {
+    "sid": "D02-010",
+    "code_kind": "D",
+    "level": "",
+    "urls": [],
+    "note": "未在摘要/评论/PDF 首页发现代码链接；未声称已检索穷尽第三方复现"
+  },
+  "D02-011": {
+    "sid": "D02-011",
+    "code_kind": "D",
+    "level": "",
+    "urls": [],
+    "note": "未在摘要/评论/PDF 首页发现代码链接；未声称已检索穷尽第三方复现"
+  },
+  "D02-012": {
+    "sid": "D02-012",
+    "code_kind": "D",
+    "level": "",
+    "urls": [],
+    "note": "未在摘要/评论/PDF 首页发现代码链接；未声称已检索穷尽第三方复现"
+  },
+  "D02-013": {
+    "sid": "D02-013",
+    "url": "https://github.com/JIANGYUE61610306/FSTLLM",
+    "owner": "JIANGYUE61610306",
+    "repo": "FSTLLM",
+    "commit": "bc03847c196ccf3244056aaa85a15b9a51e19b7e",
+    "path": "code/D02-013_JIANGYUE61610306_FSTLLM_en",
+    "official_evidence": "疑似作者（仓库名含作者姓氏）",
+    "code_kind": "A",
+    "license_file": "FSTLLM_STGNN/LICENSE",
+    "license_name": "apache license",
+    "readme": [
+      "readme.md"
+    ],
+    "entries": [
+      "fstllm_stgnn/train.py"
+    ],
+    "configs": [],
+    "deps": [
+      "fstllm_stgnn/requirements.txt"
+    ],
+    "tests": [],
+    "notebooks": [],
+    "n_files": 24,
+    "truncated_listing": false,
+    "has_gitmodules": false,
+    "has_lfs_pointers": false,
+    "missing": [
+      "配置（可能用 argparse）",
+      "测试"
+    ],
+    "level": "L1",
+    "l1_ok": true
+  },
+  "D02-014": {
+    "sid": "D02-014",
+    "url": "https://github.com/WHU-HZY/VIMTS",
+    "owner": "WHU-HZY",
+    "repo": "VIMTS",
+    "commit": "579e0ce260cb073b55178738e449b3b4b2642d2f",
+    "path": "code/D02-014_WHU-HZY_VIMTS_en",
+    "official_evidence": "疑似作者（仓库名含作者姓氏）",
+    "code_kind": "B",
+    "license_file": "",
+    "license_name": "未发现许可证（不标为可自由复用）",
+    "readme": [
+      "readme.md"
+    ],
+    "entries": [],
+    "configs": [
+      "imts/configs/visionts-h.yaml",
+      "imts/configs/meanmodel.yaml",
+      "imts/configs/visionts-l.yaml",
+      "imts/configs/tpatchgnn.yaml",
+      "imts/configs/visionts-b.yaml"
+    ],
+    "deps": [
+      "requirements.txt"
+    ],
+    "tests": [],
+    "notebooks": [],
+    "n_files": 118,
+    "truncated_listing": false,
+    "has_gitmodules": false,
+    "has_lfs_pointers": false,
+    "missing": [
+      "仅部分实现可见"
+    ],
+    "level": "L0",
+    "l1_ok": false
+  },
+  "D02-015": {
+    "sid": "D02-015",
+    "url": "https://github.com/TROUBADOUR000/TimeFilter",
+    "owner": "TROUBADOUR000",
+    "repo": "TimeFilter",
+    "commit": "dffde87e4fff0fdeeebbacde03dc1e432e15b3a1",
+    "path": "code/D02-015_TROUBADOUR000_TimeFilter_en",
+    "official_evidence": "未核实官方归属（仅仓库存在）",
+    "code_kind": "C",
+    "license_file": "",
+    "license_name": "未发现许可证（不标为可自由复用）",
+    "readme": [
+      "readme.md"
+    ],
+    "entries": [
+      "run.py"
+    ],
+    "configs": [],
+    "deps": [
+      "requirements.txt"
+    ],
+    "tests": [],
+    "notebooks": [],
+    "n_files": 44,
+    "truncated_listing": false,
+    "has_gitmodules": false,
+    "has_lfs_pointers": false,
+    "missing": [
+      "配置（可能用 argparse）",
+      "测试",
+      "官方归属未证实，按第三方实现登记"
+    ],
+    "level": "L1",
+    "l1_ok": true
+  },
+  "D02-016": {
+    "sid": "D02-016",
+    "url": "https://github.com/SYLan2019/DSTAGNN",
+    "owner": "SYLan2019",
+    "repo": "DSTAGNN",
+    "commit": "10da0e08ec3cf8845841741b8434fd76fd48ff84",
+    "path": "code/D02-016_SYLan2019_DSTAGNN_en",
+    "official_evidence": "疑似作者（仓库名含作者姓氏）",
+    "code_kind": "B",
+    "license_file": "",
+    "license_name": "未发现许可证（不标为可自由复用）",
+    "readme": [
+      "readme.md"
+    ],
+    "entries": [],
+    "configs": [],
+    "deps": [],
+    "tests": [],
+    "notebooks": [],
+    "n_files": 14,
+    "truncated_listing": false,
+    "has_gitmodules": false,
+    "has_lfs_pointers": false,
+    "missing": [
+      "仅部分实现可见"
+    ],
+    "level": "L0",
+    "l1_ok": false
+  },
+  "D02-017": {
+    "sid": "D02-017",
+    "url": "https://github.com/beginner-sketch/GMRL",
+    "owner": "beginner-sketch",
+    "repo": "GMRL",
+    "commit": "ef37b8a4d3c282c8f1134c2033696fb0ffbe0130",
+    "path": "code/D02-017_beginner-sketch_GMRL_en",
+    "official_evidence": "未核实官方归属（仅仓库存在）",
+    "code_kind": "C",
+    "license_file": "",
+    "license_name": "未发现许可证（不标为可自由复用）",
+    "readme": [
+      "readme.md"
+    ],
+    "entries": [
+      "main.py"
+    ],
+    "configs": [],
+    "deps": [],
+    "tests": [
+      "utils/tester_mutilsource.py"
+    ],
+    "notebooks": [],
+    "n_files": 7,
+    "truncated_listing": false,
+    "has_gitmodules": false,
+    "has_lfs_pointers": false,
+    "missing": [
+      "依赖声明",
+      "配置（可能用 argparse）",
+      "官方归属未证实，按第三方实现登记"
+    ],
+    "level": "L0",
+    "l1_ok": false
+  },
+  "D02-018": {
+    "sid": "D02-018",
+    "url": "https://github.com/Dear-Sloth/SimDiff",
+    "owner": "Dear-Sloth",
+    "repo": "SimDiff",
+    "commit": "36bc1514a9dc46d3d10f36053ff1675dc2b67ce7",
+    "path": "code/D02-018_Dear-Sloth_SimDiff_en",
+    "official_evidence": "未核实官方归属（仅仓库存在）",
+    "code_kind": "C",
+    "license_file": "LICENSE",
+    "license_name": "mit license",
+    "readme": [
+      "readme.md",
+      "script/readme.md"
+    ],
+    "entries": [
+      "run.py"
+    ],
+    "configs": [],
+    "deps": [
+      "requirements.txt"
+    ],
+    "tests": [],
+    "notebooks": [],
+    "n_files": 98,
+    "truncated_listing": false,
+    "has_gitmodules": false,
+    "has_lfs_pointers": false,
+    "missing": [
+      "配置（可能用 argparse）",
+      "测试",
+      "官方归属未证实，按第三方实现登记"
+    ],
+    "level": "L1",
+    "l1_ok": true
+  },
+  "D02-019": {
+    "sid": "D02-019",
+    "code_kind": "D",
+    "level": "",
+    "urls": [],
+    "note": "未在摘要/评论/PDF 首页发现代码链接；未声称已检索穷尽第三方复现"
+  },
+  "D02-020": {
+    "sid": "D02-020",
+    "code_kind": "D",
+    "level": "",
+    "urls": [],
+    "note": "未在摘要/评论/PDF 首页发现代码链接；未声称已检索穷尽第三方复现"
+  },
+  "D02-021": {
+    "sid": "D02-021",
+    "url": "https://github.com/pixelhero98/LLapDiffusion",
+    "owner": "pixelhero98",
+    "repo": "LLapDiffusion",
+    "commit": "0631e65cbac59d23822205573ebc7e180ecf0487",
+    "path": "code/D02-021_pixelhero98_LLapDiffusion_en",
+    "official_evidence": "未核实官方归属（仅仓库存在）",
+    "code_kind": "C",
+    "license_file": "LICENSE",
+    "license_name": "mit license",
+    "readme": [
+      "readme.md"
+    ],
+    "entries": [
+      "llapdiffusion/tools/llapdiff_checkpoint_eval.py"
+    ],
+    "configs": [],
+    "deps": [
+      "requirements.txt",
+      "pyproject.toml"
+    ],
+    "tests": [
+      "tests/test_time_leakage_rope.py",
+      "tests/test_baselines.py",
+      "tests/test_llapdiff_speed_options.py",
+      "tests/test_progress_logging.py",
+      "tests/test_checkpoint_eval_predict_type.py",
+      "tests/test_repository_hygiene.py",
+      "tests/test_llapdiff_cache_equivalence.py",
+      "tests/test_x0_pipeline_parameterization.py"
+    ],
+    "notebooks": [],
+    "n_files": 77,
+    "truncated_listing": false,
+    "has_gitmodules": false,
+    "has_lfs_pointers": false,
+    "missing": [
+      "配置（可能用 argparse）",
+      "官方归属未证实，按第三方实现登记"
+    ],
+    "level": "L1",
+    "l1_ok": true
+  },
+  "D02-022": {
+    "sid": "D02-022",
+    "url": "https://github.com/Meaningfull9502/QuITE",
+    "owner": "Meaningfull9502",
+    "repo": "QuITE",
+    "commit": "5bc9b00a6a9b07ffb48f2c0548cf9c662c087e81",
+    "path": "code/D02-022_Meaningfull9502_QuITE_en",
+    "official_evidence": "未核实官方归属（仅仓库存在）",
+    "code_kind": "C",
+    "license_file": "",
+    "license_name": "未发现许可证（不标为可自由复用）",
+    "readme": [
+      "readme.md"
+    ],
+    "entries": [],
+    "configs": [],
+    "deps": [
+      "requirements.txt"
+    ],
+    "tests": [],
+    "notebooks": [],
+    "n_files": 31,
+    "truncated_listing": false,
+    "has_gitmodules": false,
+    "has_lfs_pointers": false,
+    "missing": [
+      "仅部分实现可见",
+      "官方归属未证实，按第三方实现登记"
+    ],
+    "level": "L0",
+    "l1_ok": false
+  },
+  "D02-023": {
+    "sid": "D02-023",
+    "url": "https://github.com/qianlima-lab/PyOmniTS",
+    "owner": "qianlima-lab",
+    "repo": "PyOmniTS",
+    "commit": "a726f55dbfb5c8ad6b55bd6c763f48aeb98c68c3",
+    "path": "code/D02-023_qianlima-lab_PyOmniTS_en",
+    "official_evidence": "疑似作者（仓库名含作者姓氏）",
+    "code_kind": "B",
+    "license_file": "",
+    "license_name": "未发现许可证（不标为可自由复用）",
+    "readme": [
+      "readme.md"
+    ],
+    "entries": [],
+    "configs": [],
+    "deps": [],
+    "tests": [],
+    "notebooks": [],
+    "n_files": 4,
+    "truncated_listing": false,
+    "has_gitmodules": false,
+    "has_lfs_pointers": false,
+    "missing": [
+      "仅部分实现可见"
+    ],
+    "level": "L0",
+    "l1_ok": false
+  },
+  "D02-024": {
+    "sid": "D02-024",
+    "url": "https://github.com/HKUDS/GraphST",
+    "owner": "HKUDS",
+    "repo": "GraphST",
+    "commit": "ae6b71a696d3b8e8c2e9c6045eefff61ab0ad0a5",
+    "path": "code/D02-024_HKUDS_GraphST_en",
+    "official_evidence": "未核实官方归属（仅仓库存在）",
+    "code_kind": "C",
+    "license_file": "",
+    "license_name": "未发现许可证（不标为可自由复用）",
+    "readme": [
+      "readme.md"
+    ],
+    "entries": [
+      "code/eval.py",
+      "code/batch_train.py",
+      "code/train.py"
+    ],
+    "configs": [
+      "code/config.yaml"
+    ],
+    "deps": [],
+    "tests": [
+      "code/test_data.py"
+    ],
+    "notebooks": [],
+    "n_files": 48,
+    "truncated_listing": false,
+    "has_gitmodules": false,
+    "has_lfs_pointers": false,
+    "missing": [
+      "依赖声明",
+      "官方归属未证实，按第三方实现登记"
+    ],
+    "level": "L0",
+    "l1_ok": false
+  },
+  "D02-025": {
+    "sid": "D02-025",
+    "url": "https://github.com/RupasreeDey/GUARD-KDD2026",
+    "owner": "RupasreeDey",
+    "repo": "GUARD-KDD2026",
+    "commit": "22593ecda437f1b966742787984726283a7126b1",
+    "path": "code/D02-025_RupasreeDey_GUARD-KDD2026_en",
+    "official_evidence": "疑似作者（仓库名含作者姓氏）",
+    "code_kind": "B",
+    "license_file": "LICENSE",
+    "license_name": "mit license",
+    "readme": [
+      "guard_repo/readme.md"
+    ],
+    "entries": [],
+    "configs": [],
+    "deps": [
+      "guard_repo/requirements.txt"
+    ],
+    "tests": [],
+    "notebooks": [],
+    "n_files": 11,
+    "truncated_listing": false,
+    "has_gitmodules": false,
+    "has_lfs_pointers": false,
+    "missing": [
+      "仅部分实现可见"
+    ],
+    "level": "L0",
+    "l1_ok": false
+  },
+  "D02-026": {
+    "sid": "D02-026",
+    "url": "https://github.com/RWLinno/RAST",
+    "owner": "RWLinno",
+    "repo": "RAST",
+    "commit": "4b48a47a002dd8d4151afe47be8f436f0c028a67",
+    "path": "code/D02-026_RWLinno_RAST_en",
+    "official_evidence": "未核实官方归属（仅仓库存在）",
+    "code_kind": "C",
+    "license_file": "LICENSE",
+    "license_name": "mit license",
+    "readme": [
+      "readme.md"
+    ],
+    "entries": [
+      "run.sh",
+      "experiments/evaluate.py",
+      "experiments/train.py",
+      "scripts/data_preparation/run.sh"
+    ],
+    "configs": [],
+    "deps": [],
+    "tests": [],
+    "notebooks": [
+      "scripts/data_visualization/distribution_visualization.ipynb",
+      "scripts/data_visualization/data_visualization.ipynb",
+      "scripts/data_visualization/pred_visualization.ipynb"
+    ],
+    "n_files": 115,
+    "truncated_listing": false,
+    "has_gitmodules": false,
+    "has_lfs_pointers": false,
+    "missing": [
+      "依赖声明",
+      "配置（可能用 argparse）",
+      "测试",
+      "官方归属未证实，按第三方实现登记"
+    ],
+    "level": "L1",
+    "l1_ok": true
+  },
+  "D02-027": {
+    "sid": "D02-027",
+    "url": "https://github.com/andreacini/corel",
+    "owner": "andreacini",
+    "repo": "corel",
+    "commit": "4504c4edf76128bfe657762a41ec9eb043038ca2",
+    "path": "code/D02-027_andreacini_corel_en",
+    "official_evidence": "疑似作者（仓库名含作者姓氏）",
+    "code_kind": "B",
+    "license_file": "LICENSE",
+    "license_name": "mit license",
+    "readme": [
+      "readme.md"
+    ],
+    "entries": [],
+    "configs": [
+      "default_config.yaml",
+      "config/corel/default.yaml",
+      "config/corel/dataset/gpvar.yaml",
+      "config/corel/dataset/la.yaml",
+      "config/corel/dataset/air.yaml",
+      "config/corel/optimizer/lr_default.yaml",
+      "config/corel/optimizer/adam.yaml",
+      "config/corel/model/cornn.yaml",
+      "config/corel/model/corel.yaml",
+      "config/training/default.yaml",
+      "config/training/dataset/gpvar.yaml",
+      "config/training/dataset/la.yaml"
+    ],
+    "deps": [],
+    "tests": [],
+    "notebooks": [],
+    "n_files": 60,
+    "truncated_listing": false,
+    "has_gitmodules": false,
+    "has_lfs_pointers": false,
+    "missing": [
+      "仅部分实现可见"
+    ],
+    "level": "L0",
+    "l1_ok": false
+  },
+  "D02-028": {
+    "sid": "D02-028",
+    "url": "https://github.com/Rose-STL-Lab/dyffusion",
+    "owner": "Rose-STL-Lab",
+    "repo": "dyffusion",
+    "commit": "f34e96a2b9e3df43ba4e1e4461c9e1ffef652e7a",
+    "path": "code/D02-028_Rose-STL-Lab_dyffusion_en",
+    "official_evidence": "未核实官方归属（仅仓库存在）",
+    "code_kind": "C",
+    "license_file": "LICENSE",
+    "license_name": "apache license",
+    "readme": [
+      "readme.md",
+      "src/readme.md",
+      "src/configs/logger/readme.md"
+    ],
+    "entries": [
+      "run.py",
+      "src/train.py"
+    ],
+    "configs": [
+      ".pre-commit-config.yaml",
+      "src/configs/main_config.yaml",
+      "src/configs/local/example_local_config.yaml",
+      "src/configs/callbacks/none.yaml",
+      "src/configs/callbacks/all.yaml",
+      "src/configs/callbacks/default.yaml",
+      "src/configs/callbacks/rich.yaml",
+      "src/configs/callbacks/wandb.yaml",
+      "src/configs/mode/debug.yaml",
+      "src/configs/mode/exp.yaml",
+      "src/configs/mode/debug_ns.yaml",
+      "src/configs/mode/default.yaml"
+    ],
+    "deps": [
+      "pyproject.toml",
+      "setup.py",
+      "setup.cfg"
+    ],
+    "tests": [
+      "src/configs/mode/test.yaml",
+      "tests/__init__.py"
+    ],
+    "notebooks": [],
+    "n_files": 137,
+    "truncated_listing": false,
+    "has_gitmodules": false,
+    "has_lfs_pointers": false,
+    "missing": [
+      "官方归属未证实，按第三方实现登记"
+    ],
+    "level": "L1",
+    "l1_ok": true
+  },
+  "D02-029": {
+    "sid": "D02-029",
+    "code_kind": "D",
+    "level": "",
+    "urls": [],
+    "note": "未在摘要/评论/PDF 首页发现代码链接；未声称已检索穷尽第三方复现"
+  },
+  "D02-030": {
+    "sid": "D02-030",
+    "code_kind": "D",
+    "level": "",
+    "urls": [],
+    "note": "未在摘要/评论/PDF 首页发现代码链接；未声称已检索穷尽第三方复现"
+  },
+  "D02-031": {
+    "sid": "D02-031",
+    "url": "https://github.com/zichuan-liu/ContraLSP",
+    "owner": "zichuan-liu",
+    "repo": "ContraLSP",
+    "commit": "4fd2c72fe2a7075303c0a083e88846cdd9848cc9",
+    "path": "code/D02-031_zichuan-liu_ContraLSP_en",
+    "official_evidence": "疑似作者（仓库名含作者姓氏）",
+    "code_kind": "A",
+    "license_file": "",
+    "license_name": "未发现许可证（不标为可自由复用）",
+    "readme": [
+      "readme.md"
+    ],
+    "entries": [
+      "demo.py",
+      "hmm/main.py",
+      "switchstate/main.py",
+      "mortalty/main.py"
+    ],
+    "configs": [],
+    "deps": [],
+    "tests": [],
+    "notebooks": [],
+    "n_files": 49,
+    "truncated_listing": false,
+    "has_gitmodules": false,
+    "has_lfs_pointers": false,
+    "missing": [
+      "依赖声明",
+      "配置（可能用 argparse）",
+      "测试"
+    ],
+    "level": "L0",
+    "l1_ok": false
+  },
+  "D02-032": {
+    "sid": "D02-032",
+    "url": "https://github.com/kimanki/CANDI",
+    "owner": "kimanki",
+    "repo": "CANDI",
+    "commit": "28c9679e503832f59e351208cde63657fcb51cad",
+    "path": "code/D02-032_kimanki_CANDI_en",
+    "official_evidence": "疑似作者（仓库名含作者姓氏）",
+    "code_kind": "A",
+    "license_file": "LICENSE",
+    "license_name": "mit license",
+    "readme": [
+      "readme.md",
+      "tsb-ad/readme.md",
+      "tsb-ad/tsb_ad/models/readme.md",
+      "tsb-ad/assets/fig/readme_title.png",
+      "tsb-ad/assets/fig/readme_title_2.png"
+    ],
+    "entries": [
+      "main.py",
+      "tsb-ad/tsb_ad/main.py"
+    ],
+    "configs": [],
+    "deps": [
+      "tsb-ad/requirements.txt",
+      "tsb-ad/setup.py"
+    ],
+    "tests": [
+      "results/swat/mlp/5.0/test.txt",
+      "results/swat/mlp/5.0/test_labels.npy",
+      "results/swat/mlp/5.0/test_scores_w_tta.npy",
+      "results/swat/mlp/5.0/test_scores.npy",
+      "results/swat/mlp/0.5/test.txt",
+      "results/swat/mlp/0.5/test_labels.npy",
+      "results/swat/mlp/0.5/test_scores_w_tta.npy",
+      "results/swat/mlp/0.5/test_scores.npy"
+    ],
+    "notebooks": [
+      "tsb-ad/benchmark_exp/visualize_ts.ipynb",
+      "tsb-ad/benchmark_exp/analysis.ipynb"
+    ],
+    "n_files": 332,
+    "truncated_listing": false,
+    "has_gitmodules": false,
+    "has_lfs_pointers": false,
+    "missing": [
+      "配置（可能用 argparse）"
+    ],
+    "level": "L1",
+    "l1_ok": true
+  },
+  "D02-033": {
+    "sid": "D02-033",
+    "code_kind": "D",
+    "level": "",
+    "urls": [],
+    "note": "未在摘要/评论/PDF 首页发现代码链接；未声称已检索穷尽第三方复现"
+  },
+  "D02-034": {
+    "sid": "D02-034",
+    "code_kind": "D",
+    "level": "",
+    "urls": [],
+    "note": "未在摘要/评论/PDF 首页发现代码链接；未声称已检索穷尽第三方复现"
+  },
+  "D02-035": {
+    "sid": "D02-035",
+    "code_kind": "D",
+    "level": "",
+    "urls": [],
+    "note": "未在摘要/评论/PDF 首页发现代码链接；未声称已检索穷尽第三方复现"
+  },
+  "D02-036": {
+    "sid": "D02-036",
+    "code_kind": "D",
+    "level": "",
+    "urls": [],
+    "note": "未在摘要/评论/PDF 首页发现代码链接；未声称已检索穷尽第三方复现"
+  },
+  "D02-037": {
+    "sid": "D02-037",
+    "url": "https://github.com/andone-07/Dynamic-TMoE",
+    "owner": "andone-07",
+    "repo": "Dynamic-TMoE",
+    "commit": "3e4123530d40c8463cb9487992da49cd967fd9d7",
+    "path": "code/D02-037_andone-07_Dynamic-TMoE_en",
+    "official_evidence": "未核实官方归属（仅仓库存在）",
+    "code_kind": "C",
+    "license_file": "baselines/TimeMixer/LICENSE",
+    "license_name": "apache license",
+    "readme": [
+      "readme.md",
+      "baselines/timemixer/readme.md",
+      "baselines/fits/readme.md",
+      "baselines/tfps/readme.md",
+      "baselines/raft/readme.md"
+    ],
+    "entries": [
+      "run.py",
+      "baselines/timemixer/run.py",
+      "baselines/raft/run.py",
+      "baselines/patchtst/formers/fedformer/run.py",
+      "baselines/timesnet/run.py",
+      "baselines/fedformer/run.py",
+      "baselines/st-mtm/run.py"
+    ],
+    "configs": [],
+    "deps": [
+      "requirements.txt",
+      "baselines/timemixer/requirements.txt",
+      "baselines/fits/requirements.txt",
+      "baselines/tfps/requirements.txt",
+      "baselines/patchtst/requirements.txt",
+      "baselines/patchtst/formers/pyraformer/requirements.txt",
+      "baselines/dlinear/requirements.txt",
+      "baselines/timesnet/requirements.txt"
+    ],
+    "tests": [],
+    "notebooks": [
+      "baselines/fits/fits_onnx.ipynb",
+      "baselines/fits/interpretability.ipynb",
+      "baselines/timesnet/tutorial/timesnet_tutorial.ipynb"
+    ],
+    "n_files": 579,
+    "truncated_listing": false,
+    "has_gitmodules": false,
+    "has_lfs_pointers": false,
+    "missing": [
+      "配置（可能用 argparse）",
+      "测试",
+      "官方归属未证实，按第三方实现登记"
+    ],
+    "level": "L1",
+    "l1_ok": true
+  },
+  "D02-038": {
+    "sid": "D02-038",
+    "url": "https://github.com/w2obin/LagLLM-2026",
+    "owner": "w2obin",
+    "repo": "LagLLM-2026",
+    "commit": "be9c854b038c66c39c8b2ead68f1fb4cd3950ecf",
+    "path": "code/D02-038_w2obin_LagLLM-2026_en",
+    "official_evidence": "未核实官方归属（仅仓库存在）",
+    "code_kind": "C",
+    "license_file": "",
+    "license_name": "未发现许可证（不标为可自由复用）",
+    "readme": [
+      "readme.md"
+    ],
+    "entries": [
+      "src/main.py"
+    ],
+    "configs": [],
+    "deps": [],
+    "tests": [],
+    "notebooks": [],
+    "n_files": 12,
+    "truncated_listing": false,
+    "has_gitmodules": false,
+    "has_lfs_pointers": false,
+    "missing": [
+      "依赖声明",
+      "配置（可能用 argparse）",
+      "测试",
+      "官方归属未证实，按第三方实现登记"
+    ],
+    "level": "L0",
+    "l1_ok": false
+  },
+  "D02-039": {
+    "sid": "D02-039",
+    "url": "https://github.com/vfeofanov/mantis",
+    "owner": "vfeofanov",
+    "repo": "mantis",
+    "commit": "23ecfe493830db177546ef159947de7d79a573bd",
+    "path": "code/D02-039_vfeofanov_mantis_en",
+    "official_evidence": "疑似作者（仓库名含作者姓氏）",
+    "code_kind": "B",
+    "license_file": "LICENSE",
+    "license_name": "apache license",
+    "readme": [
+      "readme.md"
+    ],
+    "entries": [],
+    "configs": [],
+    "deps": [
+      "pyproject.toml"
+    ],
+    "tests": [
+      "tests/test_multichannel_fine_tune.py",
+      "tests/test_default_fine_tuning_head.py",
+      "tests/test_single_channel_extract_feats.py",
+      "tests/test_v1_v2_intermediate_outputs.py",
+      "tests/test_single_channel_fine_tune.py",
+      "tests/test_multichannel_extract_feats.py",
+      "tests/test_utica_checkpoint.py"
+    ],
+    "notebooks": [
+      "getting_started/multichannel_adapters.ipynb",
+      "getting_started/multichannel_extract_feats.ipynb",
+      "getting_started/utica.ipynb",
+      "getting_started/multichannel_fine_tune.ipynb",
+      "getting_started/mantis_and_tivit.ipynb",
+      "getting_started/single_channel_fine_tune.ipynb",
+      "getting_started/intermediate_layers.ipynb",
+      "getting_started/self_ensembling.ipynb"
+    ],
+    "n_files": 57,
+    "truncated_listing": false,
+    "has_gitmodules": false,
+    "has_lfs_pointers": false,
+    "missing": [
+      "仅部分实现可见"
+    ],
+    "level": "L0",
+    "l1_ok": false
+  },
+  "D02-040": {
+    "sid": "D02-040",
+    "code_kind": "D",
+    "level": "",
+    "urls": [],
+    "note": "未在摘要/评论/PDF 首页发现代码链接；未声称已检索穷尽第三方复现"
+  },
+  "D02-041": {
+    "sid": "D02-041",
+    "url": "https://github.com/Rose-STL-Lab/u-cast",
+    "owner": "Rose-STL-Lab",
+    "repo": "u-cast",
+    "commit": "f6ca2ae408f9c36174dadc7902a08e64daff123b",
+    "path": "code/D02-041_Rose-STL-Lab_u-cast_en",
+    "official_evidence": "未核实官方归属（仅仓库存在）",
+    "code_kind": "C",
+    "license_file": "LICENSE",
+    "license_name": "apache license",
+    "readme": [
+      "readme.md"
+    ],
+    "entries": [
+      "run.py",
+      "src/experiment.py",
+      "src/train.py"
+    ],
+    "configs": [
+      "configs/config_inference.yaml",
+      "configs/config_det.yaml",
+      "configs/config_prob.yaml"
+    ],
+    "deps": [
+      "pyproject.toml"
+    ],
+    "tests": [],
+    "notebooks": [],
+    "n_files": 61,
+    "truncated_listing": false,
+    "has_gitmodules": false,
+    "has_lfs_pointers": false,
+    "missing": [
+      "测试",
+      "官方归属未证实，按第三方实现登记"
+    ],
+    "level": "L1",
+    "l1_ok": true
+  },
+  "D02-042": {
+    "sid": "D02-042",
+    "url": "https://github.com/GestaltCogTeam/Zeus",
+    "owner": "GestaltCogTeam",
+    "repo": "Zeus",
+    "commit": "829ce1d60e483a42761aab37749f305cf552cdd5",
+    "path": "code/D02-042_GestaltCogTeam_Zeus_en",
+    "official_evidence": "未核实官方归属（仅仓库存在）",
+    "code_kind": "C",
+    "license_file": "",
+    "license_name": "未发现许可证（不标为可自由复用）",
+    "readme": [
+      "readme.md"
+    ],
+    "entries": [],
+    "configs": [
+      "zeus/config.json"
+    ],
+    "deps": [],
+    "tests": [],
+    "notebooks": [
+      "gift_eval/notebooks/zeus.ipynb",
+      "tutorials/forecasting.ipynb",
+      "tutorials/imputation.ipynb"
+    ],
+    "n_files": 10,
+    "truncated_listing": false,
+    "has_gitmodules": false,
+    "has_lfs_pointers": false,
+    "missing": [
+      "仅部分实现可见",
+      "官方归属未证实，按第三方实现登记"
+    ],
+    "level": "L0",
+    "l1_ok": false
+  },
+  "D02-043": {
+    "sid": "D02-043",
+    "code_kind": "D",
+    "level": "",
+    "urls": [],
+    "note": "未在摘要/评论/PDF 首页发现代码链接；未声称已检索穷尽第三方复现"
+  },
+  "D02-044": {
+    "sid": "D02-044",
+    "url": "https://github.com/Jimmy-7664/ST-SSDL",
+    "owner": "Jimmy-7664",
+    "repo": "ST-SSDL",
+    "commit": "a98331d3a45a081778f3abb608897902a60e301d",
+    "path": "code/D02-044_Jimmy-7664_ST-SSDL_en",
+    "official_evidence": "未核实官方归属（仅仓库存在）",
+    "code_kind": "C",
+    "license_file": "LICENSE",
+    "license_name": "mit license",
+    "readme": [
+      "readme.md"
+    ],
+    "entries": [],
+    "configs": [],
+    "deps": [
+      "requirements.txt"
+    ],
+    "tests": [],
+    "notebooks": [],
+    "n_files": 35,
+    "truncated_listing": false,
+    "has_gitmodules": false,
+    "has_lfs_pointers": false,
+    "missing": [
+      "仅部分实现可见",
+      "官方归属未证实，按第三方实现登记"
+    ],
+    "level": "L0",
+    "l1_ok": false
+  },
+  "D02-045": {
+    "sid": "D02-045",
+    "url": "https://github.com/syrGitHub/TFPS",
+    "owner": "syrGitHub",
+    "repo": "TFPS",
+    "commit": "83a11827e27e6617e8c8a8771f0a1dd7e10976a5",
+    "path": "code/D02-045_syrGitHub_TFPS_en",
+    "official_evidence": "疑似作者（仓库名含作者姓氏）",
+    "code_kind": "B",
+    "license_file": "",
+    "license_name": "未发现许可证（不标为可自由复用）",
+    "readme": [
+      "readme.md"
+    ],
+    "entries": [],
+    "configs": [],
+    "deps": [
+      "requirements.txt"
+    ],
+    "tests": [],
+    "notebooks": [],
+    "n_files": 40,
+    "truncated_listing": false,
+    "has_gitmodules": false,
+    "has_lfs_pointers": false,
+    "missing": [
+      "仅部分实现可见"
+    ],
+    "level": "L0",
+    "l1_ok": false
+  },
+  "D02-046": {
+    "sid": "D02-046",
+    "code_kind": "D",
+    "level": "",
+    "urls": [],
+    "note": "未在摘要/评论/PDF 首页发现代码链接；未声称已检索穷尽第三方复现"
+  },
+  "D02-047": {
+    "sid": "D02-047",
+    "url": "https://github.com/mala-lab/SEMPO",
+    "owner": "mala-lab",
+    "repo": "SEMPO",
+    "commit": "59233d113f8e47fc32402ef8f371298a4d71fb21",
+    "path": "code/D02-047_mala-lab_SEMPO_en",
+    "official_evidence": "疑似作者（仓库名含作者姓氏）",
+    "code_kind": "A",
+    "license_file": "LICENSE",
+    "license_name": "apache license",
+    "readme": [
+      "readme.md"
+    ],
+    "entries": [
+      "run.py"
+    ],
+    "configs": [],
+    "deps": [
+      "requirements.txt"
+    ],
+    "tests": [],
+    "notebooks": [],
+    "n_files": 106,
+    "truncated_listing": false,
+    "has_gitmodules": false,
+    "has_lfs_pointers": false,
+    "missing": [
+      "配置（可能用 argparse）",
+      "测试"
+    ],
+    "level": "L1",
+    "l1_ok": true
+  },
+  "D02-048": {
+    "sid": "D02-048",
+    "url": "https://github.com/CityMind-Lab/NeurIPS24-Time-FFM",
+    "owner": "CityMind-Lab",
+    "repo": "NeurIPS24-Time-FFM",
+    "commit": "046aac2e238c82c0351788cc44a2ade8327b397e",
+    "path": "code/D02-048_CityMind-Lab_NeurIPS24-Time-FFM_en",
+    "official_evidence": "未核实官方归属（仅仓库存在）",
+    "code_kind": "C",
+    "license_file": "",
+    "license_name": "未发现许可证（不标为可自由复用）",
+    "readme": [
+      "readme.md"
+    ],
+    "entries": [],
+    "configs": [],
+    "deps": [],
+    "tests": [],
+    "notebooks": [],
+    "n_files": 1,
+    "truncated_listing": false,
+    "has_gitmodules": false,
+    "has_lfs_pointers": false,
+    "missing": [
+      "仅部分实现可见",
+      "官方归属未证实，按第三方实现登记"
+    ],
+    "level": "L0",
+    "l1_ok": false
+  },
+  "D02-049": {
+    "sid": "D02-049",
+    "url": "https://github.com/tung-nd/omnicast",
+    "owner": "tung-nd",
+    "repo": "omnicast",
+    "commit": "fe01fdf194db94d5c88d54b5a3b302ffd6ba393f",
+    "path": "code/D02-049_tung-nd_omnicast_en",
+    "official_evidence": "未核实官方归属（仅仓库存在）",
+    "code_kind": "C",
+    "license_file": "",
+    "license_name": "未发现许可证（不标为可自由复用）",
+    "readme": [
+      "readme.md"
+    ],
+    "entries": [],
+    "configs": [
+      "configs/klvae_image_unet.yaml"
+    ],
+    "deps": [],
+    "tests": [],
+    "notebooks": [],
+    "n_files": 7,
+    "truncated_listing": false,
+    "has_gitmodules": false,
+    "has_lfs_pointers": false,
+    "missing": [
+      "仅部分实现可见",
+      "官方归属未证实，按第三方实现登记"
+    ],
+    "level": "L0",
+    "l1_ok": false
+  },
+  "D02-050": {
+    "sid": "D02-050",
+    "url": "https://github.com/chunhuiz/MiTSformer",
+    "owner": "chunhuiz",
+    "repo": "MiTSformer",
+    "commit": "b5a27a2bb4c7a1941be1bd81ed1bbe8a98d1119f",
+    "path": "code/D02-050_chunhuiz_MiTSformer_en",
+    "official_evidence": "未核实官方归属（仅仓库存在）",
+    "code_kind": "C",
+    "license_file": "LICENSE",
+    "license_name": "mit license",
+    "readme": [
+      "readme.md"
+    ],
+    "entries": [],
+    "configs": [],
+    "deps": [
+      "requirements.txt"
+    ],
+    "tests": [],
+    "notebooks": [],
+    "n_files": 36,
+    "truncated_listing": false,
+    "has_gitmodules": false,
+    "has_lfs_pointers": false,
+    "missing": [
+      "仅部分实现可见",
+      "官方归属未证实，按第三方实现登记"
+    ],
+    "level": "L0",
+    "l1_ok": false
+  },
+  "D02-051": {
+    "sid": "D02-051",
+    "url": "https://github.com/aangelopoulos/conformal-time-series",
+    "owner": "aangelopoulos",
+    "repo": "conformal-time-series",
+    "commit": "b729c3f5ff633bfc43f0f7ca08199b549c2573ac",
+    "path": "code/D02-051_aangelopoulos_conformal-time-series_en",
+    "official_evidence": "疑似作者（仓库名含作者姓氏）",
+    "code_kind": "B",
+    "license_file": "LICENSE",
+    "license_name": "mit license",
+    "readme": [
+      "readme.md"
+    ],
+    "entries": [],
+    "configs": [
+      "tests/configs/ca-covid-deaths-4wk.yaml",
+      "tests/configs/amzn.yaml",
+      "tests/configs/stationary.yaml",
+      "tests/configs/msft.yaml",
+      "tests/configs/fl-covid-deaths-4wk.yaml",
+      "tests/configs/elec2.yaml",
+      "tests/configs/googl.yaml",
+      "tests/configs/daily-climate-intermittent.yaml",
+      "tests/configs/ny-covid-deaths-4wk.yaml",
+      "tests/configs/increasing_lownoise.yaml",
+      "tests/configs/daily-climate.yaml",
+      "tests/configs/mix1.yaml"
+    ],
+    "deps": [
+      "requirements.txt"
+    ],
+    "tests": [
+      "tests/make_plots.sh",
+      "tests/.gitignore",
+      "tests/plotting_utils.py",
+      "tests/run_tests.sh",
+      "tests/base_test.py",
+      "tests/base_plots.py",
+      "tests/datasets.py",
+      "tests/__init__.py"
+    ],
+    "notebooks": [],
+    "n_files": 250,
+    "truncated_listing": false,
+    "has_gitmodules": false,
+    "has_lfs_pointers": false,
+    "missing": [
+      "仅部分实现可见"
+    ],
+    "level": "L0",
+    "l1_ok": false
+  },
+  "D02-052": {
+    "sid": "D02-052",
+    "code_kind": "D",
+    "level": "",
+    "urls": [],
+    "note": "未在摘要/评论/PDF 首页发现代码链接；未声称已检索穷尽第三方复现"
+  },
+  "D02-053": {
+    "sid": "D02-053",
+    "url": "https://github.com/decisionintelligence/DTAF",
+    "owner": "decisionintelligence",
+    "repo": "DTAF",
+    "commit": "9d12aa4061c771b419c5a5bba9f2bf95d9419c41",
+    "path": "code/D02-053_decisionintelligence_DTAF_en",
+    "official_evidence": "未核实官方归属（仅仓库存在）",
+    "code_kind": "C",
+    "license_file": "",
+    "license_name": "未发现许可证（不标为可自由复用）",
+    "readme": [
+      "readme.md"
+    ],
+    "entries": [],
+    "configs": [
+      "config/fixed_forecast_config_hourly.json",
+      "config/fixed_forecast_config_quarterly.json",
+      "config/fixed_forecast_config_monthly.json",
+      "config/fixed_forecast_config_daily.json",
+      "config/rolling_forecast_config.json",
+      "config/fixed_forecast_config_yearly.json",
+      "config/fixed_forecast_config_other.json",
+      "config/fixed_forecast_config_weekly.json"
+    ],
+    "deps": [
+      "requirements.txt"
+    ],
+    "tests": [],
+    "notebooks": [],
+    "n_files": 80,
+    "truncated_listing": false,
+    "has_gitmodules": false,
+    "has_lfs_pointers": false,
+    "missing": [
+      "仅部分实现可见",
+      "官方归属未证实，按第三方实现登记"
+    ],
+    "level": "L0",
+    "l1_ok": false
+  },
+  "D02-054": {
+    "sid": "D02-054",
+    "url": "https://github.com/kimanki/TAFAS",
+    "owner": "kimanki",
+    "repo": "TAFAS",
+    "commit": "139bf980671da4daad728a0fc21d8df508b9203d",
+    "path": "code/D02-054_kimanki_TAFAS_en",
+    "official_evidence": "疑似作者（仓库名含作者姓氏）",
+    "code_kind": "A",
+    "license_file": "LICENSE",
+    "license_name": "mit license",
+    "readme": [
+      "readme.md"
+    ],
+    "entries": [
+      "main.py",
+      "scripts/micn/etth1_720/run.sh",
+      "scripts/micn/etth2_336/run.sh",
+      "scripts/micn/ettm1_192/run.sh",
+      "scripts/micn/etth2_192/run.sh",
+      "scripts/micn/ettm1_96/run.sh",
+      "scripts/micn/weather_192/run.sh",
+      "scripts/micn/weather_720/run.sh",
+      "scripts/micn/ettm2_720/run.sh",
+      "scripts/micn/exchange_rate_96/run.sh",
+      "scripts/micn/ettm1_720/run.sh",
+      "scripts/micn/ettm2_336/run.sh"
+    ],
+    "configs": [],
+    "deps": [],
+    "tests": [],
+    "notebooks": [],
+    "n_files": 201,
+    "truncated_listing": false,
+    "has_gitmodules": false,
+    "has_lfs_pointers": false,
+    "missing": [
+      "依赖声明",
+      "配置（可能用 argparse）",
+      "测试"
+    ],
+    "level": "L0",
+    "l1_ok": false
+  },
+  "D02-055": {
+    "sid": "D02-055",
+    "url": "https://github.com/hanyuki23/SoP",
+    "owner": "hanyuki23",
+    "repo": "SoP",
+    "commit": "0bd23d3d0b5497247595b40f86b2d0b095f65eea",
+    "path": "code/D02-055_hanyuki23_SoP_en",
+    "official_evidence": "疑似作者（仓库名含作者姓氏）",
+    "code_kind": "A",
+    "license_file": "LICENSE",
+    "license_name": "mit license",
+    "readme": [
+      "readme.md"
+    ],
+    "entries": [
+      "run.py"
+    ],
+    "configs": [],
+    "deps": [
+      "requirements.txt"
+    ],
+    "tests": [],
+    "notebooks": [],
+    "n_files": 89,
+    "truncated_listing": false,
+    "has_gitmodules": false,
+    "has_lfs_pointers": false,
+    "missing": [
+      "配置（可能用 argparse）",
+      "测试"
+    ],
+    "level": "L1",
+    "l1_ok": true
+  },
+  "D02-056": {
+    "sid": "D02-056",
+    "code_kind": "D",
+    "level": "",
+    "urls": [],
+    "note": "未在摘要/评论/PDF 首页发现代码链接；未声称已检索穷尽第三方复现"
+  },
+  "D02-057": {
+    "sid": "D02-057",
+    "code_kind": "D",
+    "level": "",
+    "urls": [],
+    "note": "未在摘要/评论/PDF 首页发现代码链接；未声称已检索穷尽第三方复现"
+  },
+  "D02-058": {
+    "sid": "D02-058",
+    "url": "https://github.com/WenjieDu/Awesome_Imputation",
+    "owner": "WenjieDu",
+    "repo": "Awesome_Imputation",
+    "commit": "392ffefc123001ad1cc9a7a093e6f76d83c1e3f5",
+    "path": "code/D02-058_WenjieDu_Awesome_Imputation_en",
+    "official_evidence": "疑似作者（仓库名含作者姓氏）",
+    "code_kind": "B",
+    "license_file": "LICENSE",
+    "license_name": "有 LICENSE 文件但未识别 SPDX/常用名称",
+    "readme": [
+      "readme.md",
+      "benchmark_code/readme.md",
+      "benchmark_code/pypots_tuning_configs/readme.md"
+    ],
+    "entries": [],
+    "configs": [
+      ".github/issue_template/config.yml",
+      "benchmark_code/pypots_tuning_configs/nonstationarytransformer/nonstationarytransformer_pems_tuning_space.json",
+      "benchmark_code/pypots_tuning_configs/nonstationarytransformer/nonstationarytransformer_searching_config.yml",
+      "benchmark_code/pypots_tuning_configs/nonstationarytransformer/nonstationarytransformer_physionet2012_tuning_space.json",
+      "benchmark_code/pypots_tuning_configs/etsformer/etsformer_physionet2012_tuning_space.json",
+      "benchmark_code/pypots_tuning_configs/etsformer/etsformer_pems_tuning_space.json",
+      "benchmark_code/pypots_tuning_configs/etsformer/etsformer_searching_config.yml",
+      "benchmark_code/pypots_tuning_configs/micn/micn_physionet2012_tuning_space.json",
+      "benchmark_code/pypots_tuning_configs/micn/micn_pems_tuning_space.json",
+      "benchmark_code/pypots_tuning_configs/micn/micn_searching_config.yml",
+      "benchmark_code/pypots_tuning_configs/grud/grud_physionet2012_tuning_space.json",
+      "benchmark_code/pypots_tuning_configs/grud/grud_pems_tuning_space.json"
+    ],
+    "deps": [],
+    "tests": [],
+    "notebooks": [
+      "benchmark_code/read_results.ipynb"
+    ],
+    "n_files": 107,
+    "truncated_listing": false,
+    "has_gitmodules": false,
+    "has_lfs_pointers": false,
+    "missing": [
+      "仅部分实现可见"
+    ],
+    "level": "L0",
+    "l1_ok": false
+  },
+  "D02-059": {
+    "sid": "D02-059",
+    "code_kind": "D",
+    "level": "",
+    "urls": [],
+    "note": "未在摘要/评论/PDF 首页发现代码链接；未声称已检索穷尽第三方复现"
+  },
+  "D02-060": {
+    "sid": "D02-060",
+    "code_kind": "D",
+    "level": "",
+    "urls": [],
+    "note": "未在摘要/评论/PDF 首页发现代码链接；未声称已检索穷尽第三方复现"
+  },
+  "D02-061": {
+    "sid": "D02-061",
+    "code_kind": "D",
+    "level": "",
+    "urls": [],
+    "note": "未在摘要/评论/PDF 首页发现代码链接；未声称已检索穷尽第三方复现"
+  },
+  "D02-062": {
+    "sid": "D02-062",
+    "code_kind": "D",
+    "level": "",
+    "urls": [
+      "https://github.com/luck-seu/HST-W"
+    ],
+    "note": "clone 失败 Cloning into '/root/recent_top_conference_research/code/D02-062_luck-seu_HST-W_en'...\nfatal: could not read Username for 'https://github.com': terminal prompts disabled\n",
+    "tried": "https://github.com/luck-seu/HST-W"
+  },
+  "D02-063": {
+    "sid": "D02-063",
+    "code_kind": "D",
+    "level": "",
+    "urls": [],
+    "note": "未在摘要/评论/PDF 首页发现代码链接；未声称已检索穷尽第三方复现"
+  },
+  "D02-064": {
+    "sid": "D02-064",
+    "url": "https://github.com/weifantt/Dish-TS",
+    "owner": "weifantt",
+    "repo": "Dish-TS",
+    "commit": "e674d3b94b832491f63a533d60e40a75031d2c75",
+    "path": "code/D02-064_weifantt_Dish-TS_en",
+    "official_evidence": "疑似作者（仓库名含作者姓氏）",
+    "code_kind": "A",
+    "license_file": "",
+    "license_name": "未发现许可证（不标为可自由复用）",
+    "readme": [
+      "readme.md"
+    ],
+    "entries": [
+      "train.py"
+    ],
+    "configs": [],
+    "deps": [],
+    "tests": [],
+    "notebooks": [],
+    "n_files": 22,
+    "truncated_listing": false,
+    "has_gitmodules": false,
+    "has_lfs_pointers": false,
+    "missing": [
+      "依赖声明",
+      "配置（可能用 argparse）",
+      "测试"
+    ],
+    "level": "L0",
+    "l1_ok": false
+  },
+  "D02-065": {
+    "sid": "D02-065",
+    "code_kind": "D",
+    "level": "",
+    "urls": [],
+    "note": "未在摘要/评论/PDF 首页发现代码链接；未声称已检索穷尽第三方复现"
+  },
+  "D02-066": {
+    "sid": "D02-066",
+    "url": "https://github.com/stanliu96/RATD",
+    "owner": "stanliu96",
+    "repo": "RATD",
+    "commit": "719e4008f72e89544a621d97b5d1a69164fc14d3",
+    "path": "code/D02-066_stanliu96_RATD_en",
+    "official_evidence": "疑似作者（仓库名含作者姓氏）",
+    "code_kind": "B",
+    "license_file": "LICENSE",
+    "license_name": "mit license",
+    "readme": [
+      "readme.md",
+      "tcn-master/readme.md",
+      "tcn-master/tcn/adding_problem/readme.md",
+      "tcn-master/tcn/copy_memory/readme.md",
+      "tcn-master/tcn/char_cnn/readme.md"
+    ],
+    "entries": [],
+    "configs": [
+      "tcn-master/config/retrieval_ele.yaml",
+      "config/base.yaml",
+      "config/base_forecasting.yaml"
+    ],
+    "deps": [
+      "requirements.txt"
+    ],
+    "tests": [],
+    "notebooks": [],
+    "n_files": 34,
+    "truncated_listing": false,
+    "has_gitmodules": false,
+    "has_lfs_pointers": false,
+    "missing": [
+      "仅部分实现可见"
+    ],
+    "level": "L0",
+    "l1_ok": false
+  },
+  "D02-067": {
+    "sid": "D02-067",
+    "url": "https://github.com/Secilia-Cxy/SOFTS",
+    "owner": "Secilia-Cxy",
+    "repo": "SOFTS",
+    "commit": "f5d35fd7c3e716b6383ce6d3cc42c131e32c3c44",
+    "path": "code/D02-067_Secilia-Cxy_SOFTS_en",
+    "official_evidence": "未核实官方归属（仅仓库存在）",
+    "code_kind": "C",
+    "license_file": "LICENSE",
+    "license_name": "mit license",
+    "readme": [
+      "readme.md"
+    ],
+    "entries": [
+      "run.py"
+    ],
+    "configs": [],
+    "deps": [],
+    "tests": [],
+    "notebooks": [
+      "run_on_your_own_dataset.ipynb"
+    ],
+    "n_files": 36,
+    "truncated_listing": false,
+    "has_gitmodules": false,
+    "has_lfs_pointers": false,
+    "missing": [
+      "依赖声明",
+      "配置（可能用 argparse）",
+      "测试",
+      "官方归属未证实，按第三方实现登记"
+    ],
+    "level": "L1",
+    "l1_ok": true
+  },
+  "D02-068": {
+    "sid": "D02-068",
+    "url": "https://github.com/ibm-granite/granite-tsfm",
+    "owner": "ibm-granite",
+    "repo": "granite-tsfm",
+    "commit": "5991892635904a1ef01d19dd63375fa577524c05",
+    "path": "code/D02-068_ibm-granite_granite-tsfm_en",
+    "official_evidence": "疑似官方机构/实验室组织",
+    "code_kind": "A",
+    "license_file": "LICENSE",
+    "license_name": "apache license",
+    "readme": [
+      "readme.md",
+      "services/boilerplate/readme",
+      "services/inference/readme.md",
+      "services/inference/examples/aws/sagemaker/tsfm_custom/readme.md",
+      "services/finetuning/readme.md"
+    ],
+    "entries": [
+      "services/inference/main.py",
+      "services/inference/examples/aws/sagemaker/tsfm_custom/code/inference.py",
+      "services/inference/tsfminference/main.py",
+      "services/inference/tsfminference/inference.py",
+      "notebooks/hfdemo/gift_eval_ensemble/run_gift_eval.py"
+    ],
+    "configs": [
+      "tsfm_public/resources/data_config/ettm1.yaml",
+      "tsfm_public/resources/data_config/electricity.yaml",
+      "tsfm_public/resources/data_config/zafnoo.yaml",
+      "tsfm_public/resources/data_config/ettm2.yaml",
+      "tsfm_public/resources/data_config/etth2.yaml",
+      "tsfm_public/resources/data_config/weather.yaml",
+      "tsfm_public/resources/data_config/exchange.yaml",
+      "tsfm_public/resources/data_config/solar.yaml",
+      "tsfm_public/resources/data_config/etth1.yaml",
+      "tsfm_public/resources/data_config/traffic.yaml",
+      "tsfm_public/resources/model_paths_config/ttm.yaml",
+      "tests/toolkit/init_stability_test/tspulse/reconstruction/post_init/config.json"
+    ],
+    "deps": [
+      "pyproject.toml",
+      "services/inference/pyproject.toml",
+      "services/inference/examples/aws/sagemaker/tsfm_custom/code/requirements.txt",
+      "services/finetuning/pyproject.toml",
+      "agentic/mcp-server/pyproject.toml"
+    ],
+    "tests": [
+      "services/inference/examples/aws/sagemaker/tsfm_custom/code/test_local.py",
+      "services/inference/tests/test_inference_lib.py",
+      "services/inference/tests/test_inference_service.py",
+      "services/inference/tests/prodpayload.json",
+      "services/inference/tests/test_inference_service_prod.py",
+      "services/inference/tests/locust/payload.json",
+      "services/inference/tests/locust/locust.conf",
+      "services/inference/tests/locust/locustfile.py"
+    ],
+    "notebooks": [
+      "services/inference/examples/aws/sagemaker/tsfm_custom/get_started_tsfm_deploy.ipynb",
+      "notebooks/recipes/energy_demand_forecasting/demand_forecast_zeroshot_recipe_minimal.ipynb",
+      "notebooks/thinklab/03_patch_tst_inference.ipynb",
+      "notebooks/thinklab/01_patch_tst_pretrain.ipynb",
+      "notebooks/thinklab/02_patch_tst_fine_tune.ipynb",
+      "notebooks/hfdemo/classification_dataset.ipynb",
+      "notebooks/hfdemo/tspulse_classification.ipynb",
+      "notebooks/hfdemo/ttm_r3_getting_started.ipynb"
+    ],
+    "n_files": 515,
+    "truncated_listing": false,
+    "has_gitmodules": false,
+    "has_lfs_pointers": false,
+    "missing": [],
+    "level": "L1",
+    "l1_ok": true
+  },
+  "D02-069": {
+    "sid": "D02-069",
+    "url": "https://github.com/yutong-xia/CaST",
+    "owner": "yutong-xia",
+    "repo": "CaST",
+    "commit": "705fa58b03602baf3e283c52f1e46297586da6fb",
+    "path": "code/D02-069_yutong-xia_CaST_en",
+    "official_evidence": "疑似作者（仓库名含作者姓氏）",
+    "code_kind": "A",
+    "license_file": "",
+    "license_name": "未发现许可证（不标为可自由复用）",
+    "readme": [
+      "readme.md"
+    ],
+    "entries": [
+      "experiments/cast/main.py"
+    ],
+    "configs": [],
+    "deps": [
+      "requirements.txt"
+    ],
+    "tests": [],
+    "notebooks": [],
+    "n_files": 21,
+    "truncated_listing": false,
+    "has_gitmodules": false,
+    "has_lfs_pointers": false,
+    "missing": [
+      "配置（可能用 argparse）",
+      "测试"
+    ],
+    "level": "L1",
+    "l1_ok": true
+  },
+  "D02-070": {
+    "sid": "D02-070",
+    "url": "https://github.com/aikunyi/FourierGNN",
+    "owner": "aikunyi",
+    "repo": "FourierGNN",
+    "commit": "f239290b6f6881c53c5dda094bb0a7255eb0ea2d",
+    "path": "code/D02-070_aikunyi_FourierGNN_en",
+    "official_evidence": "疑似作者（仓库名含作者姓氏）",
+    "code_kind": "A",
+    "license_file": "LICENSE",
+    "license_name": "mit license",
+    "readme": [
+      "readme.md"
+    ],
+    "entries": [
+      "main.py"
+    ],
+    "configs": [],
+    "deps": [],
+    "tests": [],
+    "notebooks": [],
+    "n_files": 5,
+    "truncated_listing": false,
+    "has_gitmodules": false,
+    "has_lfs_pointers": false,
+    "missing": [
+      "依赖声明",
+      "配置（可能用 argparse）",
+      "测试"
+    ],
+    "level": "L0",
+    "l1_ok": false
+  },
+  "D02-071": {
+    "sid": "D02-071",
+    "url": "https://github.com/HKUDS/GPT-ST",
+    "owner": "HKUDS",
+    "repo": "GPT-ST",
+    "commit": "b50c64d347ab9d565189523bf621ecb4e4a1ab8c",
+    "path": "code/D02-071_HKUDS_GPT-ST_en",
+    "official_evidence": "未核实官方归属（仅仓库存在）",
+    "code_kind": "C",
+    "license_file": "LICENSE.txt",
+    "license_name": "apache license",
+    "readme": [
+      "readme.md"
+    ],
+    "entries": [
+      "model/run.py"
+    ],
+    "configs": [],
+    "deps": [
+      "requirements.txt"
+    ],
+    "tests": [],
+    "notebooks": [],
+    "n_files": 103,
+    "truncated_listing": false,
+    "has_gitmodules": false,
+    "has_lfs_pointers": false,
+    "missing": [
+      "配置（可能用 argparse）",
+      "测试",
+      "官方归属未证实，按第三方实现登记"
+    ],
+    "level": "L1",
+    "l1_ok": true
+  },
+  "D02-072": {
+    "sid": "D02-072",
+    "url": "https://github.com/seunghan96/ANT",
+    "owner": "seunghan96",
+    "repo": "ANT",
+    "commit": "8e0749e026068fe932b18b60e6b97f41a0053948",
+    "path": "code/D02-072_seunghan96_ANT_en",
+    "official_evidence": "未核实官方归属（仅仓库存在）",
+    "code_kind": "C",
+    "license_file": "",
+    "license_name": "未发现许可证（不标为可自由复用）",
+    "readme": [
+      "readme.md"
+    ],
+    "entries": [],
+    "configs": [
+      "configs/guidance.yaml",
+      "configs/train_tsdiff-cond.yaml",
+      "configs/refinement.yaml",
+      "configs/train_tsdiff.yaml",
+      "configs/tstr.yaml",
+      "configs/train_tsdiff/train_kdd_cup_2018_without_missing.yaml",
+      "configs/train_tsdiff/train_exchange_rate_nips.yaml",
+      "configs/train_tsdiff/train_m4_hourly.yaml",
+      "configs/train_tsdiff/train_wiki2000_nips.yaml",
+      "configs/train_tsdiff/train_electricity_nips.yaml",
+      "configs/train_tsdiff/train_solar_nips.yaml",
+      "configs/train_tsdiff/train_uber_tlc_hourly.yaml"
+    ],
+    "deps": [],
+    "tests": [],
+    "notebooks": [
+      "ant_score.ipynb"
+    ],
+    "n_files": 114,
+    "truncated_listing": false,
+    "has_gitmodules": false,
+    "has_lfs_pointers": false,
+    "missing": [
+      "仅部分实现可见",
+      "官方归属未证实，按第三方实现登记"
+    ],
+    "level": "L0",
+    "l1_ok": false
+  },
+  "D02-073": {
+    "sid": "D02-073",
+    "url": "https://github.com/dongbeank/CATS",
+    "owner": "dongbeank",
+    "repo": "CATS",
+    "commit": "58854fc759d608ce400f378be83f4513960e505d",
+    "path": "code/D02-073_dongbeank_CATS_en",
+    "official_evidence": "未核实官方归属（仅仓库存在）",
+    "code_kind": "C",
+    "license_file": "LICENSE",
+    "license_name": "mit license",
+    "readme": [
+      "readme.md"
+    ],
+    "entries": [
+      "run.py"
+    ],
+    "configs": [],
+    "deps": [
+      "requirements.txt"
+    ],
+    "tests": [],
+    "notebooks": [],
+    "n_files": 35,
+    "truncated_listing": false,
+    "has_gitmodules": false,
+    "has_lfs_pointers": false,
+    "missing": [
+      "配置（可能用 argparse）",
+      "测试",
+      "官方归属未证实，按第三方实现登记"
+    ],
+    "level": "L1",
+    "l1_ok": true
+  },
+  "D02-074": {
+    "sid": "D02-074",
+    "url": "https://github.com/JingzheShi/ScalingLawForTimeSeriesForecasting",
+    "owner": "JingzheShi",
+    "repo": "ScalingLawForTimeSeriesForecasting",
+    "commit": "e0188b690d4416914df4f2db015c01222874cf56",
+    "path": "code/D02-074_JingzheShi_ScalingLawForTimeSeriesForecasting_en",
+    "official_evidence": "疑似作者（仓库名含作者姓氏）",
+    "code_kind": "A",
+    "license_file": "PCA_exps/LICENSE",
+    "license_name": "mit license",
+    "readme": [
+      "readme.md",
+      "mixeddatasets/readme.md",
+      "pca_exps/readme.md"
+    ],
+    "entries": [
+      "mixeddatasets/run.py",
+      "mixeddatasets/data_provider/test.py",
+      "pca_exps/run.py"
+    ],
+    "configs": [],
+    "deps": [
+      "mixeddatasets/requirements.txt",
+      "pca_exps/requirements.txt"
+    ],
+    "tests": [
+      "mixeddatasets/data_provider/test.py"
+    ],
+    "notebooks": [],
+    "n_files": 252,
+    "truncated_listing": false,
+    "has_gitmodules": false,
+    "has_lfs_pointers": false,
+    "missing": [
+      "配置（可能用 argparse）"
+    ],
+    "level": "L1",
+    "l1_ok": true
+  },
+  "D02-075": {
+    "sid": "D02-075",
+    "url": "https://github.com/mims-harvard/UniTS",
+    "owner": "mims-harvard",
+    "repo": "UniTS",
+    "commit": "0e0281482864017cac8832b2651906ff5375a34e",
+    "path": "code/D02-075_mims-harvard_UniTS_en",
+    "official_evidence": "未核实官方归属（仅仓库存在）",
+    "code_kind": "C",
+    "license_file": "LICENSE",
+    "license_name": "mit license",
+    "readme": [
+      "readme.md"
+    ],
+    "entries": [
+      "run.py"
+    ],
+    "configs": [],
+    "deps": [
+      "requirements.txt"
+    ],
+    "tests": [],
+    "notebooks": [],
+    "n_files": 54,
+    "truncated_listing": false,
+    "has_gitmodules": false,
+    "has_lfs_pointers": false,
+    "missing": [
+      "配置（可能用 argparse）",
+      "测试",
+      "官方归属未证实，按第三方实现登记"
+    ],
+    "level": "L1",
+    "l1_ok": true
+  },
+  "D02-076": {
+    "sid": "D02-076",
+    "url": "https://github.com/usail-hkust/Adv-ST",
+    "owner": "usail-hkust",
+    "repo": "Adv-ST",
+    "commit": "6e1337a2441e76c5688470ea3cc45048c4ca57b0",
+    "path": "code/D02-076_usail-hkust_Adv-ST_en",
+    "official_evidence": "未核实官方归属（仅仓库存在）",
+    "code_kind": "C",
+    "license_file": "LICENSE",
+    "license_name": "mit license",
+    "readme": [
+      "readme.md"
+    ],
+    "entries": [
+      "grey_train.py",
+      "train.py",
+      "test.py"
+    ],
+    "configs": [
+      "configs/semimetrla/semimetrla-train0.7-val0.1-test0.2-in12out12-0.1nodes-gwnet-standard.yaml",
+      "configs/semipems/semipems-train0.7-val0.1-test0.2-in12out12-0.1nodes-gwnet-standard.yaml",
+      "configs/blackpems/blackpems-train0.7-val0.1-test0.2-numsteps12-0.1nodes-source_stawnet-target_gwnet.yaml",
+      "configs/metrla/metrla-train0.7-val0.1-test0.2-in12out12-0.1nodes-gwnet-standard.yaml",
+      "configs/pems/pems-train0.7-val0.1-test0.2-in12out12-0.1nodes-gwnet-standard.yaml"
+    ],
+    "deps": [],
+    "tests": [
+      "test.py"
+    ],
+    "notebooks": [],
+    "n_files": 31,
+    "truncated_listing": false,
+    "has_gitmodules": false,
+    "has_lfs_pointers": false,
+    "missing": [
+      "依赖声明",
+      "官方归属未证实，按第三方实现登记"
+    ],
+    "level": "L0",
+    "l1_ok": false
+  },
+  "D02-077": {
+    "sid": "D02-077",
+    "url": "https://github.com/macovaseas/GTR",
+    "owner": "macovaseas",
+    "repo": "GTR",
+    "commit": "d94161906151bdc0c94f4d21c2b0ca356aeb3135",
+    "path": "code/D02-077_macovaseas_GTR_en",
+    "official_evidence": "未核实官方归属（仅仓库存在）",
+    "code_kind": "C",
+    "license_file": "LICENSE",
+    "license_name": "apache license",
+    "readme": [
+      "readme.md"
+    ],
+    "entries": [
+      "run.py"
+    ],
+    "configs": [],
+    "deps": [
+      "requirements.txt"
+    ],
+    "tests": [],
+    "notebooks": [],
+    "n_files": 71,
+    "truncated_listing": false,
+    "has_gitmodules": false,
+    "has_lfs_pointers": false,
+    "missing": [
+      "配置（可能用 argparse）",
+      "测试",
+      "官方归属未证实，按第三方实现登记"
+    ],
+    "level": "L1",
+    "l1_ok": true
+  },
+  "D02-078": {
+    "sid": "D02-078",
+    "url": "https://github.com/HaonanWen/Under-Cali",
+    "owner": "HaonanWen",
+    "repo": "Under-Cali",
+    "commit": "87d2e330dfbbcc0ec9c93e81d28e168aa0e157f6",
+    "path": "code/D02-078_HaonanWen_Under-Cali_en",
+    "official_evidence": "疑似作者（仓库名含作者姓氏）",
+    "code_kind": "A",
+    "license_file": "LICENSE",
+    "license_name": "mit license",
+    "readme": [
+      "readme.md",
+      "layers/stribor/readme.md"
+    ],
+    "entries": [
+      "main.py",
+      "run.sh",
+      "layers/neuralflows/experiments/latent_ode/lib/likelihood_eval.py",
+      "layers/tsl/utils/experiment.py",
+      "layers/tsl/experiment/experiment.py",
+      "layers/latent_ode/likelihood_eval.py",
+      "layers/gneuralflow/experiments/latent_ode/lib/likelihood_eval.py"
+    ],
+    "configs": [],
+    "deps": [
+      "requirements.txt",
+      "layers/stribor/setup.py"
+    ],
+    "tests": [
+      "layers/stribor/stribor/test/base.py",
+      "layers/stribor/stribor/test/__init__.py"
+    ],
+    "notebooks": [],
+    "n_files": 922,
+    "truncated_listing": false,
+    "has_gitmodules": false,
+    "has_lfs_pointers": false,
+    "missing": [
+      "配置（可能用 argparse）"
+    ],
+    "level": "L1",
+    "l1_ok": true
+  },
+  "D02-079": {
+    "sid": "D02-079",
+    "url": "https://github.com/DC-research/TempoWAVE",
+    "owner": "DC-research",
+    "repo": "TempoWAVE",
+    "commit": "666972cfd78559de3623b1efcafbe3126975ec32",
+    "path": "code/D02-079_DC-research_TempoWAVE_en",
+    "official_evidence": "未核实官方归属（仅仓库存在）",
+    "code_kind": "C",
+    "license_file": "LICENSE",
+    "license_name": "mit license",
+    "readme": [
+      "readme.md"
+    ],
+    "entries": [
+      "evaluation/run_eval.py"
+    ],
+    "configs": [
+      "configs/continuous_pretrain.yaml",
+      "configs/pretrain.yaml",
+      "configs/eval.yaml",
+      "configs/sft.yaml"
+    ],
+    "deps": [
+      "environment.yml"
+    ],
+    "tests": [
+      "tests/test_prepare_benchmarks.py",
+      "tests/test_tools.py",
+      "tests/test_eval_data.py",
+      "tests/test_prepare_finetune.py",
+      "tests/test_benchmark_pipeline.py",
+      "tests/test_mwne.py"
+    ],
+    "notebooks": [],
+    "n_files": 40,
+    "truncated_listing": false,
+    "has_gitmodules": false,
+    "has_lfs_pointers": false,
+    "missing": [
+      "官方归属未证实，按第三方实现登记"
+    ],
+    "level": "L1",
+    "l1_ok": true
+  },
+  "D02-080": {
+    "sid": "D02-080",
+    "url": "https://github.com/qingsongedu/time-series-transformers-review",
+    "owner": "qingsongedu",
+    "repo": "time-series-transformers-review",
+    "commit": "72094e6f49093313378da3c935481d7f8243d77c",
+    "path": "code/D02-080_qingsongedu_time-series-transformers-review_en",
+    "official_evidence": "未核实官方归属（仅仓库存在）",
+    "code_kind": "C",
+    "license_file": "LICENSE",
+    "license_name": "mit license",
+    "readme": [
+      "readme.md"
+    ],
+    "entries": [],
+    "configs": [],
+    "deps": [],
+    "tests": [],
+    "notebooks": [],
+    "n_files": 4,
+    "truncated_listing": false,
+    "has_gitmodules": false,
+    "has_lfs_pointers": false,
+    "missing": [
+      "仅部分实现可见",
+      "官方归属未证实，按第三方实现登记"
+    ],
+    "level": "L0",
+    "l1_ok": false
+  },
+  "D02-081": {
+    "sid": "D02-081",
+    "url": "https://github.com/av-savchenko/HN-MVTS",
+    "owner": "av-savchenko",
+    "repo": "HN-MVTS",
+    "commit": "e86c58a315576cef021d99e04b9b5fef55ddd6d6",
+    "path": "code/D02-081_av-savchenko_HN-MVTS_en",
+    "official_evidence": "疑似作者（仓库名含作者姓氏）",
+    "code_kind": "B",
+    "license_file": "LICENSE",
+    "license_name": "apache license",
+    "readme": [
+      "readme.md"
+    ],
+    "entries": [],
+    "configs": [
+      "configs/moderntcn_base.yaml",
+      "configs/patchtst.yaml",
+      "configs/patchtst2.yaml",
+      "configs/moderntcn_hyper.yaml",
+      "configs/itx.yaml",
+      "configs/tsmixer.yaml",
+      "configs/dlinear.yaml",
+      "configs/.ipynb_checkpoints/dlinear-checkpoint.yaml"
+    ],
+    "deps": [
+      "requirements.txt"
+    ],
+    "tests": [],
+    "notebooks": [
+      "notebooks/visualize_results.ipynb"
+    ],
+    "n_files": 38,
+    "truncated_listing": false,
+    "has_gitmodules": false,
+    "has_lfs_pointers": false,
+    "missing": [
+      "仅部分实现可见"
+    ],
+    "level": "L0",
+    "l1_ok": false
+  },
+  "D02-082": {
+    "sid": "D02-082",
+    "code_kind": "D",
+    "level": "",
+    "urls": [
+      "https://github.com/ContinualGoing/IJCAI"
+    ],
+    "note": "clone 失败 Cloning into '/root/recent_top_conference_research/code/D02-082_ContinualGoing_IJCAI_en'...\nfatal: could not read Username for 'https://github.com': terminal prompts disabled\n",
+    "tried": "https://github.com/ContinualGoing/IJCAI"
+  },
+  "D02-083": {
+    "sid": "D02-083",
+    "code_kind": "D",
+    "level": "",
+    "urls": [],
+    "note": "未在摘要/评论/PDF 首页发现代码链接；未声称已检索穷尽第三方复现"
+  },
+  "D02-084": {
+    "sid": "D02-084",
+    "url": "https://github.com/yh-Hanniel/DGraFormer",
+    "owner": "yh-Hanniel",
+    "repo": "DGraFormer",
+    "commit": "5f7f7a47918a6ab00d6d9b21330222cf02240c42",
+    "path": "code/D02-084_yh-Hanniel_DGraFormer_en",
+    "official_evidence": "未核实官方归属（仅仓库存在）",
+    "code_kind": "C",
+    "license_file": "",
+    "license_name": "未发现许可证（不标为可自由复用）",
+    "readme": [
+      "readme.md"
+    ],
+    "entries": [
+      "run.py"
+    ],
+    "configs": [],
+    "deps": [],
+    "tests": [],
+    "notebooks": [],
+    "n_files": 17,
+    "truncated_listing": false,
+    "has_gitmodules": false,
+    "has_lfs_pointers": false,
+    "missing": [
+      "依赖声明",
+      "配置（可能用 argparse）",
+      "测试",
+      "官方归属未证实，按第三方实现登记"
+    ],
+    "level": "L0",
+    "l1_ok": false
+  },
+  "D02-085": {
+    "sid": "D02-085",
+    "url": "https://github.com/wyl010607/FilterTS",
+    "owner": "wyl010607",
+    "repo": "FilterTS",
+    "commit": "9766a52907e0dbb7722fa36b68da87afb3ceac96",
+    "path": "code/D02-085_wyl010607_FilterTS_en",
+    "official_evidence": "未核实官方归属（仅仓库存在）",
+    "code_kind": "C",
+    "license_file": "LICENSE",
+    "license_name": "mit license",
+    "readme": [
+      "readme.md"
+    ],
+    "entries": [
+      "run.py"
+    ],
+    "configs": [],
+    "deps": [
+      "requirements.txt"
+    ],
+    "tests": [],
+    "notebooks": [],
+    "n_files": 31,
+    "truncated_listing": false,
+    "has_gitmodules": false,
+    "has_lfs_pointers": false,
+    "missing": [
+      "配置（可能用 argparse）",
+      "测试",
+      "官方归属未证实，按第三方实现登记"
+    ],
+    "level": "L1",
+    "l1_ok": true
+  },
+  "D02-086": {
+    "sid": "D02-086",
+    "code_kind": "D",
+    "level": "",
+    "urls": [],
+    "note": "未在摘要/评论/PDF 首页发现代码链接；未声称已检索穷尽第三方复现"
+  },
+  "D02-087": {
+    "sid": "D02-087",
+    "url": "https://github.com/xuanmay2701/SCALER",
+    "owner": "xuanmay2701",
+    "repo": "SCALER",
+    "commit": "ee8a1e3d5a5b5036b0abc8595fa4a30d35a6327e",
+    "path": "code/D02-087_xuanmay2701_SCALER_en",
+    "official_evidence": "未核实官方归属（仅仓库存在）",
+    "code_kind": "C",
+    "license_file": "LICENSE",
+    "license_name": "apache license",
+    "readme": [
+      "readme.md"
+    ],
+    "entries": [],
+    "configs": [
+      "ds_config_zero2.json"
+    ],
+    "deps": [
+      "requirements.txt"
+    ],
+    "tests": [
+      "tests/test_scaler_model.py"
+    ],
+    "notebooks": [],
+    "n_files": 43,
+    "truncated_listing": false,
+    "has_gitmodules": false,
+    "has_lfs_pointers": false,
+    "missing": [
+      "仅部分实现可见",
+      "官方归属未证实，按第三方实现登记"
+    ],
+    "level": "L0",
+    "l1_ok": false
+  },
+  "D02-088": {
+    "sid": "D02-088",
+    "url": "https://github.com/YukinoAsuna/SAMBA",
+    "owner": "YukinoAsuna",
+    "repo": "SAMBA",
+    "commit": "490257dac0806e16c00372226870850d39e8be65",
+    "path": "code/D02-088_YukinoAsuna_SAMBA_en",
+    "official_evidence": "未核实官方归属（仅仓库存在）",
+    "code_kind": "C",
+    "license_file": "LICENSE",
+    "license_name": "mit license",
+    "readme": [
+      "readme.md"
+    ],
+    "entries": [
+      "run.py"
+    ],
+    "configs": [],
+    "deps": [
+      "requirements.txt"
+    ],
+    "tests": [],
+    "notebooks": [],
+    "n_files": 68,
+    "truncated_listing": false,
+    "has_gitmodules": false,
+    "has_lfs_pointers": false,
+    "missing": [
+      "配置（可能用 argparse）",
+      "测试",
+      "官方归属未证实，按第三方实现登记"
+    ],
+    "level": "L1",
+    "l1_ok": true
+  },
+  "D02-089": {
+    "sid": "D02-089",
+    "code_kind": "D",
+    "level": "",
+    "urls": [],
+    "note": "未在摘要/评论/PDF 首页发现代码链接；未声称已检索穷尽第三方复现"
+  },
+  "D02-090": {
+    "sid": "D02-090",
+    "url": "https://github.com/w2obin/airdde-aaai",
+    "owner": "w2obin",
+    "repo": "airdde-aaai",
+    "commit": "9277a56db4bcc0e5e6a3a78bc9aa2b8df09d9774",
+    "path": "code/D02-090_w2obin_airdde-aaai_en",
+    "official_evidence": "未核实官方归属（仅仓库存在）",
+    "code_kind": "C",
+    "license_file": "",
+    "license_name": "未发现许可证（不标为可自由复用）",
+    "readme": [
+      "readme.md"
+    ],
+    "entries": [
+      "eval.py",
+      "train.py",
+      "test.py"
+    ],
+    "configs": [
+      "knowair_config.yaml"
+    ],
+    "deps": [],
+    "tests": [
+      "test.py"
+    ],
+    "notebooks": [],
+    "n_files": 9,
+    "truncated_listing": false,
+    "has_gitmodules": false,
+    "has_lfs_pointers": false,
+    "missing": [
+      "依赖声明",
+      "官方归属未证实，按第三方实现登记"
+    ],
+    "level": "L0",
+    "l1_ok": false
+  },
+  "D02-091": {
+    "sid": "D02-091",
+    "url": "https://github.com/xuanmay2701/shapeformer",
+    "owner": "xuanmay2701",
+    "repo": "shapeformer",
+    "commit": "e543a2af220f40210043417bc2c1d5fee5661891",
+    "path": "code/D02-091_xuanmay2701_shapeformer_en",
+    "official_evidence": "未核实官方归属（仅仓库存在）",
+    "code_kind": "C",
+    "license_file": "LICENSE",
+    "license_name": "有 LICENSE 文件但未识别 SPDX/常用名称",
+    "readme": [
+      "readme.md"
+    ],
+    "entries": [
+      "training.py",
+      "main.py"
+    ],
+    "configs": [],
+    "deps": [
+      "requirements.txt"
+    ],
+    "tests": [],
+    "notebooks": [],
+    "n_files": 48,
+    "truncated_listing": false,
+    "has_gitmodules": false,
+    "has_lfs_pointers": false,
+    "missing": [
+      "配置（可能用 argparse）",
+      "测试",
+      "官方归属未证实，按第三方实现登记"
+    ],
+    "level": "L1",
+    "l1_ok": true
+  },
+  "D02-092": {
+    "sid": "D02-092",
+    "url": "https://github.com/xuangu-fang/BayOTIDE",
+    "owner": "xuangu-fang",
+    "repo": "BayOTIDE",
+    "commit": "1ba2c8556afeabbffcf29a8368efa9570ddb0741",
+    "path": "code/D02-092_xuangu-fang_BayOTIDE_en",
+    "official_evidence": "疑似作者（仓库名含作者姓氏）",
+    "code_kind": "B",
+    "license_file": "",
+    "license_name": "未发现许可证（不标为可自由复用）",
+    "readme": [
+      "readme.md"
+    ],
+    "entries": [],
+    "configs": [
+      "notebook/config_uber.yaml",
+      "notebook/config_solar.yaml",
+      "notebook/config_simu_impute.yaml",
+      "notebook/config_guangzhou.yaml",
+      "config/config_uber_impute.yaml",
+      "config/config_solar_impute.yaml",
+      "config/config_guangzhou_impute.yaml",
+      "config/r_0.2/config_uber_impute.yaml",
+      "config/r_0.2/config_solar_impute.yaml",
+      "config/r_0.2/config_guangzhou_impute.yaml",
+      "config/r_0.4/config_uber_impute.yaml",
+      "config/r_0.4/config_solar_impute.yaml"
+    ],
+    "deps": [
+      "requirements.txt"
+    ],
+    "tests": [],
+    "notebooks": [
+      "notebook/fast_test_uber.ipynb",
+      "notebook/try_findbook.ipynb",
+      "notebook/fast_test_solar.ipynb",
+      "notebook/fast_test_guangzhou.ipynb",
+      "notebook/fast_test_simu.ipynb"
+    ],
+    "n_files": 58,
+    "truncated_listing": false,
+    "has_gitmodules": false,
+    "has_lfs_pointers": false,
+    "missing": [
+      "仅部分实现可见"
+    ],
+    "level": "L0",
+    "l1_ok": false
+  },
+  "D02-093": {
+    "sid": "D02-093",
+    "url": "https://github.com/ShiqiaoZhou/SARAF",
+    "owner": "ShiqiaoZhou",
+    "repo": "SARAF",
+    "commit": "7b49aa8aabb38e8fe63adbc3146b1890958bf3ca",
+    "path": "code/D02-093_ShiqiaoZhou_SARAF_en",
+    "official_evidence": "疑似作者（仓库名含作者姓氏）",
+    "code_kind": "A",
+    "license_file": "",
+    "license_name": "未发现许可证（不标为可自由复用）",
+    "readme": [
+      "readme.md"
+    ],
+    "entries": [
+      "run.py"
+    ],
+    "configs": [],
+    "deps": [
+      "requirements.txt"
+    ],
+    "tests": [],
+    "notebooks": [],
+    "n_files": 32,
+    "truncated_listing": false,
+    "has_gitmodules": false,
+    "has_lfs_pointers": false,
+    "missing": [
+      "配置（可能用 argparse）",
+      "测试"
+    ],
+    "level": "L1",
+    "l1_ok": true
+  },
+  "D02-094": {
+    "sid": "D02-094",
+    "url": "https://github.com/fuyuanlyu/RTS-PnO",
+    "owner": "fuyuanlyu",
+    "repo": "RTS-PnO",
+    "commit": "8e94f961247e3b9536a31af9223462cff044f3a4",
+    "path": "code/D02-094_fuyuanlyu_RTS-PnO_en",
+    "official_evidence": "疑似作者（仓库名含作者姓氏）",
+    "code_kind": "A",
+    "license_file": "LICENSE",
+    "license_name": "mit license",
+    "readme": [
+      "readme.md"
+    ],
+    "entries": [
+      "core/src/common/experiment.py"
+    ],
+    "configs": [
+      "core/configs/dlinear/djia/heuristic.yaml",
+      "core/configs/dlinear/djia/predict.yaml",
+      "core/configs/dlinear/djia/pto.yaml",
+      "core/configs/dlinear/djia/pno.yaml",
+      "core/configs/dlinear/usdcny/heuristic.yaml",
+      "core/configs/dlinear/usdcny/predict.yaml",
+      "core/configs/dlinear/usdcny/pto.yaml",
+      "core/configs/dlinear/usdcny/pno.yaml",
+      "core/configs/patchtst/djia/heuristic.yaml",
+      "core/configs/patchtst/djia/predict.yaml",
+      "core/configs/patchtst/djia/pto.yaml",
+      "core/configs/patchtst/djia/pno.yaml"
+    ],
+    "deps": [],
+    "tests": [],
+    "notebooks": [],
+    "n_files": 86,
+    "truncated_listing": false,
+    "has_gitmodules": false,
+    "has_lfs_pointers": false,
+    "missing": [
+      "依赖声明",
+      "测试"
+    ],
+    "level": "L0",
+    "l1_ok": false
+  },
+  "D02-095": {
+    "sid": "D02-095",
+    "url": "https://github.com/decisionintelligence/MindTS",
+    "owner": "decisionintelligence",
+    "repo": "MindTS",
+    "commit": "7299cbb5fcf5d3c59ffc6d3552e57048d1e0ab1f",
+    "path": "code/D02-095_decisionintelligence_MindTS_en",
+    "official_evidence": "未核实官方归属（仅仓库存在）",
+    "code_kind": "C",
+    "license_file": "",
+    "license_name": "未发现许可证（不标为可自由复用）",
+    "readme": [
+      "readme.md"
+    ],
+    "entries": [],
+    "configs": [
+      "config/unfixed_detect_score_multi_config.json",
+      "config/fixed_detect_label_config.json",
+      "config/fixed_detect_score_config.json",
+      "config/all_detect_label_config.json",
+      "config/unfixed_detect_label_config.json",
+      "config/unfixed_detect_score_config.json",
+      "config/all_detect_score_config.json",
+      "config/unfixed_detect_label_multi_config.json"
+    ],
+    "deps": [
+      "requirements.txt"
+    ],
+    "tests": [],
+    "notebooks": [],
+    "n_files": 146,
+    "truncated_listing": false,
+    "has_gitmodules": false,
+    "has_lfs_pointers": false,
+    "missing": [
+      "仅部分实现可见",
+      "官方归属未证实，按第三方实现登记"
+    ],
+    "level": "L0",
+    "l1_ok": false
+  },
+  "D02-096": {
+    "sid": "D02-096",
+    "url": "https://github.com/seunghan96/softclt",
+    "owner": "seunghan96",
+    "repo": "softclt",
+    "commit": "14c638979b129075d7a1111e9f529b9a275ea394",
+    "path": "code/D02-096_seunghan96_softclt_en",
+    "official_evidence": "未核实官方归属（仅仓库存在）",
+    "code_kind": "C",
+    "license_file": "",
+    "license_name": "未发现许可证（不标为可自由复用）",
+    "readme": [
+      "readme.md"
+    ],
+    "entries": [
+      "softclt_ts2vec/train.py"
+    ],
+    "configs": [],
+    "deps": [],
+    "tests": [],
+    "notebooks": [],
+    "n_files": 59,
+    "truncated_listing": false,
+    "has_gitmodules": false,
+    "has_lfs_pointers": false,
+    "missing": [
+      "依赖声明",
+      "配置（可能用 argparse）",
+      "测试",
+      "官方归属未证实，按第三方实现登记"
+    ],
+    "level": "L0",
+    "l1_ok": false
+  },
+  "D02-097": {
+    "sid": "D02-097",
+    "url": "https://github.com/IfReasonable/STM3_KDD26",
+    "owner": "IfReasonable",
+    "repo": "STM3_KDD26",
+    "commit": "fe1ab2ba6b278019aa588aead00ae4ec50da087a",
+    "path": "code/D02-097_IfReasonable_STM3_KDD26_en",
+    "official_evidence": "未核实官方归属（仅仓库存在）",
+    "code_kind": "C",
+    "license_file": "",
+    "license_name": "未发现许可证（不标为可自由复用）",
+    "readme": [
+      "readme.md"
+    ],
+    "entries": [
+      "run.py"
+    ],
+    "configs": [],
+    "deps": [
+      "requirements.txt"
+    ],
+    "tests": [],
+    "notebooks": [],
+    "n_files": 24,
+    "truncated_listing": false,
+    "has_gitmodules": false,
+    "has_lfs_pointers": false,
+    "missing": [
+      "配置（可能用 argparse）",
+      "测试",
+      "官方归属未证实，按第三方实现登记"
+    ],
+    "level": "L1",
+    "l1_ok": true
+  },
+  "D02-098": {
+    "sid": "D02-098",
+    "code_kind": "D",
+    "level": "",
+    "urls": [
+      "https://github.com/astudentuser/Pre-training-Time-Series-Models-with-Stock-Data-Customization",
+      "https://github.com/astudentuser/Pre-training-"
+    ],
+    "note": "clone 失败 Cloning into '/root/recent_top_conference_research/code/D02-098_astudentuser_Pre-training-_en'...\nfatal: could not read Username for 'https://github.com': terminal prompts disabled",
+    "tried": "https://github.com/astudentuser/Pre-training-"
+  },
+  "D02-099": {
+    "sid": "D02-099",
+    "url": "https://github.com/wxie9/CARD",
+    "owner": "wxie9",
+    "repo": "CARD",
+    "commit": "ca6d34bcf26355bfdb6fc05f49c66e7601817f66",
+    "path": "code/D02-099_wxie9_CARD_en",
+    "official_evidence": "未核实官方归属（仅仓库存在）",
+    "code_kind": "C",
+    "license_file": "long_term_forecast_l720/Formers/Pyraformer/LICENSE",
+    "license_name": "apache license",
+    "readme": [
+      "readme.md",
+      "long_term_forecast_l720/formers/pyraformer/readme.md",
+      "long_term_forecast_l720/formers/fedformer/readme.md"
+    ],
+    "entries": [
+      "long_term_forecast_l96/run.py",
+      "short_term_forecast_m4/run.py",
+      "long_term_forecast_l720/formers/fedformer/run.py"
+    ],
+    "configs": [],
+    "deps": [
+      "requirements.txt",
+      "long_term_forecast_l720/formers/pyraformer/requirements.txt"
+    ],
+    "tests": [],
+    "notebooks": [],
+    "n_files": 210,
+    "truncated_listing": false,
+    "has_gitmodules": false,
+    "has_lfs_pointers": false,
+    "missing": [
+      "配置（可能用 argparse）",
+      "测试",
+      "官方归属未证实，按第三方实现登记"
+    ],
+    "level": "L1",
+    "l1_ok": true
+  },
+  "D02-100": {
+    "sid": "D02-100",
+    "url": "https://github.com/seunghan96/pits",
+    "owner": "seunghan96",
+    "repo": "pits",
+    "commit": "a4c56af8f22aa9bebbb9ecb1d2639946c8cdaea1",
+    "path": "code/D02-100_seunghan96_pits_en",
+    "official_evidence": "未核实官方归属（仅仓库存在）",
+    "code_kind": "C",
+    "license_file": "",
+    "license_name": "未发现许可证（不标为可自由复用）",
+    "readme": [
+      "readme.md"
+    ],
+    "entries": [],
+    "configs": [],
+    "deps": [
+      "pits_supervised/requirements.txt"
+    ],
+    "tests": [],
+    "notebooks": [],
+    "n_files": 60,
+    "truncated_listing": false,
+    "has_gitmodules": false,
+    "has_lfs_pointers": false,
+    "missing": [
+      "仅部分实现可见",
+      "官方归属未证实，按第三方实现登记"
+    ],
+    "level": "L0",
+    "l1_ok": false
+  },
+  "D02-101": {
+    "sid": "D02-101",
+    "url": "https://github.com/BorealisAI/scaleformer",
+    "owner": "BorealisAI",
+    "repo": "scaleformer",
+    "commit": "a83e47ba9a5c54f73c86eed807494d3f52a799b5",
+    "path": "code/D02-101_BorealisAI_scaleformer_en",
+    "official_evidence": "未核实官方归属（仅仓库存在）",
+    "code_kind": "C",
+    "license_file": "LICENSE",
+    "license_name": "有 LICENSE 文件但未识别 SPDX/常用名称",
+    "readme": [
+      "readme.md",
+      "robust_loss_pytorch/readme.md"
+    ],
+    "entries": [
+      "run.py"
+    ],
+    "configs": [],
+    "deps": [
+      "requirements.txt"
+    ],
+    "tests": [],
+    "notebooks": [],
+    "n_files": 56,
+    "truncated_listing": false,
+    "has_gitmodules": false,
+    "has_lfs_pointers": false,
+    "missing": [
+      "配置（可能用 argparse）",
+      "测试",
+      "官方归属未证实，按第三方实现登记"
+    ],
+    "level": "L1",
+    "l1_ok": true
+  },
+  "D02-102": {
+    "sid": "D02-102",
+    "code_kind": "D",
+    "level": "",
+    "urls": [],
+    "note": "未在摘要/评论/PDF 首页发现代码链接；未声称已检索穷尽第三方复现"
+  },
+  "D02-103": {
+    "sid": "D02-103",
+    "code_kind": "D",
+    "level": "",
+    "urls": [],
+    "note": "未在摘要/评论/PDF 首页发现代码链接；未声称已检索穷尽第三方复现"
+  },
+  "D02-104": {
+    "sid": "D02-104",
+    "code_kind": "D",
+    "level": "",
+    "urls": [],
+    "note": "未在摘要/评论/PDF 首页发现代码链接；未声称已检索穷尽第三方复现"
+  },
+  "D02-105": {
+    "sid": "D02-105",
+    "url": "https://github.com/SKURA502/ProtoTS",
+    "owner": "SKURA502",
+    "repo": "ProtoTS",
+    "commit": "0c74be33d32a8432f2131a3334b82419c2cd0511",
+    "path": "code/D02-105_SKURA502_ProtoTS_en",
+    "official_evidence": "未核实官方归属（仅仓库存在）",
+    "code_kind": "C",
+    "license_file": "",
+    "license_name": "未发现许可证（不标为可自由复用）",
+    "readme": [
+      "readme.md"
+    ],
+    "entries": [
+      "scripts/train.sh"
+    ],
+    "configs": [],
+    "deps": [
+      "requirements.txt"
+    ],
+    "tests": [],
+    "notebooks": [],
+    "n_files": 18,
+    "truncated_listing": false,
+    "has_gitmodules": false,
+    "has_lfs_pointers": false,
+    "missing": [
+      "配置（可能用 argparse）",
+      "测试",
+      "官方归属未证实，按第三方实现登记"
+    ],
+    "level": "L1",
+    "l1_ok": true
+  },
+  "D02-106": {
+    "sid": "D02-106",
+    "url": "https://github.com/OpenTSLab/TimeOmni",
+    "owner": "OpenTSLab",
+    "repo": "TimeOmni",
+    "commit": "4d4a9f4cb9c91994b904e743217df093bd68b27d",
+    "path": "code/D02-106_OpenTSLab_TimeOmni_en",
+    "official_evidence": "未核实官方归属（仅仓库存在）",
+    "code_kind": "C",
+    "license_file": "LICENSE",
+    "license_name": "apache license",
+    "readme": [
+      "readme.md"
+    ],
+    "entries": [],
+    "configs": [
+      "ds_config_zero2.json"
+    ],
+    "deps": [
+      "requirements.txt"
+    ],
+    "tests": [],
+    "notebooks": [],
+    "n_files": 28,
+    "truncated_listing": false,
+    "has_gitmodules": false,
+    "has_lfs_pointers": false,
+    "missing": [
+      "仅部分实现可见",
+      "官方归属未证实，按第三方实现登记"
+    ],
+    "level": "L0",
+    "l1_ok": false
+  },
+  "D02-107": {
+    "sid": "D02-107",
+    "url": "https://github.com/LJC-FVNR/In-context-Time-Series-Predictor",
+    "owner": "LJC-FVNR",
+    "repo": "In-context-Time-Series-Predictor",
+    "commit": "91da21052adaf8c993745d751250b94dc340ed61",
+    "path": "code/D02-107_LJC-FVNR_In-context-Time-Series-Predictor_en",
+    "official_evidence": "未核实官方归属（仅仓库存在）",
+    "code_kind": "C",
+    "license_file": "LICENSE",
+    "license_name": "apache license",
+    "readme": [
+      "readme.md",
+      "ictsp-multitask/readme.md",
+      "ictsp/readme.md"
+    ],
+    "entries": [],
+    "configs": [
+      "ictsp-multitask/configs/pretrain_configs_finetune.json",
+      "ictsp-multitask/configs/pretrain_configs_sequential.json"
+    ],
+    "deps": [
+      "ictsp-multitask/requirements.txt",
+      "ictsp/requirements.txt"
+    ],
+    "tests": [],
+    "notebooks": [
+      "ictsp-multitask/inference.ipynb"
+    ],
+    "n_files": 71,
+    "truncated_listing": false,
+    "has_gitmodules": false,
+    "has_lfs_pointers": true,
+    "missing": [
+      "仅部分实现可见",
+      "官方归属未证实，按第三方实现登记"
+    ],
+    "level": "L0",
+    "l1_ok": false
+  },
+  "D02-108": {
+    "sid": "D02-108",
+    "code_kind": "D",
+    "level": "",
+    "urls": [],
+    "note": "未在摘要/评论/PDF 首页发现代码链接；未声称已检索穷尽第三方复现"
+  },
+  "D02-109": {
+    "sid": "D02-109",
+    "url": "https://github.com/notshine/GBOC",
+    "owner": "notshine",
+    "repo": "GBOC",
+    "commit": "55a2a31e95055a638b5839c6b19335cbe02bd148",
+    "path": "code/D02-109_notshine_GBOC_en",
+    "official_evidence": "未核实官方归属（仅仓库存在）",
+    "code_kind": "C",
+    "license_file": "LICENSE",
+    "license_name": "mit license",
+    "readme": [
+      "readme.md"
+    ],
+    "entries": [
+      "main.py"
+    ],
+    "configs": [],
+    "deps": [
+      "requirements.txt"
+    ],
+    "tests": [],
+    "notebooks": [],
+    "n_files": 45,
+    "truncated_listing": false,
+    "has_gitmodules": false,
+    "has_lfs_pointers": false,
+    "missing": [
+      "配置（可能用 argparse）",
+      "测试",
+      "官方归属未证实，按第三方实现登记"
+    ],
+    "level": "L1",
+    "l1_ok": true
+  },
+  "D02-110": {
+    "sid": "D02-110",
+    "code_kind": "D",
+    "level": "",
+    "urls": [],
+    "note": "未在摘要/评论/PDF 首页发现代码链接；未声称已检索穷尽第三方复现"
+  }
+}

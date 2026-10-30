@@ -69,6 +69,13 @@ INTERVAL = {
     "openreview.net": 2.0,
     "openaccess.thecvf.com": 1.5,
     "aclanthology.org": 1.5,
+    "www.ecva.net": 1.5,
+    "ecva.net": 1.5,
+    "www.usenix.org": 1.5,
+    "usenix.org": 1.5,
+    "proceedings.mlsys.org": 1.5,
+    "www.roboticsproceedings.org": 1.5,
+    "roboticsproceedings.org": 1.5,
     "export.arxiv.org": 5.0,
 }
 
@@ -132,7 +139,15 @@ def http(url, accept="*/*", timeout=120, tries=3, headers=None, max_bytes=200_00
             h = {"User-Agent": UA, "Accept": accept, **(headers or {})}
             req = urllib.request.Request(url, headers=h)
             with urllib.request.urlopen(req, timeout=timeout) as r:
-                return r.status, r.read(max_bytes), r.geturl(), r.headers.get("Content-Type", "")
+                body = r.read(max_bytes)
+                enc = (r.headers.get("Content-Encoding") or "").lower()
+                if body[:2] == b"\x1f\x8b" or "gzip" in enc:
+                    import gzip
+                    try:
+                        body = gzip.decompress(body)
+                    except Exception:
+                        pass
+                return r.status, body, r.geturl(), r.headers.get("Content-Type", "")
         except urllib.error.HTTPError as e:
             err = f"HTTP {e.code}"
             body = b""

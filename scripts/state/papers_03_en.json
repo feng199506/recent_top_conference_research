@@ -1,0 +1,392 @@
+{
+  "D03-001": {
+    "sid": "D03-001",
+    "status": "ok",
+    "detail": "通过：%PDF；pypdf 29 页、41826 字符；标题匹配 1.00",
+    "path": "papers/2025_Wagner_NoboomChemicalProcessDatasetsIndustrialAnomalyDetection_en.pdf",
+    "sha256": "53e4c17bb392adcee792340c5bc8ef743e9de957509534cddd17368cddb9d871",
+    "source_kind": "新下载",
+    "reused_lib": "",
+    "bytes": 3609774
+  },
+  "D03-002": {
+    "sid": "D03-002",
+    "status": "ok",
+    "detail": "通过：%PDF；pypdf 9 页、43890 字符；标题匹配 1.00",
+    "path": "papers/2025_Zhou_FaultDiagnosisRednetModelSpace_en.pdf",
+    "sha256": "f462b210a5d75f9c784313b65af92d09fca90c8133db03cadcb9f807d91955cf",
+    "source_kind": "新下载",
+    "reused_lib": "",
+    "bytes": 849797
+  },
+  "D03-003": {
+    "sid": "D03-003",
+    "status": "ok",
+    "detail": "通过：%PDF；pypdf 8 页、38030 字符；标题匹配 1.00",
+    "path": "papers/2026_Shyalika_CausaltraceNeurosymbolicCausalAnalysisAgentSmartManufacturing_en.pdf",
+    "sha256": "a0e15a563fe8bf0c4dd09f7e8fb10daf7f8fd9946359a77d8f40b26839dbeb7b",
+    "source_kind": "新下载",
+    "reused_lib": "",
+    "bytes": 1948987
+  },
+  "D03-004": {
+    "sid": "D03-004",
+    "status": "ok",
+    "detail": "通过：%PDF；pypdf 12 页、72041 字符；标题匹配 1.00",
+    "path": "papers/2024_Wang_PondMultiSourceTimeSeriesDomainAdaptationInformation_en.pdf",
+    "sha256": "35c77595e7eb674632bd0cad01b242f0aee6f3c9269d2afdac45b34554905ce2",
+    "source_kind": "新下载",
+    "reused_lib": "",
+    "bytes": 1469599
+  },
+  "D03-005": {
+    "sid": "D03-005",
+    "status": "ok",
+    "detail": "通过：%PDF；pypdf 12 页、76349 字符；标题匹配 1.00",
+    "path": "papers/2026_Zhang_DsprDualStreamPhysicsResidualNetworksTrustworthyIndustrial_en.pdf",
+    "sha256": "8e962acbfab892732614926e93473a6d601f48997f014e0111dc2e087029cadf",
+    "source_kind": "新下载",
+    "reused_lib": "",
+    "bytes": 2178524
+  },
+  "D03-006": {
+    "sid": "D03-006",
+    "status": "ok",
+    "detail": "通过：%PDF；pypdf 19 页、48387 字符；标题匹配 1.00",
+    "path": "papers/2025_Wang_ReinadRealWorldIndustrialAnomalyDetectionComprehensiveContrastive_en.pdf",
+    "sha256": "9ab2b1c3502d81e02619f3afb1e9bd9e88a426ccc2af565188dd52127b3dfb24",
+    "source_kind": "新下载",
+    "reused_lib": "",
+    "bytes": 1207742
+  },
+  "D03-007": {
+    "sid": "D03-007",
+    "status": "ok",
+    "detail": "通过：%PDF；pypdf 29 页、54651 字符；标题匹配 1.00",
+    "path": "papers/2025_Yao_AdpretrainAdvancingIndustrialAnomalyDetectionAnomalyRepresentationPretraining_en.pdf",
+    "sha256": "00f60ed82c7abdd2d71c10def4cbca57d4f2d2e1a5a2cdc88b61c444458d676a",
+    "source_kind": "新下载",
+    "reused_lib": "",
+    "bytes": 2173273
+  },
+  "D03-008": {
+    "sid": "D03-008",
+    "status": "ok",
+    "detail": "通过：%PDF；pypdf 24 页、69200 字符；标题匹配 1.00",
+    "path": "papers/2025_He_LithosimLargeHolisticLithographySimulationBenchmarkAiDriven_en.pdf",
+    "sha256": "7d24e487ab84868e129c64d5bf1c0a56152af99855aa524da7aedd1be6a34bde",
+    "source_kind": "新下载",
+    "reused_lib": "",
+    "bytes": 12171287
+  },
+  "D03-009": {
+    "sid": "D03-009",
+    "status": "ok",
+    "detail": "通过：%PDF；pypdf 9 页、45463 字符；标题匹配 1.00",
+    "path": "papers/2025_Cai_VlmHybridExplainablePromptEnhancementZeroShotIndustrial_en.pdf",
+    "sha256": "d371760b5766dfd8984a44aad297f774c93783263ca136067e29313ee67dc337",
+    "source_kind": "新下载",
+    "reused_lib": "",
+    "bytes": 1398947
+  },
+  "D03-010": {
+    "sid": "D03-010",
+    "status": "ok",
+    "detail": "通过：%PDF；pypdf 23 页、48975 字符；标题匹配 1.00",
+    "path": "papers/2025_Jiang_MmadComprehensiveBenchmarkMultimodalLargeLanguageModelsIndustrial_en.pdf",
+    "sha256": "ccd55e1984bff732f3e68de2c1e2a6f1e94fa1f57a20ccb1e5da82b5082e7104",
+    "source_kind": "新下载",
+    "reused_lib": "",
+    "bytes": 9774014
+  },
+  "D03-011": {
+    "sid": "D03-011",
+    "status": "ok",
+    "detail": "通过：%PDF；pypdf 15 页、63665 字符；标题匹配 1.00",
+    "path": "papers/2023_Jhin_PrecursorAnomalyDetectionIrregularTimeSeries_en.pdf",
+    "sha256": "5891061b7716c9584062b6cb80afc9a054527d51cc63a72973831b64388d2876",
+    "source_kind": "新下载",
+    "reused_lib": "",
+    "bytes": 3324942
+  },
+  "D03-012": {
+    "sid": "D03-012",
+    "status": "ok",
+    "detail": "通过：%PDF；pypdf 18 页、56088 字符；标题匹配 1.00",
+    "path": "papers/2026_He_HarnessingVisionLanguageModelsTimeSeriesAnomalyDetection_en.pdf",
+    "sha256": "71a88d513e561c4ebfc843b7628c0904f59e711e7d4821a546763a61a9329167",
+    "source_kind": "新下载",
+    "reused_lib": "",
+    "bytes": 6379172
+  },
+  "D03-013": {
+    "sid": "D03-013",
+    "status": "ok",
+    "detail": "通过：%PDF；pypdf 13 页、56259 字符；标题匹配 1.00",
+    "path": "papers/2022_Budhathoki_CausalStructureRootCauseAnalysisOutliers_en.pdf",
+    "sha256": "c4460d46f1d0a5a892e526132d5e9ed7509d316ba8ea72866cc9e5845f84ed04",
+    "source_kind": "新下载",
+    "reused_lib": "",
+    "bytes": 724959
+  },
+  "D03-014": {
+    "sid": "D03-014",
+    "status": "ok",
+    "detail": "通过：%PDF；pypdf 38 页、45156 字符；标题匹配 1.00",
+    "path": "papers/2025_Orchard_RootCauseAnalysisOutliersMissingStructuralKnowledge_en.pdf",
+    "sha256": "930cc0b996146802e1ddf5fc1fa7205cb57bfffedf5c170d8436d61e7e9c4247",
+    "source_kind": "新下载",
+    "reused_lib": "",
+    "bytes": 675798
+  },
+  "D03-015": {
+    "sid": "D03-015",
+    "status": "ok",
+    "detail": "通过：%PDF；pypdf 13 页、53730 字符；标题匹配 1.00",
+    "path": "papers/2022_Chen_DeepVariationalGraphConvolutionalRecurrentNetworkMultivariateTime_en.pdf",
+    "sha256": "64ec25fe5d7543ae0cf06f8e5d9215ed806ba25fb3e1256735d00da74c49c081",
+    "source_kind": "新下载",
+    "reused_lib": "",
+    "bytes": 1836576
+  },
+  "D03-016": {
+    "sid": "D03-016",
+    "status": "ok",
+    "detail": "通过：%PDF；pypdf 15 页、56563 字符；标题匹配 1.00",
+    "path": "papers/2022_Qiu_LatentOutlierExposureAnomalyDetectionContaminatedData_en.pdf",
+    "sha256": "b68b42f62bb49813edbe6a004c111c7ea11e3a46c42446624b11f5f2ac2caa22",
+    "source_kind": "新下载",
+    "reused_lib": "",
+    "bytes": 4233533
+  },
+  "D03-017": {
+    "sid": "D03-017",
+    "status": "ok",
+    "detail": "通过：%PDF；pypdf 14 页、53155 字符；标题匹配 1.00",
+    "path": "papers/2025_Zhou_KanAdTimeSeriesAnomalyDetectionKolmogorovArnold_en.pdf",
+    "sha256": "167a26f478e73acda64ac8edbecb9b8b04bb1180eac454d199c19ff7465f9508",
+    "source_kind": "新下载",
+    "reused_lib": "",
+    "bytes": 1208234
+  },
+  "D03-018": {
+    "sid": "D03-018",
+    "status": "ok",
+    "detail": "通过：%PDF；pypdf 21 页、58999 字符；标题匹配 1.00",
+    "path": "papers/2026_Hu_TeamworkMultivariateTimeSeriesAnomalyDetectionAsymmetricRole_en.pdf",
+    "sha256": "39626796cc927d40a8bdcc92eda7e49da9c43bffdff88ccb34779f4db8b376fa",
+    "source_kind": "新下载",
+    "reused_lib": "",
+    "bytes": 2072376
+  },
+  "D03-019": {
+    "sid": "D03-019",
+    "status": "ok",
+    "detail": "通过：%PDF；pypdf 36 页、56972 字符；标题匹配 1.00",
+    "path": "papers/2026_Lan_FoundationModelsZeroShotTimeSeriesAnomalyDetection_en.pdf",
+    "sha256": "741be6e8a93e9813fcee118c3f9d51336c576b4cb4c9991ff22c6c73edbd13d5",
+    "source_kind": "新下载",
+    "reused_lib": "",
+    "bytes": 13641288
+  },
+  "D03-020": {
+    "sid": "D03-020",
+    "status": "ok",
+    "detail": "通过：%PDF；pypdf 26 页、52535 字符；标题匹配 1.00",
+    "path": "papers/2026_Shang_CognosUniversalEnhancementTimeSeriesAnomalyDetectionConstrained_en.pdf",
+    "sha256": "4e2487fc67be092cd3d5c768caba45e8fd4b3bc5ae8a99b20c75a0b2a61abbe6",
+    "source_kind": "新下载",
+    "reused_lib": "",
+    "bytes": 5290810
+  },
+  "D03-021": {
+    "sid": "D03-021",
+    "status": "ok",
+    "detail": "通过：%PDF；pypdf 28 页、56467 字符；标题匹配 1.00",
+    "path": "papers/2026_Zhou_ImpactInfluenceModelingOpenSetTimeSeriesAnomaly_en.pdf",
+    "sha256": "1132b52bb5fca62fa62c952d0c76f6001dcb6acd6189215bfca7fa7f46ffde01",
+    "source_kind": "新下载",
+    "reused_lib": "",
+    "bytes": 2187756
+  },
+  "D03-022": {
+    "sid": "D03-022",
+    "status": "ok",
+    "detail": "通过：%PDF；pypdf 17 页、42947 字符；标题匹配 1.00",
+    "path": "papers/2023_Wang_DriftDoesnTMatterDynamicDecompositionDiffusionReconstruction_en.pdf",
+    "sha256": "a21687cf77341ac45115b12814a5108325f357037084d8ce7dd4fe71191dcbbc",
+    "source_kind": "新下载",
+    "reused_lib": "",
+    "bytes": 577273
+  },
+  "D03-023": {
+    "sid": "D03-023",
+    "status": "ok",
+    "detail": "通过：%PDF；pypdf 17 页、40688 字符；标题匹配 1.00",
+    "path": "papers/2023_Song_MemtoMemoryGuidedTransformerMultivariateTimeSeriesAnomaly_en.pdf",
+    "sha256": "3053efc15ee64045bf06a3b777ae09a4ef2d6d4567e5eb2f8f5baeca931c42fd",
+    "source_kind": "新下载",
+    "reused_lib": "",
+    "bytes": 927221
+  },
+  "D03-024": {
+    "sid": "D03-024",
+    "status": "ok",
+    "detail": "通过：%PDF；pypdf 19 页、43749 字符；标题匹配 1.00",
+    "path": "papers/2023_Lai_NominalityScoreConditionedTimeSeriesAnomalyDetectionPoint_en.pdf",
+    "sha256": "279961c63a08e1715bf602271fd2e006fda8e9ca1fe26ab5bfb9a425c774b776",
+    "source_kind": "新下载",
+    "reused_lib": "",
+    "bytes": 4703108
+  },
+  "D03-025": {
+    "sid": "D03-025",
+    "status": "ok",
+    "detail": "通过：%PDF；pypdf 32 页、49504 字符；标题匹配 1.00",
+    "path": "papers/2025_Yin_ScatteradTemporalTopologicalScatteringMechanismTimeSeriesAnomaly_en.pdf",
+    "sha256": "c519dab595747c3c15a1574dea8ba6fef25f2b8af9e20fb6678d9502dc07077c",
+    "source_kind": "新下载",
+    "reused_lib": "",
+    "bytes": 3175751
+  },
+  "D03-026": {
+    "sid": "D03-026",
+    "status": "ok",
+    "detail": "通过：%PDF；pypdf 38 页、43866 字符；标题匹配 1.00",
+    "path": "papers/2025_Cho_StructuredTemporalCausalityInterpretableMultivariateTimeSeriesAnomaly_en.pdf",
+    "sha256": "eb32d0812e641986034637de566c62129d870615c6a0a477e8ca613118476801",
+    "source_kind": "新下载",
+    "reused_lib": "",
+    "bytes": 1615939
+  },
+  "D03-027": {
+    "sid": "D03-027",
+    "status": "ok",
+    "detail": "通过：%PDF；pypdf 31 页、42885 字符；标题匹配 1.00",
+    "path": "papers/2025_Li_PhysdiffPhysicallyGuidedDiffusionModelMultivariateTimeSeries_en.pdf",
+    "sha256": "7f4d55d2360adcb1b051ed886d6c3447cf40d0deaf7c48a0ad8f2f4da2147a50",
+    "source_kind": "新下载",
+    "reused_lib": "",
+    "bytes": 1580206
+  },
+  "D03-028": {
+    "sid": "D03-028",
+    "status": "ok",
+    "detail": "通过：%PDF；pypdf 27 页、46876 字符；标题匹配 1.00",
+    "path": "papers/2025_Li_CrossadTimeSeriesAnomalyDetectionCrossScaleAssociations_en.pdf",
+    "sha256": "ba6793f3e0e449ad59ef8dd70a0248e49a8abc399f6adcda7cfc33dc183d24f3",
+    "source_kind": "新下载",
+    "reused_lib": "",
+    "bytes": 5264953
+  },
+  "D03-029": {
+    "sid": "D03-029",
+    "status": "ok",
+    "detail": "通过：%PDF；pypdf 59 页、46466 字符；标题匹配 1.00",
+    "path": "papers/2025_Sun_MultivariateTimeSeriesAnomalyDetectionIdempotentReconstruction_en.pdf",
+    "sha256": "b55937b2dbc9987aabbda31525f8aa776eeb6efbe70fa56662d499d77d0cc12e",
+    "source_kind": "新下载",
+    "reused_lib": "",
+    "bytes": 27496084
+  },
+  "D03-030": {
+    "sid": "D03-030",
+    "status": "ok",
+    "detail": "通过：%PDF；pypdf 8 页、36407 字符；标题匹配 1.00",
+    "path": "papers/2022_Zhang_GrelenMultivariateTimeSeriesAnomalyDetectionPerspectiveGraph_en.pdf",
+    "sha256": "b78d5e7909b9019525b52135babd93c99f35eafa7fe9eff09572caedc6c8e242",
+    "source_kind": "新下载",
+    "reused_lib": "",
+    "bytes": 2765489
+  },
+  "D03-031": {
+    "sid": "D03-031",
+    "status": "ok",
+    "detail": "通过：%PDF；pypdf 9 页、47043 字符；标题匹配 1.00",
+    "path": "papers/2024_Liu_LargeLanguageModelGuidedKnowledgeDistillationTimeSeries_en.pdf",
+    "sha256": "ddec5e5bc64fba82a6d70687028057349cb716f04aff3e7c639357f66c33461b",
+    "source_kind": "新下载",
+    "reused_lib": "",
+    "bytes": 6103065
+  },
+  "D03-032": {
+    "sid": "D03-032",
+    "status": "ok",
+    "detail": "通过：%PDF；pypdf 9 页、43916 字符；标题匹配 1.00",
+    "path": "papers/2024_Yue_SubAdjacentTransformerImprovingTimeSeriesAnomalyDetection_en.pdf",
+    "sha256": "ef9392552aa5a92612b63ae01f2b282603144ce64be66137da8504e5acc92621",
+    "source_kind": "新下载",
+    "reused_lib": "",
+    "bytes": 467042
+  },
+  "D03-033": {
+    "sid": "D03-033",
+    "status": "ok",
+    "detail": "通过：%PDF；pypdf 9 页、46661 字符；标题匹配 1.00",
+    "path": "papers/2024_Tang_PerturbationGuidingContrastiveRepresentationLearningTimeSeriesAnomaly_en.pdf",
+    "sha256": "8a1319ac26078345482d2cf48b5f88b08d63bec757b9f448e3c41a02d9146669",
+    "source_kind": "新下载",
+    "reused_lib": "",
+    "bytes": 680690
+  },
+  "D03-034": {
+    "sid": "D03-034",
+    "status": "ok",
+    "detail": "通过：%PDF；pypdf 9 页、38929 字符；标题匹配 1.00",
+    "path": "papers/2025_Liu_RtdetectorDeepTransformerNetworksTimeSeriesAnomalyDetection_en.pdf",
+    "sha256": "d15765d87eb45d5679a5f1937e6bc5be94c3175fbe75791091f8f9e215dc626f",
+    "source_kind": "新下载",
+    "reused_lib": "",
+    "bytes": 2038705
+  },
+  "D03-035": {
+    "sid": "D03-035",
+    "status": "ok",
+    "detail": "通过：%PDF；pypdf 9 页、39077 字符；标题匹配 1.00",
+    "path": "papers/2026_Chen_AnomambaAligningReconstructionTimeSeriesAnomalyDetectionSelective_en.pdf",
+    "sha256": "25bf8df061b9553bdd8ad33ffb93a3eb4cb50a241d8dd22ccf87aa6d20204edc",
+    "source_kind": "新下载",
+    "reused_lib": "",
+    "bytes": 946311
+  },
+  "D03-036": {
+    "sid": "D03-036",
+    "status": "ok",
+    "detail": "通过：%PDF；pypdf 9 页、51335 字符；标题匹配 1.00",
+    "path": "papers/2026_Qiu_MultiViewEnsembleTimeSeriesAnomalyDetectionCoupling_en.pdf",
+    "sha256": "7e998d107c7addc51ae8aadc37173d4b769c1614ac69fb0f1b1375e41fcea497",
+    "source_kind": "新下载",
+    "reused_lib": "",
+    "bytes": 718024
+  },
+  "D03-037": {
+    "sid": "D03-037",
+    "status": "ok",
+    "detail": "通过：%PDF；pypdf 9 页、43552 字符；标题匹配 1.00",
+    "path": "papers/2025_Huang_GraphMixtureExpertsMemoryAugmentedRoutersMultivariateTime_en.pdf",
+    "sha256": "9b25cd5d0e1e1d26a7d8518c921dcce99f460f85eacd67c64fcc0f93efb2e1a1",
+    "source_kind": "新下载",
+    "reused_lib": "",
+    "bytes": 4554915
+  },
+  "D03-038": {
+    "sid": "D03-038",
+    "status": "ok",
+    "detail": "通过：%PDF；pypdf 9 页、42803 字符；标题匹配 1.00",
+    "path": "papers/2025_Liu_GcadAnomalyDetectionMultivariateTimeSeriesPerspectiveGranger_en.pdf",
+    "sha256": "76de300623a174b32be75962649ba420cca1189fe066a1751f10c1c87f51ce19",
+    "source_kind": "新下载",
+    "reused_lib": "",
+    "bytes": 502122
+  },
+  "D03-039": {
+    "sid": "D03-039",
+    "status": "ok",
+    "detail": "通过：%PDF；pypdf 29 页、50326 字符；标题匹配 1.00",
+    "path": "papers/2025_Wu_CatchChannelAwareMultivariateTimeSeriesAnomalyDetection_en.pdf",
+    "sha256": "7bb18834c337810be427efe056e4e8aac9d4f163a9d8b8f59375470202ff53dd",
+    "source_kind": "新下载",
+    "reused_lib": "",
+    "bytes": 2450790
+  }
+}

@@ -1,0 +1,1111 @@
+{
+  "D07-001": {
+    "sid": "D07-001",
+    "code_kind": "D",
+    "level": "",
+    "urls": [],
+    "note": "未在摘要/评论/PDF 首页发现代码链接；未声称已检索穷尽第三方复现"
+  },
+  "D07-002": {
+    "sid": "D07-002",
+    "code_kind": "D",
+    "level": "",
+    "urls": [],
+    "note": "未在摘要/评论/PDF 首页发现代码链接；未声称已检索穷尽第三方复现"
+  },
+  "D07-003": {
+    "sid": "D07-003",
+    "code_kind": "D",
+    "level": "",
+    "urls": [],
+    "note": "未在摘要/评论/PDF 首页发现代码链接；未声称已检索穷尽第三方复现"
+  },
+  "D07-004": {
+    "sid": "D07-004",
+    "code_kind": "D",
+    "level": "",
+    "urls": [],
+    "note": "未在摘要/评论/PDF 首页发现代码链接；未声称已检索穷尽第三方复现"
+  },
+  "D07-005": {
+    "sid": "D07-005",
+    "code_kind": "D",
+    "level": "",
+    "urls": [],
+    "note": "未在摘要/评论/PDF 首页发现代码链接；未声称已检索穷尽第三方复现"
+  },
+  "D07-006": {
+    "license_file": "",
+    "license_name": "未发现许可证（不标为可自由复用）",
+    "readme": [
+      "readme.md",
+      "toppquad/readme.md"
+    ],
+    "entries": [
+      "toppquad/train.py"
+    ],
+    "configs": [],
+    "deps": [
+      "toppquad/requirements.txt"
+    ],
+    "tests": [
+      "toppquad/test_inference.py"
+    ],
+    "notebooks": [
+      "inference.ipynb",
+      "toppquad_demo.ipynb"
+    ],
+    "n_files": 30,
+    "truncated_listing": false,
+    "has_gitmodules": true,
+    "has_lfs_pointers": false,
+    "code_kind": "A",
+    "missing": [
+      "配置（可能用 argparse）"
+    ],
+    "level": "L1",
+    "l1_ok": true,
+    "sid": "D07-006",
+    "url": "https://github.com/maokat12/lbTOPPQuad",
+    "owner": "maokat12",
+    "repo": "lbTOPPQuad",
+    "commit": "3db181cb0c76baaa1669f859f16a83060c2ee7a0",
+    "path": "code/D07-006_maokat12_lbTOPPQuad_en",
+    "official_evidence": "疑似作者（仓库名含作者姓氏）"
+  },
+  "D07-007": {
+    "license_file": "python_utils/LICENSE",
+    "license_name": "mit license",
+    "readme": [
+      "readme.md",
+      "python_utils/readme.md",
+      "learning/readme.md"
+    ],
+    "entries": [
+      "main.py",
+      "quadsim/main.py"
+    ],
+    "configs": [],
+    "deps": [
+      "requirements.txt"
+    ],
+    "tests": [
+      "quadsim/test_controlangvel.py"
+    ],
+    "notebooks": [],
+    "n_files": 105,
+    "truncated_listing": false,
+    "has_gitmodules": false,
+    "has_lfs_pointers": false,
+    "code_kind": "A",
+    "missing": [
+      "配置（可能用 argparse）"
+    ],
+    "level": "L1",
+    "l1_ok": true,
+    "sid": "D07-007",
+    "url": "https://github.com/KevinHuang8/DATT",
+    "owner": "KevinHuang8",
+    "repo": "DATT",
+    "commit": "42ddfc8ccf1afe416c50b8e6d37864d70ce18af0",
+    "path": "code/D07-007_KevinHuang8_DATT_en",
+    "official_evidence": "疑似作者（仓库名含作者姓氏）"
+  },
+  "D07-008": {
+    "sid": "D07-008",
+    "code_kind": "D",
+    "level": "",
+    "urls": [],
+    "note": "未在摘要/评论/PDF 首页发现代码链接；未声称已检索穷尽第三方复现"
+  },
+  "D07-009": {
+    "sid": "D07-009",
+    "code_kind": "D",
+    "level": "",
+    "urls": [],
+    "note": "未在摘要/评论/PDF 首页发现代码链接；未声称已检索穷尽第三方复现"
+  },
+  "D07-010": {
+    "sid": "D07-010",
+    "code_kind": "D",
+    "level": "",
+    "urls": [],
+    "note": "未在摘要/评论/PDF 首页发现代码链接；未声称已检索穷尽第三方复现"
+  },
+  "D07-011": {
+    "sid": "D07-011",
+    "code_kind": "D",
+    "level": "",
+    "urls": [],
+    "note": "未在摘要/评论/PDF 首页发现代码链接；未声称已检索穷尽第三方复现"
+  },
+  "D07-012": {
+    "sid": "D07-012",
+    "code_kind": "D",
+    "level": "",
+    "urls": [],
+    "note": "未在摘要/评论/PDF 首页发现代码链接；未声称已检索穷尽第三方复现"
+  },
+  "D07-013": {
+    "sid": "D07-013",
+    "code_kind": "D",
+    "level": "",
+    "urls": [],
+    "note": "未在摘要/评论/PDF 首页发现代码链接；未声称已检索穷尽第三方复现"
+  },
+  "D07-014": {
+    "sid": "D07-014",
+    "code_kind": "D",
+    "level": "",
+    "urls": [],
+    "note": "未在摘要/评论/PDF 首页发现代码链接；未声称已检索穷尽第三方复现"
+  },
+  "D07-015": {
+    "sid": "D07-015",
+    "code_kind": "D",
+    "level": "",
+    "urls": [],
+    "note": "未在摘要/评论/PDF 首页发现代码链接；未声称已检索穷尽第三方复现"
+  },
+  "D07-016": {
+    "sid": "D07-016",
+    "code_kind": "D",
+    "level": "",
+    "urls": [],
+    "note": "未在摘要/评论/PDF 首页发现代码链接；未声称已检索穷尽第三方复现"
+  },
+  "D07-017": {
+    "sid": "D07-017",
+    "code_kind": "D",
+    "level": "",
+    "urls": [],
+    "note": "未在摘要/评论/PDF 首页发现代码链接；未声称已检索穷尽第三方复现"
+  },
+  "D07-018": {
+    "sid": "D07-018",
+    "code_kind": "D",
+    "level": "",
+    "urls": [],
+    "note": "未在摘要/评论/PDF 首页发现代码链接；未声称已检索穷尽第三方复现"
+  },
+  "D07-019": {
+    "sid": "D07-019",
+    "code_kind": "D",
+    "level": "",
+    "urls": [],
+    "note": "未在摘要/评论/PDF 首页发现代码链接；未声称已检索穷尽第三方复现"
+  },
+  "D07-020": {
+    "sid": "D07-020",
+    "code_kind": "D",
+    "level": "",
+    "urls": [],
+    "note": "未在摘要/评论/PDF 首页发现代码链接；未声称已检索穷尽第三方复现"
+  },
+  "D07-021": {
+    "sid": "D07-021",
+    "code_kind": "D",
+    "level": "",
+    "urls": [],
+    "note": "未在摘要/评论/PDF 首页发现代码链接；未声称已检索穷尽第三方复现"
+  },
+  "D07-022": {
+    "sid": "D07-022",
+    "code_kind": "D",
+    "level": "",
+    "urls": [],
+    "note": "未在摘要/评论/PDF 首页发现代码链接；未声称已检索穷尽第三方复现"
+  },
+  "D07-023": {
+    "sid": "D07-023",
+    "code_kind": "D",
+    "level": "",
+    "urls": [
+      "https://github.com/pedramrabiee/safe"
+    ],
+    "note": "clone 失败 Cloning into '/root/recent_top_conference_research/code/D07-023_pedramrabiee_safe_en'...\nfatal: could not read Username for 'https://github.com': terminal prompts disabled\n",
+    "tried": "https://github.com/pedramrabiee/safe"
+  },
+  "D07-024": {
+    "sid": "D07-024",
+    "code_kind": "D",
+    "level": "",
+    "urls": [],
+    "note": "未在摘要/评论/PDF 首页发现代码链接；未声称已检索穷尽第三方复现"
+  },
+  "D07-025": {
+    "sid": "D07-025",
+    "code_kind": "D",
+    "level": "",
+    "urls": [],
+    "note": "未在摘要/评论/PDF 首页发现代码链接；未声称已检索穷尽第三方复现"
+  },
+  "D07-026": {
+    "sid": "D07-026",
+    "code_kind": "D",
+    "level": "",
+    "urls": [],
+    "note": "未在摘要/评论/PDF 首页发现代码链接；未声称已检索穷尽第三方复现"
+  },
+  "D07-027": {
+    "sid": "D07-027",
+    "code_kind": "D",
+    "level": "",
+    "urls": [],
+    "note": "未在摘要/评论/PDF 首页发现代码链接；未声称已检索穷尽第三方复现"
+  },
+  "D07-028": {
+    "sid": "D07-028",
+    "code_kind": "D",
+    "level": "",
+    "urls": [],
+    "note": "未在摘要/评论/PDF 首页发现代码链接；未声称已检索穷尽第三方复现"
+  },
+  "D07-029": {
+    "sid": "D07-029",
+    "code_kind": "D",
+    "level": "",
+    "urls": [],
+    "note": "未在摘要/评论/PDF 首页发现代码链接；未声称已检索穷尽第三方复现"
+  },
+  "D07-030": {
+    "sid": "D07-030",
+    "code_kind": "D",
+    "level": "",
+    "urls": [],
+    "note": "未在摘要/评论/PDF 首页发现代码链接；未声称已检索穷尽第三方复现"
+  },
+  "D07-031": {
+    "sid": "D07-031",
+    "code_kind": "D",
+    "level": "",
+    "urls": [],
+    "note": "未在摘要/评论/PDF 首页发现代码链接；未声称已检索穷尽第三方复现"
+  },
+  "D07-032": {
+    "license_file": "LICENSE",
+    "license_name": "apache license",
+    "readme": [
+      "readme.md",
+      "mlspaces_tests/readme.md",
+      "mlspaces_tests/scenes/readme.md",
+      "molmo_spaces_maniskill/readme.md",
+      "molmo_spaces/grasp_generation/readme.md"
+    ],
+    "entries": [
+      "molmo_spaces_maniskill/src/molmo_spaces_maniskill/downloader/main.py",
+      "molmo_spaces/data_generation/main.py",
+      "projects/commonsense/scripts/eval.py",
+      "projects/commonsense/scripts/object_permanence_point_eval.py",
+      "projects/commonsense/scripts/vlm_rollout_eval.py",
+      "molmo_spaces_isaac/src/molmo_spaces_isaac/downloader/main.py"
+    ],
+    "configs": [
+      ".pre-commit-config.yaml",
+      "molmo_spaces_maniskill/.pre-commit-config.yaml"
+    ],
+    "deps": [
+      "pyproject.toml",
+      "molmo_spaces_maniskill/pyproject.toml",
+      "molmo_spaces_isaac/pyproject.toml"
+    ],
+    "tests": [
+      "mlspaces_tests/component_tests/test_import_smoke.py",
+      "mlspaces_tests/component_tests/test_g1_robot.py",
+      "mlspaces_tests/component_tests/test_eval_license_policy.py",
+      "mlspaces_tests/component_tests/test_fisheye_warping.py",
+      "mlspaces_tests/component_tests/test_fisheye_cubemap.py",
+      "mlspaces_tests/component_tests/test_kinematics.py",
+      "mlspaces_tests/component_tests/test_license_policy.py",
+      "mlspaces_tests/component_tests/test_commercial_safety.py"
+    ],
+    "notebooks": [
+      "scripts/benchmarks/benchmark_summary.ipynb",
+      "scripts/benchmarks/eval_to_csv.ipynb"
+    ],
+    "n_files": 593,
+    "truncated_listing": false,
+    "has_gitmodules": true,
+    "has_lfs_pointers": false,
+    "code_kind": "C",
+    "missing": [],
+    "level": "L1",
+    "l1_ok": true,
+    "sid": "D07-032",
+    "url": "https://github.com/allenai/molmospaces",
+    "owner": "allenai",
+    "repo": "molmospaces",
+    "commit": "22ee21c0fb1d6f2bbccd4a7d5ee6f6dccc488bf1",
+    "path": "code/D07-032_allenai_molmospaces_en",
+    "official_evidence": "未核实官方归属（仅仓库存在）"
+  },
+  "D07-033": {
+    "sid": "D07-033",
+    "code_kind": "D",
+    "level": "",
+    "urls": [],
+    "note": "未在摘要/评论/PDF 首页发现代码链接；未声称已检索穷尽第三方复现"
+  },
+  "D07-034": {
+    "sid": "D07-034",
+    "code_kind": "D",
+    "level": "",
+    "urls": [],
+    "note": "未在摘要/评论/PDF 首页发现代码链接；未声称已检索穷尽第三方复现"
+  },
+  "D07-035": {
+    "sid": "D07-035",
+    "code_kind": "D",
+    "level": "",
+    "urls": [],
+    "note": "未在摘要/评论/PDF 首页发现代码链接；未声称已检索穷尽第三方复现"
+  },
+  "D07-036": {
+    "sid": "D07-036",
+    "code_kind": "D",
+    "level": "",
+    "urls": [],
+    "note": "未在摘要/评论/PDF 首页发现代码链接；未声称已检索穷尽第三方复现"
+  },
+  "D07-037": {
+    "sid": "D07-037",
+    "code_kind": "D",
+    "level": "",
+    "urls": [],
+    "note": "未在摘要/评论/PDF 首页发现代码链接；未声称已检索穷尽第三方复现"
+  },
+  "D07-038": {
+    "sid": "D07-038",
+    "code_kind": "D",
+    "level": "",
+    "urls": [],
+    "note": "未在摘要/评论/PDF 首页发现代码链接；未声称已检索穷尽第三方复现"
+  },
+  "D07-039": {
+    "sid": "D07-039",
+    "code_kind": "D",
+    "level": "",
+    "urls": [],
+    "note": "未在摘要/评论/PDF 首页发现代码链接；未声称已检索穷尽第三方复现"
+  },
+  "D07-040": {
+    "sid": "D07-040",
+    "code_kind": "D",
+    "level": "",
+    "urls": [],
+    "note": "未在摘要/评论/PDF 首页发现代码链接；未声称已检索穷尽第三方复现"
+  },
+  "D07-041": {
+    "sid": "D07-041",
+    "code_kind": "D",
+    "level": "",
+    "urls": [],
+    "note": "未在摘要/评论/PDF 首页发现代码链接；未声称已检索穷尽第三方复现"
+  },
+  "D07-042": {
+    "sid": "D07-042",
+    "code_kind": "D",
+    "level": "",
+    "urls": [],
+    "note": "未在摘要/评论/PDF 首页发现代码链接；未声称已检索穷尽第三方复现"
+  },
+  "D07-043": {
+    "sid": "D07-043",
+    "code_kind": "D",
+    "level": "",
+    "urls": [],
+    "note": "未在摘要/评论/PDF 首页发现代码链接；未声称已检索穷尽第三方复现"
+  },
+  "D07-044": {
+    "sid": "D07-044",
+    "code_kind": "D",
+    "level": "",
+    "urls": [],
+    "note": "未在摘要/评论/PDF 首页发现代码链接；未声称已检索穷尽第三方复现"
+  },
+  "D07-045": {
+    "sid": "D07-045",
+    "code_kind": "D",
+    "level": "",
+    "urls": [],
+    "note": "未在摘要/评论/PDF 首页发现代码链接；未声称已检索穷尽第三方复现"
+  },
+  "D07-046": {
+    "sid": "D07-046",
+    "code_kind": "D",
+    "level": "",
+    "urls": [],
+    "note": "未在摘要/评论/PDF 首页发现代码链接；未声称已检索穷尽第三方复现"
+  },
+  "D07-047": {
+    "license_file": "LICENSE",
+    "license_name": "mit license",
+    "readme": [
+      "readme.md"
+    ],
+    "entries": [
+      "main.py",
+      "train.py"
+    ],
+    "configs": [
+      "training_results/barriernet_intersection/config.json",
+      "training_results/livenet_doorway/config.json",
+      "training_results/livenet_doorway_suite/config.json",
+      "training_results/livenet_intersection/config.json"
+    ],
+    "deps": [
+      "requirements.txt"
+    ],
+    "tests": [
+      "training_results/barriernet_intersection/test_loss.pdf",
+      "training_results/livenet_doorway/test_loss.pdf",
+      "training_results/livenet_doorway_suite/test_loss.pdf",
+      "training_results/livenet_intersection/test_loss.pdf"
+    ],
+    "notebooks": [],
+    "n_files": 119,
+    "truncated_listing": false,
+    "has_gitmodules": false,
+    "has_lfs_pointers": true,
+    "code_kind": "C",
+    "missing": [],
+    "level": "L1",
+    "l1_ok": true,
+    "sid": "D07-047",
+    "url": "https://github.com/srikarg89/LiveNet",
+    "owner": "srikarg89",
+    "repo": "LiveNet",
+    "commit": "f2e13cd42a79ecaa7d1d0dfc4a8b760ca93c73e9",
+    "path": "code/D07-047_srikarg89_LiveNet_en",
+    "official_evidence": "未核实官方归属（仅仓库存在）"
+  },
+  "D07-048": {
+    "sid": "D07-048",
+    "code_kind": "D",
+    "level": "",
+    "urls": [],
+    "note": "未在摘要/评论/PDF 首页发现代码链接；未声称已检索穷尽第三方复现"
+  },
+  "D07-049": {
+    "license_file": "",
+    "license_name": "未发现许可证（不标为可自由复用）",
+    "readme": [
+      "readme.md"
+    ],
+    "entries": [
+      "scripts/eval.py"
+    ],
+    "configs": [
+      "spigym/config/base.yaml",
+      "spigym/config/base_eval.yaml",
+      "spigym/config/simulator/isaacgym_active_sysid.yaml",
+      "spigym/config/simulator/isaacgym.yaml",
+      "spigym/config/robot/robot_base.yaml",
+      "spigym/config/robot/g1/g1_29dof.yaml",
+      "spigym/config/robot/g1/g1_unitree_deprecated.yaml",
+      "spigym/config/robot/g1/g1_29dof_with_hand.yaml",
+      "spigym/config/robot/g1/g1_29dof_waist_fakehand.yaml",
+      "spigym/config/robot/g1/g1_12dof.yaml",
+      "spigym/config/robot/g1/g1_23dof.yaml",
+      "spigym/config/robot/g1/g1_23dof_sysid.yaml"
+    ],
+    "deps": [
+      "pyproject.toml",
+      "isaac_utils/pyproject.toml"
+    ],
+    "tests": [
+      "spigym/config/rewards/test/minimal.yaml"
+    ],
+    "notebooks": [],
+    "n_files": 138,
+    "truncated_listing": false,
+    "has_gitmodules": false,
+    "has_lfs_pointers": true,
+    "code_kind": "C",
+    "missing": [],
+    "level": "L1",
+    "l1_ok": true,
+    "sid": "D07-049",
+    "url": "https://github.com/LeCAR-Lab/SPI-Active",
+    "owner": "LeCAR-Lab",
+    "repo": "SPI-Active",
+    "commit": "edc07d0b957bce9a430aa5a48b71a266a0a9f635",
+    "path": "code/D07-049_LeCAR-Lab_SPI-Active_en",
+    "official_evidence": "未核实官方归属（仅仓库存在）"
+  },
+  "D07-050": {
+    "sid": "D07-050",
+    "code_kind": "D",
+    "level": "",
+    "urls": [],
+    "note": "未在摘要/评论/PDF 首页发现代码链接；未声称已检索穷尽第三方复现"
+  },
+  "D07-051": {
+    "sid": "D07-051",
+    "code_kind": "D",
+    "level": "",
+    "urls": [],
+    "note": "未在摘要/评论/PDF 首页发现代码链接；未声称已检索穷尽第三方复现"
+  },
+  "D07-052": {
+    "sid": "D07-052",
+    "code_kind": "D",
+    "level": "",
+    "urls": [],
+    "note": "未在摘要/评论/PDF 首页发现代码链接；未声称已检索穷尽第三方复现"
+  },
+  "D07-053": {
+    "sid": "D07-053",
+    "code_kind": "D",
+    "level": "",
+    "urls": [],
+    "note": "未在摘要/评论/PDF 首页发现代码链接；未声称已检索穷尽第三方复现"
+  },
+  "D07-054": {
+    "sid": "D07-054",
+    "code_kind": "D",
+    "level": "",
+    "urls": [],
+    "note": "未在摘要/评论/PDF 首页发现代码链接；未声称已检索穷尽第三方复现"
+  },
+  "D07-055": {
+    "sid": "D07-055",
+    "code_kind": "D",
+    "level": "",
+    "urls": [],
+    "note": "未在摘要/评论/PDF 首页发现代码链接；未声称已检索穷尽第三方复现"
+  },
+  "D07-056": {
+    "sid": "D07-056",
+    "code_kind": "D",
+    "level": "",
+    "urls": [],
+    "note": "未在摘要/评论/PDF 首页发现代码链接；未声称已检索穷尽第三方复现"
+  },
+  "D07-057": {
+    "sid": "D07-057",
+    "code_kind": "D",
+    "level": "",
+    "urls": [],
+    "note": "未在摘要/评论/PDF 首页发现代码链接；未声称已检索穷尽第三方复现"
+  },
+  "D07-058": {
+    "sid": "D07-058",
+    "code_kind": "D",
+    "level": "",
+    "urls": [],
+    "note": "未在摘要/评论/PDF 首页发现代码链接；未声称已检索穷尽第三方复现"
+  },
+  "D07-059": {
+    "sid": "D07-059",
+    "code_kind": "D",
+    "level": "",
+    "urls": [],
+    "note": "未在摘要/评论/PDF 首页发现代码链接；未声称已检索穷尽第三方复现"
+  },
+  "D07-060": {
+    "license_file": "",
+    "license_name": "未发现许可证（不标为可自由复用）",
+    "readme": [
+      "readme.md"
+    ],
+    "entries": [],
+    "configs": [],
+    "deps": [],
+    "tests": [],
+    "notebooks": [],
+    "n_files": 17,
+    "truncated_listing": false,
+    "has_gitmodules": false,
+    "has_lfs_pointers": false,
+    "code_kind": "C",
+    "missing": [
+      "仅部分实现可见"
+    ],
+    "level": "L0",
+    "l1_ok": false,
+    "sid": "D07-060",
+    "url": "https://github.com/ir-lab/ModAttn",
+    "owner": "ir-lab",
+    "repo": "ModAttn",
+    "commit": "74913d01d698de3cf8a7d27e726e9295e6120c11",
+    "path": "code/D07-060_ir-lab_ModAttn_en",
+    "official_evidence": "未核实官方归属（仅仓库存在）"
+  },
+  "D07-061": {
+    "sid": "D07-061",
+    "code_kind": "D",
+    "level": "",
+    "urls": [],
+    "note": "未在摘要/评论/PDF 首页发现代码链接；未声称已检索穷尽第三方复现"
+  },
+  "D07-062": {
+    "sid": "D07-062",
+    "code_kind": "D",
+    "level": "",
+    "urls": [],
+    "note": "未在摘要/评论/PDF 首页发现代码链接；未声称已检索穷尽第三方复现"
+  },
+  "D07-063": {
+    "sid": "D07-063",
+    "code_kind": "D",
+    "level": "",
+    "urls": [],
+    "note": "未在摘要/评论/PDF 首页发现代码链接；未声称已检索穷尽第三方复现"
+  },
+  "D07-064": {
+    "sid": "D07-064",
+    "code_kind": "D",
+    "level": "",
+    "urls": [],
+    "note": "未在摘要/评论/PDF 首页发现代码链接；未声称已检索穷尽第三方复现"
+  },
+  "D07-065": {
+    "sid": "D07-065",
+    "code_kind": "D",
+    "level": "",
+    "urls": [],
+    "note": "未在摘要/评论/PDF 首页发现代码链接；未声称已检索穷尽第三方复现"
+  },
+  "D07-066": {
+    "sid": "D07-066",
+    "code_kind": "D",
+    "level": "",
+    "urls": [],
+    "note": "未在摘要/评论/PDF 首页发现代码链接；未声称已检索穷尽第三方复现"
+  },
+  "D07-067": {
+    "sid": "D07-067",
+    "code_kind": "D",
+    "level": "",
+    "urls": [],
+    "note": "未在摘要/评论/PDF 首页发现代码链接；未声称已检索穷尽第三方复现"
+  },
+  "D07-068": {
+    "sid": "D07-068",
+    "code_kind": "D",
+    "level": "",
+    "urls": [],
+    "note": "未在摘要/评论/PDF 首页发现代码链接；未声称已检索穷尽第三方复现"
+  },
+  "D07-069": {
+    "sid": "D07-069",
+    "code_kind": "D",
+    "level": "",
+    "urls": [],
+    "note": "未在摘要/评论/PDF 首页发现代码链接；未声称已检索穷尽第三方复现"
+  },
+  "D07-070": {
+    "sid": "D07-070",
+    "code_kind": "D",
+    "level": "",
+    "urls": [],
+    "note": "未在摘要/评论/PDF 首页发现代码链接；未声称已检索穷尽第三方复现"
+  },
+  "D07-071": {
+    "sid": "D07-071",
+    "code_kind": "D",
+    "level": "",
+    "urls": [],
+    "note": "未在摘要/评论/PDF 首页发现代码链接；未声称已检索穷尽第三方复现"
+  },
+  "D07-072": {
+    "sid": "D07-072",
+    "code_kind": "D",
+    "level": "",
+    "urls": [],
+    "note": "未在摘要/评论/PDF 首页发现代码链接；未声称已检索穷尽第三方复现"
+  },
+  "D07-073": {
+    "sid": "D07-073",
+    "code_kind": "D",
+    "level": "",
+    "urls": [],
+    "note": "未在摘要/评论/PDF 首页发现代码链接；未声称已检索穷尽第三方复现"
+  },
+  "D07-074": {
+    "sid": "D07-074",
+    "code_kind": "D",
+    "level": "",
+    "urls": [],
+    "note": "未在摘要/评论/PDF 首页发现代码链接；未声称已检索穷尽第三方复现"
+  },
+  "D07-075": {
+    "sid": "D07-075",
+    "code_kind": "D",
+    "level": "",
+    "urls": [],
+    "note": "未在摘要/评论/PDF 首页发现代码链接；未声称已检索穷尽第三方复现"
+  },
+  "D07-076": {
+    "sid": "D07-076",
+    "code_kind": "D",
+    "level": "",
+    "urls": [],
+    "note": "未在摘要/评论/PDF 首页发现代码链接；未声称已检索穷尽第三方复现"
+  },
+  "D07-077": {
+    "sid": "D07-077",
+    "code_kind": "D",
+    "level": "",
+    "urls": [],
+    "note": "未在摘要/评论/PDF 首页发现代码链接；未声称已检索穷尽第三方复现"
+  },
+  "D07-078": {
+    "sid": "D07-078",
+    "code_kind": "D",
+    "level": "",
+    "urls": [],
+    "note": "未在摘要/评论/PDF 首页发现代码链接；未声称已检索穷尽第三方复现"
+  },
+  "D07-079": {
+    "sid": "D07-079",
+    "code_kind": "D",
+    "level": "",
+    "urls": [],
+    "note": "未在摘要/评论/PDF 首页发现代码链接；未声称已检索穷尽第三方复现"
+  },
+  "D07-080": {
+    "sid": "D07-080",
+    "code_kind": "D",
+    "level": "",
+    "urls": [],
+    "note": "未在摘要/评论/PDF 首页发现代码链接；未声称已检索穷尽第三方复现"
+  },
+  "D07-081": {
+    "sid": "D07-081",
+    "code_kind": "D",
+    "level": "",
+    "urls": [],
+    "note": "未在摘要/评论/PDF 首页发现代码链接；未声称已检索穷尽第三方复现"
+  },
+  "D07-082": {
+    "license_file": "pysot_tracker/LICENSE",
+    "license_name": "apache license",
+    "readme": [
+      "readme.md",
+      "pysot_tracker/readme.md",
+      "pysot_tracker/training_dataset/yt_bb/readme.md",
+      "pysot_tracker/training_dataset/coco/readme.md",
+      "pysot_tracker/training_dataset/det/readme.md"
+    ],
+    "entries": [
+      "main.py",
+      "pysot_tracker/tools/eval.py",
+      "pysot_tracker/tools/demo.py",
+      "pysot_tracker/tools/train.py",
+      "pysot_tracker/tools/test.py",
+      "vp_models/dmvfn/scripts/train.py",
+      "vp_models/dmvfn/scripts/test.py",
+      "yolov5/demo.py",
+      "yolov5/train.py",
+      "yolov5/segment/predict.py",
+      "yolov5/segment/train.py",
+      "yolov5/classify/predict.py"
+    ],
+    "configs": [
+      "yolov5/utils/loggers/comet/optimizer_config.json"
+    ],
+    "deps": [
+      "requirements.txt",
+      "pysot_tracker/requirements.txt",
+      "pysot_tracker/setup.py",
+      "pysot_tracker/training_dataset/coco/pycocotools/setup.py",
+      "vp_models/dmvfn/requirements.txt",
+      "yolov5/requirements.txt",
+      "yolov5/pyproject.toml"
+    ],
+    "tests": [
+      "pysot_tracker/tools/test.py",
+      "vp_models/dmvfn/dataset/test.pth",
+      "vp_models/dmvfn/scripts/test_ssim_lpips.py",
+      "vp_models/dmvfn/scripts/test.py"
+    ],
+    "notebooks": [
+      "yolov5/tutorial.ipynb",
+      "yolov5/segment/tutorial.ipynb",
+      "yolov5/classify/tutorial.ipynb",
+      "language_table/sim_mcts.ipynb",
+      "language_table/examples/language_table_tutorial.ipynb",
+      "language_table/examples/.ipynb_checkpoints/language_table_tutorial-checkpoint.ipynb"
+    ],
+    "n_files": 3194,
+    "truncated_listing": false,
+    "has_gitmodules": false,
+    "has_lfs_pointers": false,
+    "code_kind": "C",
+    "missing": [],
+    "level": "L1",
+    "l1_ok": true,
+    "sid": "D07-082",
+    "url": "https://github.com/PPjmchen/VLMPC",
+    "owner": "PPjmchen",
+    "repo": "VLMPC",
+    "commit": "44898abdd01b6986fb9c29e2e4c5364ccf875bf2",
+    "path": "code/D07-082_PPjmchen_VLMPC_en",
+    "official_evidence": "未核实官方归属（仅仓库存在）"
+  },
+  "D07-083": {
+    "sid": "D07-083",
+    "code_kind": "D",
+    "level": "",
+    "urls": [],
+    "note": "未在摘要/评论/PDF 首页发现代码链接；未声称已检索穷尽第三方复现"
+  },
+  "D07-084": {
+    "sid": "D07-084",
+    "code_kind": "D",
+    "level": "",
+    "urls": [],
+    "note": "未在摘要/评论/PDF 首页发现代码链接；未声称已检索穷尽第三方复现"
+  },
+  "D07-085": {
+    "sid": "D07-085",
+    "code_kind": "D",
+    "level": "",
+    "urls": [],
+    "note": "未在摘要/评论/PDF 首页发现代码链接；未声称已检索穷尽第三方复现"
+  },
+  "D07-086": {
+    "sid": "D07-086",
+    "code_kind": "D",
+    "level": "",
+    "urls": [],
+    "note": "未在摘要/评论/PDF 首页发现代码链接；未声称已检索穷尽第三方复现"
+  },
+  "D07-087": {
+    "sid": "D07-087",
+    "code_kind": "D",
+    "level": "",
+    "urls": [],
+    "note": "未在摘要/评论/PDF 首页发现代码链接；未声称已检索穷尽第三方复现"
+  },
+  "D07-088": {
+    "sid": "D07-088",
+    "code_kind": "D",
+    "level": "",
+    "urls": [],
+    "note": "未在摘要/评论/PDF 首页发现代码链接；未声称已检索穷尽第三方复现"
+  },
+  "D07-089": {
+    "sid": "D07-089",
+    "code_kind": "D",
+    "level": "",
+    "urls": [
+      "https://github.com/qinliangql/D-NA"
+    ],
+    "note": "clone 失败 Cloning into '/root/recent_top_conference_research/code/D07-089_qinliangql_D-NA_en'...\nfatal: could not read Username for 'https://github.com': terminal prompts disabled\n",
+    "tried": "https://github.com/qinliangql/D-NA"
+  },
+  "D07-090": {
+    "license_file": "LICENSE",
+    "license_name": "有 LICENSE 文件但未识别 SPDX/常用名称",
+    "readme": [
+      "readme.md",
+      "lafr/modules/readme.md",
+      "lafr/envs/readme.md",
+      "lafr/objects/readme.md"
+    ],
+    "entries": [
+      "lafr/scripts/train.py"
+    ],
+    "configs": [],
+    "deps": [
+      "pyproject.toml"
+    ],
+    "tests": [
+      "lafr/tests/conftest.py",
+      "lafr/tests/test_pipeline_consistency.py",
+      "lafr/tests/__init__.py",
+      "lafr/tests/test_envs.py"
+    ],
+    "notebooks": [],
+    "n_files": 54,
+    "truncated_listing": false,
+    "has_gitmodules": false,
+    "has_lfs_pointers": false,
+    "code_kind": "C",
+    "missing": [
+      "配置（可能用 argparse）"
+    ],
+    "level": "L1",
+    "l1_ok": true,
+    "sid": "D07-090",
+    "url": "https://github.com/uzh-rpg/LAFR",
+    "owner": "uzh-rpg",
+    "repo": "LAFR",
+    "commit": "9bd1ed068782446e10b112be8b48abe2a4318e78",
+    "path": "code/D07-090_uzh-rpg_LAFR_en",
+    "official_evidence": "未核实官方归属（仅仓库存在）"
+  },
+  "D07-091": {
+    "sid": "D07-091",
+    "code_kind": "D",
+    "level": "",
+    "urls": [],
+    "note": "未在摘要/评论/PDF 首页发现代码链接；未声称已检索穷尽第三方复现"
+  },
+  "D07-092": {
+    "sid": "D07-092",
+    "code_kind": "D",
+    "level": "",
+    "urls": [],
+    "note": "未在摘要/评论/PDF 首页发现代码链接；未声称已检索穷尽第三方复现"
+  },
+  "D07-093": {
+    "sid": "D07-093",
+    "code_kind": "D",
+    "level": "",
+    "urls": [],
+    "note": "未在摘要/评论/PDF 首页发现代码链接；未声称已检索穷尽第三方复现"
+  },
+  "D07-094": {
+    "sid": "D07-094",
+    "code_kind": "D",
+    "level": "",
+    "urls": [],
+    "note": "未在摘要/评论/PDF 首页发现代码链接；未声称已检索穷尽第三方复现"
+  },
+  "D07-095": {
+    "sid": "D07-095",
+    "code_kind": "D",
+    "level": "",
+    "urls": [],
+    "note": "未在摘要/评论/PDF 首页发现代码链接；未声称已检索穷尽第三方复现"
+  },
+  "D07-096": {
+    "sid": "D07-096",
+    "code_kind": "D",
+    "level": "",
+    "urls": [],
+    "note": "未在摘要/评论/PDF 首页发现代码链接；未声称已检索穷尽第三方复现"
+  },
+  "D07-097": {
+    "sid": "D07-097",
+    "code_kind": "D",
+    "level": "",
+    "urls": [],
+    "note": "未在摘要/评论/PDF 首页发现代码链接；未声称已检索穷尽第三方复现"
+  },
+  "D07-098": {
+    "license_file": "environment_Yumi/urdf/LICENSE",
+    "license_name": "有 LICENSE 文件但未识别 SPDX/常用名称",
+    "readme": [
+      "readme.md"
+    ],
+    "entries": [
+      "visualizer/test.py"
+    ],
+    "configs": [
+      "environment/urdf_models/spotmicro_proprio_dachshund/config/joint_names_spotmicro_proprio_dachshund.yaml",
+      "environment/urdf_models/spotmicro_proprio_v5/config/joint_names_spotmicro_proprio_v5.yaml"
+    ],
+    "deps": [],
+    "tests": [
+      "visualizer/test.py",
+      "environment_yumi/testgptchat.py"
+    ],
+    "notebooks": [],
+    "n_files": 302,
+    "truncated_listing": false,
+    "has_gitmodules": false,
+    "has_lfs_pointers": false,
+    "code_kind": "C",
+    "missing": [
+      "依赖声明"
+    ],
+    "level": "L0",
+    "l1_ok": false,
+    "sid": "D07-098",
+    "url": "https://github.com/MohammadKasaei/SoftManiSim",
+    "owner": "MohammadKasaei",
+    "repo": "SoftManiSim",
+    "commit": "dac4defb245a0ec3a7c9b2b104d562d95150ff1e",
+    "path": "code/D07-098_MohammadKasaei_SoftManiSim_en",
+    "official_evidence": "未核实官方归属（仅仓库存在）"
+  },
+  "D07-099": {
+    "sid": "D07-099",
+    "code_kind": "D",
+    "level": "",
+    "urls": [],
+    "note": "未在摘要/评论/PDF 首页发现代码链接；未声称已检索穷尽第三方复现"
+  },
+  "D07-100": {
+    "sid": "D07-100",
+    "code_kind": "D",
+    "level": "",
+    "urls": [],
+    "note": "未在摘要/评论/PDF 首页发现代码链接；未声称已检索穷尽第三方复现"
+  },
+  "D07-101": {
+    "sid": "D07-101",
+    "code_kind": "D",
+    "level": "",
+    "urls": [],
+    "note": "未在摘要/评论/PDF 首页发现代码链接；未声称已检索穷尽第三方复现"
+  },
+  "D07-102": {
+    "sid": "D07-102",
+    "code_kind": "D",
+    "level": "",
+    "urls": [],
+    "note": "未在摘要/评论/PDF 首页发现代码链接；未声称已检索穷尽第三方复现"
+  },
+  "D07-103": {
+    "sid": "D07-103",
+    "code_kind": "D",
+    "level": "",
+    "urls": [],
+    "note": "未在摘要/评论/PDF 首页发现代码链接；未声称已检索穷尽第三方复现"
+  },
+  "D07-104": {
+    "sid": "D07-104",
+    "code_kind": "D",
+    "level": "",
+    "urls": [],
+    "note": "未在摘要/评论/PDF 首页发现代码链接；未声称已检索穷尽第三方复现"
+  },
+  "D07-105": {
+    "sid": "D07-105",
+    "code_kind": "D",
+    "level": "",
+    "urls": [],
+    "note": "未在摘要/评论/PDF 首页发现代码链接；未声称已检索穷尽第三方复现"
+  },
+  "D07-106": {
+    "sid": "D07-106",
+    "code_kind": "D",
+    "level": "",
+    "urls": [],
+    "note": "未在摘要/评论/PDF 首页发现代码链接；未声称已检索穷尽第三方复现"
+  },
+  "D07-107": {
+    "sid": "D07-107",
+    "code_kind": "D",
+    "level": "",
+    "urls": [],
+    "note": "未在摘要/评论/PDF 首页发现代码链接；未声称已检索穷尽第三方复现"
+  },
+  "D07-108": {
+    "sid": "D07-108",
+    "code_kind": "D",
+    "level": "",
+    "urls": [],
+    "note": "未在摘要/评论/PDF 首页发现代码链接；未声称已检索穷尽第三方复现"
+  },
+  "D07-109": {
+    "sid": "D07-109",
+    "code_kind": "D",
+    "level": "",
+    "urls": [],
+    "note": "未在摘要/评论/PDF 首页发现代码链接；未声称已检索穷尽第三方复现"
+  },
+  "D07-110": {
+    "sid": "D07-110",
+    "code_kind": "D",
+    "level": "",
+    "urls": [],
+    "note": "未在摘要/评论/PDF 首页发现代码链接；未声称已检索穷尽第三方复现"
+  }
+}

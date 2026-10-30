@@ -1,0 +1,607 @@
+{
+  "D06-001": {
+    "sid": "D06-001",
+    "status": "ok",
+    "detail": "通过：%PDF；pypdf 17 页、59652 字符；标题匹配 1.00",
+    "path": "papers/2025_Ye_FlashinferEfficientCustomizableAttentionEngineLlmInferenceServing_en.pdf",
+    "sha256": "37beb3967fcae981febb3e93d7ae40c59d4b0c6debf12a1529ed803922eeada4",
+    "source_kind": "新下载",
+    "reused_lib": "",
+    "bytes": 1693865
+  },
+  "D06-002": {
+    "sid": "D06-002",
+    "status": "ok",
+    "detail": "通过：%PDF；pypdf 15 页、58829 字符；标题匹配 1.00",
+    "path": "papers/2026_Zheng_BatchllmOptimizingLargeBatchedLlmInferenceGlobalPrefix_en.pdf",
+    "sha256": "804ff303a51950c29e97b1274ea442ebc491a6f00baeea51888bf1d12a97367d",
+    "source_kind": "新下载",
+    "reused_lib": "",
+    "bytes": 763354
+  },
+  "D06-003": {
+    "sid": "D06-003",
+    "status": "ok",
+    "detail": "通过：%PDF；pypdf 16 页、60777 字符；标题匹配 1.00",
+    "path": "papers/2025_Yang_LserveEfficientLongSequenceLlmServingUnifiedSparse_en.pdf",
+    "sha256": "72efcfb89092331e4c92925f085b9b74c08b3542650d0c5f650d2a21386b9e45",
+    "source_kind": "新下载",
+    "reused_lib": "",
+    "bytes": 4228707
+  },
+  "D06-004": {
+    "sid": "D06-004",
+    "status": "ok",
+    "detail": "通过：%PDF；pypdf 16 页、61157 字符；标题匹配 1.00",
+    "path": "papers/2023_Kwon_EfficientMemoryManagementLargeLanguageModelServingPagedattention_en.pdf",
+    "sha256": "55b3b324d779a67c59dac2519445e3b07c14e6ff5c656fadb47a3d7b5997469e",
+    "source_kind": "新下载",
+    "reused_lib": "",
+    "bytes": 1459631
+  },
+  "D06-005": {
+    "sid": "D06-005",
+    "status": "ok",
+    "detail": "通过：%PDF；pypdf 18 页、60742 字符；标题匹配 1.00",
+    "path": "papers/2025_Prabhu_VattentionDynamicMemoryManagementServingLlmsPagedattention_en.pdf",
+    "sha256": "89017c3e7f5900cdf2b7295d647fc19bf45e674dddd3525ba86a5f203861c701",
+    "source_kind": "新下载",
+    "reused_lib": "",
+    "bytes": 1563582
+  },
+  "D06-006": {
+    "sid": "D06-006",
+    "status": "ok",
+    "detail": "通过：%PDF；pypdf 21 页、57918 字符；标题匹配 1.00",
+    "path": "papers/2026_Wang_NestNetworkMemoryAwareDevicePlacementDistributedDeep_en.pdf",
+    "sha256": "7f41b08f3727efae97d2e0a87de86a4bb8bc7ba6a9ed374e62dbaf72b3c34210",
+    "source_kind": "新下载",
+    "reused_lib": "",
+    "bytes": 3003112
+  },
+  "D06-007": {
+    "sid": "D06-007",
+    "status": "ok",
+    "detail": "通过：%PDF；pypdf 15 页、55041 字符；标题匹配 1.00",
+    "path": "papers/2026_Jayakody_GhostserveLightweightCheckpointingSystemShadowFaultTolerantLlm_en.pdf",
+    "sha256": "0c73b8e57fda7aa336798a7b8eeb7e2e63cc2b4157ec63ca62198b192b8b2a78",
+    "source_kind": "新下载",
+    "reused_lib": "",
+    "bytes": 2734372
+  },
+  "D06-008": {
+    "sid": "D06-008",
+    "status": "ok",
+    "detail": "通过：%PDF；pypdf 19 页、57230 字符；标题匹配 1.00",
+    "path": "papers/2026_Kabakibo_BreakingIceAnalyzingColdStartLatencyVllm_en.pdf",
+    "sha256": "08337834871254222d12d78810e1b0f510c36368ce94702f90ffe006e0e68bec",
+    "source_kind": "新下载",
+    "reused_lib": "",
+    "bytes": 636949
+  },
+  "D06-009": {
+    "sid": "D06-009",
+    "status": "ok",
+    "detail": "通过：%PDF；pypdf 16 页、60675 字符；标题匹配 1.00",
+    "path": "papers/2025_Gim_PieProgrammableServingSystemEmergingLlmApplications_en.pdf",
+    "sha256": "833136422474feeffa5c87e6b9d9ff5edb6015d371cdc5b5e033294a099c73d9",
+    "source_kind": "新下载",
+    "reused_lib": "",
+    "bytes": 1075269
+  },
+  "D06-010": {
+    "sid": "D06-010",
+    "status": "ok",
+    "detail": "通过：%PDF；pypdf 20 页、56480 字符；标题匹配 1.00",
+    "path": "papers/2026_Su_MorphserveEfficientWorkloadAwareLlmServingRuntimeQuantized_en.pdf",
+    "sha256": "080ddcfe8c23e12bb421e4c1107c09246c82144345064018401b49e1a8dd2678",
+    "source_kind": "新下载",
+    "reused_lib": "",
+    "bytes": 8808917
+  },
+  "D06-011": {
+    "sid": "D06-011",
+    "status": "ok",
+    "detail": "通过：%PDF；pypdf 8 页、38192 字符；标题匹配 1.00",
+    "path": "papers/2025_Gim_ServeProgramsNotPrompts_en.pdf",
+    "sha256": "d88f6c795596673f62b402816f1d7f6c1f14a56b5558fe697462facdd72f7dd2",
+    "source_kind": "新下载",
+    "reused_lib": "",
+    "bytes": 632091
+  },
+  "D06-012": {
+    "sid": "D06-012",
+    "status": "ok",
+    "detail": "通过：%PDF；pypdf 18 页、53699 字符；标题匹配 1.00",
+    "path": "papers/2026_Anon_RevisitingPipelineParallelismLlmServing_en.pdf",
+    "sha256": "18eef832e134b5f4e4f3ca2e6bcfdfa25b743043ac45152dedc8e1cfddcc3c39",
+    "source_kind": "新下载",
+    "reused_lib": "",
+    "bytes": 2162769
+  },
+  "D06-013": {
+    "sid": "D06-013",
+    "status": "ok",
+    "detail": "通过：%PDF；pypdf 13 页、60637 字符；标题匹配 1.00",
+    "path": "papers/2024_Tian_DiffusionpipeTrainingLargeDiffusionModelsEfficientPipelines_en.pdf",
+    "sha256": "c894622354216e165cb5b665885f9acd8295c0dc78f5cacdc053a058b9d4d320",
+    "source_kind": "新下载",
+    "reused_lib": "",
+    "bytes": 1094480
+  },
+  "D06-014": {
+    "sid": "D06-014",
+    "status": "ok",
+    "detail": "通过：%PDF；pypdf 17 页、56665 字符；标题匹配 1.00",
+    "path": "papers/2026_Bachkaniwala_Stream2llmOverlapContextStreamingPrefillReducedTimeFirst_en.pdf",
+    "sha256": "fae3e134c6f2d8b4a9aaa34b10fc1d2e547bc9689081ac1e77cf5a80d51ec248",
+    "source_kind": "新下载",
+    "reused_lib": "",
+    "bytes": 3491822
+  },
+  "D06-015": {
+    "sid": "D06-015",
+    "status": "ok",
+    "detail": "通过：%PDF；pypdf 17 页、63745 字符；标题匹配 1.00",
+    "path": "papers/2026_Anon_EfficientLlmServingCommodityGpuClustersDataReduced_en.pdf",
+    "sha256": "494be63bc7b5fc66a25acf504cf84633e05f9f84448f5fb0ed1bdbff62d0eb79",
+    "source_kind": "新下载",
+    "reused_lib": "",
+    "bytes": 937293
+  },
+  "D06-016": {
+    "sid": "D06-016",
+    "status": "ok",
+    "detail": "通过：%PDF；pypdf 17 页、63523 字符；标题匹配 1.00",
+    "path": "papers/2025_Cai_MocSystemEfficientFaultToleranceSparseMixtureExperts_en.pdf",
+    "sha256": "20b57a3841a43e8f04ef3115827a04a901dedac8055fff236cd915fe43e813f1",
+    "source_kind": "新下载",
+    "reused_lib": "",
+    "bytes": 1410906
+  },
+  "D06-017": {
+    "sid": "D06-017",
+    "status": "ok",
+    "detail": "通过：%PDF；pypdf 17 页、61715 字符；标题匹配 1.00",
+    "path": "papers/2025_Jiang_ThunderserveHighPerformanceCostEfficientLlmServingCloud_en.pdf",
+    "sha256": "7f55f991bdb32b0712bf48bbadd022340db00c968ae57720bb5f2dd708a9d809",
+    "source_kind": "新下载",
+    "reused_lib": "",
+    "bytes": 1543058
+  },
+  "D06-018": {
+    "sid": "D06-018",
+    "status": "ok",
+    "detail": "通过：%PDF；pypdf 16 页、60825 字符；标题匹配 1.00",
+    "path": "papers/2024_Peng_MaxkGnnExtremelyFastGpuKernelDesignAccelerating_en.pdf",
+    "sha256": "3c830d3569ae038c0f8038c9a5216a3f5b2368a32ea1a717e59aa156b09ff113",
+    "source_kind": "新下载",
+    "reused_lib": "",
+    "bytes": 1878690
+  },
+  "D06-019": {
+    "sid": "D06-019",
+    "status": "ok",
+    "detail": "通过：%PDF；pypdf 24 页、46244 字符；标题匹配 1.00",
+    "path": "papers/2026_Shui_HarnessEngineeringLlmDrivenGpuKernelGeneration_en.pdf",
+    "sha256": "652f1817cc70cf428230a6a10348476b569ab8e97afe49d2276e4981238d98cf",
+    "source_kind": "新下载",
+    "reused_lib": "",
+    "bytes": 1875785
+  },
+  "D06-020": {
+    "sid": "D06-020",
+    "status": "ok",
+    "detail": "通过：%PDF；pypdf 20 页、56473 字符；标题匹配 1.00",
+    "path": "papers/2026_Anon_HetecclSynthesizingNearOptimalCollectiveCommunicationSchedulesHeterogeneous_en.pdf",
+    "sha256": "f2fcc67fafe4fdf47681f8ed0a4d06bb3f756d579b0576d95397a2446dc22156",
+    "source_kind": "新下载",
+    "reused_lib": "",
+    "bytes": 3028607
+  },
+  "D06-021": {
+    "sid": "D06-021",
+    "status": "ok",
+    "detail": "通过：%PDF；pypdf 13 页、57710 字符；标题匹配 0.89",
+    "path": "papers/2022_Hu_DproGenericProfilingOptimizationSystemExpeditingDistributedDnn_en.pdf",
+    "sha256": "57f5cfb2a33b46151a09abbd40d08c26bdda24008d29a335a0202687e3a942e5",
+    "source_kind": "新下载",
+    "reused_lib": "",
+    "bytes": 1045962
+  },
+  "D06-022": {
+    "sid": "D06-022",
+    "status": "ok",
+    "detail": "通过：%PDF；pypdf 21 页、53635 字符；标题匹配 1.00",
+    "path": "papers/2026_Anon_DroidspeakKvCacheSharingAcrossFineTunedModel_en.pdf",
+    "sha256": "6e5b1df0135b567c9c08e17ad4c661b59ee3fa0014a1ff8cd61b4c8e0f6ffe63",
+    "source_kind": "新下载",
+    "reused_lib": "",
+    "bytes": 1263568
+  },
+  "D06-023": {
+    "sid": "D06-023",
+    "status": "ok",
+    "detail": "通过：%PDF；pypdf 22 页、52611 字符；标题匹配 1.00",
+    "path": "papers/2026_Anon_EchoEfficientKvCacheOffloadingLosslessPrefetchingServing_en.pdf",
+    "sha256": "1e8cb13e4dfc02f1e70fbfa2b0847c50aa80f12c09e0ed0ae1779721eaddca0a",
+    "source_kind": "新下载",
+    "reused_lib": "",
+    "bytes": 3563903
+  },
+  "D06-024": {
+    "sid": "D06-024",
+    "status": "ok",
+    "detail": "通过：%PDF；pypdf 16 页、56465 字符；标题匹配 1.00",
+    "path": "papers/2026_Takbir_FlexicacheLeveragingTemporalStabilityAttentionHeadsEfficientKv_en.pdf",
+    "sha256": "ac8d89756159f8aebf3f03e7a4e9b48e7bed308800a9c613a0aa35e534c2c8f8",
+    "source_kind": "新下载",
+    "reused_lib": "",
+    "bytes": 734640
+  },
+  "D06-025": {
+    "sid": "D06-025",
+    "status": "ok",
+    "detail": "通过：%PDF；pypdf 15 页、56957 字符；标题匹配 1.00",
+    "path": "papers/2026_Xia_KittyAccurateEfficient2BitKvCacheQuantization_en.pdf",
+    "sha256": "7a7b2c223662cc8c6db5f6aa5028390b22e228ed527e7ac08db6f24d2266a88a",
+    "source_kind": "新下载",
+    "reused_lib": "",
+    "bytes": 1469688
+  },
+  "D06-026": {
+    "sid": "D06-026",
+    "status": "ok",
+    "detail": "通过：%PDF；pypdf 17 页、53929 字符；标题匹配 1.00",
+    "path": "papers/2026_Anon_NoBufferNoBottleneckEfficientZeroCopyKv_en.pdf",
+    "sha256": "e13155efed501db0bca93aa42a9eaf84a55dfe2c2e62e88b364b0da882b85044",
+    "source_kind": "新下载",
+    "reused_lib": "",
+    "bytes": 1576982
+  },
+  "D06-027": {
+    "sid": "D06-027",
+    "status": "ok",
+    "detail": "通过：%PDF；pypdf 15 页、53551 字符；标题匹配 1.00",
+    "path": "papers/2026_Lao_OpkvHighThroughputPluginDrivenFrameworkRecallableSparsity_en.pdf",
+    "sha256": "9952a927bddacf84357322455344471af579f9daf821e77fb21b3260d7c7f8e6",
+    "source_kind": "新下载",
+    "reused_lib": "",
+    "bytes": 816393
+  },
+  "D06-028": {
+    "sid": "D06-028",
+    "status": "ok",
+    "detail": "通过：%PDF；pypdf 20 页、42333 字符；标题匹配 1.00",
+    "path": "papers/2026_Feng_Streamdiffusionv2StreamingSystemDynamicInteractiveVideoGeneration_en.pdf",
+    "sha256": "89fee9626314e54cacbc905e83ba0c41bd1a38eaeec59f28240bf443d05500a9",
+    "source_kind": "新下载",
+    "reused_lib": "",
+    "bytes": 11315339
+  },
+  "D06-029": {
+    "sid": "D06-029",
+    "status": "ok",
+    "detail": "通过：%PDF；pypdf 19 页、56831 字符；标题匹配 1.00",
+    "path": "papers/2024_Anon_InfinigenEfficientGenerativeInferenceLargeLanguageModelsDynamic_en.pdf",
+    "sha256": "638e3f536447ce7fbfed1b485654620629a4e34fbd250db74018b8a880c4f029",
+    "source_kind": "新下载",
+    "reused_lib": "",
+    "bytes": 3212724
+  },
+  "D06-030": {
+    "sid": "D06-030",
+    "status": "ok",
+    "detail": "通过：%PDF；pypdf 14 页、56952 字符；标题匹配 1.00",
+    "path": "papers/2024_Adnan_KeyformerKvCacheReductionKeyTokensSelectionEfficient_en.pdf",
+    "sha256": "ded975b571c4f4e93a6e5d95fbb52043befe09794a5f639d9947ed3a3951f0a9",
+    "source_kind": "新下载",
+    "reused_lib": "",
+    "bytes": 853587
+  },
+  "D06-031": {
+    "sid": "D06-031",
+    "status": "ok",
+    "detail": "通过：%PDF；pypdf 14 页、55439 字符；标题匹配 1.00",
+    "path": "papers/2024_Zhang_QHitterBetterTokenOracleEfficientLlmInference_en.pdf",
+    "sha256": "32432c1dfd19b7cef2556cd20ea90ec301498366c988bc7000928cf7bcbc1f96",
+    "source_kind": "新下载",
+    "reused_lib": "",
+    "bytes": 1754550
+  },
+  "D06-032": {
+    "sid": "D06-032",
+    "status": "ok",
+    "detail": "通过：%PDF；pypdf 18 页、60064 字符；标题匹配 1.00",
+    "path": "papers/2026_Anon_AttackBubblesStragglerResilientPipelineParallelismLargeModel_en.pdf",
+    "sha256": "b47fcf0ac0a598b6965d97fe8aa496c68f99f3e592fe702a4d58dbf98c17a09c",
+    "source_kind": "新下载",
+    "reused_lib": "",
+    "bytes": 4113669
+  },
+  "D06-033": {
+    "sid": "D06-033",
+    "status": "ok",
+    "detail": "通过：%PDF；pypdf 17 页、58165 字符；标题匹配 1.00",
+    "path": "papers/2026_Anon_HydraserveMinimizingColdStartLatencyServerlessLlmServing_en.pdf",
+    "sha256": "fd2508537ee44b0f80f325381d8e4afc7cfc0128e2d7f36cae3b01941790c5c3",
+    "source_kind": "新下载",
+    "reused_lib": "",
+    "bytes": 2249030
+  },
+  "D06-034": {
+    "sid": "D06-034",
+    "status": "ok",
+    "detail": "通过：%PDF；pypdf 25 页、62192 字符；标题匹配 1.00",
+    "path": "papers/2026_Anon_JitserveSloAwareLlmServingImpreciseRequestInformation_en.pdf",
+    "sha256": "959b70c2d6b5679169d43225df0d43ea7bae8e2c046e9d442aa41f05b0dee3e2",
+    "source_kind": "新下载",
+    "reused_lib": "",
+    "bytes": 935312
+  },
+  "D06-035": {
+    "sid": "D06-035",
+    "status": "ok",
+    "detail": "通过：%PDF；pypdf 19 页、62946 字符；标题匹配 1.00",
+    "path": "papers/2026_Anon_OpentelaUnifyingDecentralizedComputingResourcesHeterogeneousLlmServing_en.pdf",
+    "sha256": "6e166a78f77ca4ce220644cc252c66d96d29fe1e05ff19b239be041e40eeeb7a",
+    "source_kind": "新下载",
+    "reused_lib": "",
+    "bytes": 1921419
+  },
+  "D06-036": {
+    "sid": "D06-036",
+    "status": "ok",
+    "detail": "通过：%PDF；pypdf 20 页、58551 字符；标题匹配 1.00",
+    "path": "papers/2026_Anon_PlanetserveDecentralizedScalablePrivacyPreservingOverlayDemocratizingLarge_en.pdf",
+    "sha256": "0307952d4969cdf9c1e6cd0037eade132d96f9d995eff79b6a9590d25d98dc7c",
+    "source_kind": "新下载",
+    "reused_lib": "",
+    "bytes": 3799452
+  },
+  "D06-037": {
+    "sid": "D06-037",
+    "status": "ok",
+    "detail": "通过：%PDF；pypdf 20 页、63146 字符；标题匹配 1.00",
+    "path": "papers/2026_Anon_PrismCostEfficientMultiLlmServingGpuMemory_en.pdf",
+    "sha256": "b2af6f908a07adbb037c0dc14ccebfa51b7635c2ec614f1a0d39d8eea4017347",
+    "source_kind": "新下载",
+    "reused_lib": "",
+    "bytes": 2621869
+  },
+  "D06-038": {
+    "sid": "D06-038",
+    "status": "ok",
+    "detail": "通过：%PDF；pypdf 16 页、57897 字符；标题匹配 1.00",
+    "path": "papers/2026_Anon_SymphonyEnablingComputeMemoryDisaggregationLlmServingSystems_en.pdf",
+    "sha256": "aa19a0fe7747285a5d7e263cd0f221311a40022907e7a8c9a2d9d54f65d14733",
+    "source_kind": "新下载",
+    "reused_lib": "",
+    "bytes": 1788114
+  },
+  "D06-039": {
+    "sid": "D06-039",
+    "status": "ok",
+    "detail": "通过：%PDF；pypdf 16 页、51979 字符；标题匹配 1.00",
+    "path": "papers/2026_Anon_ServegenWorkloadCharacterizationGenerationLargeLanguageModelServing_en.pdf",
+    "sha256": "03ff6b9c1c99995f99ab4496296a69939f9fe9e64ec02880cda6999ec67b2dbc",
+    "source_kind": "新下载",
+    "reused_lib": "",
+    "bytes": 5746979
+  },
+  "D06-040": {
+    "sid": "D06-040",
+    "status": "ok",
+    "detail": "通过：%PDF；pypdf 17 页、54404 字符；标题匹配 1.00",
+    "path": "papers/2026_Anon_StrataHierarchicalContextCachingLongContextLanguageModel_en.pdf",
+    "sha256": "c8e0f2148aada4f18d7dbb2f54dca35a1e8a782375d3dc4786a5dc66e13f1b77",
+    "source_kind": "新下载",
+    "reused_lib": "",
+    "bytes": 1624366
+  },
+  "D06-041": {
+    "sid": "D06-041",
+    "status": "ok",
+    "detail": "通过：%PDF；pypdf 19 页、55098 字符；标题匹配 1.00",
+    "path": "papers/2026_Anon_TesseraHolisticPipelineParallelismFrameworkTrillionParameterHeterogeneous_en.pdf",
+    "sha256": "458eff602d4a4d9accc7e7d13348e86b62d7d101559bafe93372b65230236a17",
+    "source_kind": "新下载",
+    "reused_lib": "",
+    "bytes": 4469943
+  },
+  "D06-042": {
+    "sid": "D06-042",
+    "status": "ok",
+    "detail": "通过：%PDF；pypdf 17 页、50016 字符；标题匹配 1.00",
+    "path": "papers/2025_Anon_AcceleratingDesignSpaceExplorationLlmTrainingSystemsMulti_en.pdf",
+    "sha256": "2921c065f441f64e5176311fc1bb7bb7eebde58c812d32c3e33c9f0d2b95e157",
+    "source_kind": "新下载",
+    "reused_lib": "",
+    "bytes": 5080486
+  },
+  "D06-043": {
+    "sid": "D06-043",
+    "status": "ok",
+    "detail": "通过：%PDF；pypdf 18 页、55702 字符；标题匹配 1.00",
+    "path": "papers/2025_Anon_NanoflowOptimalLargeLanguageModelServingThroughput_en.pdf",
+    "sha256": "0b6a8d61e59bf808d9e5426364e6637095b2a22a2eced4fcba09b6eece145481",
+    "source_kind": "新下载",
+    "reused_lib": "",
+    "bytes": 2848272
+  },
+  "D06-044": {
+    "sid": "D06-044",
+    "status": "ok",
+    "detail": "通过：%PDF；pypdf 21 页、57565 字符；标题匹配 1.00",
+    "path": "papers/2025_Anon_SuperserveFineGrainedInferenceServingUnpredictableWorkloads_en.pdf",
+    "sha256": "75b1369a7b5491efbf67365a4fbae5c0a39d9e9326f6fd62b80a9a251fc41f20",
+    "source_kind": "新下载",
+    "reused_lib": "",
+    "bytes": 2721694
+  },
+  "D06-045": {
+    "sid": "D06-045",
+    "status": "ok",
+    "detail": "通过：%PDF；pypdf 19 页、58975 字符；标题匹配 1.00",
+    "path": "papers/2024_Zhong_DistserveDisaggregatingPrefillDecodingGoodputOptimizedLargeLanguage_en.pdf",
+    "sha256": "bb03e59d6ec6550015901f3f78d7e68f5a07cad8ccacb12f72835a8b667341c1",
+    "source_kind": "新下载",
+    "reused_lib": "",
+    "bytes": 832045
+  },
+  "D06-046": {
+    "sid": "D06-046",
+    "status": "ok",
+    "detail": "通过：%PDF；pypdf 20 页、58527 字符；标题匹配 1.00",
+    "path": "papers/2024_Anon_LlumnixDynamicSchedulingLargeLanguageModelServing_en.pdf",
+    "sha256": "2e99cfc54473cd0a0aeabbb9bf16706b23300a7717e5b370ee256cf75801a9d6",
+    "source_kind": "新下载",
+    "reused_lib": "",
+    "bytes": 1940597
+  },
+  "D06-047": {
+    "sid": "D06-047",
+    "status": "ok",
+    "detail": "通过：%PDF；pypdf 18 页、57969 字符；标题匹配 1.00",
+    "path": "papers/2024_Anon_DloraDynamicallyOrchestratingRequestsAdaptersLoraLlmServing_en.pdf",
+    "sha256": "7ca5329ed8cd10734baa8ce2f37a07cea4678f7d1df5c7795cfdd422d69007b4",
+    "source_kind": "新下载",
+    "reused_lib": "",
+    "bytes": 925596
+  },
+  "D06-048": {
+    "sid": "D06-048",
+    "status": "ok",
+    "detail": "通过：%PDF；pypdf 18 页、61086 字符；标题匹配 1.00",
+    "path": "papers/2022_Anon_CocktailMultidimensionalOptimizationModelServingCloud_en.pdf",
+    "sha256": "0c899678d3077fd96277d3c5d9050da5a38c87534b1c5a81481fd100790342a7",
+    "source_kind": "新下载",
+    "reused_lib": "",
+    "bytes": 1478869
+  },
+  "D06-049": {
+    "sid": "D06-049",
+    "status": "ok",
+    "detail": "通过：%PDF；pypdf 19 页、54889 字符；标题匹配 1.00",
+    "path": "papers/2026_Wang_BoostBottleneckOptimizedScalableTrainingFrameworkLowRank_en.pdf",
+    "sha256": "a323cdf2a43d15df41cbe5ea9d8085cd79a96478de8efae983d81aa9f27245bf",
+    "source_kind": "新下载",
+    "reused_lib": "",
+    "bytes": 5998769
+  },
+  "D06-050": {
+    "sid": "D06-050",
+    "status": "ok",
+    "detail": "通过：%PDF；pypdf 11 页、43167 字符；标题匹配 1.00",
+    "path": "papers/2025_Tsung_BalancingPipelineParallelismVocabularyParallelism_en.pdf",
+    "sha256": "ddbc7ce6fd2bc3854f4b836afbbeb970359249f9a8eb7a98267b4e17b138d4b1",
+    "source_kind": "新下载",
+    "reused_lib": "",
+    "bytes": 662412
+  },
+  "D06-051": {
+    "sid": "D06-051",
+    "status": "ok",
+    "detail": "通过：%PDF；pypdf 16 页、60089 字符；标题匹配 1.00",
+    "path": "papers/2025_Polisetty_GsplitScalingGraphNeuralNetworkTrainingLargeGraphs_en.pdf",
+    "sha256": "56784304f1d1c3c3899bc39a1ae4865fcc5d815097ba346598768de2c8ebff8b",
+    "source_kind": "新下载",
+    "reused_lib": "",
+    "bytes": 830198
+  },
+  "D06-052": {
+    "sid": "D06-052",
+    "status": "ok",
+    "detail": "通过：%PDF；pypdf 16 页、58495 字符；标题匹配 1.00",
+    "path": "papers/2025_Pan_MarconiPrefixCachingEraHybridLlms_en.pdf",
+    "sha256": "335e0114c3181896949e1ade75e2838f4c1a4e6d150c45d93ea62ecf7c2a1f28",
+    "source_kind": "新下载",
+    "reused_lib": "",
+    "bytes": 2316719
+  },
+  "D06-053": {
+    "sid": "D06-053",
+    "status": "ok",
+    "detail": "通过：%PDF；pypdf 18 页、57976 字符；标题匹配 1.00",
+    "path": "papers/2025_Lin_QserveW4a8kv4QuantizationSystemCoDesignEfficientLlm_en.pdf",
+    "sha256": "8766be78dd869576ea13160f7ce5789a579f1c69360672d6d3c44b5f0cfefabe",
+    "source_kind": "新下载",
+    "reused_lib": "",
+    "bytes": 5123114
+  },
+  "D06-054": {
+    "sid": "D06-054",
+    "status": "ok",
+    "detail": "通过：%PDF；pypdf 22 页、60353 字符；标题匹配 1.00",
+    "path": "papers/2025_WEI_RethinkingKeyValueCacheCompressionTechniquesLargeLanguage_en.pdf",
+    "sha256": "37267afaa21a92527cdba54e47584fc2766f688a88c76b5f8113ce0f0381808a",
+    "source_kind": "新下载",
+    "reused_lib": "",
+    "bytes": 1348980
+  },
+  "D06-055": {
+    "sid": "D06-055",
+    "status": "ok",
+    "detail": "通过：%PDF；pypdf 13 页、63727 字符；标题匹配 1.00",
+    "path": "papers/2025_Hong_SolaOptimizingSloAttainmentLargeLanguageModelServing_en.pdf",
+    "sha256": "2201b1ef2609311ac2f5ee571a63653c2190d8a2bbe241c0c132cbcae5288383",
+    "source_kind": "新下载",
+    "reused_lib": "",
+    "bytes": 1754174
+  },
+  "D06-056": {
+    "sid": "D06-056",
+    "status": "ok",
+    "detail": "通过：%PDF；pypdf 15 页、57210 字符；标题匹配 1.00",
+    "path": "papers/2025_Xhebraj_ScalingDeepLearningTrainingMpmdPipelineParallelism_en.pdf",
+    "sha256": "232015e383dd0dbd0522e77598e4f6fb0021e1dd23b396af089d8d8e9ce3028f",
+    "source_kind": "新下载",
+    "reused_lib": "",
+    "bytes": 679273
+  },
+  "D06-057": {
+    "sid": "D06-057",
+    "status": "ok",
+    "detail": "通过：%PDF；pypdf 14 页、55265 字符；标题匹配 1.00",
+    "path": "papers/2024_Zhao_AtomLowBitQuantizationEfficientAccurateLlmServing_en.pdf",
+    "sha256": "0550b6808c86d38698b3eb9994f389af8735f7bbe0a624ad0428b7e52251c26c",
+    "source_kind": "新下载",
+    "reused_lib": "",
+    "bytes": 652594
+  },
+  "D06-058": {
+    "sid": "D06-058",
+    "status": "fail",
+    "detail": "404 https://proceedings.mlsys.org/paper_files/paper/2023/file/24e845415c1486dd2d582a9d639237f9-Paper-Conference.pdf"
+  },
+  "D06-059": {
+    "sid": "D06-059",
+    "status": "ok",
+    "detail": "通过：%PDF；pypdf 20 页、53535 字符；标题匹配 0.90",
+    "path": "papers/2023_Osawa_PipefisherEfficientTrainingLargeLanguageModelsPipeliningFisher_en.pdf",
+    "sha256": "896df53f957ddba9bb0083567e750dab7b6e4197f138ec08cf3903212aa2ca55",
+    "source_kind": "新下载",
+    "reused_lib": "",
+    "bytes": 1798500
+  },
+  "D06-060": {
+    "sid": "D06-060",
+    "status": "ok",
+    "detail": "通过：%PDF；pypdf 16 页、56483 字符；标题匹配 1.00",
+    "path": "papers/2023_Behnam_SubgraphStationaryHardwareSoftwareInferenceCoDesign_en.pdf",
+    "sha256": "d21cae93bb70f3820f1531affbddc8a299d55aa3618986d565f1367a9d8da493",
+    "source_kind": "新下载",
+    "reused_lib": "",
+    "bytes": 11611875
+  },
+  "D06-061": {
+    "sid": "D06-061",
+    "status": "ok",
+    "detail": "通过：%PDF；pypdf 14 页、54641 字符；标题匹配 0.83",
+    "path": "papers/2022_Tang_TorchsparseEfficientPointCloudInferenceEngine_en.pdf",
+    "sha256": "ae822804e52b1a26518c4cf6d59676c892d71aec1e73e6b7a6ec42010d597ed1",
+    "source_kind": "新下载",
+    "reused_lib": "",
+    "bytes": 3971683
+  }
+}

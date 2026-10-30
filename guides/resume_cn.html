@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="zh-CN"><head><meta charset="utf-8"><title>续跑说明</title>
+<style>body{font-family:"Microsoft YaHei","PingFang SC","Noto Sans CJK SC",sans-serif;max-width:1200px;margin:2em auto;
+padding:0 1em;line-height:1.6;color:#222}table{border-collapse:collapse;margin:1em 0;font-size:14px}th,td{border:1px solid #ccc;
+padding:4px 8px;vertical-align:top}th{background:#f3f3f3}code{background:#f5f5f5;padding:0 3px}pre{background:#f5f5f5;padding:8px;
+overflow:auto}a{color:#0645ad}.muted{color:#888}.warn{color:#a15c00}.nav{font-size:14px;margin-bottom:1em}</style>
+</head><body>
+<div class="nav"><a href="../index_cn.html">← 离线首页 index_cn.html</a></div>
+<h1>续跑说明</h1>
+<p>工作目录：<a href="../"><code>/root/recent_top_conference_research</code></a><br>
+缓存：<code>/root/.cache/rtcr_lit</code>（listings、staging、pypdf、锁）</p>
+<p><strong>七个方向均已完成</strong>（03、06 为主会公开全文缺口，未凑数）。状态见 <a href="../progress_cn.csv"><code>progress_cn.csv</code></a>。</p>
+<p>按方向顺序（已完成项会跳过已核验 PDF / 已有代码快照）：</p>
+<pre><code>python3 -I scripts/run_en.py domain 01
+python3 -I scripts/run_en.py catalog</code></pre>
+<p>分步：</p>
+<pre><code>python3 -I scripts/discover_en.py listings
+python3 -I scripts/discover_en.py scan 01
+python3 -I scripts/discover_en.py arxiv 01
+python3 -I scripts/discover_en.py enrich 01
+python3 -I scripts/discover_en.py select 01
+python3 -I scripts/download_en.py papers 01
+python3 -I scripts/code_en.py fetch 01
+python3 -I scripts/catalog_en.py</code></pre>
+<p>状态：<code>scripts/state/papers_NN_en.json</code>、<code>scripts/state/code_NN_en.json</code>。<br>
+种子：<code>scripts/seeds/NN_*_seed_cn.json</code>。</p>
+<p>已知限制：arXiv API 后期易长时间无响应（与 <code>/root/.cache/ipm_lit/locks/arxiv.org</code> 共享锁）；IEEE/ACM 付费墙不绕过。</p>
+</body></html>

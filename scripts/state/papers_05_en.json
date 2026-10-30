@@ -1,0 +1,1102 @@
+{
+  "D05-001": {
+    "sid": "D05-001",
+    "status": "ok",
+    "detail": "通过：%PDF；pypdf 16 页、62200 字符；标题匹配 1.00",
+    "path": "papers/2025_Sohrabizadeh_NemotronCortexaEnhancingLlmAgentsSoftwareEngineeringTasks_en.pdf",
+    "sha256": "f8ab64b1f6bb2d3346ddf668fb2e7f0cd72c96f49f6a4d1d7f42c26e9652c103",
+    "source_kind": "新下载",
+    "reused_lib": "",
+    "bytes": 671068
+  },
+  "D05-002": {
+    "sid": "D05-002",
+    "status": "ok",
+    "detail": "通过：%PDF；pypdf 18 页、58890 字符；标题匹配 1.00",
+    "path": "papers/2026_Zeng_DavinciDevAgentNativeMidTrainingSoftwareEngineering_en.pdf",
+    "sha256": "4b5e687f89995271cceb20e551efe0231e478bd59828c8cedc3a11f79b65463a",
+    "source_kind": "新下载",
+    "reused_lib": "",
+    "bytes": 1693427
+  },
+  "D05-003": {
+    "sid": "D05-003",
+    "status": "ok",
+    "detail": "通过：%PDF；pypdf 47 页、46355 字符；标题匹配 1.00",
+    "path": "papers/2025_Badertdinov_SweRebenchAutomatedPipelineTaskCollectionDecontaminatedEvaluation_en.pdf",
+    "sha256": "757bf4c80b96c8b81d6cad72a02d061964922ab0e128643af8249914885c10ec",
+    "source_kind": "新下载",
+    "reused_lib": "",
+    "bytes": 680091
+  },
+  "D05-004": {
+    "sid": "D05-004",
+    "status": "ok",
+    "detail": "通过：%PDF；pypdf 24 页、53092 字符；标题匹配 0.88",
+    "path": "papers/2025_Ouyang_RepographEnhancingAiSoftwareEngineeringRepositoryLevelCode_en.pdf",
+    "sha256": "58c7465f0a75b9ac80b973efc45dce9aeefcc8cdbb0e9407ce987dd96a6e7adf",
+    "source_kind": "新下载",
+    "reused_lib": "",
+    "bytes": 6700196
+  },
+  "D05-005": {
+    "sid": "D05-005",
+    "status": "ok",
+    "detail": "通过：%PDF；pypdf 13 页、77539 字符；标题匹配 1.00",
+    "path": "papers/2026_Euraste_LearnedOrMemorizedQuantifyingMemorizationAdvantageCodeLlms_en.pdf",
+    "sha256": "16bc7fdee952a5eff592a87b72ff5d8ce7219f314af7b0a2ad03d6eedc07d84e",
+    "source_kind": "新下载",
+    "reused_lib": "",
+    "bytes": 1670799
+  },
+  "D05-006": {
+    "sid": "D05-006",
+    "status": "ok",
+    "detail": "通过：%PDF；pypdf 13 页、74630 字符；标题匹配 1.00",
+    "path": "papers/2026_Xiang_EvaluatingImprovingAutomatedRepositoryLevelRustIssueResolution_en.pdf",
+    "sha256": "eef7974f30b2628f0c0efb381ac7323f8dec85b2144073d6a36549f9f9456842",
+    "source_kind": "新下载",
+    "reused_lib": "",
+    "bytes": 1676472
+  },
+  "D05-007": {
+    "sid": "D05-007",
+    "status": "ok",
+    "detail": "通过：%PDF；pypdf 12 页、71591 字符；标题匹配 1.00",
+    "path": "papers/2025_Ruan_SpecroverCodeIntentExtractionLlms_en.pdf",
+    "sha256": "c3a413ff720b8fb8190990ce85863db8d95716699fc67ec94e7ca9eb5cc94061",
+    "source_kind": "新下载",
+    "reused_lib": "",
+    "bytes": 784488
+  },
+  "D05-008": {
+    "sid": "D05-008",
+    "status": "ok",
+    "detail": "通过：%PDF；pypdf 25 页、52818 字符；标题匹配 1.00",
+    "path": "papers/2026_Xu_SweCompassUnifiedEvaluationAgenticCodingAbilitiesLarge_en.pdf",
+    "sha256": "a3190f17b48459822907a91e65c5c0a1bae92426f71977d004d8f46022615a77",
+    "source_kind": "新下载",
+    "reused_lib": "",
+    "bytes": 733792
+  },
+  "D05-009": {
+    "sid": "D05-009",
+    "status": "ok",
+    "detail": "通过：%PDF；pypdf 17 页、49807 字符；标题匹配 1.00",
+    "path": "papers/2025_Zainullina_GuidedSearchStrategiesNonSerializableEnvironmentsApplicationsSoftware_en.pdf",
+    "sha256": "fb2e53d9a1a09fddd36b6822a9cf520a7f3ce74842a83a3bac7aa660b2b28cda",
+    "source_kind": "新下载",
+    "reused_lib": "",
+    "bytes": 627250
+  },
+  "D05-010": {
+    "sid": "D05-010",
+    "status": "ok",
+    "detail": "通过：%PDF；pypdf 22 页、45511 字符；标题匹配 1.00",
+    "path": "papers/2026_Vijayvargiya_AmbigSweInteractiveAgentsOvercomeUnderspecificitySoftwareEngineering_en.pdf",
+    "sha256": "979f59dd4519c871e99fe1ba49ad4f5531165c252e466f9148f2ab5af371e65e",
+    "source_kind": "新下载",
+    "reused_lib": "",
+    "bytes": 1190419
+  },
+  "D05-011": {
+    "sid": "D05-011",
+    "status": "ok",
+    "detail": "通过：%PDF；pypdf 13 页、67629 字符；标题匹配 1.00",
+    "path": "papers/2025_Di_EnhancingCodeGenerationBidirectionalCommentLevelMutualGrounding_en.pdf",
+    "sha256": "1f6a5f0f8e3f1c7963caf4a70799679aa2e7d24cc2d54d2b8d4ba0e865404800",
+    "source_kind": "新下载",
+    "reused_lib": "",
+    "bytes": 700132
+  },
+  "D05-012": {
+    "sid": "D05-012",
+    "status": "ok",
+    "detail": "通过：%PDF；pypdf 14 页、76751 字符；标题匹配 1.00",
+    "path": "papers/2025_Lin_Soen101CodeGenerationEmulatingSoftwareProcessModels_en.pdf",
+    "sha256": "079b54f6d1a86e33f59970d5824dd71fea28da61d91e1cdf6a495cec8d8a2834",
+    "source_kind": "新下载",
+    "reused_lib": "",
+    "bytes": 391990
+  },
+  "D05-013": {
+    "sid": "D05-013",
+    "status": "ok",
+    "detail": "通过：%PDF；pypdf 52 页、44146 字符；标题匹配 1.00",
+    "path": "papers/2024_Jimenez_SweBenchLanguageModelsResolveRealWorldGithub_en.pdf",
+    "sha256": "f7e8e1df64129742b8199a21a042734519a823a1dafd6f48f8f3ddcfb48ee296",
+    "source_kind": "新下载",
+    "reused_lib": "",
+    "bytes": 4533722
+  },
+  "D05-014": {
+    "sid": "D05-014",
+    "status": "ok",
+    "detail": "通过：%PDF；pypdf 23 页、52152 字符；标题匹配 1.00",
+    "path": "papers/2026_Cho_LongLiveLibrarianPersistentSearchSubAgentEnergy_en.pdf",
+    "sha256": "53b216e37d31dbac3cd3890718c64eff970780f3117f22b8b3caa597d486d6c7",
+    "source_kind": "新下载",
+    "reused_lib": "",
+    "bytes": 896036
+  },
+  "D05-015": {
+    "sid": "D05-015",
+    "status": "ok",
+    "detail": "通过：%PDF；pypdf 17 页、51766 字符；标题匹配 1.00",
+    "path": "papers/2025_Li_FeaBenchBenchmarkEvaluatingRepositoryLevelCodeGeneration_en.pdf",
+    "sha256": "5df64b85588a7a24f11ee094bf8456cd773e644f98285bd06a9d8e6f9a19b2d4",
+    "source_kind": "新下载",
+    "reused_lib": "",
+    "bytes": 6183620
+  },
+  "D05-016": {
+    "sid": "D05-016",
+    "status": "ok",
+    "detail": "通过：%PDF；pypdf 25 页、58880 字符；标题匹配 1.00",
+    "path": "papers/2026_Li_HistoricalPatchesRepairPlansOutcomeConditionedReasoningRepository_en.pdf",
+    "sha256": "110a42590e437c7c3a8a9b81da4f48d7b53265c7d7c80e593a448c930caf59bf",
+    "source_kind": "新下载",
+    "reused_lib": "",
+    "bytes": 634567
+  },
+  "D05-017": {
+    "sid": "D05-017",
+    "status": "ok",
+    "detail": "通过：%PDF；pypdf 11 页、47323 字符；标题匹配 1.00",
+    "path": "papers/2025_Zhang_CoderagFindingRelevantNecessaryKnowledgeRetrievalAugmentedRepository_en.pdf",
+    "sha256": "4640c0aad6a076be4e6063c39c647133ce4d8af547a4742ad73beec355e455c9",
+    "source_kind": "新下载",
+    "reused_lib": "",
+    "bytes": 435418
+  },
+  "D05-018": {
+    "sid": "D05-018",
+    "status": "ok",
+    "detail": "通过：%PDF；pypdf 22 页、52913 字符；标题匹配 1.00",
+    "path": "papers/2025_Ren_ReflectioncoderLearningReflectionSequenceEnhancedOneOffCode_en.pdf",
+    "sha256": "3defe8023bd30a08f246f4b16ddd1d0dc196e22830c5a3166407ed3079467881",
+    "source_kind": "新下载",
+    "reused_lib": "",
+    "bytes": 470481
+  },
+  "D05-019": {
+    "sid": "D05-019",
+    "status": "ok",
+    "detail": "通过：%PDF；pypdf 12 页、68078 字符；标题匹配 1.00",
+    "path": "papers/2026_Gu_LlmTestGenerationIterativeHybridProgramAnalysis_en.pdf",
+    "sha256": "ed32e0338da8c2d1b91dd211b9db4c5c6b4b044bcd27aecd8b25cb32db59fe5e",
+    "source_kind": "新下载",
+    "reused_lib": "",
+    "bytes": 974757
+  },
+  "D05-020": {
+    "sid": "D05-020",
+    "status": "ok",
+    "detail": "通过：%PDF；pypdf 13 页、78222 字符；标题匹配 1.00",
+    "path": "papers/2026_Liu_ReposcopeLeveragingCallChainAwareMultiViewContext_en.pdf",
+    "sha256": "6c1b70f74050c4fcf56079ba722264d7aa8449f3201bbfae952eae006d838b38",
+    "source_kind": "新下载",
+    "reused_lib": "",
+    "bytes": 1096798
+  },
+  "D05-021": {
+    "sid": "D05-021",
+    "status": "ok",
+    "detail": "通过：%PDF；pypdf 12 页、74762 字符；标题匹配 1.00",
+    "path": "papers/2026_Applis_UnifiedSoftwareEngineeringAgentAiSoftwareEngineer_en.pdf",
+    "sha256": "c0be59ab962ce4fe712df4b18a19c1dc8919dff4444512a64cfb2c75c0c160ab",
+    "source_kind": "新下载",
+    "reused_lib": "",
+    "bytes": 1468650
+  },
+  "D05-022": {
+    "sid": "D05-022",
+    "status": "ok",
+    "detail": "通过：%PDF；pypdf 12 页、64497 字符；标题匹配 1.00",
+    "path": "papers/2025_Bouzenia_UnderstandingSoftwareEngineeringAgentsStudyThoughtActionResult_en.pdf",
+    "sha256": "e26bdd63440491ae1acf019697208d7826904113cb650c60124a30239dc4a62e",
+    "source_kind": "新下载",
+    "reused_lib": "",
+    "bytes": 1336928
+  },
+  "D05-023": {
+    "sid": "D05-023",
+    "status": "ok",
+    "detail": "通过：%PDF；pypdf 11 页、47293 字符；标题匹配 1.00",
+    "path": "papers/2022_Wang_CompilableNeuralCodeGenerationCompilerFeedback_en.pdf",
+    "sha256": "3e9d6aadbdd9adaa7080c35f67b80b91f9085ecd574eb00ad5b4cbf863f70ca7",
+    "source_kind": "新下载",
+    "reused_lib": "",
+    "bytes": 637046
+  },
+  "D05-024": {
+    "sid": "D05-024",
+    "status": "ok",
+    "detail": "通过：%PDF；pypdf 12 页、70883 字符；标题匹配 1.00",
+    "path": "papers/2025_Yang_ClarifyingSemanticsContextExamplesUnitTestGeneration_en.pdf",
+    "sha256": "11ae6b3adbebed98a2625794915c9f3064406e6323f2ce0e4c4bf0a8ab3dca48",
+    "source_kind": "新下载",
+    "reused_lib": "",
+    "bytes": 389798
+  },
+  "D05-025": {
+    "sid": "D05-025",
+    "status": "ok",
+    "detail": "通过：%PDF；pypdf 12 页、76825 字符；标题匹配 1.00",
+    "path": "papers/2024_Wang_EmpiricalStudyNoisyLabelLearningProgramUnderstanding_en.pdf",
+    "sha256": "02b8aaab434f255f1e794c7e27da08b462d898b278d6de9a6c77f8dc08b8220e",
+    "source_kind": "新下载",
+    "reused_lib": "",
+    "bytes": 1053276
+  },
+  "D05-026": {
+    "sid": "D05-026",
+    "status": "ok",
+    "detail": "通过：%PDF；pypdf 17 页、52200 字符；标题匹配 1.00",
+    "path": "papers/2026_Wu_MulfcoderFrameworkConditionedMultiAgentMllmMultiFramework_en.pdf",
+    "sha256": "d028c0f45dd15362ce31d9ee17e6c16b08c5bcbbc7a44dd59036161bcd92aa1c",
+    "source_kind": "新下载",
+    "reused_lib": "",
+    "bytes": 1357065
+  },
+  "D05-027": {
+    "sid": "D05-027",
+    "status": "ok",
+    "detail": "通过：%PDF；pypdf 29 页、54094 字符；标题匹配 1.00",
+    "path": "papers/2025_Aggarwal_AlphaverusBootstrappingFormallyVerifiedCodeGenerationSelfImproving_en.pdf",
+    "sha256": "4777fde75d2bd6e6777da8656cf3e332cc14344893051cf12315ef4da8ab0ab2",
+    "source_kind": "新下载",
+    "reused_lib": "",
+    "bytes": 1396106
+  },
+  "D05-028": {
+    "sid": "D05-028",
+    "status": "ok",
+    "detail": "通过：%PDF；pypdf 29 页、57889 字符；标题匹配 1.00",
+    "path": "papers/2025_Chi_CopilotArenaPlatformCodeLlmEvaluationWild_en.pdf",
+    "sha256": "835df58cd9bb81d43e8d224d03b53683936b8238bb556bc3ac4a7e81d908a70f",
+    "source_kind": "新下载",
+    "reused_lib": "",
+    "bytes": 1944945
+  },
+  "D05-029": {
+    "sid": "D05-029",
+    "status": "ok",
+    "detail": "通过：%PDF；pypdf 18 页、57217 字符；标题匹配 1.00",
+    "path": "papers/2025_Liu_RevisitingChainThoughtCodeGenerationLanguageModelsNeed_en.pdf",
+    "sha256": "3635919a60db28d96308764820c9f35f30f4d4b5e8ab8d6d4f7cee75f406dd99",
+    "source_kind": "新下载",
+    "reused_lib": "",
+    "bytes": 901897
+  },
+  "D05-030": {
+    "sid": "D05-030",
+    "status": "ok",
+    "detail": "通过：%PDF；pypdf 15 页、53424 字符；标题匹配 1.00",
+    "path": "papers/2024_Gong_AstT5StructureAwarePretrainingCodeGenerationUnderstanding_en.pdf",
+    "sha256": "f61a5b606151e34eed769b914eec01a84dccbeff8bd147d3a47af64e2c46682f",
+    "source_kind": "新下载",
+    "reused_lib": "",
+    "bytes": 388794
+  },
+  "D05-031": {
+    "sid": "D05-031",
+    "status": "ok",
+    "detail": "通过：%PDF；pypdf 45 页、48119 字符；标题匹配 1.00",
+    "path": "papers/2024_Chen_DivideConquerMeetsConsensusUnleashingPowerFunctionsCode_en.pdf",
+    "sha256": "902c93db46b074d93ddf8e74568adb7f0c7c64c60f1eb41be44c30bb14e1b434",
+    "source_kind": "新下载",
+    "reused_lib": "",
+    "bytes": 1095146
+  },
+  "D05-032": {
+    "sid": "D05-032",
+    "status": "ok",
+    "detail": "通过：%PDF；pypdf 88 页、47170 字符；标题匹配 1.00",
+    "path": "papers/2024_Wei_SelfcodealignSelfAlignmentCodeGeneration_en.pdf",
+    "sha256": "18ac66bf9bcd555a9f6648917f462096c2ef4fdc9b25fa9230e1af42dadcc258",
+    "source_kind": "新下载",
+    "reused_lib": "",
+    "bytes": 1353923
+  },
+  "D05-033": {
+    "sid": "D05-033",
+    "status": "ok",
+    "detail": "通过：%PDF；pypdf 15 页、46910 字符；标题匹配 1.00",
+    "path": "papers/2022_Le_CoderlMasteringCodeGenerationPretrainedModelsDeepReinforcement_en.pdf",
+    "sha256": "8dc4c6bff4ec4604b8796012071f0fe73b56d59ba87ae51b239ae6336b963231",
+    "source_kind": "新下载",
+    "reused_lib": "",
+    "bytes": 797077
+  },
+  "D05-034": {
+    "sid": "D05-034",
+    "status": "ok",
+    "detail": "通过：%PDF；pypdf 13 页、72457 字符；标题匹配 1.00",
+    "path": "papers/2026_Shi_CodeCorrectnessClosingLastMileCodeGenerationHierarchical_en.pdf",
+    "sha256": "fcb6cc655c163db055122d8d6f6e8b852d16f5991aac115c453bd8f1d962174b",
+    "source_kind": "新下载",
+    "reused_lib": "",
+    "bytes": 2020210
+  },
+  "D05-035": {
+    "sid": "D05-035",
+    "status": "ok",
+    "detail": "通过：%PDF；pypdf 19 页、54394 字符；标题匹配 1.00",
+    "path": "papers/2026_Fan_RecodeReinforcingCodeGenerationReasoningProcessRewards_en.pdf",
+    "sha256": "108b728ceb3c35c9a1c0ab33a23bdea80bedcec9eb879d4d629419321e956fbb",
+    "source_kind": "新下载",
+    "reused_lib": "",
+    "bytes": 1603438
+  },
+  "D05-036": {
+    "sid": "D05-036",
+    "status": "ok",
+    "detail": "通过：%PDF；pypdf 21 页、52046 字符；标题匹配 1.00",
+    "path": "papers/2026_Jang_StorycoderNarrativeReformulationStructuredReasoningLlmCodeGeneration_en.pdf",
+    "sha256": "a64860e005fe39749767201e404961f8fb7c98b9828930ca0715b887c53490f9",
+    "source_kind": "新下载",
+    "reused_lib": "",
+    "bytes": 2830370
+  },
+  "D05-037": {
+    "sid": "D05-037",
+    "status": "ok",
+    "detail": "通过：%PDF；pypdf 6 页、31894 字符；标题匹配 1.00",
+    "path": "papers/2025_Kikuta_LlmPoweredFullyAutomatedChaosEngineeringEnablingAnyone_en.pdf",
+    "sha256": "b3fb067e31e3ec5f058fd081f7caffa5669c50e47f540a05d0208c9213d8bf97",
+    "source_kind": "新下载",
+    "reused_lib": "",
+    "bytes": 727722
+  },
+  "D05-038": {
+    "sid": "D05-038",
+    "status": "ok",
+    "detail": "通过：%PDF；pypdf 21 页、52158 字符；标题匹配 1.00",
+    "path": "papers/2025_Dong_RethinkingRepetitionProblemsLlmsCodeGeneration_en.pdf",
+    "sha256": "890442e1006df96c092b76a888fc85e1a3ab856cbb058c97f4acc090f2d97026",
+    "source_kind": "新下载",
+    "reused_lib": "",
+    "bytes": 832028
+  },
+  "D05-039": {
+    "sid": "D05-039",
+    "status": "ok",
+    "detail": "通过：%PDF；pypdf 13 页、42720 字符；标题匹配 1.00",
+    "path": "papers/2025_Yu_UtboostRigorousEvaluationCodingAgentsSweBench_en.pdf",
+    "sha256": "bfa10815a18a15d970f7c9fd1c66e8ece2c938cb2b3cb107ab452b8400e54fa7",
+    "source_kind": "新下载",
+    "reused_lib": "",
+    "bytes": 444236
+  },
+  "D05-040": {
+    "sid": "D05-040",
+    "status": "ok",
+    "detail": "通过：%PDF；pypdf 33 页、50430 字符；标题匹配 1.00",
+    "path": "papers/2024_Han_ArchcodeIncorporatingSoftwareRequirementsCodeGenerationLargeLanguage_en.pdf",
+    "sha256": "f7332554ca49ac0aa71eacb22a1628c233c77422bbf1bd84e4371c2443847e23",
+    "source_kind": "新下载",
+    "reused_lib": "",
+    "bytes": 685703
+  },
+  "D05-041": {
+    "sid": "D05-041",
+    "status": "ok",
+    "detail": "通过：%PDF；pypdf 13 页、77555 字符；标题匹配 1.00",
+    "path": "papers/2024_Cao_JavabenchBenchmarkObjectOrientedCodeGenerationEvaluatingLarge_en.pdf",
+    "sha256": "e14dead6eedc8711a9cefc9a66996ccb69b5d36f79490b6870be7d6fd40eba6a",
+    "source_kind": "新下载",
+    "reused_lib": "",
+    "bytes": 1581266
+  },
+  "D05-042": {
+    "sid": "D05-042",
+    "status": "ok",
+    "detail": "通过：%PDF；pypdf 12 页、68645 字符；标题匹配 1.00",
+    "path": "papers/2026_Wu_EnvironmentAwareCodeGenerationFarWe_en.pdf",
+    "sha256": "bbe2fcbe2d8b2e6b96237c87648ae33d951063c839570309604df8bca58f1847",
+    "source_kind": "新下载",
+    "reused_lib": "",
+    "bytes": 2945736
+  },
+  "D05-043": {
+    "sid": "D05-043",
+    "status": "ok",
+    "detail": "通过：%PDF；pypdf 14 页、28484 字符；标题匹配 1.00",
+    "path": "papers/2026_Kumar_ExecutionGroundedCreditAssignmentGrpoCodeGeneration_en.pdf",
+    "sha256": "c80b946396a8072aaa6e90eb53ef5360239fb2430af997c7803e30ab2f3f1294",
+    "source_kind": "新下载",
+    "reused_lib": "",
+    "bytes": 1987325
+  },
+  "D05-044": {
+    "sid": "D05-044",
+    "status": "ok",
+    "detail": "通过：%PDF；pypdf 13 页、71862 字符；标题匹配 1.00",
+    "path": "papers/2026_Chu_ScrubItOutErasingSensitiveMemorizationCodeLanguage_en.pdf",
+    "sha256": "f8d59abb8d96671a62a9510d45812b3fa0a4061c53f04f3b16dbc1b16fdfb988",
+    "source_kind": "新下载",
+    "reused_lib": "",
+    "bytes": 1701242
+  },
+  "D05-045": {
+    "sid": "D05-045",
+    "status": "ok",
+    "detail": "通过：%PDF；pypdf 13 页、75121 字符；标题匹配 1.00",
+    "path": "papers/2025_Wang_UnderstandingCharacteristicsCodeGenerationErrorsMadeLargeLanguage_en.pdf",
+    "sha256": "137160a5aabc08fa387da3e8e992c9b75c8800295b91be8b590ebfd4073273d8",
+    "source_kind": "新下载",
+    "reused_lib": "",
+    "bytes": 1100638
+  },
+  "D05-046": {
+    "sid": "D05-046",
+    "status": "ok",
+    "detail": "通过：%PDF；pypdf 29 页、47131 字符；标题匹配 1.00",
+    "path": "papers/2024_Le_CodechainModularCodeGenerationChainSelfRevisionsRepresentative_en.pdf",
+    "sha256": "abc3d665ef9ae7d0d8700cec0297ea548b97e206ad8728a830ccc2891195d8de",
+    "source_kind": "新下载",
+    "reused_lib": "",
+    "bytes": 3517502
+  },
+  "D05-047": {
+    "sid": "D05-047",
+    "status": "ok",
+    "detail": "通过：%PDF；pypdf 15 页、72182 字符；标题匹配 1.00",
+    "path": "papers/2024_Steenhoek_DataflowAnalysisInspiredDeepLearningEfficientVulnerabilityDetection_en.pdf",
+    "sha256": "3607030a98a859ed8c915b804bd6437bf02e60f45855162a0b94354623cd1c35",
+    "source_kind": "新下载",
+    "reused_lib": "",
+    "bytes": 986302
+  },
+  "D05-048": {
+    "sid": "D05-048",
+    "status": "ok",
+    "detail": "通过：%PDF；pypdf 12 页、80739 字符；标题匹配 1.00",
+    "path": "papers/2024_Sun_GptscanDetectingLogicVulnerabilitiesSmartContractsCombiningGpt_en.pdf",
+    "sha256": "b22acfa23cb79b72bf4bd3a4cd442eeeb95396ba46399e6f86996266ec5ec9bb",
+    "source_kind": "新下载",
+    "reused_lib": "",
+    "bytes": 743284
+  },
+  "D05-049": {
+    "sid": "D05-049",
+    "status": "ok",
+    "detail": "通过：%PDF；pypdf 13 页、74212 字符；标题匹配 1.00",
+    "path": "papers/2024_Lu_InstructiveCodeRetrieverLearnLargeLanguageModelS_en.pdf",
+    "sha256": "3ba08d62d4e1edc7bb751d8af3ba850bde2783ba3ad1ac9083da029888786dcc",
+    "source_kind": "新下载",
+    "reused_lib": "",
+    "bytes": 1276952
+  },
+  "D05-050": {
+    "sid": "D05-050",
+    "status": "ok",
+    "detail": "通过：%PDF；pypdf 15 页、38008 字符；标题匹配 1.00",
+    "path": "papers/2023_Dong_CodepadSequenceCodeGenerationPushdownAutomaton_en.pdf",
+    "sha256": "9edde5cfa419582f4bccbe6162960e98f3c9133c850b3cbb3542c345ce41942e",
+    "source_kind": "新下载",
+    "reused_lib": "",
+    "bytes": 1516825
+  },
+  "D05-051": {
+    "sid": "D05-051",
+    "status": "ok",
+    "detail": "通过：%PDF；pypdf 13 页、79071 字符；标题匹配 1.00",
+    "path": "papers/2023_Wei_CopilotingCopilotsFusingLargeLanguageModelsCompletionEngines_en.pdf",
+    "sha256": "5c66e885ab47f34d17bed681fe029bff84567e9bb3f3157a5bd9da8dc5486124",
+    "source_kind": "新下载",
+    "reused_lib": "",
+    "bytes": 2762798
+  },
+  "D05-052": {
+    "sid": "D05-052",
+    "status": "ok",
+    "detail": "通过：%PDF；pypdf 29 页、52499 字符；标题匹配 1.00",
+    "path": "papers/2026_Zhang_CoreBenchComprehensiveBenchmarkCodeRetrievalEraAgentic_en.pdf",
+    "sha256": "1965100d2f0a6370cd78a8cc3ce02984dfb982c361b332121c3c67d415df843f",
+    "source_kind": "新下载",
+    "reused_lib": "",
+    "bytes": 750106
+  },
+  "D05-053": {
+    "sid": "D05-053",
+    "status": "ok",
+    "detail": "通过：%PDF；pypdf 13 页、76604 字符；标题匹配 1.00",
+    "path": "papers/2025_Zhang_LlmHallucinationsPracticalCodeGenerationPhenomenaMechanismMitigation_en.pdf",
+    "sha256": "10b3da5ab092080e74ddf4cd0967797e54a048138e0af701cea710491c28935d",
+    "source_kind": "新下载",
+    "reused_lib": "",
+    "bytes": 798794
+  },
+  "D05-054": {
+    "sid": "D05-054",
+    "status": "ok",
+    "detail": "通过：%PDF；pypdf 5 页、28923 字符；标题匹配 1.00",
+    "path": "papers/2024_Chen_ChatunitestFrameworkLlmTestGeneration_en.pdf",
+    "sha256": "bea81b547fb7aea5d9fcba2f7f63f717a57f8b7164ec31891293b2e64d6090b2",
+    "source_kind": "新下载",
+    "reused_lib": "",
+    "bytes": 705592
+  },
+  "D05-055": {
+    "sid": "D05-055",
+    "status": "ok",
+    "detail": "通过：%PDF；pypdf 33 页、51517 字符；标题匹配 1.00",
+    "path": "papers/2024_Islam_MapcoderMultiAgentCodeGenerationCompetitiveProblemSolving_en.pdf",
+    "sha256": "71535d9f45f850403024b316059f68b56ead0ce55a35923080bd8e5ae6ed7432",
+    "source_kind": "新下载",
+    "reused_lib": "",
+    "bytes": 1739427
+  },
+  "D05-056": {
+    "sid": "D05-056",
+    "status": "ok",
+    "detail": "通过：%PDF；pypdf 5 页、30560 字符；标题匹配 1.00",
+    "path": "papers/2025_Shao_UnigencoderMergingSeq2seqSeq2treeParadigmsUnifiedCodeGeneration_en.pdf",
+    "sha256": "5dbb1288f58069374c0b6485a622146fc33157ff8942d4240f74cb4ef5f8ad27",
+    "source_kind": "新下载",
+    "reused_lib": "",
+    "bytes": 396947
+  },
+  "D05-057": {
+    "sid": "D05-057",
+    "status": "ok",
+    "detail": "通过：%PDF；pypdf 12 页、60134 字符；标题匹配 1.00",
+    "path": "papers/2025_Cihan_AutomatedCodeReviewPractice_en.pdf",
+    "sha256": "55a1da5fcc503ae41e2fb1aa93a192a85d15f1cd9b0310e14241c294111509a2",
+    "source_kind": "新下载",
+    "reused_lib": "",
+    "bytes": 1003700
+  },
+  "D05-058": {
+    "sid": "D05-058",
+    "status": "ok",
+    "detail": "通过：%PDF；pypdf 13 页、68171 字符；标题匹配 1.00",
+    "path": "papers/2025_Zhao_FastcoderAcceleratingRepositoryLevelCodeGenerationEfficientRetrieval_en.pdf",
+    "sha256": "e6ff2ba6c476128b5a7a2159dd9fa75de0dfeb72166ff79a4f40b4179e8d076d",
+    "source_kind": "新下载",
+    "reused_lib": "",
+    "bytes": 1546418
+  },
+  "D05-059": {
+    "sid": "D05-059",
+    "status": "ok",
+    "detail": "通过：%PDF；pypdf 13 页、71366 字符；标题匹配 1.00",
+    "path": "papers/2025_Zheng_HumanevoEvolutionAwareBenchmarkMoreRealisticEvaluationRepository_en.pdf",
+    "sha256": "d95ecab1fcd7278a49ad3838a6d2715090e83fb1dfeae8c28f605486532b31d9",
+    "source_kind": "新下载",
+    "reused_lib": "",
+    "bytes": 631401
+  },
+  "D05-060": {
+    "sid": "D05-060",
+    "status": "ok",
+    "detail": "通过：%PDF；pypdf 36 页、52697 字符；标题匹配 1.00",
+    "path": "papers/2026_Gong_DseffiBenchDemystifyingLargeLanguageModelsCapabilityEfficient_en.pdf",
+    "sha256": "58219aaf889da0ca84fc83b22c56137250f7644c39980190ff8b6a69099df888",
+    "source_kind": "新下载",
+    "reused_lib": "",
+    "bytes": 900464
+  },
+  "D05-061": {
+    "sid": "D05-061",
+    "status": "ok",
+    "detail": "通过：%PDF；pypdf 35 页、43601 字符；标题匹配 1.00",
+    "path": "papers/2025_Thakur_CleverCuratedBenchmarkFormallyVerifiedCodeGeneration_en.pdf",
+    "sha256": "bc2bdbb1ee1ff1e27788c45c9343c341274309efabe02d02e89a548c75bbf476",
+    "source_kind": "新下载",
+    "reused_lib": "",
+    "bytes": 755284
+  },
+  "D05-062": {
+    "sid": "D05-062",
+    "status": "ok",
+    "detail": "通过：%PDF；pypdf 13 页、76754 字符；标题匹配 1.00",
+    "path": "papers/2024_Li_ExploringParameterEfficientFineTuningLargeLanguageModel_en.pdf",
+    "sha256": "288b163ecb94c23b58a55bb925ab432111766bc72d7525aa0828f8132a20c0a7",
+    "source_kind": "新下载",
+    "reused_lib": "",
+    "bytes": 1759261
+  },
+  "D05-063": {
+    "sid": "D05-063",
+    "status": "ok",
+    "detail": "通过：%PDF；pypdf 38 页、48919 字符；标题匹配 1.00",
+    "path": "papers/2025_Wang_MaintaincoderMaintainableCodeGenerationDynamicRequirements_en.pdf",
+    "sha256": "19f90b2255252b018f2b4421eb90d429be2823000fb03ca5ba293f1841c993ae",
+    "source_kind": "新下载",
+    "reused_lib": "",
+    "bytes": 4596565
+  },
+  "D05-064": {
+    "sid": "D05-064",
+    "status": "ok",
+    "detail": "通过：%PDF；pypdf 27 页、48339 字符；标题匹配 1.00",
+    "path": "papers/2025_Lee_ProgramSynthesisTestTimeTransduction_en.pdf",
+    "sha256": "285bac0738ea29b6a94510351fb847115180fe71eaa5426916bca1a656644fd9",
+    "source_kind": "新下载",
+    "reused_lib": "",
+    "bytes": 662567
+  },
+  "D05-065": {
+    "sid": "D05-065",
+    "status": "ok",
+    "detail": "通过：%PDF；pypdf 39 页、54357 字符；标题匹配 1.00",
+    "path": "papers/2026_Quang_XrepotestBenchmarkingMultilingualRepositoryLevelUnitTestGeneration_en.pdf",
+    "sha256": "9f249306110a7108bbbec75ed34ed77ff7100eb1903c0b796ff87e01d9fc729e",
+    "source_kind": "新下载",
+    "reused_lib": "",
+    "bytes": 1230234
+  },
+  "D05-066": {
+    "sid": "D05-066",
+    "status": "ok",
+    "detail": "通过：%PDF；pypdf 15 页、51434 字符；标题匹配 1.00",
+    "path": "papers/2024_Dou_StepcoderImprovingCodeGenerationReinforcementLearningCompilerFeedback_en.pdf",
+    "sha256": "cd8b024454dab08789380359c4324a7e59bdee9f2c00a92124ca51c3372931ff",
+    "source_kind": "新下载",
+    "reused_lib": "",
+    "bytes": 641456
+  },
+  "D05-067": {
+    "sid": "D05-067",
+    "status": "ok",
+    "detail": "通过：%PDF；pypdf 11 页、62770 字符；标题匹配 1.00",
+    "path": "papers/2025_Yang_AdaptiveguardAdaptiveRuntimeSafetyLlmPoweredSoftware_en.pdf",
+    "sha256": "9702e3f1341cabfb8c7d4d76781a122fcf0736212735f647d49203fe91cc186f",
+    "source_kind": "新下载",
+    "reused_lib": "",
+    "bytes": 7226456
+  },
+  "D05-068": {
+    "sid": "D05-068",
+    "status": "ok",
+    "detail": "通过：%PDF；pypdf 13 页、79127 字符；标题匹配 1.00",
+    "path": "papers/2023_Grishina_EarlybirdCatchesBugExploitingEarlyLayersEncoderModels_en.pdf",
+    "sha256": "c2969c39be5ff470717c4a43028fa09527791714521743eb2255f58d71144e4c",
+    "source_kind": "新下载",
+    "reused_lib": "",
+    "bytes": 1334069
+  },
+  "D05-069": {
+    "sid": "D05-069",
+    "status": "ok",
+    "detail": "通过：%PDF；pypdf 14 页、42272 字符；标题匹配 1.00",
+    "path": "papers/2026_Wu_MulvulRetrievalAugmentedMultiAgentCodeVulnerabilityDetection_en.pdf",
+    "sha256": "9bb1b01945eef6d6978afce754da8c9a198e64b26897d3286583f2817a054a1c",
+    "source_kind": "新下载",
+    "reused_lib": "",
+    "bytes": 1431730
+  },
+  "D05-070": {
+    "sid": "D05-070",
+    "status": "ok",
+    "detail": "通过：%PDF；pypdf 12 页、51251 字符；标题匹配 1.00",
+    "path": "papers/2024_Gao_VirtualCompilerAllYouNeedAssemblyCodeSearch_en.pdf",
+    "sha256": "214d9c07873736ab8154f5c90c244eb4a35b62126a95824f7e0f5df3032ad837",
+    "source_kind": "新下载",
+    "reused_lib": "",
+    "bytes": 639224
+  },
+  "D05-071": {
+    "sid": "D05-071",
+    "status": "ok",
+    "detail": "通过：%PDF；pypdf 22 页、43554 字符；标题匹配 1.00",
+    "path": "papers/2024_Wu_DacoApplicationDrivenComprehensiveDataAnalysisCodeGeneration_en.pdf",
+    "sha256": "202101708e80c2962b363e30969a7dc1692286b3b33987cddeff9e65c0822eca",
+    "source_kind": "新下载",
+    "reused_lib": "",
+    "bytes": 8612111
+  },
+  "D05-072": {
+    "sid": "D05-072",
+    "status": "ok",
+    "detail": "通过：%PDF；pypdf 19 页、44337 字符；标题匹配 1.00",
+    "path": "papers/2024_Kon_IacEvalCodeGenerationBenchmarkCloudInfrastructureCode_en.pdf",
+    "sha256": "708a71ac8498cdfa36d50d73aa1fb95c2b58b96576c8ee894b8ce90597cee9df",
+    "source_kind": "新下载",
+    "reused_lib": "",
+    "bytes": 1716903
+  },
+  "D05-073": {
+    "sid": "D05-073",
+    "status": "ok",
+    "detail": "通过：%PDF；pypdf 12 页、46464 字符；标题匹配 1.00",
+    "path": "papers/2026_Chu_AegiscodegenCopyrightAwareCodeGenerationRunnabilityGuidedFusion_en.pdf",
+    "sha256": "04d9e4c60ed79ba4975fe406749b4583c09049716127ba8be16773ce6f90a9f7",
+    "source_kind": "新下载",
+    "reused_lib": "",
+    "bytes": 2661184
+  },
+  "D05-074": {
+    "sid": "D05-074",
+    "status": "ok",
+    "detail": "通过：%PDF；pypdf 31 页、51553 字符；标题匹配 1.00",
+    "path": "papers/2026_Zhang_ArtifactsbenchBridgingVisualInteractiveGapLlmCodeGeneration_en.pdf",
+    "sha256": "fe1624ecc5d5b743028e3d4a6684117cacf0b2a6e0e493747f92e271b5d63256",
+    "source_kind": "新下载",
+    "reused_lib": "",
+    "bytes": 11788953
+  },
+  "D05-075": {
+    "sid": "D05-075",
+    "status": "ok",
+    "detail": "通过：%PDF；pypdf 37 页、51925 字符；标题匹配 1.00",
+    "path": "papers/2026_Rawal_BenchmarkingCorrectnessSecurityMultiTurnCodeGeneration_en.pdf",
+    "sha256": "ac35043b821f3ffd93aedcd1c44d4ba80179305494f48dfb58718044cee57791",
+    "source_kind": "新下载",
+    "reused_lib": "",
+    "bytes": 20485692
+  },
+  "D05-076": {
+    "sid": "D05-076",
+    "status": "ok",
+    "detail": "通过：%PDF；pypdf 29 页、47611 字符；标题匹配 1.00",
+    "path": "papers/2026_Voronkova_CodetdTopologyAttentionDetectsHallucinationsCodeLlms_en.pdf",
+    "sha256": "fed7dd0561d133763580f97ea94ab745f11561c71fd040c98148e6db1da7bcd6",
+    "source_kind": "新下载",
+    "reused_lib": "",
+    "bytes": 1282488
+  },
+  "D05-077": {
+    "sid": "D05-077",
+    "status": "ok",
+    "detail": "通过：%PDF；pypdf 75 页、53617 字符；标题匹配 1.00",
+    "path": "papers/2026_Zhang_CompositionalMachineDesignProgramSynthesisLlms_en.pdf",
+    "sha256": "5fad9150eade2dafb11acfb8b64c5379d4f63631d150b9bd847aa6723106ac9c",
+    "source_kind": "新下载",
+    "reused_lib": "",
+    "bytes": 36189778
+  },
+  "D05-078": {
+    "sid": "D05-078",
+    "status": "ok",
+    "detail": "通过：%PDF；pypdf 24 页、55856 字符；标题匹配 1.00",
+    "path": "papers/2024_Luo_AmrEvolAdaptiveModularResponseEvolutionElicitsBetter_en.pdf",
+    "sha256": "71b637e941e948f79bdaa3cbbb7282dfaf3426f09e7e2908167683fb8b466bcb",
+    "source_kind": "新下载",
+    "reused_lib": "",
+    "bytes": 1479891
+  },
+  "D05-079": {
+    "sid": "D05-079",
+    "status": "ok",
+    "detail": "通过：%PDF；pypdf 19 页、51328 字符；标题匹配 1.00",
+    "path": "papers/2024_He_CocostAutomaticComplexCodeGenerationOnlineSearchingCorrectness_en.pdf",
+    "sha256": "e83f645302f4f178de6027d0265e9968d3792e4a9c55a72dba97013356a73bf5",
+    "source_kind": "新下载",
+    "reused_lib": "",
+    "bytes": 893200
+  },
+  "D05-080": {
+    "sid": "D05-080",
+    "status": "ok",
+    "detail": "通过：%PDF；pypdf 13 页、74976 字符；标题匹配 1.00",
+    "path": "papers/2024_Guo_WhenStopEfficientCodeGenerationLlmsExcessToken_en.pdf",
+    "sha256": "af1b9e62b1b042f37f64ca7600dd305062d064a9d86a0e88df0a7e35e7d4c9c3",
+    "source_kind": "新下载",
+    "reused_lib": "",
+    "bytes": 1515011
+  },
+  "D05-081": {
+    "sid": "D05-081",
+    "status": "ok",
+    "detail": "通过：%PDF；pypdf 13 页、74805 字符；标题匹配 1.00",
+    "path": "papers/2024_Zhang_PairProgrammingFrameworkCodeGenerationMultiPlanExploration_en.pdf",
+    "sha256": "1d6d9322f1b74ca451d778ea44b7f3bc475e27ba338b843533606638e1b41c0b",
+    "source_kind": "新下载",
+    "reused_lib": "",
+    "bytes": 1801987
+  },
+  "D05-082": {
+    "sid": "D05-082",
+    "status": "ok",
+    "detail": "通过：%PDF；pypdf 13 页、78114 字符；标题匹配 1.00",
+    "path": "papers/2024_Huang_ContextualizedDataWranglingCodeGenerationComputationalNotebooks_en.pdf",
+    "sha256": "281668af6d985b082f8aa027babfde2b12545295bae28e7e5c7824c569506c7e",
+    "source_kind": "新下载",
+    "reused_lib": "",
+    "bytes": 1109601
+  },
+  "D05-083": {
+    "sid": "D05-083",
+    "status": "ok",
+    "detail": "通过：%PDF；pypdf 21 页、49374 字符；标题匹配 1.00",
+    "path": "papers/2024_Chen_PpmAutomatedGenerationDiverseProgrammingProblemsBenchmarkingCode_en.pdf",
+    "sha256": "9da737700d0bbf9c382049a6c6b8c9616e1f837c8a3bb814bf4df462a1da4b41",
+    "source_kind": "新下载",
+    "reused_lib": "",
+    "bytes": 1028109
+  },
+  "D05-084": {
+    "sid": "D05-084",
+    "status": "ok",
+    "detail": "通过：%PDF；pypdf 13 页、76208 字符；标题匹配 1.00",
+    "path": "papers/2024_Chen_PromisePerilCollaborativeCodeGenerationModelsBalancingEffectiveness_en.pdf",
+    "sha256": "4f35d9c4da6e6ac37fe663c5d26a51199decabf88da91106951bd7db879f85c9",
+    "source_kind": "新下载",
+    "reused_lib": "",
+    "bytes": 1783244
+  },
+  "D05-085": {
+    "sid": "D05-085",
+    "status": "ok",
+    "detail": "通过：%PDF；pypdf 12 页、75732 字符；标题匹配 1.00",
+    "path": "papers/2023_Ren_MisuseMasteryEnhancingCodeGenerationKnowledgeDrivenAi_en.pdf",
+    "sha256": "7da2c29ac3fb374cc5421a5a60eec602299d4b9e3d92956a3e1422ee5b099768",
+    "source_kind": "新下载",
+    "reused_lib": "",
+    "bytes": 1263661
+  },
+  "D05-086": {
+    "sid": "D05-086",
+    "status": "ok",
+    "detail": "通过：%PDF；pypdf 66 页、55525 字符；标题匹配 1.00",
+    "path": "papers/2026_Seo_Paper2codeAutomatingCodeGenerationScientificPapersMachineLearning_en.pdf",
+    "sha256": "94d8b239d9121902d57f5fdab5daa7e10d7311b8425e90095470c58f1ae1dca4",
+    "source_kind": "新下载",
+    "reused_lib": "",
+    "bytes": 2831081
+  },
+  "D05-087": {
+    "sid": "D05-087",
+    "status": "ok",
+    "detail": "通过：%PDF；pypdf 11 页、60359 字符；标题匹配 1.00",
+    "path": "papers/2022_Shen_IncorporatingDomainKnowledgeTaskAugmentationFrontEndJavascript_en.pdf",
+    "sha256": "c29f4c9771e2ce6f2336eb1829ff06c706d8021ee6db229c63fbe8ef6ed9f2f8",
+    "source_kind": "新下载",
+    "reused_lib": "",
+    "bytes": 924453
+  },
+  "D05-088": {
+    "sid": "D05-088",
+    "status": "ok",
+    "detail": "通过：%PDF；pypdf 12 页、75304 字符；标题匹配 1.00",
+    "path": "papers/2024_Liu_FastfixerEfficientEffectiveApproachRepairingProgrammingAssignments_en.pdf",
+    "sha256": "f28da1c58c6dea6c7c8e30185aedf10359764d4c4c37dd65770ea28ccb88a232",
+    "source_kind": "新下载",
+    "reused_lib": "",
+    "bytes": 1159310
+  },
+  "D05-089": {
+    "sid": "D05-089",
+    "status": "ok",
+    "detail": "通过：%PDF；pypdf 12 页、73172 字符；标题匹配 1.00",
+    "path": "papers/2024_Alshahwan_ObservationUnitTestGenerationMeta_en.pdf",
+    "sha256": "b7078a1f0e60439db8a19085f4a004c655df20cebf47ea3dad090d795c91b5ba",
+    "source_kind": "新下载",
+    "reused_lib": "",
+    "bytes": 992666
+  },
+  "D05-090": {
+    "sid": "D05-090",
+    "status": "ok",
+    "detail": "通过：%PDF；pypdf 13 页、73544 字符；标题匹配 0.89",
+    "path": "papers/2023_Shahoor_LeakpairProactiveRepairingMemoryLeaksSinglePageWeb_en.pdf",
+    "sha256": "8355c4745d7ef943f60ddf7dc17aac0ef7089dfaedb6e5ca805756327622e442",
+    "source_kind": "新下载",
+    "reused_lib": "",
+    "bytes": 707032
+  },
+  "D05-091": {
+    "sid": "D05-091",
+    "status": "ok",
+    "detail": "通过：%PDF；pypdf 13 页、75994 字符；标题匹配 1.00",
+    "path": "papers/2023_Wang_RapGenRetrievalAugmentedPatchGenerationCodet5Automatic_en.pdf",
+    "sha256": "41fc67853187b296fce69bd3f8c0bddf8b4e17690c579d2e9223be62443c71ec",
+    "source_kind": "新下载",
+    "reused_lib": "",
+    "bytes": 1874989
+  },
+  "D05-092": {
+    "sid": "D05-092",
+    "status": "ok",
+    "detail": "通过：%PDF；pypdf 13 页、82411 字符；标题匹配 1.00",
+    "path": "papers/2022_Xia_LessTrainingMoreRepairingPleaseRevisitingAutomatedProgram_en.pdf",
+    "sha256": "f303daf525b59d0e1c29b196351e44aedc83abcd7d11a8ed141b55dda5515d92",
+    "source_kind": "新下载",
+    "reused_lib": "",
+    "bytes": 2102757
+  },
+  "D05-093": {
+    "sid": "D05-093",
+    "status": "ok",
+    "detail": "通过：%PDF；pypdf 23 页、58778 字符；标题匹配 1.00",
+    "path": "papers/2023_Shrivastava_RepositoryLevelPromptGenerationLargeLanguageModelsCode_en.pdf",
+    "sha256": "69ca9f24082c42cc084606261982793bf8a8deea3d18add6e05e0a1477660447",
+    "source_kind": "新下载",
+    "reused_lib": "",
+    "bytes": 745653
+  },
+  "D05-094": {
+    "sid": "D05-094",
+    "status": "ok",
+    "detail": "通过：%PDF；pypdf 12 页、63733 字符；标题匹配 1.00",
+    "path": "papers/2023_Steenhoek_EmpiricalStudyDeepLearningModelsVulnerabilityDetection_en.pdf",
+    "sha256": "cd0216e8c7855991c746921219f18cfa2aab9018bdfc725c8e384e9ba1c504e3",
+    "source_kind": "新下载",
+    "reused_lib": "",
+    "bytes": 470128
+  },
+  "D05-095": {
+    "sid": "D05-095",
+    "status": "ok",
+    "detail": "通过：%PDF；pypdf 13 页、105442 字符；标题匹配 1.00",
+    "path": "papers/2022_Cao_MvdMemoryRelatedVulnerabilityDetectionFlowSensitiveGraph_en.pdf",
+    "sha256": "6c97733deb4bad164e3c1bb9b1eaccbe2046a7ff4391fbfbf4d32d3f999cd522",
+    "source_kind": "新下载",
+    "reused_lib": "",
+    "bytes": 4976965
+  },
+  "D05-096": {
+    "sid": "D05-096",
+    "status": "ok",
+    "detail": "通过：%PDF；pypdf 15 页、51935 字符；标题匹配 1.00",
+    "path": "papers/2023_Zhang_CoderReviewerRerankingCodeGeneration_en.pdf",
+    "sha256": "7f72fda680e64c5da1ce277805c984a6a7c53185ceb3ed75a024048c9c6e7b85",
+    "source_kind": "新下载",
+    "reused_lib": "",
+    "bytes": 881311
+  },
+  "D05-097": {
+    "sid": "D05-097",
+    "status": "ok",
+    "detail": "通过：%PDF；pypdf 27 页、55030 字符；标题匹配 1.00",
+    "path": "papers/2023_Lai_Ds1000NaturalReliableBenchmarkDataScienceCode_en.pdf",
+    "sha256": "9e011827fd147c6fedc3776e3a54669cc0537af985b01c90ddee40b0a3c89ac4",
+    "source_kind": "新下载",
+    "reused_lib": "",
+    "bytes": 3685875
+  },
+  "D05-098": {
+    "sid": "D05-098",
+    "status": "ok",
+    "detail": "通过：%PDF；pypdf 15 页、47848 字符；标题匹配 1.00",
+    "path": "papers/2023_Liu_YourCodeGeneratedChatgptReallyCorrectRigorousEvaluation_en.pdf",
+    "sha256": "d093684d4fad09ee372bd5195c2f040819b518549915033d9d5289be9a7b53ad",
+    "source_kind": "新下载",
+    "reused_lib": "",
+    "bytes": 860939
+  },
+  "D05-099": {
+    "sid": "D05-099",
+    "status": "ok",
+    "detail": "通过：%PDF；pypdf 23 页、53688 字符；标题匹配 1.00",
+    "path": "papers/2023_Ni_LeverLearningVerifyLanguageCodeGenerationExecution_en.pdf",
+    "sha256": "8d18d31845c753524a1981889ec34192c9c8c06f367ddf4f2afe9363e2f50c5c",
+    "source_kind": "新下载",
+    "reused_lib": "",
+    "bytes": 1785489
+  },
+  "D05-100": {
+    "sid": "D05-100",
+    "status": "ok",
+    "detail": "通过：%PDF；pypdf 17 页、57133 字符；标题匹配 1.00",
+    "path": "papers/2023_Zheng_OutlineThenDetailsSyntacticallyGuidedCoarseFineCode_en.pdf",
+    "sha256": "e0740989dbf75119be79076338aebdf607b0ce19c2755e14e8077a3346455c3a",
+    "source_kind": "新下载",
+    "reused_lib": "",
+    "bytes": 3145559
+  },
+  "D05-101": {
+    "sid": "D05-101",
+    "status": "ok",
+    "detail": "通过：%PDF；pypdf 21 页、47301 字符；标题匹配 1.00",
+    "path": "papers/2025_Zhang_QimengSalvSignalAwareLearningVerilogCodeGeneration_en.pdf",
+    "sha256": "dc3a2f61f50cd0c98694bb8633d0f67987a383bfc04a3ce4b850908f0ffaecc2",
+    "source_kind": "新下载",
+    "reused_lib": "",
+    "bytes": 2312375
+  },
+  "D05-102": {
+    "sid": "D05-102",
+    "status": "ok",
+    "detail": "通过：%PDF；pypdf 13 页、45428 字符；标题匹配 1.00",
+    "path": "papers/2023_Liu_UncoveringQuantifyingSocialBiasesCodeGeneration_en.pdf",
+    "sha256": "b21c3e6112227bb5521c609bdbab4c20e72aabc52fb156f09b75add4ff8aef16",
+    "source_kind": "新下载",
+    "reused_lib": "",
+    "bytes": 320154
+  },
+  "D05-103": {
+    "sid": "D05-103",
+    "status": "ok",
+    "detail": "通过：%PDF；pypdf 17 页、43351 字符；标题匹配 1.00",
+    "path": "papers/2023_Zhou_CodebertscoreEvaluatingCodeGenerationPretrainedModelsCode_en.pdf",
+    "sha256": "5f719c339072023fbe223c1f34eee07f82b3584cbd05981a9c7fc3cedf2bc05a",
+    "source_kind": "新下载",
+    "reused_lib": "",
+    "bytes": 508662
+  },
+  "D05-104": {
+    "sid": "D05-104",
+    "status": "ok",
+    "detail": "通过：%PDF；pypdf 12 页、69656 字符；标题匹配 1.00",
+    "path": "papers/2024_Wang_ReposvulRepositoryLevelHighQualityVulnerabilityDataset_en.pdf",
+    "sha256": "1cbd8b3a576c4e592fb3856e566cb393605eaca2fc44437886defb29410dbe34",
+    "source_kind": "新下载",
+    "reused_lib": "",
+    "bytes": 2874974
+  },
+  "D05-105": {
+    "sid": "D05-105",
+    "status": "ok",
+    "detail": "通过：%PDF；pypdf 14 页、74236 字符；标题匹配 1.00",
+    "path": "papers/2026_Le-Cong_MemoryEfficientLargeLanguageModelsProgramRepairSemantic_en.pdf",
+    "sha256": "b85ecbda08cd6f5cb1f8e92868d2d0875d60ed38c3be7c2c4813726fcf00c83d",
+    "source_kind": "新下载",
+    "reused_lib": "",
+    "bytes": 3838413
+  },
+  "D05-106": {
+    "sid": "D05-106",
+    "status": "ok",
+    "detail": "通过：%PDF；pypdf 5 页、28504 字符；标题匹配 1.00",
+    "path": "papers/2024_Saavedra_GitbugActionsBuildingReproducibleBugFixBenchmarksGithub_en.pdf",
+    "sha256": "a4f307d9edebc44ad163a1b3a5139f212a736a61b25fdabc863e13273b19f715",
+    "source_kind": "新下载",
+    "reused_lib": "",
+    "bytes": 1268634
+  },
+  "D05-107": {
+    "sid": "D05-107",
+    "status": "ok",
+    "detail": "通过：%PDF；pypdf 12 页、84839 字符；标题匹配 1.00",
+    "path": "papers/2026_Zhang_RepairIngredientsAllYouNeedImprovingLargeLanguage_en.pdf",
+    "sha256": "48ce662b3a33e5750278e979498a182ea7df17bed62c7538f94e613a44a3eded",
+    "source_kind": "新下载",
+    "reused_lib": "",
+    "bytes": 1822247
+  },
+  "D05-108": {
+    "sid": "D05-108",
+    "status": "ok",
+    "detail": "通过：%PDF；pypdf 13 页、78471 字符；标题匹配 1.00",
+    "path": "papers/2026_Li_KnowledgeMattersInjectingProjectTestingKnowledgeLlmUnit_en.pdf",
+    "sha256": "8b3f3b14dab431b67543ef6208aec34f621469eddd6762b35a47cd6d4eff691a",
+    "source_kind": "新下载",
+    "reused_lib": "",
+    "bytes": 1800388
+  },
+  "D05-109": {
+    "sid": "D05-109",
+    "status": "ok",
+    "detail": "通过：%PDF；pypdf 13 页、58186 字符；标题匹配 1.00",
+    "path": "papers/2024_Chen_WhenLargeLanguageModelsConfrontRepositoryLevelAutomatic_en.pdf",
+    "sha256": "8cfef509e933ff5c5b33851aa6c7cfcd8ece116e2e30e3f10bc2ad5075e958e9",
+    "source_kind": "新下载",
+    "reused_lib": "",
+    "bytes": 2694434
+  },
+  "D05-110": {
+    "sid": "D05-110",
+    "status": "ok",
+    "detail": "通过：%PDF；pypdf 13 页、65860 字符；标题匹配 1.00",
+    "path": "papers/2025_Jiang_RocodeIntegratingBacktrackingMechanismProgramAnalysisLargeLanguage_en.pdf",
+    "sha256": "ca92667072ae74835c8cb183ec97b786b3b2a97e78fc6da1d2f68893a8010b1c",
+    "source_kind": "新下载",
+    "reused_lib": "",
+    "bytes": 943399
+  }
+}

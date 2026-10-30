@@ -166,12 +166,13 @@ D03_NEG = _rx([
 
 # Domain 4: LLM + multimodal.
 D04_POS = _rx([
-    (r"large language model|\bllms?\b", "大语言模型", 4),
+    (r"large language model|\bllms?\b", "大语言模型", 5),
     (r"pretrain|pre-train", "预训练", 3),
     (r"instruction tun|alignment|rlhf|dpo\b|ppo\b", "对齐", 4),
     (r"retrieval-augmented|\brag\b", "RAG", 5),
     (r"tool (use|calling|learning)|function calling", "工具使用", 4),
     (r"multimodal|vision-language|vlm\b", "多模态", 4),
+    (r"vision[- ]language model|\bvlms?\b", "视觉语言模型", 5),
     (r"in-context learning", "上下文学习", 4),
     (r"chain-of-thought|reasoning", "推理", 3),
     (r"mixture of experts|\bmoe\b", "MoE", 3),
@@ -187,6 +188,8 @@ D04_NEG = _rx([
     (r"workshop", "workshop", -8),
     (r"findings of", "Findings", -8),
     (r"tiny paper", "短论文", -8),
+    (r"object detection|semantic segmentation|instance segmentation", "纯检测分割", -4),
+    (r"3d reconstruction|\bnerf\b|gaussian splatting|optical flow|super-resolution", "纯视觉重建", -5),
 ])
 
 # Domain 5: coding / software agents.
@@ -226,6 +229,8 @@ D06_POS = _rx([
     (r"pipeline parallel|tensor parallel|fsdp|zero-?offload", "并行训练", 5),
     (r"datacenter|production.{0,20}ml", "生产系统", 3),
     (r"mlsys|machine learning system", "ML 系统", 4),
+    (r"\bvllm\b|pagedattention", "推理引擎", 6),
+    (r"llm serving|model serving", "模型服务", 5),
 ])
 D06_NEG = _rx([
     (r"workshop", "workshop", -8),
@@ -258,7 +263,7 @@ DOMAIN_RULES = {
     "03": (D03_POS, D03_NEG, 5, "工业过程监控"),
     "04": (D04_POS, D04_NEG, 5, "LLM/多模态"),
     "05": (D05_POS, D05_NEG, 5, "编码与软件智能体"),
-    "06": (D06_POS, D06_NEG, 5, "训练推理系统"),
+    "06": (D06_POS, D06_NEG, 4, "训练推理系统"),
     "07": (D07_POS, D07_NEG, 5, "机器人无人机控制"),
 }
 
@@ -287,7 +292,8 @@ def relation_label(hits):
     direct = {"高斯过程", "GP 方法", "深度高斯过程", "变分 GP", "稀疏 GP", "多输出 GP",
               "共形预测", "不确定性量化", "贝叶斯神经网络", "贝叶斯深度学习",
               "软测量", "过程监控", "故障检测诊断", "根因", "时间序列", "时空",
-              "空气质量", "水质", "水文", "概率预测", "大语言模型", "多模态", "RAG",
+              "空气质量", "水质", "水文", "概率预测", "大语言模型", "多模态", "视觉语言模型", "RAG",
+              "工业过程", "过程工业", "推理引擎", "模型服务",
               "代码生成", "编码智能体", "软件工程/智能体", "推理系统", "训练系统",
               "无人机", "机器人", "学习控制", "GP 控制", "Neural Process", "PFN/TabPFN"}
     support = {"GP 软件方法", "评测", "代码评测", "概率评分", "ECE", "温度缩放"}
